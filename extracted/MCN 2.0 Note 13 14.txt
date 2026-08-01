@@ -1,0 +1,1142 @@
+Aspect 	Constitutional Provision / Judicial Interpretation
+Preamble The 42nd Amendment (1976) inserted the word “Secular”, affirming equal respect for all religions.
+Secularism is now a Basic Feature of the Constitution (S.R. Bommai v. Union of India, 1994)
+Articles 25–28
+Core framework of religious freedom and state neutrality: • Art. 25: Freedom of conscience; right to
+profess, practice, and propagate religion. • Art. 26: Rights of religious denominations to manage their
+affairs. • Art. 27: Freedom from taxation for promotion of a particular religion. • Art. 28: Prohibition of
+religious instruction in state-funded institutions.
+Articles 14, 15, 16, 19, 21 	Guarantee equality, non-discrimination, and liberty — the constitutional pillars supporting secularism.
+Article 30 	Minorities can be defined on the basis on religion as well.
+Article 51-A(e) & (f) Fundamental duties: promote harmony transcending religious diversities and preserve composite
+culture.
+Judicially Evolved Principles The State can intervene in non-essential or secular aspects of religion to ensure social reform (e.g.,
+abolition of Sati, Devadasi practices).
+Aspect 	Statute / Provision 	Purpose / Effect
+Anti-Conversion
+Odisha Freedom of Religion Act, 1967; Madhya
+Pradesh Dharma Swatantrata Adhiniyam, 1968;
+Uttar Pradesh Prohibition of Unlawful
+Conversion of Religion Act, 2021, etc.
+Regulate religious conversions by force, fraud, or
+inducement. Upheld in Rev. Stainislaus v. State
+of MP (1977).
+Places of Worship 	Places of Worship (Special Provisions) Act, 1991
+Maintains status of religious places as of 15 Aug
+1947; prohibits conversion of one religious place
+into another.
+Religious Endowments Hindu Religious and Charitable Endowments
+Acts (State-specific)
+State control over secular administration of
+temples and trusts.
+Cow Slaughter / Religious Sensitivities Various State laws under Art. 48; upheld in
+Mohd. Hanif Quareshi v. State of Bihar (1958). Balancing Art 19(1)(g) with Art 48
+Religious Processions / Peace 	sec 298-302 of the BNS; sec 175 - 178 Prevent hate speech, disturbance of public order,
+or violence based on religion.
+Minority Education National Commission for Minority Educational
+Institutions Act, 2004
+Provides recognition and grievance redressal for
+minority-run educational institutions.
+Mains Concise Note (MCN) 13 : Secularism, Religion, Minority Institutions, Communalism
+Constitutional Provisions Related to Religion and Secularism
+Laws Related to Religion and Secularism
+Magna Carta Mains 2026
+MCN 2.0
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+
+-- 1 of 16 --
+
+Year 	Case 	Issue 	Holding / Significance
+1954 Shirur Mutt Case Scope of religion and
+denomination
+Defined religion as
+beliefs/doctrines conducive to
+spiritual well-being; ERP must be
+judged from the tenets of that
+religion.
+1959 Sardar Sarup Singh v. State of Punjab Sikh Gurudwara management Elections not essential to Sikh
+religion; upheld State regulation.
+1961 Durgah Committee, Ajmer v. Syed
+Hussain Ali Management of Ajmer Dargah
+Only essential and integral
+practices get protection;
+superstitious accretions excluded.
+1962 Syedna Taher Saifuddin v. State of
+Bombay Power of excommunication Upheld as essential to Dawoodi
+Bohra faith
+1972 Seshammal v. State of Tamil Nadu 	Appointment of temple priests Appointment is secular; can be
+regulated; rituals remain protected.
+2004 Acharya Jagadishwarananda
+Avadhuta (Anand Margi cases)
+Tandava dance as essential
+practice
+Rejected as non-essential; essential
+elements cannot change over time.
+1997 Sri Adi Visheshwara of Kashi
+Vishwanath Temple v. State of UP Temple management Distinguished between secular
+administration and religious rituals.
+2017 Shayara Bano v. Union of India 	Triple Talaq 	Declared unconstitutional; not
+essential to Islam.
+2018 Indian Young Lawyers Association v.
+State of Kerala (Sabarimala) Women’s entry in temple Exclusion of women not an ERP;
+violates equality;
+2023 Animal Welfare Board v. Union of
+India (Jallikattu) Bull-taming as cultural practice
+Upheld State’s law; recognized
+cultural right under Article 29, not
+ERP.
+Essential Religious Practices (ERP) Doctrine
+Meaning and Evolution
+Originated in The Commissioner, Hindu Religious Endowments v. Sri Lakshmindra Thirtha Swamiar of Shirur Mutt (1954).
+Doctrine determines which religious practices are “essential and integral” to a religion and hence protected under Articles 25–26.
+The Court, not the clergy, decides what constitutes an essential practice, using the test:
+“Would the absence of the practice fundamentally alter the religion?” (Acharya Jagadishwarananda Avadhuta, 2004).
+This judicial approach attempts to balance religious freedom with constitutional morality, equality, and social reform.
+Important Cases Relating to ERP
+Petitions challenging Sabrimala Judgement via a review petition, inheritance rights under Shariat Law, -
+present a larger constitutional opportunity to freshly understand the extent of State intervention in
+Religion as well as protection to certain religious activities.
+Mains Concise Note (MCN) 13 : Secularism, Religion, Minority Institutions, Communalism
+MCN 2.0
+ 
+Magna Carta Mains 2026
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+
+-- 2 of 16 --
+
+Critical Analysis of the Essential Religious Practices (ERP) Doctrine
+1.Judicial Overreach and Theological Adjudication
+a.Transfers theological authority from religious communities to the judiciary.
+i.In Shirur Mutt (1954), the Court held that “what constitutes the essential part of a religion is to be ascertained with
+reference to the doctrines of that religion itself.” However, in later cases such as Durgah Committee v. Syed Hussain
+Ali (1961) and Seshammal v. State of Tamil Nadu (1972), the Court began determining for itself what constituted
+essential practices
+b.This judicial role in defining theology has been criticised as antithetical to secularism, which requires the State (and by
+extension, courts) to maintain neutrality towards religion rather than interpret it.
+2.Inconsistency and Subjectivity in Application
+a.Lack of clear parameters—the Court’s reasoning has oscillated between theological, moral, and reformist approaches.
+i.In Syedna Taher Saifuddin (1962), excommunication was held an essential practice protected under Articles 25–26
+ii.In Sabarimala (2018), the exclusion of women was ruled not an essential religious practice; while in Jallikattu (2023),
+animal sport was upheld as a cultural right under Article 29 rather than religion.
+3. Tension Between ERP and Constitutional Morality
+a.Clashes with the principle of constitutional morality and individual rights:
+i.Sabarimala (2018) and Shayara Bano (2017) signify a shift toward prioritising gender equality and dignity over
+religious claims.
+b.Justice D.Y. Chandrachud in Sabarimala asserted that constitutional morality, not religious orthodoxy, must guide judicial
+reasoning.
+i. This reflects a movement from group rights to individual rights, challenging the collective-centric foundation of ERP.
+4. Ambiguity Between “Essential” and “Peripheral” Practices
+a.The doctrine presumes a clear division between religious and secular, or essential and non-essential spheres. However, in
+lived religion, such distinctions are often blurred:
+b.Rituals, festivals, and customs are deeply embedded in cultural and social identity; classifying them as “non-essential”
+disregards their sociological significance.
+i.In Acharya Jagadishwarananda (2004), the Court denied protection to the Tandava dance, reasoning it was not
+integral to Ananda Marga faith despite its scriptural sanction
+5.ERP as a Tool for State Control
+a.The doctrine has inadvertently legitimised State intervention under the guise of social reform:
+i.Laws such as the Hindu Religious and Charitable Endowments Acts have been upheld, allowing State supervision of
+temple administration.
+b.Scholars argue that this shifts the balance away from religious autonomy and leads to a form of “administrative
+secularism”, wherein the State acts as arbiter of religious authenticity
+6.The Constitutional Irony
+a.While Articles 25–26 were intended to guarantee religious pluralism, the ERP doctrine’s selective protection undermines
+that pluralism.
+b.By declaring certain practices “inessential,” the Court effectively reforms religions from above, an exercise arguably
+contrary to the secular spirit of the Constitution.
+i.Akhil Bharatiya Soshit Karamchari Sangh v. Union of India (1981) observed that secularism implies equal respect for
+all religions, not judicial censorship of their content.
+Scholarly and Reform Proposals
+1.Replace ERP with “Sincerity of Belief” Test:
+a. Inspired by U.S. jurisprudence (e.g., Sherbert v. Verner, 1963), this test would protect any practice sincerely held as
+religious, unless it violates public order, health, or morality.
+2.Adopt a “Proportionality” Approach:
+a. The Court should balance religious freedom against competing constitutional rights, as suggested in Bijoe Emmanuel v.
+State of Kerala (1986).
+3.Emphasise “Constitutional Morality Framework”:
+a. Align religious freedom with the broader values of equality, liberty, and fraternity instead of relying on theological
+validation
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+Mains Concise Note (MCN) 13 : Secularism, Religion, Minority Institutions, Communalism
+MCN 2.0
+ 
+Magna Carta Mains 2026
+
+-- 3 of 16 --
+
+Dimension 	Proposed Approach
+Gradual & Consultative Reform Harmonise core civil law principles across communities
+through Law Commission-led codification.
+Gender-Neutral Reforms Prioritise equality in marriage, inheritance, and
+guardianship before full UCC.
+Pluralistic Model Retain community-specific customs that do not violate
+fundamental rights.
+Awareness & Dialogue 	Build trust among minorities; avoid top-down imposition.
+Legislative-Judicial Coordination Encourage Parliament to act on Law Commission’s
+consultative reports (2018, 2023).
+Constitutional Basis
+Article 44 (Directive Principle):
+“The State shall endeavour to
+secure for the citizens a uniform
+civil code throughout the
+territory of India.”
+Part IV (non-justiciable) but
+fundamental for governance.
+Personal laws fall under the
+Concurrent List, allowing both
+central and state governments to
+legislate in these areas.
+Uniform Civil Code (UCC)
+While UCC Bill has been tabled in Assam in 2026 which also seeks a ban on polygamy, UK saw its first nikah halala case
+registered under its new UCC.
+Need / Arguments For
+Equality before Law (Art. 14) – Different personal
+laws perpetuate gender inequality (e.g., Shayara
+Bano).
+National Integration – Common civil code promotes
+unity across religions.
+Gender Justice & Secularism – Aligns with
+constitutional morality.
+Simplification of Legal System – Reduces multiplicity
+and conflicts among personal laws.
+Goa as Model – Goa Civil Code (Portuguese origin)
+applies uniformly irrespective of religion.
+Judicial Observations
+Shah Bano Case (1985) : While SC
+delivered a judgment in favour of
+providing maintenance to an aggrieved
+divorced Muslim woman, it also hinted at
+the need for UCC
+Sarla Mudgal v. Union of India (1995):
+Urged the State to frame UCC to avoid
+conflicts of personal laws.
+John Vallamattom v. Union of India
+(2003): Upheld constitutional validity of
+personal laws but reaffirmed desirability
+of UCC.
+Shayara Bano (2017) indirectly
+strengthened call for reform by striking
+down discriminatory personal law
+practices.
+Concerns / Arguments Against
+Cultural & Religious Autonomy (Art. 25–26, 29–30) –
+Risk of homogenising diverse personal laws.
+Political Misuse / Majoritarian Imposition – Fears
+among minorities.
+Practical Diversity – Over 200 tribes with customary
+laws protected under Schedule VI.
+Federalism – “Personal laws” fall under the
+Concurrent List, requiring consensus across states.
+Gender Justice within Religion – Reform possible
+internally (Shariat Amendment 2019 shows progress).
+Mains Concise Note (MCN) 13 : Secularism, Religion, Minority Institutions, Communalism
+MCN 2.0
+ 
+Magna Carta Mains 2026
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+
+-- 4 of 16 --
+
+Provision 	Content / Scope
+Article 29(1) 	Right of any section of citizens having distinct language, script, or culture to conserve it.
+Article 30(1) Right of minorities (religious or linguistic) to establish and administer educational institutions of
+their choice.
+Article 30(2) No discrimination by the State in granting aid to educational institutions on the ground of
+minority management.
+Article 15(1) & (5) Non-discrimination and State’s power to make special provisions for educationally backward
+classes; minority institutions are exempted from Art. 15(5).
+Article 350-A, 350-B Provision for instruction in mother tongue; appointment of Special Officer for linguistic
+minorities.
+Statutory Support 	National Commission for Minorities Act, 1992; NCMEI Act, 2004.
+Case 	Ratio / Key Principle
+State of Kerala v. Mother Provincial (1970) “Administration” includes selection of teachers, but subject to regulatory
+powers for excellence and discipline.
+St. Xavier’s College v. State of Gujarat
+(1974)
+Minority institutions have autonomy in administration, but reasonable
+regulations to ensure academic standards are valid.
+T.M.A. Pai Foundation v. State of Karnataka
+(2002)
+Clarified scope of “minority”; right to establish and administer includes
+admission, staff, and management; regulation must be minimal.
+Islamic Academy v. State of Karnataka
+(2003) Permitted regulation of fees and admissions through committees.
+P.A. Inamdar v. State of Maharashtra (2005) Upheld autonomy in admission and fee structure; no compulsory seat
+sharing with State.
+Pramati Educational & Cultural Trust v.
+Union of India (2014) Exempted minority institutions from RTE Act provisions.
+Ashwini Kumar Upadhyay v. Union of India
+(2024, pending)*
+Examines parity of regulation between majority and minority educational
+institutions under Articles 29–30.
+Aligarh Muslim University Through its
+Registrar Faizan Mustafa v Naresh Agarwal
+(2025)
+SC laid down parameters to identify a minority educational institution and
+directed a smaller regular bench to determine the minority status of AMU
+on the basis of the parameters
+Constitutional & Legal Provisions Related to Minorities
+Important Cases Relating to Minorities
+Mains Concise Note (MCN) 13 : Secularism, Religion, Minority Institutions, Communalism
+MCN 2.0
+ 
+Magna Carta Mains 2026
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+
+-- 5 of 16 --
+
+Problem / Tension 	Possible Remedy / Reform
+Lack of oversight without undermining autonomy Introduce light-touch regulation (financial audits, minimum standards)
+rather than heavy-handed controls
+Exemption from quality norms (e.g. teacher eligibility)
+Subject MEIs to core quality norms (e.g. minimum teacher
+qualification, infrastructure), with specialized flexibility in non-core
+areas
+Definitional ambiguity of minority institutions
+Build transparent and objective criteria (e.g. historical ownership,
+proportion of community beneficiaries) via statute or constitutional
+amendment
+Inequitable access and segregation
+Enforce nondiscrimination clauses and conditions for state aid
+requiring open admissions or reservation to disadvantaged within the
+community
+Conflict between RTE and MEI exemption
+Reassess the extent of RTE exemptions, possibly making core
+provisions (like infrastructure norms) applicable while preserving
+management autonomy
+Capacity deficits in MEIs Provide targeted grants, capacity-building, teacher training assistance
+—especially for MEIs serving remote or backward areas
+Minority institutions stand at the crossroads of freedom and fairness — envisioned as sanctuaries of diversity, they risk
+becoming fortresses of privilege if autonomy eclipses accountability. The real test of Article 30 lies not in how it
+protects identity from the State, but in how it empowers education to transcend identity itself.
+The Supreme Court is reconsidering the 2014 Pramati Educational and Cultural Trust v. Union of India judgment.
+The ruling exempted minority educational institutions from provisions of the Right of Children to Free and Compulsory Education Act (RTE), 2009.
+Specific issue: Whether teachers in minority schools must clear the Teacher Eligibility Test (TET), and whether such schools should
+comply with RTE mandates like 25% reservation for disadvantaged students.
+TET Case Judgement:
+Two-judge Bench held that TET is mandatory even for minority school teachers.
+Observed that excluding minority schools from RTE undermines the fundamental right to education (Article 21A) for children
+studying there.
+Conflict of Rights:
+Article 30(1): Grants minorities the right to establish and administer educational institutions.
+Article 21A & RTE Act: Guarantees every child the right to free and compulsory education, requiring private unaided schools to
+reserve 25% seats for weaker sections (Section 12(1)(c)).
+The core issue is balancing minority rights vs. universal right to education.
+Criticism of Pramati Ruling (2014):
+Seen as excessively broad, exempting even private unaided minority schools from RTE.
+Critics argue it created a conflict between fundamental rights, placing minority rights above the child’s right to education.
+Also highlighted that many minority institutions serve a majority of non-minority students, weakening the rationale for exemption.
+If overturned:
+Minority schools may need to comply with RTE provisions (25% reservation, qualified teachers, meeting quality standards).
+If upheld:
+Minority institutions will remain exempt, prioritizing their autonomy.
+Importance of RTE Act (2009):
+Ensures free and compulsory education for children 6–14 years.
+Mandates: qualified teachers, infrastructure standards, inclusive education.
+Applies to government, aided, and private unaided schools, except minority institutions (after Pramati).
+Policy and Social Implications:
+Overturning Pramati could expand RTE’s reach, strengthening equity in education.
+However, minority institutions fear it may dilute their constitutional autonomy.
+Minority Educational Institutions
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+Mains Concise Note (MCN) 13 : Secularism, Religion, Minority Institutions, Communalism
+MCN 2.0
+ 
+Magna Carta Mains 2026
+
+-- 6 of 16 --
+
+Critical Analysis of minority educational institutions
+Strengths / Justifications
+Protection of Cultural & Religious Identity
+Article 30(1) empowers minorities to establish and administer educational institutions. This enables them to preserve language,
+religion, culture, and ethos in a plural society.
+Counter-majoritarian Safeguard
+In a democracy where majority rules, the minority right to autonomy in education acts as a check against homogenising pressures
+and majoritarian cultural domination.
+Encouragement of Diversity and Experimentation
+MEIs can adopt curricular or pedagogical innovations suited to their community’s needs, thereby enriching the broader educational
+ecosystem.
+Bridge for Marginalised Minorities
+For socially or economically disadvantaged religious/linguistic minorities, MEIs can provide access to culturally sensitive education
+where mainstream schools may be unwelcoming.
+Critiques, Tensions, and Risks
+Uneven Service to the Minority Community
+Some institutions claim minority status but may not meaningfully serve the disadvantaged sections within that minority. A critical
+commentary observes:
+In practice, high-fee minority colleges may disproportionately benefit affluent members, undermining the solidaristic intention of
+Article 30.
+Exemption from Uniform Regulatory Standards
+MEIs often claim immunity from certain regulatory norms (e.g., fee limits, teacher qualifications, reservation mandates). This can lead
+to quality gaps, opacity, and misuse.
+For instance, in Anjuman Ishaat E Taleem Trust v. State of Maharashtra (2025), SC held that the requirement to pass Teacher
+Eligibility Test (TET) under the Right to Education Act applies to MEIs unless fully covered by Article 30 immunity.
+SC has expressed concern that exempting minority schools from the RTE Act may weaken the universal education vision.
+Fragmentation and Parallel Schooling
+Carving out special exemptions for MEIs fragments the public schooling model and undermines integration. The Supreme Court
+itself expressed that exemptions may reinforce divides rather than foster shared learning spaces.
+Regulatory Capture and Malpractice
+The autonomy accorded to MEIs can sometimes be misused to evade governance norms, leading to nepotism, corruption, opaque
+admissions, or financial irregularities.
+There have been scholarship scams tied to minority institutions, raising concerns over oversight.
+Equity vs. Rights Conflict
+The rights of individual students (within or outside the community) may conflict with the institution’s autonomy.
+For instance, if an MEI discriminates (within its admission or staff policies) in a way that disadvantages some groups, how far
+should courts allow it in the name of minority rights?
+The tension between collective group rights (minority institutions managing themselves) and individual rights to equality is difficult
+to balance.
+Lack of Clear Criteria and Ambiguity
+Determining which institutions legitimately deserve minority status has been contested, leading to legal disputes. The Supreme
+Court’s 2024 ruling attempted to clarify the test for classifying minority institutions under equality guarantees. The lack of empirical
+criteria or transparent audits means many claims rest on subjective assessments.
+Unequal State Aid
+While Article 30(2) prohibits discrimination in granting aid on the ground of minority management, in practice many MEIs (especially
+unaided ones) receive little or no state support, placing them at a disadvantage relative to well-funded private institutions.
+Capacity Constraints
+Many MEIs—especially in rural or underprivileged regions—lack infrastructure, qualified teachers, learning materials, or funding. The
+aspiration of autonomy clashes with ground realities.
+Balancing Autonomy and Accountability
+How much regulation is “reasonable”? Excessive state control undermines autonomy; too little oversight leads to poor quality or abuses.
+Ensuring Inclusivity
+MEIs may become insular or cater only to their community’s elites rather than being inclusive. A challenge is to ensure they remain
+open, plural, and responsive to diversity within their community.
+Legal Uncertainty & Litigation Burden
+Because many rules about MEIs lie in judicial interpretation (e.g. scope of regulation, permissible limits), frequent litigation disrupts
+functioning and adds cost.
+Intersection with RTE and National Standards
+With the Right to Education and other national benchmarks, the space for MEI autonomy is under pressure. The tension between
+standardization and diversity is a continual battleground.
+Uttarakhand Assembly passed the Uttarakhand State Authority for Minority Education (USAME) Bill, 2025 which replaces the Madrasa
+Board and brings all minority educational institutions (Muslims, Sikhs, Buddhists, Jains, Parsis, Christians) under USAME.
+Mains Concise Note (MCN) 13 : Secularism, Religion, Minority Institutions, Communalism
+MCN 2.0
+ 
+Magna Carta Mains 2026
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+
+-- 7 of 16 --
+
+India’s civilisation has historically embraced pluralism, tolerance, and coexistence among diverse faiths. From
+Ashoka’s Dhamma policy promoting mutual respect among Buddhists, Jains, and Ajivikas, to Akbar’s Din-i-Ilahi
+and Bhakti–Sufi syncretism, the Indian ethos internalised the idea of respect for all faiths — Sarva Dharma
+Sambhava.
+Type of Intervention 	Nature & Objective 	Illustrations / Cases
+Reformative–Legal 	Eliminate oppressive practices Sati Abolition 1829, Hindu Code Bills 1955-56,
+Triple Talaq Ban 2019, Sabarimala 2018
+Protective 	Safeguard minority culture & education AMU Case 1967, Arts. 29-30, Sachar & Misra
+Reports
+Regulatory Supervise secular administration of
+institutions
+Shirur Mutt 1954, Tirupati Board, Vaishno
+Devi Act 1988
+Facilitative 	Support multi-faith pilgrimages & festivals Haj subsidy (abolished 2018), Kumbh Mela,
+Urs Ajmer, Onam tourism
+Intro
+Contemporary debates such as Sabarimala (2018), the Uniform Civil Code (Art. 44) discussions, and the
+triple talaq ban (2019) show secularism’s continued constitutional dynamism.
+Challenges to Indian Secularism
+Political: Vote-bank politics (Shah Bano reversal 1986), religious mobilisation (Ayodhya movement,
+Hijab debate 2022).
+Legal–Constitutional: Uneven regulation of temples vs minority institutions; ERP subjectivity; UCC
+tensions; CAA–NRC concerns.
+Social: Communal riots (Gujarat 2002, Delhi 2020), hate crimes, caste and gender inequalities within
+religions.
+Institutional: Weak Minority Commission, underfunded schemes (2023–24 budget cut 38 %), and
+policing bias.
+External: Cross-border radicalisation and diaspora-funded extremism.
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+Mains Concise Note (MCN) 13 : Secularism, Religion, Minority Institutions, Communalism
+MCN 2.0
+ 
+Magna Carta Mains 2026
+
+-- 8 of 16 --
+
+Positive Dimensions
+Constitutional protection for diverse faiths
+(Arts. 25–28).
+Recognition of multiple festivals and
+cultural expressions (Diwali, Eid, Christmas,
+Baisakhi).
+Support for pilgrimages and minority
+traditions (Kailash Mansarovar, Urs Ajmer).
+UNESCO recognition of Indian religious
+culture (Yoga, Durga Puja, Kumbh Mela).
+Is Secularism Anti-Religion or Faith-Preserving?
+Indian secularism is not anti-religion but anti-discrimination.
+It protects faith as a matter of conscience yet reforms religion as a social institution.
+State intervention targets inequality, not belief—e.g., abolition of untouchability, gender
+equality in temples, outlawing instant divorce.
+Ensures liberty (freedom of belief), equality (non-discrimination), and fraternity (inter-faith
+harmony).
+Bhargava: “Indian secularism ensures principled distance, not mutual exclusion.”
+Restrictive Dimensions
+ERP-based curtailments (Santhara 2015
+stayed later; Jallikattu controversies).
+Cultural homogenisation—regional
+festivals (Sarhul, Wangala) under-
+represented nationally.
+Personal-law dilemmas and dress-code
+conflicts (Hijab Ban 2022, Sikh turban
+cases abroad).
+Impact of Secularism on Cultural Diversity
+Secularism is not the absence of faith, but the presence of fairness
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+Mains Concise Note (MCN) 13 : Secularism, Religion, Minority Institutions, Communalism
+MCN 2.0
+ 
+Magna Carta Mains 2026
+
+-- 9 of 16 --
+
+Aspect 	Indian Model (Positive / Principled Distance) 	Western Model (Negative / Separationist)
+Historical
+Context
+Evolved within a plural, multi-religious civilisation
+(Hindu, Buddhist, Jain, Sikh, Islamic, Christian).
+Shaped by reformist movements (Bhakti, Sufi,
+Gandhi’s Sarva Dharma Sambhava).
+Emerged from Reformation and Enlightenment,
+primarily to curb Church dominance (Europe) or
+ensure freedom from religion (USA).
+Philosophical
+Basis
+Positive secularism – equal respect and recognition
+for all religions. State engages with religion to
+ensure equality, reform, and harmony (Rajeev
+Bhargava’s “principled distance”).
+Negative secularism – strict separation of religion
+and state; religion confined to private sphere
+(laïcité in France, First Amendment in the USA).
+State–Religion
+Relationship
+State can intervene in religious matters to reform
+or regulate secular aspects (e.g., Sati abolition,
+temple entry, Triple Talaq ban).
+State must abstain from any engagement with
+religion; “wall of separation” between Church and
+State.
+Nature of
+Neutrality
+Equal respect to all faiths (Sarva Dharma
+Sambhava). The State may aid all religions equally
+without discrimination.
+State maintains complete neutrality by non-
+involvement—no aid, recognition, or religious
+symbolism in governance.
+Role of the State
+Contextual engagement—State may either support
+or reform religion depending on public welfare and
+equality.
+State abstains entirely; religion treated as private
+affair.
+Scope of
+Equality
+Addresses both inter-religious (between religions)
+and intra-religious (within religion—caste, gender)
+inequalities.
+Focuses primarily on inter-religious equality;
+internal reform within religions seen as private.
+Flexibility
+Flexible and adaptive—State can calibrate
+involvement according to social needs and reform
+priorities.
+Rigid—prohibits all forms of State involvement,
+even for progressive reforms.
+Religious
+Symbols in
+Public
+Permitted with regulation (e.g., Sikh turban, Muslim
+hijab). Judicial moderation in balancing identity and
+uniformity (Karnataka Hijab case, 2022).
+Often restricted; France bans religious symbols in
+public institutions (2004 Hijab Ban, 2011 Burqa
+Ban).
+State Funding &
+Aid
+Permitted to all faiths on equal basis (e.g., Haj
+subsidy—withdrawn 2018, Kumbh Mela logistics,
+minority education aid).
+Prohibited; State cannot provide financial support
+to religious institutions.
+Examples of
+State
+Intervention
+Sabarimala (2018), Shayara Bano (2017), Haji Ali
+(2016), Santhara (2015), Triple Talaq (2019).
+Engel v. Vitale (1962) – US banned prayer in
+schools; Lemon v. Kurtzman (1971) – restricted
+State funding to religious schools.
+Objective Promote harmony, equality, reform, and dignity
+while preserving religious freedom.
+Protect individual freedom of conscience and
+prevent Church dominance.
+Criticism
+Accused of selective intervention, “minority
+appeasement,” and excessive judicial intrusion via
+ERP doctrine.
+Criticised for suppressing multiculturalism and
+religious visibility (e.g., Muslim exclusion debates in
+Europe).
+Outcome A multi-faith engagement model ensuring unity in
+diversity and constitutional morality.
+A strict non-interference model ensuring freedom
+from religion and uniform civic identity.
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+Mains Concise Note (MCN) 13 : Secularism, Religion, Minority Institutions, Communalism
+MCN 2.0
+ 
+Magna Carta Mains 2026
+
+-- 10 of 16 --
+
+Aspect 	India 	United States 	France 	United Kingdom
+Model Type Positive / Principled
+Distance Secularism
+Separationist
+Secularism
+Laïcité (Strict
+Separation and
+Religious Neutrality)
+Non-Secular but
+Religious Tolerance
+Model
+Historical Context
+Evolved from a multi-
+religious civilisation
+and reform
+movements (Bhakti,
+Sufi, Gandhi’s Sarva
+Dharma Sambhava).
+Born from the
+struggle against
+colonial religious
+persecution and
+dominance of the
+Church of England
+(Puritan heritage).
+Product of
+Enlightenment and
+anti-clerical
+revolutions (French
+Revolution 1789;
+1905 Law on
+Separation).
+Originated from
+Reformation (16th c.)
+— monarchy retained
+control over Church;
+gradual liberalisation
+through tolerance.
+Philosophical Basis
+Sarva Dharma
+Sambhava – equal
+respect for all
+religions; religion and
+State maintain
+principled distance
+(Rajeev Bhargava).
+Wall of Separation
+between Church and
+State (Thomas
+Jefferson).
+Laïcité – complete
+exclusion of religion
+from public affairs;
+religion is private.
+State Religion Model
+– Anglican Church
+(Church of England)
+recognised; others
+tolerated.
+Constitutional / Legal
+Basis
+Preamble (Secular,
+42nd Amendment
+1976); Arts. 25–28
+(freedom of religion);
+Arts. 29–30 (minority
+rights).
+First Amendment
+(1791): “Congress
+shall make no law
+respecting an
+establishment of
+religion…”
+Law of 1905:
+Separation of
+Churches and the
+State; 1958
+Constitution reaffirms
+neutrality.
+No written
+constitution; the
+Monarch is Supreme
+Governor of the
+Church of England;
+Parliament governs
+church affairs.
+State–Religion
+Relationship
+State can engage or
+disengage
+contextually; reforms
+religion for equality
+(e.g., Sati abolition,
+temple entry, Triple
+Talaq).
+State strictly abstains
+from involvement in
+religion or funding
+religious institutions.
+State prohibits any
+display or recognition
+of religion in public
+institutions.
+State officially linked
+with Anglican Church;
+bishops sit in the
+House of Lords (Lords
+Spiritual).
+State Neutrality
+Equal respect to all
+religions (Dharma-
+Nirpekshata).
+Neutrality through
+non-interference.
+Neutrality through
+exclusion.
+Partial neutrality –
+privileges Church of
+England but allows
+multi-faith practice.
+Religious Symbols in
+Public Life
+Permitted with
+regulation (e.g., Sikh
+turban, Muslim hijab
+allowed; subject to
+order & equality).
+Generally permitted
+under freedom of
+expression.
+Banned in schools and
+government offices
+(Hijab Ban 2004;
+Burqa Ban 2011).
+Religious symbols
+common and state-
+endorsed (e.g., prayers
+in Parliament, Queen
+as Defender of Faith).
+Freedom of Religion
+Arts. 25–28 ensure
+belief, practice, and
+propagation; subject
+to public order, health,
+and morality.
+First Amendment
+ensures free exercise
+of religion and forbids
+establishment.
+Strict individual
+freedom of belief;
+collective expression
+restricted in public
+institutions.
+Guaranteed through
+statutes (Human
+Rights Act 1998,
+Equality Act 2010).
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+Mains Concise Note (MCN) 13 : Secularism, Religion, Minority Institutions, Communalism
+MCN 2.0
+ 
+Magna Carta Mains 2026
+
+-- 11 of 16 --
+
+Aspect 	India 	United States 	France 	United Kingdom
+State Funding / Aid
+Permitted to all
+religions equally (e.g.,
+minority education
+aid, pilgrimage
+facilitation).
+Prohibited; even
+indirect support
+challenged under the
+Lemon Test (Lemon v.
+Kurtzman, 1971).
+Prohibited; funding
+religious schools rare
+and highly regulated.
+Permitted; State funds
+faith schools
+(Anglican, Catholic,
+Islamic).
+Judicial Precedents
+S.R. Bommai (1994) –
+secularism = basic
+feature; Sabarimala
+(2018) – gender
+equality; Shayara
+Bano (2017) – triple
+talaq invalid.
+Everson v. Board of
+Education (1947) –
+wall of separation;
+Engel v. Vitale (1962)
+– no school prayer.
+Conseil d’État (2004)
+– upholds hijab ban;
+Burqa Ban Case
+(2011) – European
+Court upheld laïcité.
+R (Begum) v. Denbigh
+High School (2006) –
+Hijab allowed
+discretion; Eweida v.
+UK (2013) – right to
+wear cross upheld by
+ECHR.
+Minority Rights
+Arts. 29–30 – right to
+preserve culture and
+run educational
+institutions.
+Minority protection
+mainly through civil
+rights law; no special
+group rights.
+Minorities protected
+individually, not
+communally.
+Minority protections
+under equality
+legislation, not
+constitutional
+guarantee.
+Focus of Equality
+Both inter-religious
+(between religions)
+and intra-religious
+(within religions –
+caste, gender).
+Inter-religious equality
+– State cannot
+privilege a religion.
+Formal equality – all
+citizens same in public
+sphere.
+Gradual move from
+formal to substantive
+equality under
+modern law.
+Flexibility of
+Approach
+Flexible; State
+intervention depends
+on social reform
+necessity.
+Rigid separation. Very rigid; no religion
+in public institutions.
+Flexible; traditional
+establishment
+continues with secular
+governance.
+Current Challenges
+Politicisation of
+religion (vote-bank,
+UCC debate, CAA-
+NRC, hate crimes).
+Polarisation over
+religion in public life
+(e.g., school prayer,
+abortion laws).
+Muslim alienation due
+to restrictive policies
+on visible symbols;
+debate on
+Islamophobia.
+Decline of church
+attendance; tension
+between tradition and
+secular
+multiculturalism.
+Core Objective
+Promote equality,
+reform, social
+harmony, and dignity
+while protecting faith.
+Preserve individual
+liberty and protect
+against religious
+establishment.
+Preserve public order
+and universal civic
+identity.
+Preserve tradition and
+social stability while
+accommodating
+diversity.
+Summary
+Engagement-based,
+plural, reformative
+secularism (State
+mediates faith and
+equality).
+Non-interventionist
+secularism (State
+keeps religion private).
+Exclusionary
+secularism (religion
+expelled from public
+life).
+Established yet
+tolerant model (State
+retains religious links
+but guarantees
+freedom).
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+Mains Concise Note (MCN) 13 : Secularism, Religion, Minority Institutions, Communalism
+MCN 2.0
+ 
+Magna Carta Mains 2026
+
+-- 12 of 16 --
+
+Communalism
+Religion as a Personal and Ethical Force
+Represents private faith, devotion, and moral
+guidance.
+Inward-looking — promotes compassion through
+acts like Langar (Sikhism), Zakat (Islam), Seva
+(Hinduism).
+Compatible with secularism: freedom to profess,
+practice, and propagate (Articles 25–28).
+Encourages unity and ethical conduct, aligning
+with constitutional fraternity.
+Communalism as Political Instrumentalisation of Religion
+Defined as the political mobilisation of people based on
+religious identity.
+According to Rajni Kothari, it is “the instrumental use of religion
+for political mobilisation.”
+Bipan Chandra : it’s a modern phenomenon emerging during
+colonial rule.
+Key features:
+Reduces religion to politics.
+Promotes a zero-sum outlook: one group’s gain = another’s
+loss.
+Legitimises power politics through religion.
+Erodes national integration and democratic discourse.
+Roots of Communalism
+Historical–Colonial Foundations
+British ‘Divide and Rule’: Institutionalised communal distinctions.
+Morley–Minto Reforms (1909): Introduced separate electorates.
+Communal Award (1932): Religion-based reservations.
+Census Classifications: Reinforced religious identity.
+Partition Legacy (1947): Trauma and mistrust carried into post-independence politics.
+Political and Institutional Drivers
+Vote-bank politics: Religion-based mobilisation (Ram Janmabhoomi, Triple Talaq debates).
+Weak enforcement: Hesitancy to act against hate speech (Tehseen Poonawalla vs Union of India, 2018).
+Media sensationalism: Polarising coverage of riots.
+Minority appeasement vs majoritarianism: Dual narratives deepen divides.
+Socio-Economic Catalysts
+Poverty, unemployment, and inequality → mass vulnerability to divisive propaganda.
+Sachar Committee Report (2006): Muslims lag behind SCs/STs in education, credit access, and employment.
+Relative deprivation: Community grievance transforms into communal identity (Pasmanda Muslim movement).
+Livelihood conflicts: Mob lynching over cattle slaughter; closure of slaughterhouses; economic boycotts.
+Social–Cultural Factors
+Orthodox religious leadership reinforcing exclusivity.
+Historical narratives manipulated (e.g., Aurangzeb vs Shivaji; temple–mosque disputes like Gyanvapi–Kashi
+Vishwanath).
+Textbook communalisation and selective history portrayal.
+Stereotyping and ghettoisation: minorities labelled “outsiders.”
+Institutional and Governance Gaps
+Delayed justice (1984 anti-Sikh riots, 2002 Gujarat riots).
+Perceived state bias: CAA–NRC seen as discriminatory; Shaheen Bagh protests.
+Intervention in minority institutions (Waqf Act debates).
+“Love Jihad” laws in UP, MP, Karnataka—curtailing personal freedoms.
+International and Global Factors
+Global Islamophobia: Reinforces domestic prejudice.
+Cross-border terrorism: Creates suspicion (26/11 attacks).
+Foreign funding: Religious NGOs receive transnational support influencing local politics.
+Communalism in India is not a clash of religions but a politicisation of faith—where religion, once a
+moral compass, becomes a weapon of power.
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+Mains Concise Note (MCN) 13 : Secularism, Religion, Minority Institutions, Communalism
+MCN 2.0
+ 
+Magna Carta Mains 2026
+
+-- 13 of 16 --
+
+Religion, Secularism, Communalism
+Electoral Politics and the Modernisation of
+Communalism
+1909–1947: Institutionalised religion-based politics
+(Muslim League, Hindu Mahasabha).
+Jinnah’s shift post-1937: from secular nationalism to
+religious separatism.
+Post-Independence: Shah Bano (1985), Ayodhya
+movement (1992), and Punjab militancy revived religion
+in politics.
+1990s: Mandal vs Mandir politics — caste-religion
+polarisation.
+Contemporary era:
+Campaigns invoke religious symbols (cow protection,
+hijab, temple disputes).
+Data-driven targeting (Cambridge Analytica-like profiling).
+Digital communalism: WhatsApp forwards spreading hate
+and rumours
+Relative Deprivation and the Communal Psyche
+Defined as the gap between expectations and
+achievements, leading to grievance-based
+mobilisation.
+Examples:
+Muslims alleging under-representation vs Hindus
+alleging minority appeasement.
+Urban ghettos (e.g., Juhapura in Ahmedabad –
+“Mini Pakistan”).
+Kashmir Valley: perceived political alienation
+fuelling separatist sentiment.
+Creates a cycle of exclusion and resentment,
+aggravating communal consciousness.
+Consequences of Communalism
+Human and Psychological Costs
+Fear, trauma, and displacement (Delhi 2020, Muzaffarnagar 2013).
+PTSD among riot survivors; intergenerational fear transmission (1984 anti-Sikh riots).
+Economic and Developmental Losses
+Property destruction, job loss, and halted local economies.
+Hindrance to urban investment and tourism (e.g., Gujarat post-2002).
+Political and Democratic Impact
+Reduction of minorities to “vote banks.”
+Issue-based politics replaced by identity-based narratives.
+Weakens democratic pluralism and parliamentary debate quality.
+National Security and International Image
+Communalism provides fertile ground for radicalisation (ISIS recruitment).
+Undermines India’s global image as a secular democracy (USCIRF, EU reports).
+Creates policy paralysis — governments avoid reforms fearing backlash (UCC, Minority Rights).
+Globalisation and the Transformation of Communal Identities
+Diluting Effects
+Urban cosmopolitanism (Bengaluru, Mumbai) fosters inter-religious coexistence.
+Shared consumer culture (IPL, Bollywood, OTT) transcends divisions.
+Global diaspora fosters inclusive celebration (Diwali in Times Square).
+Youth individualism prioritises career and autonomy over religious loyalty.
+Reinforcing Effects
+Identity insecurity → revivalist communalism (“protecting cultural purity”).
+Transnational religious networks (Ummah consciousness, global Hindutva).
+Digital polarisation — social media amplifies hate and misinformation.
+Global conflicts (Israel–Palestine, Taliban, ISIS) echoed domestically.
+Net Effect
+Dual dynamic: cosmopolitan tolerance in metros vs conservative revivalism in rural areas.
+Class and generational divides — urban youth more global, rural poor more vulnerable to mobilisation.
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+Mains Concise Note (MCN) 13 : Secularism, Religion, Minority Institutions, Communalism
+MCN 2.0
+ 
+Magna Carta Mains 2026
+
+-- 14 of 16 --
+
+Combating Communalism: Policy and Social Strategies
+Legal and Institutional Reforms
+Strict enforcement of secular provisions (Articles 14–28).
+Representation of People Act (1951): bar candidates from using religion for electoral gain.
+Reinforce Places of Worship Act (1991) to prevent politicisation of disputes.
+Fast-track justice in riot cases: Tehseen Poonawalla (2018) guidelines.
+Criminalisation of lynching in Bharatiya Nyaya Sanhita (2023).
+Socio-Economic and Educational Measures
+Implement Sachar Committee recommendations.
+Promote inclusive growth through minority entrepreneurship, education, skill development.
+Revise curricula to emphasise Bhakti–Sufi syncretic culture.
+Media and Technology Regulation
+Establish fact-checking mechanisms to counter fake news.
+Impose accountability norms for social media intermediaries.
+Use AI-based hate speech detection.
+International Cooperation
+Engage with global partners (Gulf, EU, US) for counter-radicalisation and financial regulation.
+Civic and Ethical Reorientation
+Encourage principled distance secularism (Rajeev Bhargava).
+Promote interfaith initiatives, civic nationalism, and youth-driven harmony campaigns.
+A future-ready India must strengthen civic nationalism over religious identities, ensuring that religion
+inspires morality, not militancy. Secularism, fraternity, and constitutional morality remain the ultimate
+antidotes to the poison of communalis
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+Mains Concise Note (MCN) 13 : Secularism, Religion, Minority Institutions, Communalism
+MCN 2.0
+ 
+Magna Carta Mains 2026
+
+-- 15 of 16 --
+
+Intro
+Mains Concise Note (MCN) 14 : Fundamental Duties
+Case 	Brief / Relevance to Fundamental Duties
+Balaji
+Raghavan v
+Union of
+India, 1995
+Connected national awards to Article 51A(j),
+which asks citizens to strive for excellence.
+M.C. Mehta v
+Kamal Nath II,
+2000
+The Court dealt with environmental harm caused
+by hotel developers. It relied on Article 51A(g),
+which imposes a duty on citizens to protect and
+improve the natural environment, reading it with
+Article 48A and Article 21.
+Javed v State
+of Haryana,
+2003
+Fundamental Rights must be read with DPSPs
+and Fundamental Duties, and that rights cannot
+be viewed in isolation from duties.
+Shri
+Ranganath
+Mishra v
+Union of
+India, 2003
+Directed the Centre to implement
+recommendations of the Justice J.S. Verma
+Committee for spreading awareness Duties
+SC in Durga Dutt v U.o.I, is hearing whether Fundamental Duties can made legally enforceable.
+Issues
+1.Non-justiciable Nature: Fundamental duties are not legally enforceable. Their
+non-justiciable character means citizens have no legal compulsion to follow
+them, making them more of moral obligations.
+2.Ambiguity and Vagueness: Many duties are criticized for being vague or broad
+(e.g., "to strive towards excellence"), making them difficult to interpret and
+implement in real-life scenarios.
+3.Limited Scope: The duties do not cover certain essential civic behaviors, such
+as paying taxes or voting, which were recommended by the Swaran Singh
+Committee but were not included.
+4.Overlap and Redundancy: Several duties overlap with existing laws or policies,
+leading to redundancies and confusion.
+5.Placement in the Constitution: They are placed after Directive Principles of
+State Policy (Part IV), reducing their perceived significance when compared to
+fundamental rights.
+Possible Additions to Fundamental Duties
+1.Duty to Pay Taxes:
+2.Duty to Vote:
+3.Family Planning
+4.Duties Regarding Science and Technology
+Should FD’s be enforceable? (Durga Dutt Case pending in SC)
+1.Courts’ stance: Duties guide, they don’t create directly enforceable obligations on citizens. (AIIMS Students’ Union). Turning them
+into punishable obligations risks over-criminalisation & conflicts with FRs.
+2.Better route (and what India already does):
+3.Translate select duties into law/policy: e.g., 51A(g) → Environment (Protection) Act regime, noise rules & fireworks time bands (In
+Re: Noise Pollution (2005)), environmental education orders (M.C. Mehta, 1991). Use duties to justify reasonable restrictions on
+FRs where proportionate (anthem/flag dignity cases, but with limits). Naveen Jindal (2004) balanced flag dignity with free
+expression (19(1)(a)). Policy suggestions from committees: The Justice J.S. Verma Committee on effectuation of Fundamental
+Duties (1999) proposed practical steps (curricula, public campaigns; even mooted adding duties like to vote/participate/pay
+taxes). These were about civic culture, not criminal liability.
+Rights give us freedom, but duties give that freedom meaning
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+MCN 2.0
+ 
+Magna Carta Mains 2026
+
+-- 16 of 16 --
+

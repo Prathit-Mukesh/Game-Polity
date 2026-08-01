@@ -1,0 +1,1563 @@
+Intro
+Sec 8, RoPA 1951 : 6 Year Ban (If only fined then from date of conviction, if jailed then from release),
+Court + Automatic Disqualification
+Convicted under following laws irrespective of type/nature of punishment
+Civil Rights Act 1955, Customs Act 1962, UAPA 1967, Narcotics (NDPA) 1985, Religious Institutions 1988,
+Places of Worship Act 1991, National Honour Act 1971, Sati (Prevention) Act 1988, Corruption Act 1988,
+Some Offences - BNS (IPC) (Promoting enmity, bribery, rape, cruelty)
+Some electoral offences under RoPA 1951 (booth capturing, tampering ballot paper etc) (
+Convicted under following laws with minimum jail of 6 months
+Any law about Hoarding/profiteering/adulteration of food or drugs,
+Dowry Prohibition Act, 1961
+Convicted under any other law apart from those mentioned above with min 2 yrs jail
+Sec 8A, RoPA 1951 : Convicted for ‘Corrupt Practices’ defined under s. 123
+President (on ECI advice), Based on court finding under S.123
+S. 123 : Bribery, undue influence, or coercion etc.
+Court order should be presented before President within 3 months.
+Max 6 year ban (depending on case to case)
+Sec 9, RoPA 1951 : By ECI - President/Governor: Disqualified for 5 years if dismissed due to disloyalty/corruption
+Sec 9A, RoPA 1951 : ECI/Court : Disqualified TILL member is having commercial contracts with Union/State
+Sec 10. RoPA 1951 : Disqualified TILL member is Manager, Agent of any company which is 25% owned by
+Union/State (Except cooperative societies)
+Sec 10A RoPA 1951 : ECI : Disqualified for 3 yrs if elections expenses not filed properly
+Aspect 	Corrupt Practices Electoral Offences
+Defined In 	Section 123, RoPA
+1951
+Chapter III,
+Sections 125–136,
+Nature 	Civil wrongs but
+with severe
+Criminal offences
+under law
+Examples 	Bribery, undue
+influence,
+Booth capturing,
+false affidavit,
+Punishment 	Disqualification for
+up to 6 years (S.
+Imprisonment/fine
+under criminal law
+Trial Forum 	Tried by High
+Court during
+Tried by criminal
+court
+Disqualification
+Trigger
+Yes (Sec 8A, RoPA) Only if specifically
+mentioned in Sec 8
+Remedies available if disqualified
+1.Appeal in case of conviction: Can challenge conviction in higher
+courts.
+2.No automatic stay: Disqualification applies even if appeal is
+pending (Lily Thomas v. Union of India, 2013).
+3.Presidential Disqualification (Sec 8A): No appeal, but writ under
+Art. 226 or 32 possible.
+4.Against ECI decisions: Writ petition under Art. 226/32 in
+appropriate High Court or Supreme Court.
+a.The ECI can remove or reduce the period of disqualification
+for certain grounds (Section 11, RoPA)
+5.No Bar to Re-election
+Are our election laws resilient enough to defend the spirit of democracy, not just its ritual? The answer lies not only in
+how we enforce the law, but in how we reform it—transforming it from a reactive mechanism into a proactive bulwark of
+democratic ethics and citizen empowerment
+Judgements
+1.Dev. Raj vs. Bhagwan Das (1971)
+a.emphasised establishing a nexus between gifts and
+voting inducement even through circumstantial
+evidence
+2.Pratap Singh vs. Jagdev Singh(1965)
+a.Appeal to vote based on language of the candidate
+amounts to corrupt practice
+3.Pritpal Singh vs. Ranjit Rai (1984)
+a.Promotion of hatred against government is not corrupt
+practice; only against classes of citizens it is.
+MCN 2.0
+Mains Concise Note (MCN) 77 : RoPA, 1951
+Magna Carta Mains 2026
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+
+-- 1 of 23 --
+
+Issues
+1.No uniform standard of moral turpitude under Sec 8, leads
+to selective application.
+2.Delay in Presidential decisions under Sec 8A – political
+biases possible.
+3.Judicial Review Limitation: Courts can only review the
+outcome, not the procedure, in anti-defection cases
+4.Criminalisation of politics: Despite convictions, candidates
+contest till appeals are exhausted.
+5.Politicisation: Disqualification processes can be
+weaponized for political gains.
+Judgements
+1.Lily Thomas v. Union of India (2013): Struck down
+Section 8(4) of RoPA, making disqualification
+immediate upon conviction, even if appealed
+2.Election Commission of India v. Saka Venkata Rao
+(1953): Clarified jurisdiction in election disputes
+3.Lok Prahari v. Union of India (2018):
+Disqualification applies for failure to disclose
+assets
+Best practice
+1.UK : Disqualification applies for those serving >1 year
+prison. No political discretion.
+2.Australia : Automatic disqualification for offences with
+imprisonment >1 year; High Court supervises electoral
+disputes.
+3.Philippines: Body has binding power to disqualify
+candidates. Clear timelines enforced.
+Way Forward
+1.Time-bound decisions: Fixed time limit (e.g., 3
+months) for Speaker and President.
+2.Independent tribunal: An autonomous tribunal for
+disqualification cases.
+3.Automatic disqualification: For heinous offences
+without waiting for political process.
+4.Pre-screening of candidates: Before nomination,
+scrutiny based on criminal cases.
+5.Increased role for ECI with greater autonomy and
+binding powers.
+Election Petitions
+Under Sec 100, RoPA 1951, election can
+be declared void on:
+1.Corrupt practices by candidate or
+agent
+2.Improper acceptance of nomination
+3.Improper use of official machinery
+4.Non-compliance with provisions of
+RoPA or Conduct Rules
+5.Bribery, undue influence, booth
+capturing, impersonation etc.
+6.Result materially affected by non-
+compliance or error.
+1.Any elector or candidate of the
+constituency can file petition.
+2.Must file within 45 days of result
+declaration (Sec 81, RoPA)
+3.Election petitions are filed before
+the High Court having jurisdiction
+over the constituency (Section 80A,
+RoPA)
+a.The decision of HC can be
+appealed in SC (Sec 116A)
+1.Delays: Cases stretch for years,
+rendering them infructuous.
+2.High cost and complexity
+3.Lack of special benches or
+dedicated courts
+4.Political pressure on petitioners
+5.No fast-track mechanism
+Grounds 	Procedure 	Issues
+Judgements
+1.N. P. Ponnuswami v. Returning Officer (1952): Held that courts cannot interfere with
+election process at intermediary stages; only election petitions can challenge election
+results
+2.Azhar Hussain v. Rajiv Gandhi (1986): Emphasised the need for strict compliance with
+procedural requirements in election petitions
+3.Indira Gandhi v. Raj Narain (1975): Set precedent for judicial review of election matters;
+struck down 39th Amendment.
+4.Rajbala v. State of Haryana (2015): Upheld right to contest elections is not a fundamental
+right.
+Best practices
+1.UK : Election petitions decided by High Court
+with strict 21-day filing deadline.
+2.Kenya : 6-month time limit to decide election
+petitions (Constitutional mandate)
+1.Public Hearings: Open court proceedings for transparency.
+2.Costs: Reasonable costs to encourage genuine petitions.
+3.Election Tribunals (II ARC - Ethics in Governance)
+4.Publicly available petition database for transparency.
+5.Penalty for frivolous petitions
+Way Forward
+If democracy is to mean more than periodic voting—if it is to embody accountability, fairness, and the people's will—then
+election laws must evolve from being instruments of post-facto correction to agents of anticipatory justice. The true test of a
+democratic state is not how elections are celebrated, but how transparently, fairly, and swiftly they are regulated.
+MCN 2.0
+Mains Concise Note (MCN) 77 : RoPA, 1951
+Magna Carta Mains 2026
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+
+-- 2 of 23 --
+
+Intro
+Delimitation refers to the process of fixing or redrawing the boundaries of territorial constituencies for
+elections to legislative bodies such as the Lok Sabha (House of the People) and state Legislative Assemblies,
+based on changes in population data from the latest census
+Rationale
+1.Fair Representation: It ensures that each citizen’s vote
+carries equal weight by adjusting constituency
+boundaries to reflect population changes, preventing
+over- or under-representation of any region.
+2.Equity: It promotes equitable distribution of seats
+among different regions, considering demographic
+shifts over time.
+3.Reserved Seats: It determines the allocation of
+reserved seats for Scheduled Castes (SC) and
+Scheduled Tribes (ST), ensuring adequate political
+representation for marginalised communities.
+4.Federal Balance: It impacts the distribution of political
+power among states, balancing population-based
+representation with federal considerations.
+5.Level Playing Field: It ensures a fair division of
+geographical areas so that no political party gains an
+undue advantage
+Issues
+1.Population vs. Federalism:
+a.States with higher population growth may gain more
+seats, potentially reducing the influence of states with
+slower growth or better population control.
+2.Political Advantage:
+a.Redrawing boundaries can advantage or disadvantage
+certain parties or groups, raising concerns about
+gerrymandering.
+3.Reservation Policies:
+a.Allocation of reserved seats for SC/ST communities can
+be contentious, especially when boundaries change.
+4.Implementation Delays:
+a.The process is time-consuming and can take up to five
+years.
+5.Representation of Smaller States/UTs:
+a.Ensuring adequate representation for smaller states and
+union territories remains a challenge.
+Way forward
+1.Balanced Criteria
+2.Consensus Building
+3.Gradual Implementation
+4.Independent Oversight
+5.Weighted Voting in the Rajya Sabha
+6.Dual Representation Principle
+7.Incentivise Population Control
+8.Constitutional Safeguards
+9.Strengthen Inter-State Councils
+Delimitation is not just an arithmetic exercise of drawing lines on a map—it is a political act that redraws the contours of
+power, voice, and equality in the world's largest democracy. The nation must ask: should representation be a reward for
+growth or governance? If we mistake numerical majority for moral authority, we risk turning federalism into a formality and
+democracy into demography.
+Best Practices
+1.Canada : Independent Boundary
+Commissions
+2.UK : Automatic & Periodic Reviews
+3.Australia : Public Consultations
+4.United States: Judicial Oversight +
+Independent Models in States
+5.New Zealand: Māori Representation
+Guarantee
+The aim is to ensure that each constituency has a roughly equal number of voters, upholding the principle of "one person, one vote,
+one value"
+Delimitation Bills of 2026 [The Constitution (131st Amendment) Bill, 2026, The Delimitation Bill, 2026, and The Union
+Territories Laws (Amendment) Bill, 2026] were recently negatived
+MCN 2.0
+Mains Concise Note (MCN) 78 : Delimitation
+Magna Carta Mains 2026
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+
+-- 3 of 23 --
+
+Intro
+Parliamentary proceedings to remove the CEC were initiated though unsucessfully for the first time in Indian History
+The Govt amended the composition of the collegium by replacing the CJI with Union Cabinet Minister among others
+earmarked by the SC in Anoop Baranwal v. Union of India (2023) by passing the CEC and Other EC (Appointment,
+Conditions of Service and Term of Office) Act, 2023. This now currently challenged in Jaya Thakur v. Union of India.
+Role and Functions of the ECI
+1.Superintendence and conduct of elections to Parliament, State Legislatures,
+and offices of the President & Vice-President.
+2.Appointment of Officers: Assigning officers to inquire into electoral
+disputes
+3.Preparation and periodic revision of electoral rolls.
+4.Election scheduling: Notification of poll dates, scrutiny of nominations, and
+announcement of results.
+5.Monitoring election expenditure of candidates and parties.
+6.Recognition of political parties as national or state parties and allotment of
+symbols.
+7.Advisory role to President/Governors on disqualification of MPs/MLAs.
+8.Staff Deployment: Requesting the President or Governors to provide staff
+for smooth election conduct.
+9.Cancellation of Polls: Canceling polls in cases of mass rigging or
+irregularities
+10.Countermanding elections in case of rigging or irregularities.
+11.Conduct of by-elections and delimitation assistance.
+12.Registration of political parties under Section 29A of RPA, 1951.
+13.Recognition and Allotment of Symbols: Recognising political parties and
+allotting election symbols.
+14.Model Code of Conduct: Enforcing the MCC during elections.
+15.Electoral Reforms: Proposing and implementing reforms to improve the
+electoral process.
+16.Public Awareness: Conducting voter awareness campaigns, especially for
+new voters
+Issues with the ECI
+1.Lack of transparency in appointments of Commissioners
+(done solely by President without consultation).
+2.Perceived partisanship due to executive control over
+appointments.
+3.Limited control over election machinery – dependent on
+state staff.
+4.Weak enforcement of MCC – not legally binding.
+5.Delayed disqualification proceedings due to legal
+loopholes.
+6.Political pressure – e.g. reluctance to act strongly against
+ruling parties.
+7.Weak action against hate speech, communal campaigning.
+8.Under-regulated party funding and opacity in donations.
+9.Pending cases and slow judicial process in election
+petitions.
+10.Non-auditable EVMs – though partially addressed by
+VVPATs.
+Solutions
+1.Transparent Appointment Process: Involving the judiciary
+(e.g., Chief Justice of India) in the appointment committee to
+ensure independence.
+2.Strengthening Legal Framework: Codifying the Model Code
+of Conduct into law and enhancing penalties for violations.
+3.Financial Transparency: Mandating full disclosure of political
+donations and auditing of party finances.
+4.Decriminalisation: Strict enforcement of disqualification for
+candidates with serious criminal charges.
+5.Technology and Innovation: Wider use of technology for
+voter registration, polling, and result declaration to enhance
+transparency.
+6.Public Awareness: Continuous voter education and
+engagement to ensure informed participation.
+7.Judicial Oversight: Strengthening the role of courts in
+addressing electoral disputes and ensuring accountability.
+8.Empowering ECI: Granting ECI greater control over election
+staff and resources to reduce reliance on state governments
+Judgements
+1.T.N. Seshan v. UoI (1995) : CEC is “first
+among equals”
+2.UoI v. ADR (2002) : Voters have a
+fundamental right under Art. 19(1)(a) to know
+antecedents of candidates
+3.PUCL v. UoI (2003) : Introduced the right to
+negative vote
+4.Jan Chaukidar v. UoI (2013) A person in
+lawful custody (even without conviction) is
+barred from voting and thus also from
+contesting under RPA
+MCN 2.0
+Mains Concise Note (MCN) 79 : ECI
+Magna Carta Mains 2026
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+
+-- 4 of 23 --
+
+Model Code of Conduct
+1.Nature & Status
+a.MCC is a set of guidelines issued by the ECI to regulate political parties and candidates during elections.
+b.It has no statutory backing; it operates under ECI’s plenary powers under Article 324.
+2.Key Provisions
+a.No announcement of new schemes, financial grants, or promises of construction during elections.
+b.No use of government transport/resources for campaigning.
+c.No appeals to caste or communal sentiments.
+d.Ministers must not combine official visits with electioneering.
+e.Prohibits hate speech, bribery, and intimidation.
+3.Issues with MCC
+a.Non-enforceability due to lack of legal backing.
+b.Violation by ruling parties, especially through populist announcements.
+c.Delayed action by ECI, often reducing it to mere advisories.
+d.Weak penalties – only moral censure in many cases.
+e.Increasing hate speech and fake news – not effectively tackled by MCC.
+4.Proposed Solutions
+a.Grant MCC statutory status to make violations legally punishable.
+b.Introduce graded penalties for violations (fines, bans).
+c.Enable real-time tracking and citizen reporting through digital tools.
+d.Collaborate with social media and IT ministry for content regulation.
+e.Empower ECI with greater suo motu powers for action.
+Undertaken Reforms
+1.Lowering voting age to 18 (61st Amendment).
+2.Introduction of EVMs and later VVPATs.
+3.EPICs (Electoral Photo ID Cards).
+4.Limits on election expenditure and mandatory
+affidavits on criminal background.
+5.NOTA (None of the Above) in ballots since 2013.
+Proposed Reforms
+1.Simultaneous elections (Union & State)
+2.Decriminalisation of politics – pending legislative action.
+3.State funding of elections – under discussion.
+4.Regulation of inner-party democracy and party funding.
+5.Greater transparency in financial declarations.
+6.Reform of First-Past-the-Post system – proposed two-round
+voting in tight contests.
+7.Ban on candidates contesting from multiple seats
+Electoral Reforms:
+Pre-2017 Framework:
+Political funding relied on individual donations (capped at
+₹2,000 anonymously), corporate contributions (limited to
+7.5% of average net profits), and indirect state subsidies
+(e.g., free airtime on public media) .
+Transparency mandates under the RoPA, 1951, required
+parties to disclose donations above ₹20,000
+2016–2017 Amendments:
+Finance Act, 2016: Amended the Foreign Contribution
+Regulation Act (FCRA) to permit foreign-owned Indian
+companies to donate to political parties.
+Finance Act, 2017:
+Removed corporate donation caps and disclosure
+requirements, enabling unlimited anonymous funding 17.
+Introduced Electoral Bonds (EBs) via amendments to the
+RBI Act, Income Tax Act, and Companies Act.
+Exempted parties from disclosing EB donations in
+contribution reports
+Electoral Bond Scheme (2018–2024):
+EBs were interest-free, tax-exempt instruments sold via SBI
+in denominations up to ₹1 crore. Purchaser anonymity was
+guaranteed, but parties could access donor details via
+unique bond numbers.
+Criticised for legalising opacity: 73% of Congress’ 2024
+donations and 43% of BJP’s came via EBs.
+Struck down by the Supreme Court (February 2024) for
+violating Article 19(1)(a) (right to information) and enabling
+corporate quid pro quo
+Electoral Finance
+Corporate and Trust Donations
+Post-2017 Surge: Corporate donations formed 88.9% of
+national parties’ funding in 2023–24, with the BJP
+receiving ₹2,064.5 crore (9x more than other parties
+combined)
+Top Donors:
+Prudent Electoral Trust donated ₹723.6 crore to BJP and
+₹156.4 crore to Congress
+Triumph Electoral Trust contributed ₹127.5 crore
+exclusively to BJP.
+Concerns: Unlimited corporate funding risks crony capitalism,
+as companies may seek policy favours.
+Individual Donations
+Mandatory disclosure for contributions above ₹20,000,
+but 72% of BJP’s 2023–24 funds came from unknown
+sources, highlighting transparency gaps.
+State Funding
+Indirect Support: Free airtime on Doordarshan/AIR, tax
+exemptions, and subsidised utilities
+Solutions :
+Indrajit Gupta Committee (1998) advocated partial state
+funding to level the playing field.
+Law Commission (1999) recommended full state funding
+contingent on internal party democracy
+Bring Political Parties under RTI.
+Reintroduce caps on corporate donations and disclose
+recipient parties.
+Amend Section 77 of RPA to include all third-party
+expenses.
+MCN 2.0
+Mains Concise Note (MCN) 79 : ECI
+Magna Carta Mains 2026
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+
+-- 5 of 23 --
+
+The Special Intensive Revision (SIR) is a large-scale, house-to-house verification exercise undertaken by the Election
+Commission of India (ECI) to overhaul electoral rolls — distinct from the routine "Summary Revision" conducted annually.
+MCN 2.0
+Mains Concise Note (MCN) 80 : SIR
+Magna Carta Mains 2026
+SC in in Association for Democratic Reforms v. ECI (2026) upheld SIR's constitutionality
+Issues and Criticisms
+1.Reversal of burden of proof: A person on the voter list is presumed a citizen (Lal Babu Hussein v. Electoral Registration Officer
+(1995) unless the State proves otherwise; the SIR instead required voters not on the 2002/03 legacy rolls to prove citizenship but
+through specified documents.
+2.Discriminatory documentation burden: Stringent document requirements (pre-1987 documents, parental birth certificates)
+disproportionately burden Scheduled Castes, Scheduled Tribes, minorities, migrant workers, the poor, the illiterate, and women
+who migrated after marriage.Historically low birth-registration rates compound this — >only 25% of births were registered in 2007,
+the birth year of those who turned 18 by 2025.
+3.Compressed timelines close to elections: Courts and critics questioned why the exercise was conducted so close to the Assembly
+election, and why Aadhaar was initially excluded from the list of admissible documents.
+4.ECI overreach into citizenship questions: Critics, including opposition leaders, contended the exercise effectively functions as a
+"backdoor NRC," with the ECI encroaching on the Home Ministry's constitutional domain over citizenship determination, since
+intensive electoral roll revisions shift the burden of proof of citizenship onto individuals with no clear legal framework to determine
+their status, potentially pushing them into a state of permanent suspicion.
+5.Assam precedent as cautionary tale: In Assam, a past SIR led to "doubtful voters" facing Foreigners' Tribunals whose functioning
+has been arbitrary; in December 2025, a Nagaon resident was pushed into Bangladesh despite due-process concerns, with Tribunal
+member qualifications having weakened over time (from mandatory retired judges in 1964 to any lawyer with seven years'
+experience today).
+6.Data disputes and administrative errors: During hearings, contradictory claims emerged over the scale of deletions — with
+instances cited of persons declared dead who were found alive, and vice versa — while the ECI maintained 7.24 crore of 7.9 crore
+voters had responded to the exercise, disputing claims of a crore or more being disenfranchised.
+7.Administrative strain: The compressed exercise has been described as increasingly exclusionary, opaque, and burdensome, with
+several BLO deaths reported elsewhere due to unrealistic deadlines and workload pressure, and legacy rolls from 2002–04 poorly
+digitised and difficult to access.
+8.Institutional design gap: Deeper issue is one of unchecked institutional power — the ECI's own appointment process (post the
+2023 CEC and Other ECs Act, replacing the CJI with a Union Cabinet Minister on the selection panel, itself under challenge in Jaya
+Thakur v. Union of India) raises questions about independent oversight over an exercise with such profound electoral
+consequences.
+9.Post-facto judicial review: Since the verdict came six months after the Bihar polls concluded, judicial correction — however
+emphatic — could not undo any wrongful exclusions that may have affected the actual vote.
+The SIR process has been conducted in more than 15 states so far and approx 5 crore names from the voters list have been removed.
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+
+-- 6 of 23 --
+
+Global Best Practices in Electoral Roll Maintenance
+Continuous/automatic voter registration (e.g., many European democracies, parts of the US): Rolls updated in real time
+through linkage with civil registration (birth/death) and residency databases, avoiding periodic disruptive "intensive"
+exercises.
+UK: Rolling annual canvass with individual electoral registration (IER), supplemented by data-matching against government
+records rather than blanket re-verification.
+Canada: National Register of Electors updated continuously via linkages with tax, immigration, and vital statistics agencies
+— voters need not "re-prove" eligibility periodically.
+Germany: Registration is near-automatic via the mandatory municipal residence registration (Meldewesen) system.
+International principle (UN Human Rights Committee, General Comment 25): Any restriction on the right to vote must be
+based on objective, reasonable criteria, with adequate safeguards, including a fair hearing before removal — informing the
+debate on whether SIR's timelines and documentary demands meet this due-process threshold.
+Common thread: mature democracies minimise burden-shifting onto citizens by relying on inter-agency data integration
+rather than repeated door-to-door documentary re-verification
+Way Forward
+1.Institutionalise continuous roll updation via linkage (with privacy safeguards) to civil registration systems (birth/death
+registers), reducing the need for periodic disruptive SIRs.
+2.Restore and codify the Lal Babu Hussein presumption: Any exclusion of an already-enrolled elector should require
+individualised inquiry and a reasoned, appealable order — not a blanket document-production mandate.
+3.Decouple SIR timing from elections: Statutory cooling-off periods (e.g., no intensive revision within X months of a
+scheduled election) to prevent last-minute disenfranchisement risk and allow adequate time for claims/objections and
+appeals.
+4.Widen and simplify the documentary regime: Universal acceptance of Aadhaar/other widely-held IDs from the outset,
+with alternative proof mechanisms (community verification, sworn affidavits with penalty for false claims) for those
+without legacy documents, particularly for SC/ST, migrant, and women voters.
+5.Strengthen appellate infrastructure: Adequately staffed, judicially trained appellate tribunals with realistic case-load
+timelines, distinct from the executive-controlled Foreigners' Tribunal model that has drawn criticism in Assam.
+6.Clarify institutional boundaries: Explicit statutory clarification that the ECI's SIR is confined to roll eligibility and
+cannot be used as a proxy citizenship-determination exercise; any citizenship doubt must be routed through due
+process under the Citizenship Act.
+7.Independent, multi-partisan ECI appointments: Resolving the pending challenge in Jaya Thakur and restoring a broad-
+based selection process would strengthen public trust in exercises as consequential as the SIR.
+8.Transparency by design: Real-time, searchable, reasoned deletion databases (as directed for Bihar) should become a
+standard, pre-emptive feature of every SIR, not a court-ordered afterthought.
+9.Time-bound judicial review: Given the Bihar experience of a verdict arriving six months post-election, courts and
+legislature should consider expedited/interim review mechanisms so that constitutional questions around a state's
+electoral roll are resolved before, not after, the relevant election
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+MCN 2.0
+Mains Concise Note (MCN) 80 : SIR
+Magna Carta Mains 2026
+Electoral integrity demands clean rolls; constitutional democracy demands inclusive rolls. The real test of SIR lies in reconciling
+both—because a democracy is weakened as much by a fraudulent vote as by the silencing of a genuine one.
+
+-- 7 of 23 --
+
+New/Amended
+Article Provision
+Article 330A (new)
+Reserves not less than one-third of total seats in the
+Lok Sabha for women, including a sub-reservation for
+women within seats already reserved for SC/ST.
+Article 332A (new)
+Mirrors the above for State Legislative Assemblies —
+one-third reservation for women, with an SC/ST
+women sub-quota.
+Article 239AA
+amendment
+Extends the one-third reservation to the Delhi
+Legislative Assembly.
+Article 334A (new)
+Operationalising/sunset clause: reservation takes
+effect only after delimitation is undertaken on the
+basis of the first Census conducted after the Act's
+commencement; seats reserved for women are to be
+rotated after each delimitation; the reservation is to
+cease 15 years after commencement unless
+Parliament extends it by law.
+The 106th Constitutional Amendment Act, 2023
+The Delimitation Bottleneck
+Article 334A ties the actual implementation of
+women's reservation to a delimitation exercise
+conducted after the first Census taken after the
+Amendment's commencement. Since the ongoing
+Census (reference date 1 March 2027) had not
+concluded, and delimitation itself is a multi-year
+process, independent analysts calculated that
+reservation would not have taken effect before the
+2034 general election under the original scheme — a
+gap of roughly a decade between enactment and
+operation
+The 2026 Legislative Package and Its Defeat
+In 2026 the Government introduced a three-bill package to break this deadlock:
+● Constitution (131st Amendment) Bill, 2026 — sought to delete the constitutional stipulation (in the Article 82 proviso) that the next
+delimitation must follow the first Census after 2026, thereby permitting delimitation to proceed using 2011 Census data rather than waiting
+for Census 2027 results.
+● Delimitation Bill, 2026 — would have repealed and replaced the Delimitation Act, 2002, and empowered the Union Government to
+constitute a new Delimitation Commission, chaired by a sitting or former Supreme Court judge, and reportedly also proposed expanding Lok
+Sabha strength from 550 to 850 seats.
+● Union Territories Laws (Amendment) Bill, 2026 — extended equivalent changes to Delhi, Puducherry and Jammu & Kashmir.
+The stated intent was to trigger the Nari Shakti Vandan Adhiniyam in time for the 2029 general election, including the mandatory
+SC/ST women's sub-quota. However, the Constitution (131st Amendment) Bill, 2026 failed to secure passage in the Lok Sabha, as it
+required a special majority which the Government could not muster amid strong opposition from southern and several other states.
+Their principal objection was that decoupling delimitation from future Census data — after seat shares had been frozen since 1971 for
+exactly this reason — would penalise southern and other states that achieved faster demographic transition and population
+stabilisation, while rewarding higher-fertility northern states with a larger seat share.
+This effectively re-opened India's long-standing federal fault line over population-based representation, with women's reservation
+caught in the middle of it.
+Analysis of defeat of the 2026 attempt
+Where Things Stand (as of July 2026)
+● The 106th Amendment is in force as law but the reservation itself is not yet operative in any Lok Sabha or Assembly election.
+● The 2026 attempt to fast-track implementation via new delimitation was defeated in the Lok Sabha, leaving the original Article 334A timeline — tied to
+delimitation after Census 2027 — intact for now.
+● Absent a fresh legislative or judicial resolution, the earliest realistic election in which the quota could apply remains uncertain, with 2029 no longer
+assured and 2034 cited by several analysts as the more likely horizon.
+Public interest litigation has also been filed in the Supreme Court seeking direction to the Union Government to implement the 106th Amendment
+without waiting indefinitely for delimitation, arguing that an enacted constitutional guarantee cannot be held in abeyance for an unreasonable
+and undefined period. The Supreme Court has issued notice to the Centre seeking its response, and the matter remains sub judice.
+MCN 2.0
+Mains Concise Note (MCN) 81 : Women Reservation in Legislatures
+Magna Carta Mains 2026
+In India, the demand for legislative reservation for women dates back to the Constituent Assembly debates, but it was only through the 103rd CA Act,
+2023 — popularly called the Nari Shakti Vandan Adhiniyam — that one-third reservation for women in the Lok Sabha and State Legislative Assemblies
+was formally enacted. While local body reservation under Articles 243D and 243T has been in force since 1993 and has demonstrably expanded
+women's political participation at the grassroots, reservation at the national and state legislature level remains, as of mid-2026, enacted in law but
+not yet operational
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+
+-- 8 of 23 --
+
+Issues and Challenges
+Implementation and Design Issues
+Delimitation deadlock: Tying operationalisation to a future delimitation
+exercise has, in practice, deferred the reservation by a decade or more,
+undermining the credibility of a constitutional guarantee that enjoyed
+near-unanimous political support in 2023.
+Federal tension over delimitation: Any attempt to expedite delimitation
+using updated Census data risks reopening the population-versus-
+representation debate, since states with better demographic performance
+(mostly southern) fear a relative loss of seats and political weight — as
+seen in the defeat of the 131st Amendment Bill, 2026.
+Rotation of reserved constituencies: As with Panchayats, rotating
+reserved seats after each delimitation cycle may discourage sustained
+constituency-building by women MPs/MLAs and create uncertainty for
+incumbents and parties alike.
+15-year sunset clause: Article 334A limits reservation to 15 years unless
+extended, raising questions about whether one delimitation cycle is
+sufficient to institutionalise change before the clause potentially lapses.
+No sub-quota for OBC women: Unlike the SC/ST sub-quota built into the
+Act, there is no reservation for OBC women, a long-standing demand
+from several parties that was a major reason earlier versions of the Bill
+(1996–2010) repeatedly failed.
+Structural and Political Issues
+Party ticket distribution: Even without reservation, parties could
+voluntarily field more women candidates; the 2024 elections show most
+major parties gave women well under 20% of tickets, indicating limited
+voluntary commitment absent a legal mandate.
+Proxy representation risk: The Panchayat-level experience with proxy
+control by male relatives ("sarpanch pati"/"pradhan pati") raises a real risk
+of similar dynamics at the state and national level unless accompanied by
+political and social empowerment measures.
+Intra-party glass ceiling: Even where women are elected, their presence in
+Cabinet, key ministries, and party leadership positions remains
+disproportionately low relative to their numbers in the House.
+Resource and campaign disadvantages: Women candidates often face
+greater financial constraints, less access to party campaign machinery, and
+social/safety barriers to sustained campaigning, especially in rural
+constituencies.
+Intersectionality: Reservation calculated purely on gender may still under-
+represent women from religious minorities, disability groups, or other
+marginalised intersections not captured by the SC/ST sub-quota alone.
+Country/Region Mechanism
+Rwanda
+Constitutionally mandates minimum 30% women in decision-making
+bodies; combined with strong party-list PR and post-conflict political
+will.
+Nordic countries
+(Sweden, Norway,
+Finland)
+No binding legal quota nationally; achieved through voluntary party
+quotas, proportional representation electoral systems, and strong
+gender-equal political culture.
+France
+"Parity law" (2000, strengthened since) requiring parties to field near-
+equal numbers of male and female candidates in list-based elections,
+with financial penalties for non-compliance.
+Nepal
+Constitution mandates at least 33% women in the federal parliament,
+achieved via a mixed FPTP + proportional representation system with a
+gender-balanced party-list requirement.
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+MCN 2.0
+Mains Concise Note (MCN) 81 : Women Reservation in Legislatures
+Magna Carta Mains 2026
+1.Delink implementation from delimitation, or set a firm
+timeline: Consider amending Article 334A to allow
+reservation to be implemented on the existing seat
+structure
+2.Build federal consensus on delimitation separately: Address
+the population-versus-representation dilemma through a
+distinct, deliberative process — potentially an independent
+commission, incentive mechanisms for demographic
+transition, or a formula that partially decouples the total
+number of seats a state gets from its raw population
+growth — so that delimitation reform does not repeatedly
+become the graveyard of women's reservation.
+3.Introduce an OBC women sub-quota: Structuring a sub-
+reservation for OBC women, similar to the existing SC/ST
+sub-quota, would address a long-pending demand and
+improve intersectional representation.
+4.Strengthen safeguards against proxy representation:
+Learning from Panchayat experience, capacity-building
+programmes, leadership training, and legal/administrative
+measures (e.g., requiring elected women to personally
+exercise statutory functions) can reduce the risk of "proxy"
+control.
+5.Encourage voluntary party quotas in the interim: Political
+parties can commit to a minimum share of women
+candidates ahead of the 2029 election through internal
+party constitutions or Election Commission-facilitated
+voluntary codes, without waiting for the constitutional
+quota to become operative.
+6.Review the rotation and sunset design: Consider longer or
+more predictable rotation cycles to allow elected women to
+build sustained constituency relationships, and build in a
+transparent, criteria-based process for any future extension
+beyond the 15-year sunset.
+7.Complementary reforms: Campaign finance support, safety
+and security provisions for women candidates, mentorship
+and political leadership pipelines within parties, and civic
+education can address the deeper social barriers that legal
+reservation alone cannot fix.
+8.Institutional monitoring: Empower the National
+Commission for Women and the Election Commission of
+India to jointly track and publicly report on women's
+candidacy
+Way Forward
+Women’s reservation in Parliament is not
+merely about increasing numbers; it is
+about correcting a historical imbalance in
+who speaks, decides, and shapes the
+nation’s priorities
+
+-- 9 of 23 --
+
+1.Pre-Independence Roots
+a.Nationalist parties like the Indian National Congress (INC, 1885) and the All India Muslim League (1906) began
+as elite associations but gradually massified, transforming from pressure groups into proto-parties that
+negotiated with the colonial state.
+b.Example (mass mobilisation): The Non-Cooperation and Civil Disobedience movements under Congress
+showed how a party could mobilise peasants, workers, students and the middle class around a shared political
+programme.
+c.Case study: The Lahore Session of INC (1929) resolved to demand Poorna Swaraj and launched a coordinated
+political campaign—an early example of a party articulating a coherent national agenda.
+2.Phase I – One-Party Dominant “Congress System” (1952–1967)
+a.India started as a multi-party system in law, but in practice saw a Congress-dominant system, with INC winning
+comfortable majorities in the first four general elections.
+b.Known as the “Congress system”, where Congress functioned as an umbrella party representing diverse social
+coalitions and factions internally rather than through multiple parties.
+c.Example: In the 1957 Lok Sabha, INC won ~75% of seats, while opposition parties were fragmented and
+regionally limited.
+d.Global comparison: Similar to the Liberal Democratic Party (LDP) dominance in post-war Japan, where one
+party repeatedly won power in a formally competitive multi-party setting.
+3.Phase II – Fragmentation & Rise of Regional Parties (1967–1989)
+a.The 1967 election broke Congress’s invincibility; coalition governments emerged in several states and regional
+parties (DMK in Tamil Nadu, Akali Dal in Punjab, etc.) gained prominence.
+b.The Emergency (1975–77) and the Janata Party experiment (1977–79) showed the potential and fragility of
+broad anti-Congress coalitions.
+c.Example: The 1977 Lok Sabha election—Congress was swept out of power in North India; the Janata Party, a
+coalition of several opposition groups, formed the first non-Congress Union government.
+4.Phase III – Coalition Era & Multi-Party Federalisation (1989–2014)
+a.From 1989 to 2014, India saw unstable minority governments, broad coalitions (United Front, NDA, UPA) and
+growing influence of regional parties in coalition bargaining at the Centre.
+b.Federalisation of the party system meant state-level parties (DMK, TDP, JD(U), Shiv Sena, TMC, etc.) became
+king-makers in Delhi.
+c.Example: UPA-I (2004–09) relied on outside support from the Left Front, which used this leverage to influence
+policies like withdrawal from the original Indo-US nuclear deal configuration.
+5.Phase IV – A New Dominant-Party Pattern (2014–present)
+a.Since 2014, the BJP has emerged as the new dominant party at the national level, winning clear majorities in
+2014 and 2019 and remaining the single largest party in 2024, even as regional parties retain strong state
+bases.
+b.India today is best described as a “multi-party, asymmetrically competitive” system—many parties exist, but one
+party has a clear structural advantage.
+c.Example: In the 2024 Lok Sabha elections, six national parties together secured over 63% of the total votes,
+with BJP remaining the largest party.
+If elections are the heartbeat of
+democracy, political parties are its
+nervous system. They aggregate
+interests, structure political choices, and
+connect citizens to the state
+MCN 2.0
+Mains Concise Note (MCN) 82 : Political Parties
+Magna Carta Mains 2026
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+
+-- 10 of 23 --
+
+1.Structural & Legal Framework of Political Parties in India
+a. Constitutional & Statutory Position
+i.The Original Constitution does not explicitly mention political parties, but Article 19(1)(c) (freedom
+of association) and the entire design of parliamentary democracy presupposes them.
+ii.Xth Schedule added via 52 CA, 1985 also mentions Political Parties.	nd
+b.Parties are formally governed mainly by:
+i.Representation of the People Act, 1951 (RPA) – registration (Section 29A), funding (Sections 29B &
+29C).
+ii.Election Symbols (Reservation and Allotment) Order, 1968 – criteria for recognition as
+national/state parties.
+c.EC’s power over parties:
+i. In Indian National Congress (I) v. Institute of Social Welfare (2002), the Supreme Court held that the
+Election Commission can register parties but can de-register them only on limited grounds (e.g.,
+fraud, illegal purposes), not merely for inactivity—a principle now live in disputes around delisting
+parties.
+2. Anti-Defection & Party Discipline
+a.The Tenth Schedule (1985) aims to curb defection by disqualifying members who voluntarily give up
+party membership or defy the whip in key votes.
+b.Kihoto Hollohan v. Zachillhu (1992):
+i. The Supreme Court upheld the Tenth Schedule but allowed its decisions to be reviewed by courts,
+reinforcing party discipline while subjecting Speakers’ decisions to judicial scrutiny.
+3.Party Funding Framework : Parties can recieve :
+a.Membership fees, small donations, larger contributions under RPA.
+b.Contributions from companies (Companies Act, 2013) and via electoral trusts.
+c.Political Parties enjoy 100% tax exemption (Section 13A, IT Act) only if they:
+i.file income tax returns,
+ii.maintain audited accounts,
+iii.disclose contributions.
+d.The now-struck-down Electoral Bonds Scheme (2017) allowed anonymous donations through SBI;
+major critique was opacity.
+i.ADR v. Union of India (2024 – Electoral Bonds):
+1. A Constitution Bench struck down the Electoral Bonds Scheme as unconstitutional for violating
+voters’ right to information and upsetting the level playing field, directing disclosure of all bond
+purchasers and recipient parties.
+4.Transparency & Accountability :
+a.Central Information Commission Decision (June 2013) : The Central Information Commission ruled that
+six national political parties are “public authorities” under RTI.
+i.Parties covered: INC, BJP, CPI, CPI(M), BSP, NCP; but none have complied.
+b.Parties have to annually submit details of donations above 20,000 to ECI under RoPA, 1951.
+MCN 2.0
+Mains Concise Note (MCN) 82 : Political Parties
+Magna Carta Mains 2026
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+
+-- 11 of 23 --
+
+1.Weak Internal Democracy & High-Command Culture
+a.Most parties lack regular, competitive internal elections; candidate selection is often centralised, opaque and family-
+controlled.
+b.Illustration: Many major parties (INC, several regional parties like DMK, SP, RJD, NCP factions, SAD, Shiv Sena
+factions) are effectively run by family leaderships, where organisational positions and tickets are decided by a small
+coterie.
+c.Law Commission (170th Report) and multiple ECI consultations (e.g., ECI’s 2025 structured interaction with all
+recognised national parties) have repeatedly flagged the need for intra-party democracy & financial transparency.
+d.Global contrast: Germany’s Basic Law (Article 21) mandates that parties’ internal organisation must be democratic
+and that they must publicly account for their assets and funding, giving a constitutional basis to demand intra-party
+democracy.
+2.Criminalisation of Politics
+a.A significant share of MPs and MLAs across parties have serious criminal cases.
+b.Data example: ADR analyses show a persistent trend where candidates with criminal cases have a higher chance of
+winning than those with clean records; in Lok Sabha 2024, candidates with criminal cases had roughly 3–4× higher
+win rates than others.
+c.A 2024 ADR report notes 151 sitting MPs/MLAs with declared cases related specifically to crimes against women.
+d.Recent state-level reports show alarming numbers – for example, 66% of Bihar’s MLAs have pending criminal cases;
+in some states, over half the ministers have serious criminal charges.
+e.Judgment example – Lily Thomas v. Union of India (2013):
+i. The Supreme Court struck down Section 8(4) RPA, ensuring immediate disqualification of legislators upon
+conviction, reflecting judicial pushback against criminalisation.
+f.Judgment example – Public Interest Foundation v. Union of India (2018):
+i. The Court, acknowledging rising criminalisation, directed parties to widely publicise criminal cases of their
+candidates and urged Parliament to bar those facing serious charges, but declined to create new disqualification
+grounds itself.
+3.Money Power & Opaque Funding
+a.Elections are extremely expensive; parties rely on high-value donors and corporate money.
+b.Example: ADR and ECI data show a very high share of crorepati candidates; for instance, in recent Bihar elections,
+around 41% of candidates in one phase were crorepatis, showing the tight link between wealth and candidacy.
+c.The Electoral Bonds scheme worsened opacity by hiding donor identity from voters; its striking down in 2024
+exposed large, concentrated flows of corporate money to ruling parties.
+d.Global comparison:
+e.UK: Under the Political Parties, Elections and Referendums Act 2000, donations and loans above certain thresholds
+must be reported and are published quarterly by the Electoral Commission, which also polices impermissible
+donations.
+f.Canada: Only individuals (no corporations/unions) may donate, with strict caps and comprehensive disclosure;
+generous tax credits encourage small donations, while election expenses are publicly reimbursed based on votes and
+spending, creating a mixed public-private funding model.
+4.Representation Deficits – Women & Marginalised Groups
+a.Despite some progress, parties still under-nominate women and marginalised groups to winnable seats.
+b.Data example (women):
+c.The 18th Lok Sabha (2024) has 74 women MPs, roughly 13.6–14% of the total, slightly lower than 2019 and far
+below the future 33% target under the 106th Constitutional Amendment (Women’s Reservation).
+d.A PIB statement (2025) notes women are ~46% of elected representatives in PRIs (due to reservations), but only
+~14–17% in Parliament and state assemblies—highlighting the gap between local and higher-level representation.
+e.Judicial development: The Women’s Reservation Act (106th Amendment) has been passed but linked to future
+delimitation and census; a recent PIL has led the Supreme Court to seek the Centre’s response on implementing it,
+showing judicial pressure on parties and government to move faster.
+Key Issues in the Functioning of Political Parties
+MCN 2.0
+Mains Concise Note (MCN) 82 : Political Parties
+Magna Carta Mains 2026
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+
+-- 12 of 23 --
+
+5.Dynastic Politics & Personality Cults
+a.Many parties are effectively family firms, narrowing internal competition and discouraging merit-based
+leadership.
+b.Data example: An ADR report found around 21% of sitting MPs/MLAs/MLCs nationally are from political
+families, rising to 31% in Lok Sabha, indicating deep institutionalisation of dynasticism.
+c.Personality-centric campaigns (projecting a single leader at national or state level) weaken organisational depth
+and ideologically driven politics.
+6.Identity Politics & Social Cleavages
+a.Parties often mobilise along caste, religion, language and region, sometimes violating legal limits on using
+religion and caste for electoral gains.
+b.Judgment example – Abhiram Singh v. C.D. Commachen (2017):
+c. The Supreme Court interpreted Section 123(3) RPA broadly to bar appeals to any candidate’s or voter’s
+religion, race, caste, community or language, reinforcing the secular character of elections.
+d.Case study: Campaigns invoking majoritarian religious identity or caste pride, hate speeches by candidates, and
+targeted polarising campaigns have repeatedly led to MCC violations and criminal cases during elections.
+7.Proliferation & Misuse of RUPPs
+a.Thousands of Registered Unrecognised Political Parties exist, many of which never contest elections and are
+suspected of being “shells” for money-laundering or pressure tactics.
+b.Example – ECI & SEC interventions:
+c.ECI delisted 42 RUPPs in Tamil Nadu in 2025 for long inactivity.
+d.The Maharashtra State Election Commission now requires parties to contest at least five seats in civic polls
+within every five-year cycle to retain registration, explicitly to curb bogus parties created for blackmail or
+misuse.
+Global Best Practices & What They Suggest
+1. Constitutionalisation & Democratic Design of Parties
+a.Germany:
+i.Article 21 of the Basic Law explicitly recognises parties as key to forming the “political will of the people,”
+mandates internal democracy, and requires public accounting of funds; parties that threaten the free
+democratic order can be banned (militant democracy).
+ii.Lesson for India: Move from seeing parties as private clubs to constitutional actors with public
+responsibilities, justifying deeper regulation of their internal functioning, not merely their electoral
+behaviour.
+2. Regulated Party Finance & Public Funding
+a.UK:
+i.The Electoral Commission enforces detailed reporting of donations and loans; donations can come only
+from permissible sources and above-threshold donations are disclosed; there are spending limits in
+campaigns.
+ii.Canada:
+iii.Only individuals can donate; contributions are capped and heavily subsidised via tax credits, and parties
+receive expense reimbursements for election spending, with all major flows disclosed.
+iv.Lesson for India: combine donation caps, donor disclosure, spending limits and partial public funding to
+reduce reliance on big opaque donors.
+3.Intra-Party Democracy & Member Rights
+i.Several European democracies (Germany, Scandinavia, some Latin American states) legally require parties
+to:
+ii.Hold periodic internal elections;
+iii.Maintain membership rolls;
+iv.Provide fair procedures for candidate selection and discipline.
+v.Lesson for India: go beyond guidelines to binding minimum standards for internal party structure and
+functioning, enforced by an independent regulator or ECI.
+MCN 2.0
+Mains Concise Note (MCN) 82 : Political Parties
+Magna Carta Mains 2026
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+
+-- 13 of 23 --
+
+1.Constitutional & Legal Recognition of Parties as Public Institutions
+a.Insert a new Part/Article on political parties in the Constitution or significantly amend RPA to:
+i.Recognise parties as essential to democratic functioning;
+ii.Impose obligations of internal democracy, transparency and non-discrimination;
+iii.Provide for independent oversight.
+2.Strengthen Intra-Party Democracy
+a.Mandatory internal elections (with independent auditing) for:
+b.Party president and national/state office-bearers;
+c.Candidate selection panels.
+d.Transparent membership registers and grievance redressal mechanisms.
+e.ECI to link recognition & symbol to compliance with internal democracy norms.
+3.Tackling Criminalisation of Politics
+a.Legal & institutional actions:
+b.Debarment law:
+i.Parliament to legislate (as urged in Public Interest Foundation (2018)) that persons charged with heinous offences
+(after charges are framed by a court) are barred from contesting, with safeguards against motivated cases.
+c.Fast-track courts:
+i.Scale up special courts for MPs/MLAs, as directed by SC in 2017–18, to ensure time-bound disposal of cases.
+4.Party-level sanctions:
+a.Deny tax benefits and recognition perks to parties that continue to field large proportions of candidates with serious
+criminal cases (similar to SC’s contempt proceedings enforcing Public Interest Foundation directions).
+5.Comprehensive Party Finance Reform
+a.Post–Electoral Bonds roadmap:
+i.100% transparency of donations above a low threshold:
+ii.Following the Electoral Bonds judgment (2024), mandate real-time online disclosure of all contributions above, say,
+₹10,000, including donor identity, amount, and mode.
+6.Donation caps & source restrictions:
+a.Impose annual limits per donor (person or company), and consider banning corporate donations or tying them to net
+domestic profits, as Canada and reform debates in the UK recommend.
+b.Partial public funding:
+7.Offer:
+a.Tax credits for small individual donations (Canada model);
+b.Reimbursements of a share of verified campaign expenses for parties crossing certain vote thresholds, conditional on
+adherence to clean-candidate norms.
+8.Independent audits & enforcement:
+a.Strengthen the role of CAG/ECI or create a separate Political Finance Regulator with powers similar to the UK Electoral
+Commission.
+9.Improving Representation & Inclusiveness
+a.Time-bound implementation of Women’s Reservation:
+b.Complete census & delimitation expeditiously to operationalise the 106th Amendment, as already flagged before the
+Supreme Court.
+10.Party-level quotas & zipper lists:
+a.Mandate that a minimum percentage of party tickets (and winnable seats) go to women, SCs, STs, and other
+marginalised groups, with penalties for non-compliance.
+11.Leadership pipelines:
+a.Encourage parties to build structured cadre-training and mentorship programmes, especially for women & youth (using
+the Panchayati Raj experience, where women are 46% of elected representatives, as a positive model).
+12.All registered parties must contest at least a minimum number of seats or secure a minimum vote share in a given period,
+failing which they lose registration (mirroring the Maharashtra SEC rule).
+13.Costed manifestos:
+a.Require parties to file fiscally costed manifestos, vetted by an independent body, to curb fiscally irresponsible promises.
+14.Performance scorecards & open data:
+a.Civil society tools like MP performance trackers and ADR’s candidate profiles already exist; institutionalise them with
+official backing—e.g., mandatory “candidate & MP performance dashboards” on ECI/Parliament websites.
+15.Curb hate speech & polarisation:
+a.Strictly enforce RPA Sec. 123(3) and Model Code of Conduct using fast-track courts and real-time monitoring (social
+media included), invoking Abhiram Singh and related rulings as legal basis.
+MCN 2.0
+Mains Concise Note (MCN) 82 : Political Parties
+Magna Carta Mains 2026
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+
+-- 14 of 23 --
+
+Aspect National Parties (e.g., BJP, INC,
+CPI(M), BSP, AAP)
+Regional/State Parties (e.g., DMK,
+TMC, TDP, SP, RJD, Shiv Sena)
+Recognition criteria Vote share/seats across 4+ states, or
+recognition as a state party in 4+ states
+Vote share/seat thresholds within a
+single state
+Ideological base Pan-Indian ideology (nationalism,
+socialism, Hindutva, communism)
+Sub-national identity: language, caste,
+region, ethnicity
+Organisational reach 	All-India cadre/federal structure Concentrated leadership, often centred
+on a single dominant leader or family
+Electoral symbol 	Reserved uniformly across India Reserved only within the recognised
+state(s)
+Typical funding base 	Larger corporate/national donor base More localised patronage networks,
+often opaque
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+National and Regional Political Parties in India: Dynamics, Issues, and Solutions
+MCN 2.0
+Mains Concise Note (MCN) 83 : National & Regional Parties
+Magna Carta Mains 2026
+India's party system is unique in scale and diversity: from a phase of “one-party dominance” under the Congress (1952–67), through the rise of
+opposition and regional assertion (1967–89), to the era of coalition politics (1989–2014), and now a phase some scholars call the “second
+dominant party system” under the BJP, contested by a resurgent federal front of regional players
+Dynamics Between National and Regional Parties
+Coalition Bargaining: Since 1989, regional parties have repeatedly held the balance of power at the Centre,
+extracting policy concessions (special category status demands, central fund allocation, portfolio bargains)
+— a dynamic visible again in 2024 with TDP and JD(U) as key NDA partners.
+Centre–State Friction: Regional parties in opposition-ruled states frequently clash with the Centre over
+fiscal federalism (GST compensation, devolution formula under Finance Commission), Governor's conduct,
+and use of central agencies (ED, CBI) — seen in disputes involving Tamil Nadu, West Bengal, Kerala, and
+Punjab.
+Absorption and Realignment: National parties often co-opt regional leaders/parties (e.g., splinters of Shiv
+Sena and NCP joining NDA in Maharashtra, 2022–23) — reshaping the very distinction between “national”
+and “regional.”
+Vote-Bank Consolidation: Regional parties often build sub-national coalitions around caste/community
+blocs (Yadav-Muslim in RJD/SP, Maratha in Shiv Sena/NCP), which can override programmatic politics.
+Symbol and Identity Politics: Party symbol disputes following splits (Shiv Sena, NCP, 2022–23) illustrate
+how the ECI's adjudicative role under the 1968 Order has become a site of intense political contestation.
+National Front Formations: Regional parties periodically federate into national-level fronts (National Front
+1989, United Front 1996, INDIA bloc 2023) to counterbalance a dominant national party — reflecting the
+“federalisation” of Indian party politics without full nationalisation of any single alternative party.
+Indicator 	Figure
+National parties (as of latest ECI classification) 	6 (BJP, INC, CPI(M), BSP, AAP, NPP)
+Recognised state/regional parties 	~55–60 across states/UTs
+Registered but unrecognised parties 	2,500+
+Share of national parties' funding via Electoral
+Bonds (2023–24, pre-verdict)
+BJP ~43%; INC ~73% (of total declared income)
+Corporate/trust donations as share of national
+party funding (2023–24)
+~89%
+
+-- 15 of 23 --
+
+Key Issues
+1. Criminalisation of Politics: Rising proportion of MPs/MLAs facing criminal charges across both national and regional
+parties; weak enforcement of disqualification despite Lily Thomas v. Union of India (2013) and Public Interest
+Foundation v. UoI (2018) directions on disclosure.
+2. Dynastic and Personality-Centred Structures: Many regional parties are effectively family enterprises (DMK, SP, RJD,
+NCP, Shiv Sena, TDP, JD(S)), undermining inner-party democracy and long-term institutionalisation.
+3. Opaque Political Funding: The Electoral Bond Scheme (2018–2024) enabled anonymous, unlimited corporate
+donations; struck down by the Supreme Court in Association for Democratic Reforms v. Union of India (Feb 2024) for
+violating Article 19(1)(a) (voters' right to information) — yet the underlying problem of opaque funding to both national
+and regional parties persists through electoral trusts and unreported cash.
+4. Weak Anti-Defection Enforcement: Speaker's discretion, absence of time limits, and politically motivated delays
+(Keisham Meghachandra Singh v. Speaker, Manipur LA, 2020) have enabled engineered defections that topple state
+governments — Karnataka (2019), Madhya Pradesh (2020), Maharashtra (2022) — disproportionately affecting regional-
+party-led coalitions.
+5. Party Fragmentation and Coalition Instability: A high number of registered-unrecognised parties (2,800+) alongside
+declining vote-share thresholds for recognition dilutes the meaningfulness of “national party” status; frequent splits
+fragment regional mandates.
+6. Regionalism vs National Cohesion: Excessive sub-nationalism can produce inter-state disputes (Cauvery, Mullaperiyar,
+language imposition debates) and complicate national policy coordination (GST Council consensus, NEP rollout).
+7. ECI's Limited Regulatory Teeth: No statutory power to deregister a party for constitutional violations (only the Model
+Code of Conduct, which lacks legal backing); Section 29A registration is largely a formality with no substantive vetting of
+internal democracy.
+8. Erosion of Ideology in Favour of Patronage: Both national and regional parties increasingly compete on welfare
+populism (“freebies”) and identity mobilisation rather than programmatic policy differentiation, raising concerns flagged
+by the Supreme Court in S. Subramaniam Balaji v. Government of Tamil Nadu (2013).
+Way Forward / Reform Recommendations
+1. Statutory Backing for the Model Code of Conduct: Convert MCC into a legally enforceable code with graded penalties,
+reducing selective/delayed enforcement against both national and regional ruling parties.
+2. Mandatory Inner-Party Democracy: Amend Section 29A registration norms to require periodic, ECI-audited internal
+elections and transparent leadership succession — addressing dynastic capture common in regional parties.
+3. State Funding of Elections / Reformed Donation Regime: Building on the Indrajit Gupta Committee (1998)
+recommendation and the 2024 Electoral Bonds verdict, introduce a transparent, capped, and traceable funding mechanism
+(e.g., a National Election Fund) applicable uniformly to national and regional parties.
+4. Independent Tribunal for Anti-Defection Adjudication: Implement the Keisham Meghachandra Singh (2020) suggestion
+for a time-bound, judicially supervised mechanism (retired SC/HC judge-headed tribunal) to replace Speaker discretion,
+reducing engineered defections that most often destabilise regional-party governments.
+5. Rationalised Recognition Criteria: Periodically review ECI's vote-share/seat thresholds for national/state party status to
+prevent both excessive fragmentation and unfair loss of recognition for genuinely representative regional parties.
+6. Strengthening Cooperative Federalism Platforms: Institutionalise forums like the Inter-State Council and empower the
+GST Council model of consensus-building to channel regional party demands constructively rather than adversarially.
+7. Regulating Political Advertising and Populism: Following S. Subramaniam Balaji (2013), develop clearer guidelines
+(possibly via ECI-issued fiscal responsibility disclosures) for welfare promises made by both national and regional parties
+during campaigns.
+8. Decriminalisation of Politics: Fast-track courts for MP/MLA criminal cases (as directed by the Supreme Court in Public
+Interest Foundation, 2018) to ensure timely disposal before the next election cycle, applicable uniformly across party lines.
+Country 	Party System Feature
+Spain Strong regional parties (Catalan, Basque) formally integrated into national coalition
+bargaining; asymmetric federalism accommodates regional autonomy statutes
+United Kingdom Scottish National Party and Plaid Cymru function as devolved-national regional
+parties; Political Parties, Elections and Referendums Act, 2000 mandates donor
+transparency
+United States Strict two-party dominance (FPTP + no legal recognition tier for regional parties)
+suppresses regional party formation despite significant sub-national diversity
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+MCN 2.0
+Mains Concise Note (MCN) 83 : National & Regional Parties
+Magna Carta Mains 2026
+
+-- 16 of 23 --
+
+Type 	Description
+Financial Audit (Regularity
+Audit)
+Verifies accuracy and fairness of financial
+statements; checks whether transactions
+conform to law, rules, and authority.
+Compliance Audit
+Checks adherence to laws, rules,
+regulations, and government orders in
+financial transactions.
+Performance Audit
+(Efficiency/VFM Audit)
+Assesses economy, efficiency, and
+effectiveness of programmes/schemes —
+e.g., whether outcomes justify expenditure
+(Value for Money).
+Audit of Autonomous
+Bodies/PSUs
+Covers government companies (Section
+143 of Companies Act, 2013) and
+statutory corporations.
+Environmental/Social Audit
+Emerging area assessing environmental
+compliance and social sector scheme
+delivery (e.g., MGNREGA, Swachh Bharat).
+IT/Systems Audit
+Reviews computerised government
+systems, e-governance platforms, and
+cybersecurity of financial systems.
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+MCN 2.0
+Mains Concise Note (MCN) 84 : CAG
+Magna Carta Mains 2026
+• Often called the "Fourth Pillar" of accountability alongside Legislature, Executive, Judiciary — and functions as "friend, philosopher and
+guide" to the Public Accounts Committee (PAC).
+• Article 148: Provides for a CAG appointed by the President,
+removable only like a Supreme Court judge (impeachment for
+proved misbehaviour or incapacity), ensuring independence
+from executive control.
+• Article 149: Empowers Parliament to prescribe the duties
+and powers of the CAG regarding Union and State accounts —
+currently governed by the CAG's (Duties, Powers and
+Conditions of Service) Act, 1971.
+• Article 150: President prescribes accounting formats for
+Union and States on CAG's advice.
+• Article 151: CAG's reports on Union accounts submitted to
+the President (laid before Parliament); on State accounts
+submitted to the Governor (laid before State Legislature).
+• Article 279: CAG certifies net proceeds of taxes for
+distribution between Centre and States.
+• Salary charged on the Consolidated Fund of India (not
+subject to annual vote), safeguarding financial independence.
+Issues
+1. Post-facto nature of audit: CAG audits after expenditure has occurred, limiting real-time correction of financial mismanagement.
+2. Delayed tabling of reports: Reports often laid before Parliament/Assemblies months or years after the audit period, diluting relevance and
+public salience.
+3. Limited follow-up mechanism: No binding power to enforce recommendations; depends entirely on PAC and executive responsiveness.
+4. Coverage gaps: Private-public partnerships (PPPs), autonomous societies, and NGOs receiving government funds often fall outside effective
+audit reach despite huge public money flows.
+5. Capacity constraints: Shortage of trained personnel for specialised sectors like defence procurement, IT systems, and complex financial
+instruments (derivatives, disinvestment valuations).
+6. Political weaponisation of reports: Findings (e.g., 2G, Coal block allocation) often get reduced to political slugfests rather than triggering
+systemic correction.
+7. Appointment process opacity: CAG is appointed solely by the executive (President on PM's advice) without a broad-based collegium —
+raising independence concerns, unlike some peer democracies.
+8. State-level neglect: State CAG reports often receive far less legislative scrutiny than Union reports due to weaker PAC functioning at state
+level.
+9. No pre-audit for major contracts: Confined to post-audit; India lacks strong ex-ante financial control comparable to some OECD SAIs.
+1. 2G Spectrum Scam (2010): CAG report flagged arbitrary, first-come-first-served allocation of telecom spectrum without auction, estimating
+massive presumptive loss to the exchequer — led to Supreme Court cancellation of licences and triggered major reforms in resource allocation
+via auction.
+2. Coal Block Allocation ("Coalgate", 2012): CAG highlighted opaque allocation of coal blocks without competitive bidding — Supreme Court
+subsequently cancelled over 200 allocations (2014).
+3. Commonwealth Games 2010: CAG audit uncovered cost overruns, procurement irregularities, and inflated contracts, feeding into PAC
+investigations and prosecutions.
+4. Rafale Deal Audit (2019): CAG's report on defence procurement examined pricing benchmarks, illustrating the CAG's expanding but
+contested role in auditing sensitive defence contracts.
+5. Ayushman Bharat / State scheme audits: Performance audits of social sector schemes have flagged beneficiary duplication, fund diversion,
+and implementation gaps at state level.
+
+-- 17 of 23 --
+
+Country 	Practice
+UK (National Audit Office) Conducts value-for-money audits with mandatory government response within
+a fixed timeframe; strong Public Accounts Committee linkage.
+USA (Government Accountability Office - GAO)
+Reports directly to Congress; publishes a "High-Risk List" tracking programmes
+vulnerable to fraud/waste/mismanagement, with continuous follow-up until
+resolved.
+Germany (Bundesrechnungshof) 	Real-time and concurrent audit inputs into budget-making, not just post-facto.
+Canada (Office of the Auditor General) Strong "sunset review" mechanism ensuring audited departments report back
+on corrective action within set deadlines.
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+MCN 2.0
+Mains Concise Note (MCN) 84 : CAG
+Magna Carta Mains 2026
+Supreme Court Judgments on CAG
+1. Association of Unified Telecom Service Providers of India v. Union of India (2014): The Supreme Court upheld CAG's authority to audit
+the accounts of private telecom service providers to the extent of their revenue-sharing arrangements with the government
+2. Centre for Public Interest Litigation v. Union of India (2012) — "2G Spectrum Case": The Supreme Court relied heavily on CAG's findings
+of arbitrary, non-transparent allocation of spectrum on a first-come-first-served basis and cancelled 122 telecom licences,
+3. Manohar Lal Sharma v. Union of India (2014) — "Coal Block Allocation Case": Building on CAG's audit findings on arbitrary coal block
+allocations without competitive bidding, the Supreme Court declared the allocation of 214 coal blocks illegal and arbitrary
+4. S. Subramaniam Balaji v. Government of Tamil Nadu (2013): While primarily about freebies and Article 282, the Court referenced CAG-
+style financial scrutiny standards in discussing the need for transparent state expenditure accounting
+Reform Recommendations (Way Forward)
+1. Institutionalise real-time/concurrent audit: Move beyond post-facto audit for large infrastructure and defence contracts to enable timely
+correction.
+2. Mandatory Action Taken Reports (ATRs): Legally binding timelines for ministries/departments to respond to CAG findings, similar to
+GAO's High-Risk List follow-up model.
+3. Broaden appointment process: Constitute a broad-based collegium (including Chief Justice, Leader of Opposition) for CAG appointment
+to enhance perceived independence, as recommended by several administrative reform commissions.
+4. Expand audit jurisdiction: Bring PPPs, large NGOs, and autonomous bodies receiving substantial public funds more comprehensively
+within audit ambit.
+5. Strengthen technical capacity: Recruit domain specialists (forensic accountants, IT auditors, defence procurement experts) rather than
+relying solely on generalist IAAS cadre.
+6. Depoliticise report handling: Encourage a culture of using CAG findings for systemic correction rather than partisan point-scoring —
+possible via structured, non-adversarial PAC hearings.
+7. Strengthen state-level PAC functioning: Capacity-building and staffing support for State PACs to ensure CAG state reports receive
+adequate legislative scrutiny.
+8. Leverage technology and data analytics: Use AI-driven anomaly detection for large-scale financial data (as GAO and NAO increasingly
+do) to flag irregularities faster and more accurately.
+The CAG is not merely the government’s accountant, but democracy’s financial conscience—ensuring that every rupee raised in the people’s name
+is spent with legality, prudence, and public purpose.
+
+-- 18 of 23 --
+
+Core Changes Introduced
+A. Preambular and Ideological Changes
+• Inserted the words "Socialist," "Secular," and "Integrity" into the Preamble, changing "Sovereign Democratic Republic" to "Sovereign
+Socialist Secular Democratic Republic."
+B. Fundamental Duties
+• Inserted a new Part IV-A (Article 51A), prescribing ten Fundamental Duties for citizens (respect for the Constitution, the National
+Flag and Anthem, protection of the environment, scientific temper, etc.), drawing inspiration from the erstwhile USSR's constitutional
+model.
+C. Directive Principles vs. Fundamental Rights
+• Amended Article 31C to give DPSPs under all of Part IV (not merely Articles 39(b) and (c)) primacy over Fundamental Rights under
+Articles 14, 19, and 31, and barred judicial review of laws framed to implement any Directive Principle.
+• Added Article 39A (equal justice and free legal aid) and Article 43A (workers' participation in management).
+D. Curtailment of Judicial Review
+• Article 32A: Barred the Supreme Court from considering the constitutional validity of state laws in writ petitions under Article 32.
+• Article 131A: Gave the Supreme Court exclusive jurisdiction over questions on the validity of Central laws, excluding High Courts.
+• Article 144A: Required a minimum number of judges and a two-thirds majority for the SC to decide on the validity of a Central law.
+• Article 226A: Barred High Courts from considering the constitutional validity of Central laws in writ proceedings.
+• Article 228A: Similar restriction on High Courts regarding the validity of state laws, requiring reference to a larger bench.
+• Diluted Articles 226/227 by narrowing the grounds on which High Courts could issue writs and curtailing their power of
+superintendence over subordinate courts and tribunals.
+E. Amending Power of Parliament
+• Article 368(4): Declared that no constitutional amendment could be questioned in any court on any ground.
+• Article 368(5): Declared there was no limitation whatsoever on Parliament's constituent power to amend, vary, or repeal any
+provision of the Constitution — a direct attempt to nullify the Basic Structure doctrine laid down in Kesavananda Bharati.
+F. Centre–State Relations
+• Enabled the Union to deploy central armed forces to any state to deal with law and order without the state's consent (Article 257A,
+later omitted).
+• Extended the President's power under emergency provisions and facilitated greater central legislative competence, tilting the
+federal balance toward the Centre.
+G. Tenure of Legislatures and Elections
+• Extended the term of the Lok Sabha and State Legislative Assemblies from 5 to 6 years.
+• Extended the life of the Lok Sabha itself (elected in 1971) by one year through a Proclamation of Emergency, postponing the 1976
+general election.
+H. Administrative and Miscellaneous Changes
+• Shifted subjects like Education, Forests, Weights and Measures, and Protection of Wild Animals and Birds from the State List to the
+Concurrent List (7th Schedule), expanding Parliament's legislative reach.
+• Introduced provisions enabling creation of an All India Judicial Service.
+• Added Articles 323A and 323B, enabling the establishment of Administrative Tribunals to reduce the burden on High Courts (this
+specific provision survived and was operationalised via the Administrative Tribunals Act, 1985).
+• Made the President explicitly bound by the aid and advice of the Council of Ministers (Article 74(1)) — retained even after 1978.
+Dimension 	Impact
+Executive–Judiciary balance Sharply tilted power toward the executive by insulating constitutional amendments and
+DPSP-based laws from judicial review
+Federalism 	Centralised legislative and administrative power by expanding the Concurrent List
+Fundamental Rights 	Diminished the primacy of Articles 14, 19 and 31 relative to Directive Principles,
+Citizen responsibility Introduced, for the first time, a codified sense of civic obligation (Fundamental Duties),
+shifting political discourse to include duties alongside rights.
+Democratic process 	Undermined electoral accountability by postponing elections and extending legislative
+tenure — seen as one of the most authoritarian features of the Emergency era.
+Long-term jurisprudence
+Provoked the strongest judicial push-back in independent India's history (Minerva Mills,
+1980), cementing the Basic Structure doctrine as an entrenched limit on Parliament's
+amending power for all future amendments.
+MCN 2.0
+Mains Concise Note (MCN) 85 : 42 CA, 1976nd
+Magna Carta Mains 2026
+It represents the high-water mark of parliamentary sovereignty over constitutional supremacy in India's constitutional history, and its subsequent partial
+reversal is equally central to understanding how the Basic Structure doctrine was consolidated
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+
+-- 19 of 23 --
+
+Original 42nd CA Change 	Reversed By 	Nature of Reversal
+Article 368(4) — CAs immune from judicial
+review
+Minerva Mills v. Union of India (1980), SC
+judgment
+Struck down as unconstitutional; judicial
+review over constitutional amendments
+restored as facet of Basic Structure.
+Article 368(5) — No limitation on
+Parliament's constituent power
+Minerva Mills v. Union of India (1980), SC
+judgment
+Struck down; amending power held limited
+by Basic Structure doctrine (Kesavananda
+Bharati upheld).
+Article 31C — All DPSPs (Part IV) given
+primacy over Arts. 14, 19, 31
+Minerva Mills v. Union of India (1980), SC
+judgment
+Extension to "all DPSPs" struck down; only
+pre-42nd position (Arts. 39(b)/(c)) survived,
+and remains judicially reviewable.
+Article 32A — SC barred from examining
+validity of state laws under Art. 32 43rd Amendment Act, 1977 Omitted; SC's writ jurisdiction under Article
+32 fully restored.
+Article 131A — Exclusive SC jurisdiction
+over validity of Central laws 43rd Amendment Act, 1977 Omitted; concurrent HC jurisdiction
+restored.
+Article 144A — Special quorum/majority for
+SC to strike down Central laws 43rd Amendment Act, 1977 	Omitted.
+Article 226A — HCs barred from examining
+validity of Central laws 43rd Amendment Act, 1977 Omitted; HC writ jurisdiction under Article
+226 fully restored.
+Article 228A — Restriction on HCs
+regarding validity of state laws 43rd Amendment Act, 1977 	Omitted.
+Curtailment of Articles 226/227 (narrowed
+writ grounds, restricted superintendence)
+43rd Amendment Act, 1977 & 44th
+Amendment Act, 1978
+Original scope of Articles 226 and 227
+substantially restored.
+Lok Sabha / State Assembly tenure
+extended to 6 years 44th Amendment Act, 1978 	Reverted to the original 5-year term.
+Central forces deployable in states without
+consent (Art. 257A) 44th Amendment Act, 1978 	Article 257A omitted altogether.
+Effective suspension of Arts. 20 & 21
+during Emergency (per ADM Jabalpur) 44th Amendment Act, 1978 Expressly barred suspension of Articles 20
+and 21 even during a National Emergency.
+"Internal Disturbance" as ground for
+National Emergency 44th Amendment Act, 1978 Replaced with the narrower, more objective
+ground of "armed rebellion."
+Article 31C limiting judicial review of
+DPSP-implementing laws
+Minerva Mills (1980); reaffirmed in Waman
+Rao (1981) & I.R. Coelho (2007)
+Judicial review restored; "prospective
+overruling" doctrine applied to Ninth
+Schedule insertions.
+MCN 2.0
+Mains Concise Note (MCN) 85 : 42 CA, 1976nd
+Magna Carta Mains 2026
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+The 42nd Amendment remains the most consequential — and most controversial — constitutional amendment in India's history.
+
+-- 20 of 23 --
+
+Magna Carta Foundation (MCF) :
+Comprehensive GS II Course for Pre + Mains
+Tracker Pro : Live Databases of
+Newspapers, Judgements, Data, Committees, PYQs
+Refers to the idea that a Constitution is not merely a static legal document but a dynamic instrument meant to
+transform society by dismantling entrenched inequalities and hierarchies.
+Intro
+Coined initially in the South African constitutional discourse, the term gained prominence in Indian jurisprudence
+post the 2010s. Indian courts have used it to interpret the Constitution as a living document that evolves to meet
+the needs of justice, dignity, and equality.
+Constitutional Provision 	Transformative Implication
+Preamble Establishes justice, liberty, equality, and fraternity as core values aimed at
+transforming Indian society
+Part III (Fundamental Rights)
+Empowers citizens and restrains state power; abolishes untouchability
+(Art. 17), guarantees equality (Art. 14), freedom (Art. 19), and life with
+dignity (Art. 21)
+Part IV (DPSPs) Articulates socio-economic goals — right to education, health, living wage,
+etc. — directing the State to actively work towards justice and welfare
+Article 32 & 226 Judicial review and constitutional remedies ensure enforcement of rights
+and corrective interpretation by the courts
+Constitutional Foundations of Transformative Constitutionalism
+Key Dimensions of Transformative Constitutionalism in India
+1.Social Transformation
+a.Abolition of Social Hierarchies:
+b.Constitution (Article 17) abolished untouchability.
+c.Indian Young Lawyers Association v. State of Kerala (2018) (Sabarimala case): SC held that exclusion of women based on
+menstruation violates Articles 14, 15, and 25.
+d.Navtej Singh Johar v. Union of India (2018): Decriminalised homosexuality by striking down Section 377 IPC, affirming the
+right to dignity and identity of LGBTQ+ persons.
+2.Caste and Reservation:
+a.Indra Sawhney v. Union of India (1992): Upheld OBC reservations but introduced the creamy layer concept to ensure social
+justice.
+b.Jarnail Singh v. Lachhmi Narain Gupta (2018): Extended creamy layer concept to SC/ST promotions.
+c.State of Punjab v. Davinder Singh (2024) : States can sub categorise on the basis of caste
+3.Gender Justice
+a.Vishaka v. State of Rajasthan (1997): Laid down guidelines to prevent sexual harassment at workplace using international
+conventions in the absence of domestic law.
+b.Joseph Shine v. Union of India (2018): Decriminalized adultery (Section 497 IPC), holding it discriminatory against women.
+4.Environmental Justice
+a.M.C. Mehta Cases: Judicial activism led to the polluter pays principle, environmental impact assessments, and the right to
+clean air and water being read into Article 21.
+5.Economic and Labour Rights
+a.Olga Tellis v. Bombay Municipal Corporation (1985): Right to livelihood held intrinsic to the right to life (Art. 21).
+b.Workmen v. Meenakshi Mills Ltd. (1992): Affirmed workers' right to fair treatment and collective bargaining.
+c.PUCL v. Union of India (2001 onwards): Led to the recognition of the right to food and the formulation of schemes like
+MGNREGA and midday meals.
+6.Recognition of Intersectional and Emerging Rights
+a.K.S. Puttaswamy v. Union of India (2017):
+b.Recognized right to privacy as intrinsic to life and liberty under Article 21.
+c.Laid foundation for data protection, bodily autonomy, and sexual identity rights.
+MCN 2.0
+Mains Concise Note (MCN) 86 : Transformative Constitutionalism
+Magna Carta Mains 2026
+
+-- 21 of 23 --
+
+Phase 	Judicial Approach 	Example
+1950s–70s 	Conservative, literal interpretation A.K. Gopalan (1950): Narrow reading of
+"personal liberty"
+Post-Kesavananda (1973) Structural & purposive
+interpretation
+Kesavananda Bharati v. State of Kerala: Basic
+structure doctrine laid down
+1990s–2010s Judicial activism, expansive
+reading Vishaka, Olga Tellis, MC Mehta
+2010s–present 	Transformative jurisprudence Puttaswamy, Navtej Johar, Sabarimala, Joseph
+Shine
+Role of Judiciary in Advancing Transformative Constitutionalism
+Challenges to Transformative Constitutionalism in India
+1.Majoritarianism vs Minority Rights:
+a.Rising communal rhetoric and laws (e.g., anti-conversion laws) challenge secular, egalitarian aims of the
+Constitution.
+b.Citizenship Amendment Act (CAA, 2019) criticised for violating Article 14.
+2.Executive Resistance & Underenforcement:
+a.Court judgments not always implemented effectively (e.g., manual scavenging despite Art. 17 and court orders).
+b.Centre–state disputes over implementation of welfare schemes.
+3.Patriarchal Social Structures:
+a.Despite progressive judgments, societal norms often restrict the actual transformation on ground (e.g., opposition
+to Sabarimala verdict).
+4.Judicial Overreach vs Judicial Restraint:
+a.Critics argue that courts sometimes exceed constitutional limits in pursuit of social justice, thereby undermining
+democratic accountability.
+5.Access to Justice:
+a.Structural inequalities, lack of legal awareness, and delays impede realization of rights for the marginalised.
+Case Studies
+1.1. Navtej Singh Johar v. Union of India (2018)
+a.Transformative in recognising LGBTQ+ rights.
+b.Grounded in dignity, privacy, and autonomy — reshaped
+societal understanding of identity.
+2.2. S.R. Bommai v. Union of India (1994)
+a.Reaffirmed India’s commitment to secularism, declaring
+it a part of the basic structure.
+b.Limited misuse of Article 356 by Centre — strengthening
+federalism.
+3.3. National Legal Services Authority (NALSA) v. Union of
+India (2014)
+a.Recognised transgender persons as the ‘third gender’.
+b.Directed states to provide reservations, education, and
+legal protection.
+Sector 	Policy/Action 	Impact
+Education
+Right to Education
+Act (2009) based
+on Art. 21A
+Enhanced
+enrolment of
+disadvantaged
+children
+Health
+Ayushman Bharat,
+Janani Suraksha
+Yojana
+Promotes right to
+health for
+marginalised
+Food Security National Food
+Security Act (2013)
+Based on judicial
+recognition of right
+to food
+Gender Rights One Stop Centres,
+POSH Act
+Institutionalise
+gender justice
+Transformative constitutionalism in India is not a destination but a continuous journey. While courts have played a pivotal role in
+expanding rights, real transformation requires a concerted effort from the legislature, executive, and civil society to implement these
+ideals on the ground.
+Magna Carta Foundation (MCF) :
+Comprehensive GS II Course for Pre + Mains
+Tracker Pro : Live Databases of
+Newspapers, Judgements, Data, Committees, PYQs
+MCN 2.0
+Mains Concise Note (MCN) 86 : Transformative Constitutionalism
+Magna Carta Mains 2026
+
+-- 22 of 23 --
+
+Key Dimensions
+1.Rule of Law: Upholding supremacy of law and ensuring equality before the law.
+2.Democratic Governance: Ensuring participatory democracy and accountability of governmental institutions.
+3.Fundamental Rights Protection: Safeguarding individual rights against arbitrary state action.
+4.Social Justice and Equality: Addressing historical discrimination and promoting substantive equality.
+5.Judicial Integrity and Independence: Courts act impartially, free from political influences, safeguarding democratic
+values.
+6.Judicial Interpretations
+Landmark Judgments and Case Studies
+1.Naz Foundation v. Govt. of NCT of Delhi (2009): The Delhi High Court invoked constitutional morality to strike
+down Section 377 of IPC, highlighting the necessity of protecting minority rights irrespective of societal morality.
+2.Navtej Singh Johar v. Union of India (2018): The Supreme Court reaffirmed constitutional morality, overturning the
+reinstatement of Section 377 by the earlier Koushal judgment (2013), underscoring dignity, liberty, and equality of
+the LGBTQ+ community.
+3.Indian Young Lawyers Association v. State of Kerala (Sabarimala Case, 2018): Emphasizing constitutional morality
+over popular sentiment, the Supreme Court allowed entry of women into the Sabarimala Temple, thereby
+upholding gender equality.
+4.Joseph Shine v. Union of India (2018): Decriminalizing adultery, the Court stressed constitutional morality in terms
+of gender equality and individual autonomy.
+5.KS Puttaswamy v. Union of India (Privacy Case, 2017): Upheld privacy as a fundamental right, invoking
+constitutional morality in protecting individual autonomy and dignity.
+Criticisms and Challenges
+1.Ambiguity and Judicial Subjectivity: Critics argue constitutional morality is open-ended, potentially leading to
+judicial overreach and subjective interpretations.
+2.Conflict with Popular Morality: Implementation challenges arise when constitutional morality opposes societal
+beliefs, as seen in Sabarimala, causing widespread societal and political resistance.
+3.Significance and Impact
+4.Constitutional morality has reinforced India's commitment to transformative constitutionalism, promoting social
+reform and justice.
+5.It fosters inclusive democracy by prioritizing constitutional ethics over majoritarian impulses.
+6.Encourages progressive societal attitudes, protecting minorities and marginalised communities.
+Way Forward
+Clear judicial articulation and consistent application can mitigate ambiguity.
+Broader societal education and dialogue can align societal values closer to constitutional ideals.
+Strengthening institutional frameworks to operationalise constitutional morality more effectively.
+Conclusion
+Constitutional morality acts as a compass guiding democratic governance towards justice, liberty, and equality. Its
+significance lies in transcending transient societal prejudices to uphold enduring constitutional values. Continued
+emphasis on constitutional morality is essential to realizing India's transformative constitutional vision of a just,
+equitable, and inclusive society.
+Refers to adherence to the core principles, ethos, and spirit embedded in a nation's constitution beyond mere
+legal compliance
+Intro 	originated from British jurist George Grote, who emphasized its importance for democracy in the 19th century. Dr.
+B.R. Ambedkar introduced it to the Indian context, emphasizing adherence to constitutional ethics over societal
+prejudices and traditional morality, particularly during the Constituent Assembly Debates.
+Magna Carta Foundation (MCF) :
+Comprehensive GS II Course for Pre + Mains
+Tracker Pro : Live Databases of
+Newspapers, Judgements, Data, Committees, PYQs
+MCN 2.0
+Mains Concise Note (MCN) 87 : Constitutional Morality
+Magna Carta Mains 2026
+
+-- 23 of 23 --
+

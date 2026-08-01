@@ -1,0 +1,2301 @@
+Intro Article 50 of the Constitution provides that ‘the State should take steps to separate the judiciary from the
+executive in the public services of the State
+Coined by a French Jurist Montesquieu in his book L. Esprit Des Lois (Spirit of Laws) published in 1748
+Need for Separation of Power
+1.Preventing Tyranny and Abuse of Power: By dividing power among different branches, it becomes much more difficult
+for any single person or group to accumulate excessive power and act in an arbitrary or oppressive manner.
+2.Protecting Individual Liberty: Separating powers helps safeguard individual rights and liberties by preventing any one
+branch from infringing on personal freedoms unchecked. With distinct branches exercising different functions, there
+are more barriers to government overreach.
+3.Promoting Efficiency and Specialisation: Dividing responsibilities allows each branch to focus on its core functions and
+develop specialised expertise. The legislature can concentrate on law-making, the executive on implementation, and the
+judiciary on interpretation and dispute resolution.
+4.Ensuring Checks and Balances: Each branch from becoming too powerful.
+5.Enhancing Accountability: With clearly delineated roles and responsibilities, it becomes easier to hold specific branches
+accountable for their actions or failures. This promotes transparency and good governance.
+6.Upholding Rule of Law: Especially w.r.t the judiciary, helps ensure laws are applied impartially and consistently. An
+independent judiciary can interpret laws without undue influence from the other branches.
+"Separation of powers is not a wall — it is a living system of constitutional restraint and dialogue. Without it, the
+Constitution is just ink; with it, it becomes justice."
+MCN 2.0
+ 	Magna Carta Mains 2026
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+Mains Concise Note (MCN) 31 : Separation of Powers
+Why Separation of Powers is Different in a Parliamentary Democracy
+1.Fusion, not separation, of Executive-Legislature: Council of Ministers
+are members of Parliament (Art 74/75, 163/164); they survive only on
+the confidence of the House — unlike the US where the President and
+Congress are wholly separate.
+2.Judiciary as the sole rigid check: Since the political organs overlap, an
+independent judiciary with power of judicial review (Art 13, 32,
+226/227) becomes the primary guarantor of constitutional limits.
+a.Rai Sahib Ram Jawaya v. State of Punjab (1955): The Constitution
+does not recognise separation of powers in absolute rigidity, but
+functions of organs are sufficiently differentiated..
+3.Accountability replaces rigid separation
+a.Question Hour
+b.No-confidence motion
+c.Parliamentary committees
+d.Debates and discussions
+e.Budgetary control
+f.Censure motions
+4.Cooperation is necessary : law-making and policy implementation
+require coordination
+a.Govt introduces most bills in Parliament. Parliament debates,
+amends, and passes them. The executive then implements them.
+5.Indian model: separation with checks and balances
+a.India does not follow a rigid doctrine of separation of powers, but
+the Constitution creates boundaries
+
+-- 1 of 21 --
+
+Executive
+Separation 	Interference/Overlap/Checks & Balances
+1.Pres/Governor are executive heads (Art52/153)
+2.Executive power outlined in the constitution (Art
+73/161)
+a.Extent of Union’s executive power
+i.matters with respect to which Parliament
+has power to make laws in Union List
+ii.exercised by the GoI by virtue of any treaty
+or agreement.
+iii.Does not extend to Concurrent list unless
+by Parliamentary Law
+3.Conduct of Business - name of Pres/Gov
+(Art77/166)
+a.Rules for Convenient transaction & allocation
+of the business
+b.Executive Actions in the name of Pres/Gov
+c.Appoints PM/CM, CoM respectively
+d.Pres Appoints SC and HC Judges
+4.Pres/Gov cant be members of Legislatures
+(Art59/158)
+5.Pres can consult the SC (Art 143)
+6.Service Rules (Art 309)
+7.Pleasure of Pres & Gov (Art 310)
+1.Legislature
+a.Composition
+i.Pres/Gov also part of Legislature (Art 79/168)
+ii.Pres - RS Nominations (Art 80)
+b.Procedural
+i.Summon, Prorogue, Dissolve (Art85/174)
+c.Participation
+i.Special Address/Messages to Houses(Art 86/175)
+ii.Motion of Thanks (Art 87/176)
+d.Assent to Bills (Art 111, 200)
+e.Causes Annual Financial Statement to be laid before House
+(Art 112/Art 202)
+f.Disqualification of members (Art 103/192)
+g.Relationship with Minsters (Art 75/164)
+i.Appoints PM/CM, Ministers
+ii.They serve at pleasure of Pres/Gov
+iii.PM/CM have a constitutional duty to furnish information
+about council affairs to Pres/Gov (Art 78, Art 167)
+h.Ordinances - Art 123/213
+i.Delegated/Subordinate Legislation
+j.Emergency
+i.Pres Rule under Art 356
+ii.Parliament may confer on the Pres, ithe power of the
+Legislature of the State to make laws. (Article 357)
+2.Judiciary
+a.Pardoning Powers (Art 72/161)
+b.Immunity (Art 361)
+c.Appointment of Judges (Art 124/Art 217)
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+Key Judgments Illustrating the Balance
+1. Kesavananda Bharati v. State of Kerala (1973) — Parliament's constituent power is coextensive with, not superior to, the people's
+will; created Basic Structure Doctrine, checking legislative supremacy while preserving amending flexibility.
+2. Indira Gandhi v. Raj Narain (1975) — Struck down 39th CA (which barred judicial review of PM's election) as violative of free and
+fair elections and judicial review — first practical application of Basic Structure; classic example of constitutional morality trumping
+political convenience.
+3. Minerva Mills v. Union of India (1980) — Struck down clauses of 42nd CA giving DPSPs unconditional primacy over Fundamental
+Rights; held judicial review itself to be part of Basic Structure — a check on Parliament's self-aggrandising amendments.
+4. Kihoto Hollohan v. Zachillhu (1992) — Upheld anti-defection law but read down absolute finality of Speaker's decisions,
+subjecting them to judicial review — balancing legislative privilege with rule of law.
+5. Naz Foundation v. NCT of Delhi (2009) & Navtej Singh Johar v. Union of India (2018) — Constitutional morality invoked explicitly
+to strike down Section 377, protecting minority (LGBTQ+) rights against prevailing social/popular morality — Judiciary as counter-
+majoritarian check.
+6. Indian Young Lawyers Association v. State of Kerala (Sabarimala, 2018) — Constitutional morality (equality, non-discrimination)
+held to override religious/popular customary morality; also demonstrated the limits of judicial intervention when social resistance
+follows.
+7. Joseph Shine v. Union of India (2018) & K.S. Puttaswamy v. Union of India (2017) — Decriminalised adultery and recognised
+privacy as a fundamental right, grounding both in constitutional morality of individual autonomy and dignity over legislative/social
+morality.
+8. SC Advocates-on-Record Association v. Union of India (NJAC Case, 2015) — Struck down 99th CA/NJAC Act as violating judicial
+independence (Basic Structure) — but criticised as judiciary protecting its own turf, showing the tension between judicial
+independence and democratic accountability.
+9. Sita Soren v. Union of India (2024) — Held that legislators do not enjoy immunity under Art 105(2)/194(2) for bribery in
+voting/speech — Parliamentary privilege reined in by constitutional morality of clean governance.
+10. S.R. Bommai v. Union of India (1994) — Checked misuse of Art 356 (President's Rule), subjecting it to judicial review —
+restraining executive/political overreach into federal-democratic structure.
+MCN 2.0
+ 	Magna Carta Mains 2026
+Mains Concise Note (MCN) 31 : Separation of Powers
+
+-- 2 of 21 --
+
+Legislature
+Separation
+Interference/Overlap/Checks & Balances
+1.Composition
+a.LS + RS; SLA + SLC* (Art 79/168)
+2.Legislative Powers
+a.Union/State/Concurrent List (Art
+245,246, 248)
+3.Indigenous House Rules (Art 118/208)
+1.Executive
+a.Legislatures Participate in Presidential Elections
+(Art 54)
+b.Parliament impeaches the Pres (Art 61)
+c.Council of Ministers to aid and advise the
+Pres/Gov (Art 74/ 163)
+2.Judiciary
+a.Court not to inquire into proceedings of
+Parliament or Legislature (Art 122/212) but SC has
+laid down guidelines/observations through these
+cases
+i.Kihoto Hollohan v. Zachillhu & Others (1992)
+ii.Nabam Rebia & Bamang Felix v. Deputy
+Speaker (2016)
+iii.Puttuswamy Case
+b. Parliamentary Privileges accorded to members but
+courts have intervened to define some contours
+i.Sita Soren v. UoI (2024) (lawmaker does not
+enjoy immunity under Articles 105(2) and
+194(2) of the Constitution against bribery.
+c.Inter State Water Disputes exclude SC Jurisdiction
+(Art 262)
+i.Kachchh Jal Sankat Nivaran Samiti v State of
+GJ (2013)
+1.can interfere only if policy is inconsistent
+with constitutional laws or arbitrary or
+irrational
+d.Advice tendered by Ministers to President or
+Governor cannot be inquired into in any court
+e.The Parliament has the power to punish for
+contempt those who commit breach of privilege
+or defy its order performing a Judicial Function
+Judiciary
+Separation
+Interference/Overlap/Checks & Balances
+1.SC/HC can create its own procedure (Art
+145/227)
+2.HC supervises lower courts
+3.Collegium System through 2 and 3 Judges
+cases
+nd 	rd
+1.Judicial Review - Art 13, 32, 226 etc.
+2.Executive
+a.Ordinances - DC Wadhwa Case (1987)
+b.Pardoning Power - Shatrughan Chauhan v.
+Union of India (2014)
+c.Timelines for Assent TN Governor Case 2025
+d.Shamsher Singh v State of PB (1987) :
+Governors Discretion
+3.Legislature
+a.Kihoto Hollohan v. Zachillhu & Others (1992) :
+Speaker and Anti Defection Law
+b.Sita Soren v. UoI (2024) : Privileges and
+corruption
+Important Judgements on SoP
+CasePosition regarding Separation of Powers in
+India
+Rai Sahib Ram
+Jawaya v State
+of Punjab
+(1955)
+The Indian Constitution does not recognise
+the doctrine of separation of powers in the
+absolute rigidity but the functions of the
+different organs of the State have been
+sufficiently differentiated. Hence, one organ
+does not contemplate assumption of the
+functions that essentially belong to another.
+Kesavananda
+Bharti v State of
+Kerala (1973)
+Separation of powers between the
+legislature, the executive and the
+judiciary is a part of the basic structure
+of the Constitution; this structure
+cannot be destroyed by any form of
+amendment
+Indira Gandhi v.
+Raj Narain
+(1975)
+was upheld as a basic structure of the
+constitution
+India has a separation of functions more than powers given
+its unique nature. Separation of powers, then, is not a wall—
+it is a living system of constitutional restraint and dialogue.
+Without it, the Constitution is just ink; with it, it becomes
+justice.
+MCN 2.0
+ 	Magna Carta Mains 2026
+Mains Concise Note (MCN) 31 : Separation of Powers
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+
+-- 3 of 21 --
+
+Basis 	India 	United States 	United Kingdom
+Constitutional model
+Written Constitution;
+Constitution is supreme.
+Judicial review protects
+constitutional limits,
+fundamental rights and
+federalism.
+Written Constitution;
+Constitution is supreme. Courts
+ensure legislative and executive
+action conforms to the
+Constitution.
+Mostly uncodified constitution;
+Parliament is legally sovereign.
+Courts review legality of public
+action but cannot generally
+overrule primary Acts of
+Parliament.
+Source of judicial review
+Textually supported by Articles
+13, 32, 226, 136, 141, 142 and
+basic structure doctrine. Article
+13 makes laws inconsistent
+with Fundamental Rights void.
+Not expressly written as
+“judicial review,” but developed
+through Marbury v Madison,
+1803; Article III vests judicial
+power in federal courts.
+Common law, statutory
+interpretation, Human Rights
+Act 1998, devolution statutes,
+administrative law principles.
+Foundational case
+Kesavananda Bharati v State of
+Kerala, 1973 — basic structure
+doctrine; judicial review is part
+of the basic structure.
+Marbury v Madison, 1803 —
+courts may declare laws
+unconstitutional.
+Council of Civil Service Unions
+v Minister for Civil Service,
+1985 — classic grounds:
+illegality, irrationality,
+procedural impropriety.
+Nature of review
+Both constitutional review and
+administrative review. Courts
+examine laws, executive
+actions, constitutional
+amendments, delegated
+legislation and administrative
+decisions.
+Strong constitutional review of
+federal/state laws and
+executive action. Review
+usually arises in concrete
+litigation, not abstract advice.
+Mainly administrative/legal
+review: courts check whether
+public authorities acted
+lawfully, fairly and rationally;
+not normally a merits appeal.
+Review of ordinary legislation
+Supreme Court and High Courts
+can strike down laws violating
+Fundamental Rights, federal
+distribution of powers, or other
+constitutional limitations.
+Federal and state courts can
+refuse to apply or invalidate
+laws inconsistent with the
+Constitution.
+Courts cannot generally strike
+down Acts of UK Parliament
+due to parliamentary
+sovereignty. They may interpret
+statutes compatibly with rights
+where possible.
+Review of constitutional
+amendments
+Yes. Parliament’s amending
+power under Article 368 is
+limited by the basic structure
+doctrine. Amendments
+damaging basic features can be
+invalidated.
+No substantive “basic structure”
+review of constitutional
+amendments. Once validly
+ratified under Article V,
+amendments become part of
+the Constitution.
+No single formal constitutional
+amendment process. Parliament
+can change constitutional rules
+through ordinary legislation.
+Review of executive action
+Strong review under Articles 32
+and 226; executive action can
+be struck down for violating
+rights, arbitrariness, mala fides,
+lack of authority,
+proportionality, etc.
+Strong review of presidential,
+administrative and state
+executive action for
+constitutional/statutory
+violations, subject to doctrines
+such as standing, ripeness,
+mootness and political question.
+Strong review of ministers, local
+authorities, tribunals and public
+bodies for illegality, irrationality,
+procedural impropriety,
+legitimate expectation and
+rights violations.
+Review of delegated legislation
+Delegated legislation can be
+struck down for being ultra
+vires the parent Act, violating
+the Constitution, excessive
+delegation, arbitrariness or
+procedural defect.
+Administrative rules can be
+reviewed for constitutional
+violation, statutory excess,
+arbitrariness, procedural
+defects, etc.
+Delegated legislation can be
+quashed if ultra vires,
+unreasonable, procedurally
+improper or rights-
+incompatible.
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+MCN 2.0
+ 	Magna Carta Mains 2026
+Mains Concise Note (MCN) 32 : Comparative Constitutions : Judicial Review
+
+-- 4 of 21 --
+
+Rights protection
+Strong rights review under Part
+III; expanded through doctrines
+like arbitrariness, substantive
+due process under Article 21,
+proportionality, privacy,
+equality and dignity.
+Strong rights review through
+Bill of Rights and later
+amendments; courts apply
+varying scrutiny standards
+depending on the
+right/classification.
+Rights review is weaker against
+Parliament but stronger against
+public authorities.
+Federalism review
+Very important: courts police
+Union–State legislative
+competence, distribution of
+powers, emergency powers and
+constitutional boundaries.
+Very important: courts police
+federal–state division,
+commerce power, supremacy
+clause, due process, equal
+protection and state action.
+Limited but important in
+devolution. The UK Supreme
+Court may decide whether
+devolved legislation is outside
+competence; Scotland Act
+provides that an Act of the
+Scottish Parliament is “not law”
+so far as outside legislative
+competence.
+Who exercises review?
+Supreme Court and High
+Courts. High Courts under
+Article 226 have wider writ
+jurisdiction because they can
+act for Fundamental Rights as
+well as “any other purpose.”
+Supreme Court and lower
+federal/state courts, though the
+US Supreme Court is final on
+federal constitutional meaning.
+High Court/Administrative
+Court, Court of Appeal and
+Supreme Court; also specialist
+tribunals in statutory contexts.
+Standing / access
+Traditionally liberal, especially
+through PIL; courts have
+allowed representative and
+public-spirited litigation in
+rights and governance issues.
+More restrictive. Plaintiff
+generally needs concrete injury,
+causation and redressability;
+advisory opinions are avoided.
+Sufficient interest test;
+generally more flexible than US
+standing but less PIL-oriented
+than India.
+Remedies
+Writs: habeas corpus,
+mandamus, prohibition,
+certiorari, quo warranto;
+declaration of invalidity;
+compensation in public law;
+continuing mandamus;
+guidelines.
+Injunctions, declaratory
+judgments, invalidation/non-
+application of statutes,
+damages in limited cases,
+constitutional remedies.
+Quashing orders, prohibiting
+orders, mandatory orders,
+declarations, injunctions,
+damages in limited cases.
+Judicial Review and Courts Act
+2022 allows
+suspended/prospective
+quashing orders.
+Strength of review
+Very strong: courts can review
+ordinary laws, executive action
+and constitutional amendments.
+Strong: courts can invalidate
+legislation and executive action,
+but cannot give advisory
+opinions and are constrained by
+standing/political question
+doctrines.
+Moderate/limited
+constitutionally, strong
+administratively: courts strongly
+control executive legality but
+usually cannot invalidate Acts
+of Parliament.
+Relation with democracy
+Counter-majoritarian check, but
+justified as protection of
+constitutional supremacy,
+rights, federalism and basic
+structure.
+Counter-majoritarian check,
+justified by constitutional
+supremacy and separation of
+powers.
+More dialogic: courts check
+legality and rights compatibility,
+but Parliament retains final
+legislative authority.
+Major limits
+Judicial restraint, separation of
+powers, political question
+concerns, presumption of
+constitutionality, institutional
+capacity, Article 368 subject
+only to basic structure.
+Standing, ripeness, mootness,
+political question doctrine,
+judicial appointments ideology,
+constitutional amendment
+difficulty.
+Parliamentary sovereignty,
+ouster clauses, time limits,
+permission stage, limited
+remedial power against primary
+legislation.
+Model
+Constitutional supremacy +
+basic structure review + rights
+review + PIL model.
+Constitutional supremacy +
+Marbury-style strong-form
+judicial review.
+Parliamentary sovereignty +
+administrative legality review +
+weak-form rights review.
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+MCN 2.0
+ 	Magna Carta Mains 2026
+Mains Concise Note (MCN) 32 : Comparative Constitutions : Judicial Review
+
+-- 5 of 21 --
+
+Basis 	India 	United Kingdom
+Constitutional/legal basis
+Articles 74–75 govern Union ministers.
+Articles 163–164 provide a similar structure
+for States.
+Based on royal prerogative, statutes,
+conventions, Cabinet Manual and
+Ministerial Code.
+Appointment of ministers
+PM is appointed by President; other
+ministers are appointed by President on
+PM’s advice.
+Ministers are formally appointed by the
+Monarch, practically on the advice of the
+Prime Minister.
+Removal of ministers
+Ministers hold office during the pleasure of
+the President, but in practice this means the
+PM’s confidence.
+Ministers hold office so long as they retain
+the PM’s confidence; formal
+appointment/removal is by the Monarch.
+Who chooses ministers? Prime Minister effectively chooses the
+Council of Ministers.
+Prime Minister chooses members of
+government and allocates portfolios.
+Types of ministers
+Cabinet Ministers, Ministers of State with
+independent charge, Ministers of State
+attached to Cabinet Ministers, and
+sometimes Deputy Ministers. These are
+mostly political/administrative categories.
+Cabinet Ministers, Ministers of State,
+Parliamentary Under-Secretaries, Lords
+Ministers, Whips and Law Officers.
+Cabinet ministers Senior ministers heading major ministries;
+form the core policy-making group.
+Senior ministers chosen by the PM; UK
+Parliament describes Cabinet as around 20
+senior ministers leading specific policy
+areas.
+Council of Ministers / Government
+Council of Ministers is wider than Cabinet.
+All are collectively responsible to Lok
+Sabha.
+“Government” includes Cabinet and junior
+ministers. Collective responsibility applies
+to all government ministers unless explicitly
+set aside.
+Collective responsibility
+Express constitutional rule under Article
+75(3). Defeat on no-confidence means
+entire Council must resign.
+Constitutional convention. Ministers must
+publicly support government decisions or
+resign, unless collective responsibility is
+specifically suspended.
+Individual responsibility
+Minister is answerable for their department;
+resignation may occur for personal
+wrongdoing, policy failure or loss of PM’s
+confidence, but conventions are applied
+unevenly.
+Ministerial Code clearly states ministers
+have a duty to Parliament to account for
+their departments and agencies.
+Membership requirement Must be a member of either House of
+Parliament within six months.
+Convention requires ministers to be
+members of Commons or Lords, though
+legally a person can technically be
+appointed and then usually brought into
+Parliament, often via Lords.
+Oath
+Ministers take oath of office and secrecy
+before entering office. Article 75(4)
+provides this.
+Ministers are bound by conventions of
+confidentiality and the Ministerial Code;
+senior ministers often become Privy
+Counsellors.
+Size limit
+Constitutionally capped: total ministers
+including PM cannot exceed 15% of Lok
+Sabha strength.
+Statutory limits exist for paid ministers and
+Commons ministers, but not a constitutional
+percentage cap like India.
+MCN 2.0
+ 	Magna Carta Mains 2026
+Mains Concise Note (MCN) 33 : Comparative Constitutions : Ministers
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+
+-- 6 of 21 --
+
+Anti-defection link
+A disqualified MP under the Tenth
+Schedule is also disqualified from being
+appointed minister for the relevant period.
+No anti-defection equivalent. Party
+rebellion is politically managed, not
+constitutionally disqualifying.
+Ministerial code/conduct
+India has constitutional oaths,
+Representation of the People Act norms,
+conduct rules, conflict-of-interest norms
+and parliamentary accountability, but no
+single UK-style Ministerial Code with the
+same political prominence.
+UK has a formal Ministerial Code setting
+standards for ministerial conduct; it was
+updated on 29 June 2026 according to
+GOV.UK.
+Departmental control
+Ministers are political heads of ministries;
+civil servants implement policy under
+ministerial direction.
+Ministers head departments; civil servants
+are permanent and politically neutral,
+while ministers are politically accountable.
+Role in legislation
+Ministers pilot government bills, answer
+debates, introduce budgets/demands and
+defend policy.
+Ministers introduce and defend
+government bills, make statements,
+answer questions and steer legislation
+through Parliament.
+Prime Minister’s dominance
+Strong, especially due to portfolio
+allocation, Cabinet reshuffle power, party
+leadership and electoral politics.
+Strong, as PM appoints government
+members, chairs Cabinet and controls
+much of the government agenda.
+Ministerial resignation
+May occur due to corruption charges,
+policy failure, personal misconduct,
+coalition pressure, court verdicts or PM’s
+decision.
+May occur due to breach of Ministerial
+Code, misleading Parliament,
+departmental failure, scandal, loss of PM
+confidence or political pressure.
+Relationship with Head of State
+PM communicates Council decisions to
+President under Article 78. President may
+seek information and ask matters to be
+placed before Council.
+PM has regular audience with Monarch;
+Monarch is informed, consulted and
+warned, but normally acts by convention.
+Judicial interpretation
+In Shamsher Singh v State of Punjab,
+Supreme Court emphasised that
+President/Governor normally act on aid
+and advice, not personally.
+Courts rarely define Cabinet conventions
+directly; conventions are largely political,
+though legality of ministerial action may
+be judicially reviewed.
+Executive power
+In Ram Jawaya Kapur, Supreme Court
+explained that executive power is
+generally co-extensive with legislative
+power, subject to constitutional limits.
+Executive power historically derives from
+Crown prerogative, statute and
+convention, but is politically exercised by
+ministers.
+Accountability character
+More constitutionalised: text, courts,
+Parliament and federal structure jointly
+control ministers.
+More conventionalised: Commons
+confidence, Ministerial Code,
+parliamentary scrutiny and political norms
+control ministers.
+Best description Ministers are constitutional functionaries
+within a written parliamentary republic.
+Ministers are political-executive office
+holders within a convention-based
+constitutional monarchy.
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+MCN 2.0
+ 	Magna Carta Mains 2026
+Mains Concise Note (MCN) 33 : Comparative Constitutions : Ministers
+
+-- 7 of 21 --
+
+Basis 	India 	United States
+Constitutional design
+Emergency provisions are expressly written
+in Part XVIII, Articles 352–360 of the
+Constitution. India therefore has a
+structured constitutional emergency
+system.
+The US Constitution does not contain one
+consolidated emergency code. Emergency
+power is scattered across the Constitution,
+statutes and judicial doctrines. For example,
+the Constitution only expressly mentions
+habeas corpus suspension in cases of
+rebellion or invasion.
+Nature of emergency
+power
+Constitutional emergency power: the
+Constitution itself authorises temporary
+centralisation of power.
+Statutory-executive emergency power: the
+President usually activates powers already
+granted by Congress through laws like the
+National Emergencies Act, Stafford Act,
+IEEPA, etc.
+Overall model
+Centralised and constitutionally codified.
+During emergency, the Union can acquire
+extraordinary authority over States, rights
+and finances.
+Decentralised and statute-driven.
+Emergency declaration does not
+automatically transform the federal system
+or suspend rights.
+Philosophy
+The Constitution anticipates grave
+breakdowns and creates exceptional
+powers for national survival, unity and
+constitutional order.
+The Constitution distrusts undefined
+executive emergency power; emergency
+action must usually rest on congressional
+authorisation or recognised constitutional
+power.
+Primary actor
+Formally the President, but in practice the
+Union Council of Ministers/Cabinet. Article
+352 now requires the Union Cabinet’s
+written decision before National
+Emergency is proclaimed.
+The President is usually the declaring
+authority under federal emergency statutes,
+but Congress creates, limits and may
+terminate many emergency powers.
+Legislative control
+Parliament must approve and periodically
+continue emergency proclamations. Article
+352 requires special parliamentary approval
+for National Emergency.
+Congress controls emergency powers
+through statutes. The National Emergencies
+Act requires congressional review and
+provides for termination by joint resolution.
+Rights impact
+Rights may be directly affected. Article 358
+suspends Article 19 during National
+Emergency based on war or external
+aggression; Article 359 permits suspension
+of enforcement of specified Fundamental
+Rights, but not Articles 20 and 21.
+Rights are not automatically suspended by
+a national emergency declaration. The
+Constitution allows suspension of habeas
+corpus only in cases of rebellion or invasion
+when public safety requires it.
+Federal impact
+Strong. National Emergency can shift the
+federal balance towards the Union;
+President’s Rule can replace elected State
+governments; Financial Emergency can
+allow Union directions to States.
+Limited. The federal government cannot
+normally dismiss state governments. States
+retain their constitutional identity even
+during federal emergencies.
+Judicial review
+Available, especially after post-Emergency
+constitutionalism and cases like S.R.
+Bommai, which held that Article 356
+proclamations are open to judicial review.
+Strong judicial review exists. In
+Youngstown, the Supreme Court limited
+presidential emergency claims where they
+lacked constitutional or congressional
+authority
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+MCN 2.0
+ 	Magna Carta Mains 2026
+Mains Concise Note (MCN) 34 : Comparative Constitutions : Emergency
+
+-- 8 of 21 --
+
+Aspect 	President of India 	President of the United States
+Type of Election 	Indirect Election 	Indirect Election via popular vote and
+Electoral College
+Electoral System Proportional representation by single
+transferable vote
+Plurality voting in states (winner-takes-all in
+most states), determining Electoral College
+outcome
+Electoral College
+Composition
+Elected Members of Parliament (Lok Sabha
++ Rajya Sabha) + Elected Members of
+Legislative Assemblies of all States and
+UTs with legislatures
+Total of 538 electors = 435 Representatives
++ 100 Senators + 3 electors from D.C.
+Value of Votes
+Votes are weighted: - MLA’s vote = (State
+population / Total MLAs) × (1/1000) - MP’s
+vote = Total value of MLA votes ÷ Total
+MPs
+Each elector gets one vote; No differential
+vote weight
+Nomination
+Requirements
+- Must be nominated by at least 50
+electors as proposers and 50 as seconders
+- Primaries or party conventions select the
+final nominee - No formal nomination
+requirement in the Constitution
+Voter Eligibility Only elected MPs and MLAs (nominated
+members cannot vote)
+All registered citizens aged 18+ vote for
+electors in state-level elections
+Ballot Type Secret ballot using single transferable
+vote system
+Open ballot (voters select electors in
+general election; electors vote publicly for
+President)
+Election Timing
+Held before the expiry of the current
+President’s term; must be completed
+within a set time frame (Article 62)
+Fixed date: Tuesday after the first Monday
+in November, every 4 years
+Counting of Votes
+Centralised counting; quota determined to
+ensure majority via transferable vote
+system
+Votes counted state-wise; 270 out of 538
+electoral votes required to win
+Result Declaration
+Declared by the Returning Officer (usually
+the Secretary General of Lok Sabha/Rajya
+Sabha)
+Declared by Congress in joint session,
+presided over by Vice President
+Disputes Disputes settled by Supreme Court of
+India (Article 71)
+Disputes handled by Congress, and
+potentially the Supreme Court in
+extraordinary cases
+Re-election Possibility No bar on number of terms; can be re-
+elected any number of times
+Only two terms allowed (22nd Amendment
+to the U.S. Constitution)
+Presidential Debates &
+Campaigns
+No debates; no direct campaigning by
+Presidential candidates (since it's an
+indirect election)
+Nationwide campaigns, primary debates,
+and general election debates are central to
+the process
+Political Role of
+Candidate
+Typically apolitical or with prior non-
+partisan image (though may have political
+backgrounds)
+Always political; candidate is the face of a
+political party's campaign
+MCN 2.0
+ 	Magna Carta Mains 2026
+Mains Concise Note (MCN) 35 : Comparative Constitutions : President
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+
+-- 9 of 21 --
+
+Role of Political
+Parties
+Parties may support/nominate candidates
+but official role is limited
+Central role; parties conduct
+primaries/caucuses to select presidential
+candidates
+Electors’
+Faithfulness
+Not applicable as MPs/MLAs are
+constitutionally bound to follow party whips
+only in some contexts
+"Faithless electors" possible but increasingly
+rare; some states have laws binding electors
+Constitutional
+Basis
+Article 54 to Article 59 of the Indian
+Constitution + Presidential and Vice
+Presidential Elections Act, 1952
+Article II, Section 1 of the U.S. Constitution +
+12th and 22nd Amendments + state-level laws
+Recent Example 2022: Droupadi Murmu elected as the 15th
+President of India
+2024: Joe Biden elected as the 46th President
+of the United States
+India’s Presidential election reflects federal balance and proportionality through weighted indirect voting
+by legislators.
+The U.S. system prioritises direct citizen participation via the Electoral College, but results can
+occasionally diverge from the popular vote due to the "winner-takes-all" rule in most states.
+Aspect 	President of India 	President of the United States
+Constitutional Role Nominal Executive (de jure head);
+Parliamentary system
+Real Executive (de facto and de jure head);
+Presidential system
+System of Government Parliamentary democracy 	Presidential democracy
+Position in the
+Government
+Head of the State; executive powers are
+exercised by the Prime Minister and
+Council of Ministers
+Head of the State and Head of the
+Government; all executive powers are
+vested in the President
+Election Method
+Indirect election by an Electoral College:
+MPs + MLAs (proportional representation &
+single transferable vote)
+Direct election through Electoral College:
+citizens vote → electors vote for President
+Term of Office 	5 years (renewable) 4 years (renewable only once, i.e., 2 terms
+maximum)
+Eligibility Criteria
+- Citizen of India - At least 35 years old -
+Qualified for election to Lok Sabha - Must
+not hold office of profit
+- Natural-born U.S. citizen - At least 35
+years old - Resident in U.S. for 14 years
+Oath Administered By 	Chief Justice of India 	Chief Justice of the U.S. Supreme Court
+Removal Mechanism Impeachment by Parliament under Article
+61 (complex and rarely used)
+Impeachment by House of
+Representatives and trial/conviction by
+Senate
+MCN 2.0
+ 	Magna Carta Mains 2026
+Mains Concise Note (MCN) 35 : Comparative Constitutions : President
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+
+-- 10 of 21 --
+
+Executive Powers
+- Executive powers exercised on aid &
+advice of Council of Ministers - Appoints
+PM, Governors, Judges, etc. - Supreme
+Commander of Armed Forces
+- Vested with full executive powers -
+Appoints Cabinet, judges, ambassadors -
+Commander-in-Chief of Armed Forces
+Legislative Powers
+- Summons & prorogues Parliament - Can
+dissolve Lok Sabha - Addresses joint
+session - Gives assent to bills; can return
+non-money bills once
+- Signs or vetoes bills - Can convene
+special sessions of Congress - Delivers
+State of the Union address
+Veto Power
+- Suspensive veto (non-money bills) - No
+veto in case of money bills - Pocket veto
+(no time limit)
+- Regular veto - Pocket veto (10-day rule) -
+No line-item veto (struck down by SC)
+Judicial Powers
+- Appoints SC and HC judges - Can grant
+pardon, reprieve, respite, remission,
+suspension or commutation of sentence
+under Article 72
+- Nominates federal judges (with Senate
+confirmation) - Can grant pardons and
+reprieves (except impeachment cases)
+Emergency Powers
+- National Emergency, President’s Rule,
+Financial Emergency under Articles 352,
+356, and 360
+- No similar provision, but can invoke
+emergency powers during war/crisis via
+statutes like National Emergencies Act
+Military Powers
+Supreme Commander of Armed Forces but
+ceremonial; war decisions taken by
+Cabinet
+Commander-in-Chief with actual decision-
+making powers regarding military
+deployment and actions
+Foreign Affairs Represents India in international affairs;
+treaties ratified by Parliament
+Leads foreign policy; signs treaties (ratified
+by Senate); recognizes foreign
+governments
+Ordinance Power Can promulgate ordinances when
+Parliament is not in session (Article 123)
+No ordinance power; only Congress can
+legislate
+Discretionary Powers Very limited and exceptional (e.g.,
+appointing PM in hung Parliament)
+Broad discretionary powers, particularly in
+foreign policy and military
+Succession Vice-President acts as President until new
+election
+Vice-President becomes President on
+death/removal/resignation
+Cabinet Role Must act on aid and advice of Council of
+Ministers headed by PM (Article 74)
+Cabinet is advisory; President is not bound
+to accept its advice
+Accountability Not directly accountable; symbolic
+figurehead
+Directly accountable to people and
+Congress; can be impeached for “high
+crimes and misdemeanors”
+Public Mandate 	Indirect, lacks popular mandate 	Direct, clear popular mandate
+MCN 2.0
+ 	Magna Carta Mains 2026
+Mains Concise Note (MCN) 35 : Comparative Constitutions : President
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+
+-- 11 of 21 --
+
+Aspect 	India – Parliamentary System 	USA – Presidential System
+Form of Government 	Parliamentary Democracy 	Presidential Democracy
+Constitutional Basis Drawn from the British Westminster
+model; Part V, VI, Articles 74–75
+U.S. Constitution (1789), Articles I–III,
+based on doctrine of separation of
+powers
+Executive Dual executive: President (nominal
+head) + Prime Minister (real head)
+Single executive: President is both Head
+of State and Head of Government
+Executive’s Relation to
+Legislature
+Executive is part of Legislature: Prime
+Minister and Council of Ministers are
+members of Parliament
+Executive is separate from Legislature:
+President and Cabinet members cannot
+be sitting legislators
+Election of Executive
+Prime Minister elected by ruling party in
+Lok Sabha; President elected indirectly
+by Electoral College
+President elected directly via Electoral
+College based on popular vote
+Tenure of Executive
+PM holds office as long as they enjoy
+majority support in Lok Sabha; no fixed
+term
+President has a fixed term of 4 years;
+can serve maximum 2 terms
+Removal of Executive
+PM and Council of Ministers can be
+removed anytime by no-confidence
+motion in Lok Sabha
+President can only be removed by
+impeachment, which is a long, rigorous
+process
+Separation of Powers Not strict – overlap between executive
+and legislature
+Strict – complete separation between
+the three organs of government
+Cabinet Accountability Cabinet is collectively responsible to
+Parliament (Article 75)
+Cabinet is not accountable to Congress;
+accountable only to President
+Leadership Style Collegial leadership: decisions are taken
+collectively by Council of Ministers
+Presidential leadership: President
+makes final executive decisions
+Law-making Process
+Executive (PM/Cabinet) initiates most
+legislation; ministers are also members
+of Parliament
+Executive cannot introduce legislation;
+only Congress can do so
+Checks and Balances
+Legislature has upper hand; frequent
+checks via Q&A, adjournment motions,
+etc.
+Strong institutional checks: veto,
+judicial review, congressional oversight,
+separation of powers
+Role of Political Parties Party discipline is strict; anti-defection
+law enforces loyalty
+Less strict party discipline; lawmakers
+can vote against party lines
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+MCN 2.0
+ 	Magna Carta Mains 2026
+Mains Concise Note (MCN) 36 : Comparative Constitutions : Pres v Parl System
+
+-- 12 of 21 --
+
+Bicameralism
+Bicameral: Lok Sabha (directly
+elected), Rajya Sabha (indirectly
+elected)
+Bicameral: House of Representatives
+(population-based), Senate (equal
+state representation)
+Judiciary’s Role
+Integrated and independent
+judiciary; Supreme Court can strike
+down unconstitutional acts
+Strong, independent judiciary;
+judicial review is well-established
+(e.g., Marbury v. Madison)
+Role of President Ceremonial Head of State; functions
+on advice of PM & Council (Article 74)
+Real and ceremonial Head; exercises
+vast independent powers in
+domestic and foreign policy
+Ordinance/Executive Order
+Power
+President can issue ordinances
+(Article 123) on Cabinet advice when
+Parliament is not in session
+President can issue executive
+orders, but subject to judicial review
+and Congressional challenge
+Emergency Powers
+Defined in Constitution (Articles 352,
+356, 360); require parliamentary
+approval
+Limited emergency powers;
+governed by statutes like the
+National Emergencies Act (1976)
+Stability of Government
+Less stable due to possibility of
+frequent coalition breakdowns and
+no-confidence motions
+More stable due to fixed tenure of
+President and separation from
+legislature
+Flexibility
+More flexible due to fusion of powers
+and frequent legislative-executive
+interaction
+More rigid due to fixed tenure and
+clear separation of powers
+Speed of Decision Making Can be faster if the ruling party has
+majority in Parliament
+Can be slower due to potential
+executive-legislative gridlock
+People’s Representation People elect MPs; government
+formed by majority in Lok Sabha
+People elect President directly
+through Electoral College
+Examples of Similar Systems 	UK, Canada, Australia, Japan 	Brazil, Mexico, Philippines, Nigeria
+India’s Parliamentary system ensures executive accountability to the legislature, enabling a fusion of powers, but
+often at the cost of government stability.
+The US Presidential system provides stability, independent executive authority, and checks and balances, but
+may lead to deadlock between President and Congress.
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+MCN 2.0
+ 	Magna Carta Mains 2026
+Mains Concise Note (MCN) 36 : Comparative Constitutions : Pres v Parl System
+
+-- 13 of 21 --
+
+Aspect 	India 	United States 	United Kingdom 	France
+Type of Government Parliamentary
+democracy
+Presidential
+democracy
+Parliamentary
+monarchy
+Semi-presidential
+democracy
+Form of State Quasi-federal
+republic Federal republic
+Unitary
+constitutional
+monarchy
+Unitary republic
+Head of State President (elected
+indirectly)
+President (elected
+directly)
+Monarch (King
+Charles III)
+President (elected
+directly)
+Head of Government Prime Minister 	President 	Prime Minister 	Prime Minister
+Executive System Dual executive
+(President + PM)
+Single executive
+(President)
+Dual executive
+(Monarch + PM)
+Dual executive
+(President + PM)
+Legislative System Bicameral (Lok Sabha
+& Rajya Sabha)
+Bicameral (House of
+Representatives &
+Senate)
+Bicameral (House of
+Commons & Lords)
+Bicameral (National
+Assembly & Senate)
+Sovereignty
+Constitution is
+supreme; popular
+sovereignty
+Constitution is
+supreme; popular
+sovereignty
+Parliament is
+sovereign
+Constitution is
+supreme; popular
+sovereignty
+Form of Constitution Written, partly rigid
+and partly flexible Written, rigid
+Unwritten, evolved
+via statutes,
+conventions, case
+law
+Written (1958),
+moderately rigid
+Political Executive
+Prime Minister and
+Council of Ministers
+responsible to
+Parliament
+President & Cabinet,
+not part of
+legislature
+Prime Minister &
+Cabinet drawn from
+Parliament
+President (directly
+elected) and PM
+(from Parliament)
+Presidential Election
+Indirect (Electoral
+College of MPs &
+MLAs)
+Direct by Electoral
+College based on
+popular vote
+Monarch is
+hereditary
+Direct election by
+popular vote (since
+1962)
+Prime Minister’s
+Appointment
+President appoints
+PM who commands
+Lok Sabha majority
+No PM (President
+leads Cabinet)
+Monarch appoints
+PM with majority in
+Commons
+President appoints
+PM; must have
+majority in Assembly
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+MCN 2.0
+ 	Magna Carta Mains 2026
+Mains Concise Note (MCN) 37 : Comparative Constitutions : Forms of Govt
+
+-- 14 of 21 --
+
+Parliament’s
+Control over
+Executive
+Strong; Council of
+Ministers is
+responsible to Lok
+Sabha
+Limited; separation
+of powers
+Strong; Cabinet is
+responsible to
+Commons
+Moderate; PM is
+accountable to
+Parliament,
+President is not
+Judicial
+Independence
+High; collegium
+system for
+appointments
+High; appointments
+require Senate
+confirmation
+Limited;
+parliamentary
+sovereignty prevails
+High; Constitutional
+Council reviews
+legislation
+Party System
+Multi-party;
+coalition
+governments
+common
+Two-party
+dominant
+(Democrat vs
+Republican)
+Two-party
+dominant; but
+minor parties active
+(esp. regional)
+Multi-party with
+shifting alliances
+Electoral System
+FPTP for Lok Sabha;
+Proportional
+Representation in
+Rajya Sabha
+FPTP in most
+elections
+FPTP in general
+elections
+Two-round system
+for presidential and
+legislative elections
+Judicial Review
+Explicit and active
+(e.g., Kesavananda
+Bharati)
+Strong, from
+Marbury v. Madison
+onward
+Limited; courts
+cannot strike down
+Parliament acts
+Limited; a priori
+review by
+Constitutional
+Council
+Role of Constitution
+in Limiting Power
+Fundamental
+Rights, Judicial
+Review, Separation
+of Powers
+Strong institutional
+checks and
+balances
+No codified
+constitution;
+political
+conventions prevail
+Constitution strictly
+defines roles of
+President & PM
+Military Control
+Civilian supremacy;
+President is
+ceremonial
+Commander-in-
+Chief
+President is
+Commander-in-
+Chief with real
+powers
+Monarch is formal
+Commander-in-
+Chief; government
+controls military
+President is
+Commander-in-
+Chief; PM controls
+domestic military
+policy
+Emergency Powers
+President has wide
+emergency powers
+under Articles 352–
+360
+Limited emergency
+powers under laws
+like the War Powers
+Act
+No constitutional
+emergency
+provision
+President can
+declare emergency
+(Article 16)
+Decentralisation
+Federal with strong
+central bias; 3-tier
+governance
+Federal with strong
+state rights
+Devolved powers to
+Scotland, Wales, NI
+(not constitutionally
+guaranteed)
+Unitary but with
+decentralised
+administrative
+regions
+Recent Political
+Characteristics
+Rise of coalition
+politics, federal
+tensions, judicial
+activism
+Partisan gridlock,
+judicial
+assertiveness,
+strong presidential
+power
+Brexit-induced
+constitutional
+debates; regional
+nationalism
+Strong presidency,
+active judiciary,
+volatile legislative
+coalitions
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+MCN 2.0
+ 	Magna Carta Mains 2026
+Mains Concise Note (MCN) 37 : Comparative Constitutions : Forms of Govt
+
+-- 15 of 21 --
+
+Aspect 	India 	United States 	United Kingdom 	France
+Form of Government
+Quasi-federal
+(federal features
+with unitary bias)
+Classical federal Unitary with
+devolution Unitary
+Constitutional
+Structure
+Written, Part XI
+(Articles 245–263)
+lays federal
+structure
+Written, strong
+federal structure
+(Articles I–X)
+Unwritten,
+parliamentary
+sovereignty
+Written (Constitution
+of the Fifth Republic,
+1958)
+Level of Government
+Union, States, UTs
+(including special
+provisions for J&K,
+now UT)
+Federal, States,
+Local
+Central, devolved
+governments
+(Scotland, Wales, N.
+Ireland)
+Central, Regions,
+Departments
+Status of
+Constituent Units
+States are not
+sovereign; exist at
+the will of Parliament
+States are sovereign
+in their own sphere
+Devolved powers
+granted by Acts of
+Parliament; no
+inherent sovereignty
+Local units are
+administrative
+divisions; powers
+delegated by central
+govt
+Source of Power
+Constitution is not a
+compact between
+states; states derive
+power from
+Constitution
+Constitution is a
+compact among
+sovereign states
+Parliament is
+supreme; devolved
+powers can be
+revoked
+Central Constitution
+provides for local
+decentralisation
+Distribution of
+Powers
+Union List, State List,
+Concurrent List (7th
+Schedule)
+Enumerated powers
+(Federal); Residual
+powers to states
+(10th Amendment)
+No formal division;
+devolved powers
+defined by
+Westminster
+Powers not
+constitutionally
+guaranteed to
+regions
+Residual Powers Vested in Centre
+(Article 248) Vested in States Vested in UK
+Parliament
+Vested in Central
+Government
+Amendment of
+Constitution
+Article 368: Some
+require state
+ratification, others
+don’t; no state veto
+Rigid: Requires
+ratification by 3/4th
+states
+Flexible: Parliament
+can amend by
+majority
+Amendments
+proposed by govt
+and passed by
+Parliament or
+referendum
+Representation in
+Upper House
+Rajya Sabha
+represents states
+but members
+elected indirectly by
+MLAs
+Senate represents
+states equally (2 per
+state)
+House of Lords is not
+federal or territorial
+in nature
+Senate exists but not
+for state
+representation
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+MCN 2.0
+ 	Magna Carta Mains 2026
+Mains Concise Note (MCN) 38 : Comparative Constitutions : Federalism
+
+-- 16 of 21 --
+
+Existence of Local
+Governments
+Constitutionally
+mandated (73rd &
+74th Amendments)
+Recognized by state
+constitutions; not
+federally mandated
+Created by
+Parliament; not
+sovereign
+Created by national
+law; operate under
+central oversight
+Role in Constitution
+Amendment
+States involved only
+in limited cases
+States’ consent
+essential for most
+amendments
+No formal state role
+No role of local units
+in constitutional
+amendment
+Judicial
+Interpretation of
+Federalism
+SC has called India
+“quasi-federal”;
+emphasizes
+“cooperative
+federalism”
+SC emphasizes “dual
+federalism”; strong
+state rights
+historically
+Courts uphold
+parliamentary
+sovereignty over
+devolved
+governments
+Constitutional
+Council supports
+unitary hierarchy
+Emergency
+Provisions
+Allows unitary
+override (Articles
+352, 356)
+No provision for
+suspension of
+federalism
+Emergencies
+declared by
+Parliament; no
+federal override
+President may
+declare emergency
+but centralises
+power temporarily
+Fiscal Federalism
+Finance Commission
+(Article 280); GST
+Council; Centre
+collects bulk of taxes
+States and Centre
+both have power to
+tax; strong
+independent fiscal
+powers
+Local govts depend
+heavily on central
+transfers
+Regions rely on
+central funding;
+weak fiscal
+autonomy
+Examples of Federal
+Conflicts
+Centre vs States on
+CAA, GST
+compensation, farm
+laws
+Civil War (1861–65),
+abortion laws (post-
+Roe v. Wade
+reversal)
+Brexit-induced
+tensions with
+Scotland, NI
+Protocol
+Yellow Vest protests
+over central policy
+decisions
+Nature of
+Federalism
+Cooperative,
+asymmetric,
+centralising
+Competitive,
+symmetric,
+constitutionally
+entrenched
+Devolutionary,
+flexible, revocable
+Unitary with
+administrative
+decentralisation
+India: A unique quasi-federal model with strong centralising tendencies, especially during emergencies.
+USA: A classic federal system with strong state autonomy and a constitutionally entrenched division of
+powers.
+UK: A unitary system with devolved governance, but devolution remains at the mercy of Parliamentary
+sovereignty.
+France: A strongly centralised unitary state, though recent decades have seen limited administrative
+decentralisation.
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+MCN 2.0
+ 	Magna Carta Mains 2026
+Mains Concise Note (MCN) 38 : Comparative Constitutions : Federalism
+
+-- 17 of 21 --
+
+Aspect 	India 	United States 	United Kingdom 	France
+Form of
+Government
+Parliamentary
+democracy
+Presidential
+democracy
+Parliamentary
+monarchy
+Semi-presidential
+republic
+Doctrine Type Flexible separation of
+powers
+Strict separation of
+powers Fused powers Dual executive with
+shared powers
+Source
+Document
+Constitution of India
+(1950)
+U.S. Constitution
+(1789)
+Unwritten
+constitution (Acts,
+conventions, case
+law)
+Constitution of the
+Fifth Republic (1958)
+Legislature Bicameral: Lok Sabha
+& Rajya Sabha
+Bicameral: House &
+Senate
+Bicameral: House of
+Commons & Lords
+Bicameral: National
+Assembly & Senate
+Executive
+PM-led Cabinet from
+Legislature; President
+is nominal
+President is both
+head of state & govt,
+separate from
+Congress
+PM is head of govt;
+Monarch is
+ceremonial head of
+state
+Dual executive:
+President (head of
+state) + PM (head of
+govt)
+Judiciary
+Independent;
+Supreme Court under
+Article 124
+Highly independent;
+U.S. Supreme Court
+under Article III
+Parliamentary
+sovereignty limits
+judicial review
+Constitutional
+Council + Conseil
+d’État + Cour de
+Cassation;
+independent but
+complex structure
+Separation
+between
+Legislature &
+Executive
+Partial: Ministers are
+part of Parliament
+(Art. 75)
+Full: President &
+Cabinet not part of
+Congress
+None: Cabinet
+members are MPs;
+executive is part of
+legislature
+Moderate: President
+elected
+independently; PM
+depends on
+parliamentary
+support
+Appointment of
+Executive
+PM appointed by
+President; must enjoy
+Lok Sabha majority
+President elected
+independently;
+Cabinet appointed by
+President
+PM appointed by
+Monarch; must
+command Commons'
+confidence
+President elected;
+PM appointed by
+President but
+accountable to
+Parliament
+Removal of
+Executive
+No-confidence
+motion in Lok Sabha
+Impeachment by
+Congress (rare)
+Vote of no-
+confidence by House
+of Commons
+No-confidence vote
+in Parliament
+removes PM;
+President can
+dissolve Assembly
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+MCN 2.0
+ 	Magna Carta Mains 2026
+Mains Concise Note (MCN) 39 : Comparative Constitutions : Separation of Powers
+
+-- 18 of 21 --
+
+Legislative-
+Executive
+Relations
+Strong legislative
+oversight (Q&A,
+motions,
+committees)
+Separation with
+checks: veto,
+appointments,
+budget
+Intertwined;
+Parliament has
+dominance
+PM accountable to
+Assembly;
+President
+commands
+defence/foreign
+policy
+Judicial Review
+Explicit power of
+courts (e.g.,
+Kesavananda
+Bharati)
+Marbury v. Madison
+established judicial
+review
+No formal judicial
+review due to
+parliamentary
+supremacy
+Constitutional
+Council reviews
+constitutionality
+pre-promulgation
+Legislative Control
+over Executive
+High: via
+Parliament,
+motions, oversight
+Limited: budget
+control,
+confirmations,
+impeachments
+Complete: PM and
+Cabinet
+accountable to
+Parliament
+Moderate:
+Parliament can
+censure PM;
+President
+independent
+Executive Control
+over Legislature
+President can
+dissolve Lok Sabha
+under advice
+No power to
+dissolve Congress
+PM can advise
+Monarch to
+dissolve Parliament
+President can
+dissolve National
+Assembly (Art. 12)
+Judiciary’s
+Independence
+Constitutional
+guarantee; SC
+collegium selects
+judges
+Life tenure;
+appointments with
+Senate approval
+Limited; no
+constitutional
+supremacy;
+Parliament is
+sovereign
+Independent
+judicial institutions;
+Constitutional
+Council has defined
+jurisdiction
+Role of Checks and
+Balances
+Present but
+flexible;
+interdependence of
+organs
+Strong and
+constitutionally
+entrenched
+Minimal; checks are
+political rather
+than legal
+Mix of legal and
+political checks;
+semi-presidential
+duality helps
+balance
+Overlap of Powers
+Yes: Ministers are
+legislators;
+Judiciary
+sometimes
+performs quasi-
+legislative
+functions (e.g., PIL)
+No overlap; each
+branch
+constitutionally
+separate
+High overlap:
+Executive drawn
+from Parliament
+Moderate overlap:
+PM answers to
+legislature,
+President does not
+Emergency Powers
+& Impact on
+Separation
+President can
+override separation
+during emergencies
+(Arts 352–360)
+Emergency powers
+exist but checks
+remain (e.g., War
+Powers Act)
+Parliament remains
+supreme; no
+special emergency
+override
+State of emergency
+allows significant
+centralization
+under President
+Nature of
+Separation in
+Practice
+Functional
+interdependence,
+cooperative model
+Rigid separation,
+competitive model
+Fusion of powers,
+supremacy of
+Parliament
+Balanced hybrid,
+dual executive with
+overlapping roles
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+MCN 2.0
+ 	Magna Carta Mains 2026
+Mains Concise Note (MCN) 39 : Comparative Constitutions : Separation of Powers
+
+-- 19 of 21 --
+
+Aspect 	India 	United States 	United Kingdom 	France
+Judicial Structure Integrated, unified
+judiciary
+Dual system: Federal
++ State courts
+Unified system with
+decentralised
+magistrates
+Dual: Ordinary
+courts +
+Administrative
+courts +
+Constitutional
+Apex Court Supreme Court of
+India U.S. Supreme Court
+Supreme Court of
+the United Kingdom
+(est. 2009)
+Constitutional
+Council (for
+constitutionality) +
+Court of Cassation
+(civil/criminal) +
+Conseil d’État
+(administrative)
+Number of Judges in
+Apex Court
+34 (incl. Chief
+Justice) 9 (incl. Chief Justice) 12 Justices (incl.
+President)
+Varies: 9 in
+Constitutional
+Council
+Appointment of
+Judges
+Collegium system
+(by senior judges),
+formally appointed
+by President
+Nominated by
+President; confirmed
+by Senate
+Appointed by
+Monarch on advice
+of PM and
+commissions
+Appointed by
+President, Speaker
+of Parliament, etc.
+(especially for
+Constitutional
+Tenure of Judges
+Till age 65 (SC), 62
+(HC); removable via
+impeachment
+Life tenure (good
+behavior);
+removable via
+impeachment
+Till age 75
+Usually fixed terms
+(e.g. 9 years for
+Constitutional
+Council)
+Judicial Review
+Explicitly granted;
+can strike down
+unconstitutional
+laws (e.g.,
+Kesavananda
+Powerful; origin in
+Marbury v. Madison
+(1803)
+No full judicial
+review; Parliament is
+sovereign
+A priori (before law
+is enacted) and a
+posteriori (after
+enactment)
+constitutional review
+Power of Judicial
+Review
+Strong; extends to
+Constitutional
+amendments
+violating Basic
+Structure
+Strong and
+entrenched
+Limited; courts
+cannot overrule
+Parliament
+Limited;
+Constitutional
+Council can block
+unconstitutional
+laws before
+Independence of
+Judiciary
+Constitutionally
+guaranteed; security
+of tenure, salary, and
+removal process
+Strongly protected
+by Constitution
+Independent but
+subordinate to
+Parliament; political
+neutrality stressed
+Constitutionally
+autonomous; but
+judiciary split across
+different courts
+Removal of Judges
+By impeachment
+(Articles 124(4) &
+217); complex and
+rare
+Impeachment by
+House + conviction
+by Senate (never
+done)
+On recommendation
+of independent
+bodies; rarely used
+Constitutional
+Council members
+cannot be removed;
+others removed via
+disciplinary councils
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+MCN 2.0
+ 	Magna Carta Mains 2026
+Mains Concise Note (MCN) 40 : Comparative Constitutions : Judiciary
+
+-- 20 of 21 --
+
+Binding Nature of
+Judgments
+Supreme Court
+decisions binding
+under Article 141
+SC rulings are final
+and binding; stare
+decisis applies
+Judicial precedent
+respected but not
+binding on
+Parliament
+Constitutional
+Council rulings are
+binding; decisions
+of other courts
+vary in authority
+Public Interest
+Litigation (PIL)
+Actively used;
+pioneered liberal
+standing doctrine
+Limited concept;
+requires standing
+and justiciability
+Rare and
+restricted;
+traditional standing
+rules apply
+PIL concept is
+weak; standing
+rules are strict
+Judicial Activism
+Prominent: socio-
+economic rights,
+environmental law,
+electoral reforms
+Varies by era (e.g.,
+Warren Court was
+highly activist)
+Minimal activism;
+deferential to
+Parliament
+Generally
+conservative;
+strong separation
+between law and
+policy
+Access to Courts
+Constitution
+guarantees access
+to courts (Article
+32 & 226)
+Bill of Rights
+guarantees due
+process and fair
+trial
+Access granted by
+common law
+traditions and
+Human Rights Act
+(1998)
+Access ensured by
+legal codes and EU
+law (earlier)
+Role in
+Constitutional
+Governance
+Guardian of
+Constitution,
+federalism, and
+rights
+Powerful co-equal
+branch; checks
+Congress &
+President
+Subordinate to
+Parliament; limited
+constitutional role
+Shared:
+Constitutional
+Council guards
+Constitution;
+judiciary handles
+Specialised Courts
+Tribunals for
+taxation,
+environment,
+company law, etc.
+Specialized federal
+courts (tax,
+military, claims,
+etc.)
+Administrative
+tribunals
+(immigration,
+employment)
+Conseil d’État
+(administrative),
+Cour des Comptes
+(audit), etc.
+Jury System 	Not anymore
+Used in criminal
+trials; guaranteed
+by Constitution
+Still used in serious
+criminal trials
+Used in some
+serious criminal
+trials
+Judicial
+Transparency
+Judgments are
+public; live-
+streaming initiated
+in 2023
+Open court
+principle; SC
+hearings public
+Hearings open;
+judgments
+accessible
+Written decisions
+available; Council
+decisions are
+public
+Recent Judicial
+Trends
+Judicial overreach
+concerns,
+digitisation of
+courts, live
+streaming
+Politicisation of
+appointments;
+culture wars in
+courts
+Post-Brexit role
+expanding;
+increasing
+devolution
+disputes
+Constitutional
+Council becoming
+more assertive;
+balancing
+Presidential power
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+MCN 2.0
+ 	Magna Carta Mains 2026
+Mains Concise Note (MCN) 40 : Comparative Constitutions : Judiciary
+
+-- 21 of 21 --
+

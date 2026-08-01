@@ -1,0 +1,2269 @@
+Intro
+SC in 2024 ruled that States can collect royalty and also tax major minerals, and can also regulate industrial
+alcohol opening up a significant source of revenue for states.
+Federalism is basic structure : Kesavanada Bharti v. State of Kerala (1973), SR Bommai v. Union of India (1994)
+KC Wheare famously characterised India as ‘quasi-federal’ and others like CH Alexandrowicz raised the question of
+whether Indian should in fact be called a federation at all; end of one party rule in 1967 has been a turning point in
+federal aspirations in the country
+Legislative Relations
+Art 245 (Subject to CoI provisions),
+Art 245 (Subject to CoI provisions),
+Parl can make laws for whole/part of Territory of India
+State can make laws for territory of the state
+Parl can make extra territorial laws (effect abroad)
+Art 246
+Union List - Parl, State List - States, Concurrent List - Parl & State (Parl>States),
+For UTs without legislatures, Parl can make law.
+Art 248 : Residuary Powers : (not in any list) -
+Only Parl can make laws (supported by Entry 97 - List I)
+Art 254 : Concurrent List Conflict
+Inconsistency/Repugnancy between Union & State Laws in Concurrent List
+Subject Wise Distribution
+Union List (97 Subjects):
+National Imp.
+Exclusive Parl. Powers
+Uniform Laws
+State List (66 Subjects):
+Local Importance
+Exclusive State Powers
+Concurrent List (47 Subjects)
+Both Parl. & State can make laws
+Jurisprudence
+1.Art 245 (Subject to CoI provisions),
+a.Parl can make laws for whole/part of Territory of India
+b.State can make laws for territory of the state
+c.Parl can make extra territorial laws (effect abroad)
+2.Doctrine of Territorial Nexus
+a.State normally cannot make laws having an effect outside the state unless there is enough connection between
+the State and the subject matter of the law.
+i.State of Bombay v R.M.D.C (1957) : the connection must be real and not illusory (i.e. it should be on the basis
+of a valid law) and the liability sought to be imposed must be pertinent to that connection (i.e. law selects some
+fact which provide some connection with the State).
+ii.Tata Steel v. State of Bihar (1958) : The nexus theory does not impose a tax, it only indicates circumstances in
+which a.tax imposed by a legislature may be enforced in a particular case.
+iii.State of Bihar v Charusila Das (1959) : A-State legislature has power to legislate with respect.to charitable and
+religious trusts situated within its territoryg even though any part of trust property, small or large may be
+situated in another State.]
+iv.Electronics Corp., India v C.I. T (1989) : law having extra-territorial operation can be banned by ParliamenL but
+such law must have nexus with somethin*in India
+Mains Concise Note (MCN) 15 : Federalism : Essentials & Core Relations
+MCN 2.0
+ 
+Magna Carta Mains 2026
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+
+-- 1 of 30 --
+
+1.Art 246
+i.Union List - Parl, State List - States, Concurrent List - Parl & State (Parl>States),
+ii.For UTs without legislatures, Parl can make law.
+a.Autonomy to Centre and States (Legislative Powers) (Javed v Stale of Haryana (2003)
+b.Plenary Power of Legislature
+i.Entries should not be read in narrow or restricted sense [State of W B. Union of India 1963)]
+ii.Retrospective & Prospective Laws (Rai Ramkrishna v State of Bihar (1963)
+iii.No power to enact a provision that undermines an individual decision of the court affecting the rights and
+liabilities of parties (l.N. Sorena v State of M.P., 1976)
+c.Liberal and Harmonious Construction : There is no clear-cut division of powers between the Union and States. Thus,
+in case of conflict the judiciary has to make reconciliation attempts between the conflicting entries
+i.ITC Ltd v. APMC (2002)
+1.The various entries in the three lists of the 7th Schedule are not powers of legislation but the "fields of
+legislation". Competency has to be traced back to the Constitution.
+2.When reconciliation is not possible, then the court will have to examine the entries wrt legislative power in
+the Constitution
+3.The need for power-sharing devices between the Centre and the'State must be subordinated to State's
+security and stability
+4.The Constitution deserves to be interpreted so that does not whittle down the powers of the State
+Legislature and preserves the federalism while also upholding the Central supremacy
+5.Entries should be read together without giving a narrow or restricted meaning to any of them.
+6.An absolute or watertight compartmentalisation of heads of subject for legislation may not be possible
+ii.GJ University v KR Mudholkar (1963)
+1. Gujarat lacks legislative competence under the State List to prescribe any particular medium of instruction
+in respect of higher education as it interferes with the power of Union Parliament under List I -
+coordination and determination of standards in institutions of higher education.
+d.Ancillary or Incidental Powers
+i.The power to legislate on a topic of legislation carries with it the power to legislate on an ancillary matter
+which can be said to be reasonably included in the power given. (United Provinces v. Atiqa Begum, 1941)
+1.Eg - to legislate w.r.t. land includes the power w.r.t. mortgages of land as a subsidiary subject.
+ii.Punitive measures for enforcing social legislation are part of the ancillary powers. (Joshi v Mills, 1977)
+iii.Expressions 'incidental' and 'ancillary' powers mean the powers which are required to be exercised for the
+proper and effective exercise of legislative powers expressly conferred
+1.Power to levy tax would NOT include power to confiscate goods as ancillary
+e.Pith and Substance Rule
+i.When a law dealing with a subject in one list touching on a subject in another list
+ii.Prafulla Kumar v. Bank of Commerce (1947)
+1.Object, Scope, Effect of the Act to be considered
+2.The extent of invasion by a legislature is not for determining the validity of law, but for determining the
+pith and substance of impugned Act.
+3.Where three lists are in conflict List I has priority over List II and lll, and List III over Il.
+iii.M Ismail Faruqui v UOI (1995) : the pith and substance of the legislation was acquisition of property and not
+related to public order and therefore the Act was valid law.
+f.Doctrine of Colourable Legislation
+i.Applied when the transgression is disguised, covert and indirect; made to appear as if it were quite
+constitutional. (you cannot do indirectly what you cannot do directly)
+ii.KC Gajapati Deo v. State of Orissa (1953) About competency not intent (bona fides or malafide) on the part of
+the legislature.
+iii.State of Bihar v. Kameshwar Singh (1952) : Bihar land reforms Act struck down
+iv.Naga People s Movement for Human Rights v Union of India : Court upheld AFSPA
+Mains Concise Note (MCN) 16 : Federalism : Legislative Relations & Doctrines	
+MCN 2.0
+Magna Carta Mains 2026
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+
+-- 2 of 30 --
+
+1.Art 254
+i.Repugnancy/Inconsistency between Union & State Laws (Concurrent list)
+ii.Means that conflicting results are produced when both the laws of State as well as Union Legislature with respect
+to Concurrent List are applied to the same facts.
+iii.Conflict between a Union and a State law, the former prevails. (Art 254)
+iv.In order that, the State law should prevail in that State (G.C. Kanungo v State of Orissa, 1995)
+1.there must be in existence a Union Law
+2.subsequent to the Union law the State legislature enacts a law with respect to a matter in the Concurrent List
+3.the State law having been reserved for the President's consideration, has received his assent thereto.
+4.However, the proviso to Art. 254(2) lays down that Parliament may again supersede State legislation which has
+been assented to by the President under clause (2) by making a law on the same matter
+a.Tests for repugnancy
+i.Deep Chand v. State of UP (1959)
+1.Direct Conflict- Direct conflict between the two (one say 'do other 'don't') - State and Union law. Thus, an
+inconsistency in the actual terms of the two statutes.
+2.Occupied Field- No apparent conflict, yet repugnancy because both cover the same field.
+3.Intended Occupation : Parliament intended to lay down an exhaustive code in respect of subject matter
+replacing the State Act, or because a law may be in conflict with the intention of the dominant law to cover the
+whole field.
+ii.Karunanidhi v. Union of India (1979)
+1.Where two statutes occupy a particular field, but there is possibility of both operating in same field without
+colliding then there is no repugnancy.
+2.No inconsistency, but a statute occupying same field seeks to create distinct and separate offences, then there
+is no repugnancy.
+PREDOMINANCE OF UNION LAW AND LIMITATIONS OF STATE LEGISLATURES
+State lists to be interpreted as per Union and Concurrent List (Art 246)
+Concurrent Lists : Union > State (Art 254)
+Union List has most subjects
+Residuary powers with the Parliament (Art 248)
+Scenarios where Parliament can makes laws on State List Subjects :
+RS passes a resolution with Special Maj I in National Interest or GST related laws authorising the Parl to make law on state list
+entries (Art 249)
+Such a law can be made for entire/partial Territory of India till validity of the resolution
+Resolution is valid for a year and can be extended for 1 more year by same majority
+During National Emergency, Parliament can make laws on all lists incl. state list. and GST for entire/partial Territory of India (Art
+250)
+Only when the Parl actually makes laws under Art 249/250 is when state laws/law making powers becomes restricted. Even if
+resolutions and proclamations are passed/issued respectively, unless follow up Parl Laws are made, state powers are not restricted
+(Art 251)
+2 or more states pass a resolution using simple majority authorising the Parl to make a law on the State List (Art 252)
+States can make laws on the subject then, Other states can also adopt the same law by passing a resolution using simple maj.
+Such a law made can only be amended by the Parliament and not the State legislatures concerned.
+If law needs to be made on a state list subject to implement an international treaty, the Parl can without any spl permission. (Art
+253)
+Pres. can authorise the Parl. to exercise powers of the concerned state legislature during Pres Rule (Art 356)
+Parl. can make laws for Union Territories without a legislature/any territory not a state on any subject in any list (Art 246)
+Parl. can set up courts for better administration of Union Laws (Art 247)
+A bill imposing reasonable restrictions in public interest on inter/intra state trade and commerce w.r.t a specific state cannot be
+introduced in that specific state without prior recommendation of the President [Art 304(b)]
+Governor can reserve any bill for President (Art 200) (Governor’s constitutional discretion, not bound by State CoM Advice)
+State Bills that should/must be reserved for Pres. Assent by Governor after being passed by the state legislatures
+state bill about land acquisition/merging companies etc. (proviso to Art 31A)
+state bill implementing Art 39(b)(c) (proviso to Art 31C)
+state bill adversely affecting the powers of the HC as envisaged in CoI (proviso to Art 200)
+state bill on concurrent list when central law exists (exception of Union Law > State Law in Concurrent List) [Art 254(2)]
+state bill taxing water/electricity provided by any authority created by Parl Law [Art 288(2)]
+state money and financial bills (I and II) passed during Financial Emergency if such direction issued [Art 360(4)(ii)]
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+MCN 2.0
+ 
+Magna Carta Mains 2026
+Mains Concise Note (MCN) 17 : Federalism : Repugnancy & Legislative Dominance
+
+-- 3 of 30 --
+
+Type 	Approval, Extension, Revocation 	Grounds, Impact, Conditions
+National
+(Art 352)
+Approval
+LS & RS both should pass with Spl Maj
+II within 30 days.
+Extension/Duration
+Indefinitely, 6 months at a time.
+Revocation
+By Pres
+LS - simple Maj.
+If LS not in session, 1/10 members
+can send a notice to Spkr/Pres
+expressing intent to end emergency.
+th
+Special sitting must be conducted
+in 14 days.
+Grounds
+Indian security threatened by external aggression/armed
+rebellion (previously internal disturbance till 44 CA, 1978)	
+th
+Imposed thrice
+1961 & 71 : external aggression
+1975 : internal disturbance
+Conditions (Art 353 & Art 354)
+Union Cabinet must recommend Nat. Emergency to Pres. in
+writing (44 CA, 1978)	
+th
+Proclamation valid for 6 months.
+Can be imposed if before, during, and after external
+aggression/armed rebellion
+If LS is dissolved, then RS approval for time being is valid, LS
+can approve within 30 days of next session.
+Art 20 & 21 can’t be suspended (44 CA, 1978)	
+th
+Only emergency laws are protected from being challenged in
+court of law and no other laws which are not related to the
+emergency
+(44 CA, 1978)	th
+Impact (Art 353 & Art 354)
+Union executive power shall extend to the giving of any
+direction to any State in the declared emergency area
+Parl. can make laws on State List
+President can alter the distribution of revenues that are
+normally for states
+such orders to be placed immediately before Parl.
+LS and SLA can be extended by 1 yr at a time & not
+extending in any case beyond a period of six months after
+the proclamation ceased to exist
+Art 19 automatically suspended but only when grounds are
+ext. aggression (44 CA, 1978)	th
+such orders to be placed immediately before Parl. (44
+CA, 1978)
+th
+(National Emergency makes India Unitary, it does not lead to
+dissolution/suspension of State Legislatures/Executive)
+Intro
+Inspired mainly by the Weimar Constitution of Germany, US and Australia
+In times of crisis, the Constitution dons its armour — but does it risk losing its soul? - J. HR Khanna
+Type of
+Emergency
+Frequency Notable
+Instances
+National 	3
+1962 (China),
+1971 (Pakistan),
+1975 (Internal
+Disturbance)
+State (Art 356) 	~100
+First in Punjab
+(1951), frequent
+use in 1970s-
+90s
+Financial 	0 Never
+proclaimed
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+MCN 2.0
+ 
+Magna Carta Mains 2026
+Mains Concise Note (MCN) 18 : Emergency
+
+-- 4 of 30 --
+
+Issues with National Emergency and Impact on Federalism
+Concentration of Power: During national emergencies, the Union government assumes sweeping powers, diminishing the
+autonomy of states.
+Suspension of Federal Structure: Parliament can legislate on State List subjects, and the Union can issue binding
+directions to states.
+Impact on Fundamental Rights: Article 19 rights are suspended (except in cases of armed rebellion post-44th
+Amendment), and the President can suspend the right to approach courts for enforcement of other fundamental rights.
+Extension of Legislatures’ Tenure: The life of Lok Sabha and State Assemblies can be extended, potentially undermining
+democratic processes.
+Landmark Judgements
+Minerva Mills v. Union of India (1980): Affirmed that
+the proclamation of emergency is subject to judicial
+review, though courts can only examine if constitutional
+limitations were observed, not the adequacy of the
+reasons.
+ADM Jabalpur v. Shiv Kant Shukla (1976): Known as
+the Habeas Corpus case, the Supreme Court
+controversially held that during emergency, the right to
+life and liberty could be suspended, denying access to
+courts. This judgment has been widely criticised and
+later effectively overturned by the 44th Amendment,
+which made Articles 20 and 21 non-suspendable
+Global Best Practices for National Emergencies
+Strict Judicial Oversight: Countries like Germany
+and the US require judicial or legislative oversight for
+emergency declarations.
+Time-Bound Proclamations: Emergencies are
+generally time-limited and require periodic
+legislative approval.
+Protection of Core Rights: Some constitutions
+safeguard certain fundamental rights even during
+emergencies (e.g., Germany’s Basic Law).
+Transparency and Accountability: Public disclosure
+of reasons and parliamentary debates are mandated
+in several democracies
+Solutions for Better Usage of National Emergency
+Strengthen Parliamentary Oversight: Ensure regular review and approval by both Houses of Parliament.
+Judicial Review: Maintain robust judicial review to prevent abuse.
+Safeguard Fundamental Rights: Ensure non-derogation of basic rights, especially life and liberty.
+Clear Criteria: Define clear, objective criteria for declaring emergencies.
+Public Accountability: Encourage transparency and public debate on the necessity and scope of emergency measure
+State
+(Art 356)
+Approval
+LS & RS both should pass with Simple
+Maj within 60 days.
+Extension
+3 years, 6 months at a time
+Can only be extended beyond 1 yr if
+National Emergency is also imposed
+or Election Commission certifies that
+it is difficult to hold elections to
+concerned SLA.
+Revocation
+By Pres
+Grounds - failure of a state’s consti. machinery
+Union Government duty to protect States against ext.
+aggression and int. disturbance & ensure CoI is followed in
+the states (C>S)
+Conditions
+Governor may recommend but can be imposed even without
+it.
+SLA cant be dissolved before Parliament approves state
+emergency (SR Bommai, 1994)
+If LS is dissolved, then RS approval for time being is valid, LS
+can approve within 30 days of next session.
+Impact
+President may assume to herself any state govt function and
+all or any of the powers vested in or exercisable by the
+Governor or anybody or authority in the state other than the
+State Leg.
+(this allows for suspension/termination of state executive)
+Pres. may declare that State Leg powers shall be exercisable
+by or under the authority of Parl
+HC powers can’t be subsumed by the Pres.
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+MCN 2.0
+ 
+Magna Carta Mains 2026
+Mains Concise Note (MCN) 18 : Emergency
+
+-- 5 of 30 --
+
+Issues with State Emergency and Impact on Federalism
+Frequent Misuse: Article 356 has been used nearly 100 times, often for political reasons rather than genuine breakdowns of
+constitutional machinery.
+Erosion of State Autonomy: The President can assume state functions, suspend legislatures, and centralise power,
+undermining the federal structure.
+Democratic Deficit: Dismissal of elected governments without adequate justification damages democratic norms.
+Judicial Concerns: Courts have noted that misuse of Article 356 can damage the fabric of federalism.
+Landmark Judgements
+State of Rajasthan v. Union of India (1977): Held that the President’s satisfaction is not beyond judicial review if exercised
+mala fide or on irrelevant grounds.
+S.R. Bommai v. Union of India (1994): A landmark case that established:
+Article 356 should be used sparingly.
+Floor tests are essential to determine majority.
+Proclamations are subject to judicial review.
+Assemblies cannot be dissolved before parliamentary approval.
+Courts can restore dismissed governments and assemblies if the proclamation is struck down.
+Rameshwar Prasad v. Union of India (2006): Dissolution of a freshly elected assembly on the ground of anticipated horse-
+trading was held unconstitutional
+Global Best Practices for State Emergencies
+Federal Balance: In the US and Australia, federal intervention in states is rare and usually requires state consent or clear
+constitutional grounds.
+Judicial and Legislative Safeguards: Checks and balances ensure that central intervention is not arbitrary.
+Clear Grounds: Well-defined, objective grounds for intervention are stipulated.
+Way Forward (Sarkaria)
+Exhaust Alternatives: All possible remedies at the state level should be tried before invoking
+Governor’s Report: Should be a ‘speaking document’ with detailed material facts.
+Parliamentary Approval: Strict adherence to periodic review and approval by Parliament.
+Judicial Review: Continued robust judicial oversight to prevent misuse.
+Public Awareness: Media and civil society should play a role in monitoring and critiquing misuse
+Proper Grounds
+Hung Assembly scenario
+Corruption, maladministration,
+Acting contrary to the Constitution
+Acting contrary to the Union directives
+Failure to meet an extraordinary situation
+Security Concerns
+Improper Grounds
+Improper action by Governor in case of political
+instability
+Overwhelming defeat in the Lok Sabha elections
+Power used merely for achieving good
+Government
+Situation of 'internal disturbance’
+Emergency provisions test the resilience of a democracy — not by how swiftly power is centralised in crisis, but by how quickly it is
+relinquished once the crisis is over.
+India’s constitutional architects envisioned emergency powers as a necessary evil — to protect the nation, not to dominate its people.
+Type 	Approval, Extension, Revocation 	Grounds, Impact, Conditions
+Financial
+(Art 360)
+Approval
+LS & RS both should pass with Simple
+Maj within 60 days.
+Extension/Duration
+Indefinitely
+Revocation
+By Pres
+Grounds
+threat to Indian financial stability or credit
+Conditions (Art 353 & Art 354)
+Pres must be satisfied of the situation
+If LS is dissolved, then RS approval for time being is valid, LS
+can approve within 30 days of next session.
+Impact (Art 353 & Art 354)
+Union can give any direction to states to observe financial
+prudence such as reducing salaries of state employees
+President can also issue similar directions such as reducing
+salaries of union employees, SC/HC judges.
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+MCN 2.0
+ 
+Magna Carta Mains 2026
+Mains Concise Note (MCN) 18 : Emergency
+
+-- 6 of 30 --
+
+Intro
+The core objective is to match resources with responsibilities, promote equity, and maintain macroeconomic
+stability within a federal structure
+In a diverse and complex nation like India, fiscal federalism acts as the economic glue that binds different regions
+together, enabling each to pursue development while contributing to a collective national vision.
+Challenges to Centre-State Financial Relations
+(Puncchi)
+1.Vertical Imbalance: States have significant expenditure
+responsibilities but limited revenue powers, leading to
+dependence on central transfers.
+2.Horizontal Imbalance: Wide disparities in fiscal capacity
+and development among states.
+3.Proliferation of Centrally Sponsored Schemes (CSS):
+These schemes often encroach on state subjects, reduce
+state autonomy, and create rigidities in expenditure.
+4.Rise in Cess and Surcharges: These are not shareable with
+states, shrinking the divisible pool and reducing states’
+share in central revenues.
+5.Compliance Costs: States bear costs of implementing
+central legislation without adequate compensation.
+6.Borrowing Restrictions: States’ borrowing is subject to
+central approval, limiting fiscal autonomy.
+7.Data and Transparency Issues: Inconsistent and non-
+uniform fiscal reporting across states hampers effective
+monitoring and policy formulation.
+Solutions to Centre-State Financial Relations
+1.Rationalise CSS: Reduce the number and scope of
+centrally sponsored schemes, increase untied transfers,
+and allow states greater flexibility in spending.
+2.Expand Divisible Pool: Limit the use of cess and
+surcharges, or compensate states for revenue lost to
+these instruments.
+3.Strengthen State Revenue Base: Empower states to levy
+more taxes or share buoyant taxes like GST at all levels,
+including local governments.
+4.Institutional Reforms: Strengthen State Finance
+Commissions (SFCs), improve data transparency, and
+establish independent fiscal councils for oversight.
+5.Borrowing Reforms: Align state borrowing limits with
+fiscal sustainability, but provide more flexibility for
+productive investments.
+6. Outcome-Based Transfers: Link transfers to performance
+and outcomes in key sectors, while ensuring equity and
+addressing regional disparities
+15 Finance Commission - Review	th
+Tax Devolution
+States’ share in central taxes set at 41% for 2021-26 (down from 42% to account for J&K and Ladakh becoming
+union territories).
+Criteria for Horizontal Devolution
+Income Distance - 45%
+Area - 15%
+Population (2011) Census - 15%
+Demographic Performance - 12.5%
+Forest & Ecology - 10%
+Tax & Fiscal 2.5%
+Grants
+Revenue Deficit Grants: ₹2.9 lakh crore to 17 states.
+Sector-Specific Grants: ₹1.3 lakh crore for health, education, agriculture, judiciary, statistics, aspirational
+districts/blocks, and roads.
+State-Specific Grants: ₹49,599 crore for social needs, governance, water, sanitation, culture, infrastructure, and
+tourism.
+Local Bodies: ₹4.36 lakh crore, including performance-linked grants and health grants.
+Disaster Management: ₹1.6 lakh crore corpus for state disaster management funds.
+Fiscal Roadmap
+Fiscal deficit targets: Centre to reduce to 4% of GDP by 2025-26; states to 3% of GSDP by 2023-26.
+Extra borrowing of 0.5% of GSDP for states undertaking power sector reforms.
+Recommendations for rationalising GST rates, strengthening property tax, and improving fiscal transparency
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+MCN 2.0
+ 
+Magna Carta Mains 2026
+Mains Concise Note (MCN) 19 : Fiscal Federalism, 15 FCth
+
+-- 7 of 30 --
+
+Strengths
+1.Maintained objectivity in tax devolution
+criteria, balancing equity (income distance,
+demographic performance) and efficiency
+(tax effort).
+2.Recognised the need for sector- and
+state-specific grants to address unique
+challenges.
+3.Emphasised fiscal discipline, transparency,
+and the need to rationalise GST and
+property taxes.
+4.Recommended strengthening local bodies
+and disaster management funding.
+Criticisms
+1.Shrinking Divisible Pool: The effective share of states in total central
+revenues is eroded by the rising use of cesses and surcharges, which are
+not shareable.
+2.Horizontal Imbalance: The use of 2011 Census population data and
+demographic performance criteria led to discontent, especially among
+southern states that controlled population growth but lost share94.
+3.Complexity and Scope Creep: Expanded terms of reference (ToR)
+included performance incentives, defense funding, and other tasks,
+diluting focus and increasing workload.
+4.Conditional Grants to Local Bodies: Increased conditionality on grants to
+urban local bodies, limiting their flexibility and effectiveness.
+5.Limited Progress on Fiscal Autonomy: Recommendations for rationalising
+CSS and increasing state autonomy were not fully implemented.
+Critical Analysis of the 15th Finance Commission Recommendations
+1.Vertical and Horizontal Fiscal Imbalances: Persistent disparities in revenue and expenditure responsibilities.
+2.Shrinking Divisible Pool: Continued rise in cesses and surcharges reduces states’ share in central taxes4
+3.Regional Disparities: Widening gaps in per capita income and fiscal capacity among states.
+4.Urban Local Government Finance: Low and conditional intergovernmental transfers to urban local bodies; inadequate
+compensation for loss of revenue post-GST.
+5.Climate Change and New Mandates: Need to address climate resilience and emerging expenditure needs.
+6.Data and Transparency: Non-uniform fiscal reporting and lack of timely, standardised data.
+Challenges Before the 16th Finance Commission and Prognosis
+States’ Fiscal Health
+Determinants
+1.Revenue Mobilisation: Ability to raise own tax and non-tax revenues relative
+to GSDP and total expenditure8.
+2.Quality of Expenditure: Proportion of developmental and capital expenditure
+in total spending.
+3.Fiscal Prudence: Fiscal and revenue deficit ratios to GSDP.
+4.Debt Sustainability: Debt-to-GSDP ratio, interest payments to revenue
+receipts, and growth differential between GSDP and interest payments.
+5.Expenditure Efficiency: Targeted and outcome-based spending, especially in
+social and infrastructure sectors.
+6.Transparency and Data Quality: Timely, accurate, and standardised fiscal
+reporting.
+7.Institutional Strength: Functioning of SFCs, fiscal responsibility legislation, and
+public financial management systems.
+Fiscal Reforms Undertaken by State
+1.Fiscal Responsibility Legislation (FRLs)
+2.Medium-Term Fiscal Policy Statements
+3.Direct Benefit Transfers (DBT):
+4.Adoption of GST
+5.Pension Reforms
+6.Modernisation of Tax Administration
+7.Market Borrowings
+8.Expenditure Rationalisation
+Way Forward
+1.Enhance Revenue Mobilisation: Broaden tax base, improve property tax, strengthen non-tax revenue sources, and leverage
+digital tools for compliance.
+2.Improve Expenditure Efficiency: Adopt outcome and climate budgeting, prioritize high-impact sectors, and rationalise subsidies.
+3.Promote Fiscal Transparency: Standardise and publish timely fiscal data, including off-budget borrowings and contingent
+liabilities.
+4.Strengthen Local Bodies: Empower local governments with greater fiscal autonomy, timely transfers, and capacity building.
+5.Debt Management: Develop clear, time-bound debt consolidation plans, align with macroeconomic objectives, and improve
+reporting.
+6.Adopt Innovative Financing: Explore green bonds, blended finance, and public-private partnerships, especially for climate and
+infrastructure needs.
+7.Institutionalise Performance Monitoring: Use independent fiscal councils, strengthen SFCs, and encourage regular service
+delivery benchmarking.
+8. Foster Cooperative Federalism: Engage in regular and meaningful Centre-State consultations on fiscal matters, and advocate
+for rationalization of CSS and greater flexibility in fiscal management.
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+MCN 2.0
+ 
+Magna Carta Mains 2026
+Mains Concise Note (MCN) 19 : Fiscal Federalism, 15 FCth
+
+-- 8 of 30 --
+
+Feature 	15th Finance Commission 	16th Finance Commission
+Chairperson 	N. K. Singh 	Arvind Panagariya
+Award period 	2021-22 to 2025-26 (plus 2020-21) 	2026-27 to 2030-31
+Constitutional article 	Article 280 	Article 280
+Criterion 	15th FC Weight 	16th FC Weight 	Implication
+Income distance (per
+capita GSDP) 45% 	42.50% Slight dilution of pure equity; still
+dominant redistributive factor.
+Population (2011) 	15% 	17.50% More weight to population‑linked
+expenditure needs.
+Demographic
+performance 12.50% 	10% Incentive for population control
+continues but less emphatic.
+Area 	15% 	10% Some reduction of advantage to
+large-area states.
+Forest cover / ecology 	10% 	10% Continuity in rewarding ecological
+services.
+Tax & fiscal efforts 	2.50% 	– 16th FC drops explicit tax-effort
+criterion.
+Contribution to GDP 	– 	10% New efficiency / growth-oriented
+parameter.
+Total 	100% 	100% 	Rebalancing equity and efficiency.
+The 15th and 16th Finance Commissions are similar in vertical devolution (both give states 41% of the divisible pool) but differ quite sharply in
+horizontal formula, grant design, and the overall philosophy of “equity vs performance”
+Vertical devolution (Centre vs States)
+States’ share in divisible pool:
+15th FC: 41% of the divisible pool of central taxes.
+16th FC: Retains 41%, imparting a sense of “semi-permanence”.
+Divisible pool definition: Gross central tax revenue minus cost of collection, cesses and surcharges; only this net amount
+is shared.
+Key point: The quantum (41%) is the same, but the 16th FC grapples more explicitly with the problem that rising cesses
+and surcharges shrink the effective pool available to states.
+“Grand bargain” idea (16th FC):
+Proposes that states accept a smaller percentage share in return for a larger divisible pool if the Centre merges many
+cesses/surcharges into shareable taxes.
+This responds to state concerns about vertical fiscal imbalance but without raising the 41% figure
+16th FC: Explicitly discontinues revenue deficit grants, sector-specific grants, and state-specific grants.
+Replaces these with more rule-based and performance-linked instruments, aligning transfers with compliance and
+outcomes rather than negotiated entitlement.
+Horizontal devolution formula (among states)
+The biggest changes are in criteria and weights used to distribute the 41% among states.
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+MCN 2.0
+ 	Magna Carta Mains 2026
+Mains Concise Note (MCN) 20 : 15th FC v 16 FCth
+
+-- 9 of 30 --
+
+Intro
+Area 	Recommendation 	Significance
+Vertical devolution States’ share retained at 41% of divisible
+pool
+Continuity with 15th FC; but concern
+remains because cesses/surcharges reduce
+the effective shareable pool.
+Transparency Union to disclose CAG-certified net
+proceeds under Article 279
+Improves trust in actual divisible pool
+computation.
+Horizontal devolution
+New formula: income distance, population,
+demographic performance, area, forest,
+contribution to GDP
+Attempts to balance equity and efficiency.
+Grants-in-aid No revenue deficit grants; no sector-
+specific or State-specific grants
+Major departure from previous FCs;
+pushes States towards own reforms.
+Local bodies 	₹7,91,493 crore for RLBs and ULBs 	Stronger focus on the third tier.
+Urban local governments ₹3,56,257 crore, including special
+infrastructure and urbanisation premium Recognition of India’s urban transition.
+Rural local bodies 	₹4,35,236 crore Continues support to Panchayati Raj
+institutions with performance conditions.
+Disaster management ₹2,04,401 crore corpus for SDRF and
+SDMF
+Strengthens disaster response and
+mitigation framework.
+Fiscal discipline States’ fiscal deficit capped at 3% of GSDP;
+off-budget borrowings discouraged
+Aims at fiscal transparency and debt
+sustainability.
+Subsidies and transfers Review, rationalisation, sunset clauses,
+better targeting
+Responds to concerns over unconditional
+cash transfers and fiscal populism.
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+Constituted under Article 280 of the Constitution and chaired by economist Dr. Arvind Panagariya, tasked with
+addressing India's two structural fiscal challenges:
+Vertical imbalance – the mismatch between the Centre's revenue-raising capacity and the States' expenditure
+responsibilities.
+Horizontal imbalance – disparities in fiscal capacity and development needs among States.
+Operated in the context of an upcoming delimitation exercise tied to the next Census, growing fiscal stress in
+States from COVID-19, GST rate rationalisation (September 2025), rising "freebie"/cash-transfer spending by
+States, and persistent Centre–State friction over cess and surcharges eating into the shareable tax pool.
+Key recommendations
+MCN 2.0
+ 	Magna Carta Mains 2026
+Mains Concise Note (MCN) 21 : 16th FC Review : Centre, State, Local
+
+-- 10 of 30 --
+
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+Analysis
+Vertical devolution: 41% retained, but the real issue is the base
+41% of a shrinking divisible pool may not mean 41% of total Union tax effort. Cesses and surcharges are excluded
+from the divisible pool.
+Union should disclose data on net proceeds as certified by the CAG under Article 279, because States often dispute
+the effective size of the shareable pool
+Horizontal devolution: equity retained, efficiency added
+The most important innovation is the 10% weight for contribution to GDP, replacing the earlier tax and fiscal effort
+criterion
+The contribution criterion is moderated by using the square root of GSDP, so that economically larger States are
+rewarded but not overwhelmingly
+The southern States’ combined share has improved compared to the 15th FC.
+The GDP contribution criterion may not fully capture “effort”. GSDP reflects history, geography, infrastructure, ports,
+agglomeration, private investment and past public investment, not merely current State policy. Dropping the explicit
+tax/fiscal effort criterion may weaken the direct incentive for revenue mobilisation.
+Grants-in-aid: a major shift away from gap-filling
+The Commission has not recommended revenue deficit grants, sector-specific grants or State-specific grants. It
+observed that States have scope to increase revenue and rationalise expenditure
+It discourages permanent dependence on gap-filling transfers and encourages States to improve own tax revenue,
+control committed expenditure, rationalise subsidies and borrow transparently.
+A uniform rejection of revenue deficit grants may hurt States with genuine structural disadvantages — hilly terrain,
+disaster vulnerability, low tax base, high service delivery costs or historical backwardness.
+Article 275 grants can be an equalisation tool for critical services such as health and education. A more nuanced
+approach could have distinguished between avoidable revenue deficits and structural fiscal gaps.
+Rural and urban local self-government grants
+The basic and performance components are divided in an 80:20 ratio. The aggregate basic and performance grant is
+split between RLBs and ULBs in a 60:40 ratio, reflecting projected urbanisation and higher urban service delivery
+costs.
+Entry-level conditions for local body grants
+Local bodies are duly constituted under Parts IX and IX-A.
+Provisional and audited accounts are placed online in the public domain.
+State Finance Commissions are constituted regularly and Action Taken Reports are laid before State legislatures
+within six months of SFC report submission.
+This is a strong institutional reform because it links money with elections, accounts, SFCs and transparency.
+Urban local self-governments: major recognition, but with conditions
+16th FC has raised the urban share in local government grants to 45%, compared with about 36% under the 15th
+FC; highest urban share in Finance Commission history
+Substantial increase in untied grants, giving cities more autonomy for local needs
+Urban Innovations
+Special Infrastructure Component: ₹56,100 crore is earmarked for comprehensive wastewater management in
+selected urban growth centres with population between 10 lakh and 40 lakh, as per the 2011 Census.
+Urbanisation Premium: ₹10,000 crore is provided as a one-time incentive for planned rural-to-urban transition. It
+supports the merger of peri-urban villages into adjoining ULBs with population of at least one lakh, subject to a
+State rural-urban transition policy.
+Own Source Revenue focus: ULB grants among States are distributed using 90% projected urban population and
+10% OSR-linked criterion. Performance grants are tied to OSR growth.
+Service delivery transparency: The Commission recommends continuation and extension of Service Level
+Benchmarks to all ULBs, with third-party assessment or audit to improve reliability
+One of the most progressive parts of the 16th FC. India’s urban governance has long suffered from “functions without
+finances”. Cities contribute disproportionately to GDP and public revenue, but municipal finances remain weak. By
+increasing the urban share and adding special infrastructure grants, the Commission recognises that urbanisation is not
+merely a demographic trend but a fiscal and governance challenge.
+MCN 2.0
+ 	Magna Carta Mains 2026
+Mains Concise Note (MCN) 21 : 16th FC Review : Centre, State, Local
+
+-- 11 of 30 --
+
+Concern 	Explanation
+Conditionality burden Weak ULBs may fail accounts, OSR or performance
+conditions and lose funds despite higher need.
+OSR benchmark challenge Poorer municipalities may struggle to raise user charges or
+property tax without political and administrative support.
+Urbanisation premium risk States may merge peri-urban villages for grants without
+adequate planning, staffing and service integration.
+Limited climate focus Wastewater is important, but cities also need heat, flooding,
+air pollution and resilience financing.
+State control remains high Municipal autonomy still depends on State laws, staffing,
+taxation powers and SFC implementation.
+Concerns with urban local governments
+Thus, the 16th FC gives cities a larger fiscal window, but real urban transformation will depend on municipal capacity, State-
+level devolution and credible project pipelines.
+Rural local self-governments: continuity with fiscal discipline
+For inter-State distribution of RLB grants, the formula is 90% projected rural population for 2026 and 10% area.
+Within States, grants should follow accepted SFC recommendations; in their absence, three-tier States follow 80% to
+Gram Panchayats, 10% to Block Panchayats and 10% to District Panchayats.
+Gram Panchayats must meet OSR targets: either 1.025 times the previous year’s OSR or 2.5% compounded annual
+growth over 2025–26 OSR, whichever is lower, subject to a benchmark of ₹1,200 per household per annum from all
+OSR streams. Block Panchayats qualify if 75% of Gram Panchayats within them qualify, while District Panchayats
+have a similar OSR growth condition
+The emphasis on Gram Panchayats is appropriate because they are closest to citizens and deliver basic services such
+as sanitation, water management, local roads, village infrastructure and community assets. The requirement of Gram
+Sabha resolutions for activities under tied and untied grants also strengthens local democracy
+However, the OSR benchmark may be difficult for poorer Panchayats, especially in backward, tribal, hilly or drought-
+prone areas where the tax base is weak. Rural local bodies need capacity building, digitised accounting, trained staff
+and predictable State support. Without this, performance-linked grants may reward already better-administered
+Panchayats and penalise weaker ones.
+Tied and untied grants: flexibility with accountability
+The 16th FC recommends that 50% of the basic component be tied to sanitation, solid waste management and/or
+water management. The remaining 50% of basic grants and the entire performance component are untied, subject to
+conditions. It also states that not more than 20% of untied allocation should be spent on roads and that untied funds
+should not be used for salaries or establishment expenditure
+This is a balanced design. Tied grants protect national priorities like sanitation and water, while untied grants allow
+local bodies to address local needs. The risk is that excessive conditionality and delayed releases may reduce
+autonomy in practice.
+Disaster management recommendations
+The corpus is divided 80:20 between SDRF and SDMF, strengthening both response and mitigation
+Framework must move further from relief-based spending to resilience-based planning, especially for cities, coastal
+States, Himalayan States and drought-prone regions.
+Fiscal discipline, subsidies, power and public enterprises
+States’ fiscal deficit be capped at 3% of GSDP, excluding loans under the Special Assistance to States for Capital
+Investment. It also recommends discontinuing off-budget borrowings and bringing such liabilities onto the budget.
+On subsidies, the Commission recommends that States review and rationalise subsidy expenditure, set exclusion
+criteria, avoid large untargeted unconditional transfers and discontinue financing subsidies through off-budget
+borrowings.
+On power, it recommends that States actively pursue DISCOM privatisation or serious governance reforms. On State
+Public Sector Enterprises, it recommends review, closure of inactive SPSEs and a State-level disinvestment policy.
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+MCN 2.0
+ 	Magna Carta Mains 2026
+Mains Concise Note (MCN) 21 : 16th FC Review : Centre, State, Local
+
+-- 12 of 30 --
+
+Way forward
+1. Reform cesses and surcharges through a federal compact
+The Centre and States should operationalise the Commission’s “grand bargain”. A practical route could be: sunset
+clauses for cesses, annual disclosure of cess utilisation, periodic GST Council/Inter-State Council review, and gradual
+conversion of recurring cesses into shareable regular taxes.
+2. Introduce targeted equalisation grants
+The complete removal of revenue deficit grants should be revisited for genuine structural disabilities. Article 275
+grants can be designed for minimum standards in health, education, nutrition, climate adaptation and disaster-prone
+regions.
+3. Improve the horizontal formula
+Future Commissions may use a composite “fiscal capacity and service need index” rather than relying heavily on
+income distance alone. Tax effort, quality of expenditure, learning outcomes, health outcomes and climate
+vulnerability can be better integrated.
+4. Strengthen State Finance Commissions
+SFCs should have permanent secretariats, common methodology templates, mandatory timelines, public databases,
+legislative debate on Action Taken Reports and alignment with State budgets.
+5. Build municipal finance capacity
+ULBs need GIS-based property tax systems, user charge reform with lifeline exemptions for the poor, municipal
+cadres, project preparation facilities, transparent procurement and audited accounts. Grants should be combined with
+capacity-building funds.
+6. Make urbanisation premium planning-led
+Before claiming urbanisation premium, States should prepare rural-urban transition policies, metropolitan plans, ward
+integration plans, staffing plans and service-level baselines. Municipalisation should be tied to real governance
+capacity.
+7. Support weaker Panchayats
+For RLBs, OSR conditions should be accompanied by training, digital accounting, Panchayat-level revenue mapping,
+social audit, Gram Sabha planning and support for maintenance of local assets.
+8. Make subsidies transparent, targeted and time-bound
+All major subsidies and cash transfers should have fiscal impact statements, beneficiary databases, exclusion criteria,
+sunset clauses and independent evaluation. Welfare should continue, but off-budget and opaque financing must end.
+9. Link disaster finance to climate resilience
+Disaster funds should increasingly support mitigation: urban flood control, heat action plans, cyclone shelters,
+resilient health infrastructure, watershed restoration and early warning systems.
+10. Create a continuing Fiscal Federalism Council
+A permanent consultative forum involving the Union, States, Finance Commission, GST Council representatives and
+SFC representatives can review cesses, CSS design, local body devolution, borrowing limits and fiscal risks annually.
+The way forward is not merely more money, but a more transparent, predictable and genuinely federal fiscal
+architecture.
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+MCN 2.0
+ 	Magna Carta Mains 2026
+Mains Concise Note (MCN) 21 : 16th FC Review : Centre, State, Local
+
+-- 13 of 30 --
+
+Despite same party governments, the Mahandi river dispute continues to be pending in the Tribunal since
+2018
+Intro
+Water federalism refers to the division and coordination of powers and responsibilities between the central
+and state governments for water governance in a federal system like Indi
+Constitutional and Legal Provisions Concerning Inter-State Water Disputes
+Constitutional Provisions
+Article 246 & Seventh Schedule:
+Entry 17, State List: Water supplies, irrigation, and canals are primarily state subjects.
+Entry 56, Union List: The Centre has the power to regulate and develop inter-state rivers and river valleys if
+Parliament declares it expedient in the public interest.
+Article 262:
+(1) Parliament may by law provide for the adjudication of any dispute or complaint with respect to the use,
+distribution, or control of the waters of, or in, any inter-state river or river valley.
+(2) Parliament may by law provide that neither the Supreme Court nor any other court shall exercise jurisdiction in
+respect of any such dispute or complaint.
+Key Legislation
+Inter-State River Water Disputes Act, 1956 (ISRWDA):
+Provides for the adjudication of disputes relating to waters of inter-state rivers and river valleys by setting up
+tribunals.
+Bars the jurisdiction of the Supreme Court and other courts in such matters.
+River Boards Act, 1956:
+Intended to provide for the establishment of river boards for the regulation and development of inter-state rivers and
+river valleys. However, this Act has never been effectively used.
+Other Relevant Provisions
+Article 252: Parliament can legislate on a State subject if two or more States consent.
+Article 253: Parliament can legislate to implement international treaties, which can include water agreements with
+neighbouring countries.
+Environment (Protection) Act, 1986; Water (Prevention and Control of Pollution) Act, 1974: Used for broader
+environmental regulation, including water quality, often leveraging concurrent or union powers
+Tribunal Name 	States Involved 	Date of Constitution 	Status/Outcome
+Godavari Water
+Disputes Tribunal
+Maharashtra, Andhra
+Pradesh, Karnataka,
+Apr 1, 1969 	Decision in July 1980
+Krishna Water Disputes
+Tribunal-I
+Maharashtra, Andhra
+Pradesh, Karnataka
+Apr 1, 1969 	Decision in May 1976
+Narmada Water
+Disputes Tribunal
+Rajasthan, MP, Gujarat,
+Maharashtra
+Oct 1, 1969 	Decision in December
+1979; Narmada Control
+Ravi & Beas Water
+Tribunal
+Punjab, Haryana,
+Rajasthan
+Apr 1, 1986 	Decision in April 1987;
+further report pending
+Cauvery Water
+Disputes Tribunal
+Kerala, Karnataka,
+Tamil Nadu,
+Jun 1, 1990 	Decision in 2007;
+Supreme Court
+Krishna Water Disputes
+Tribunal-II
+Karnataka, Andhra
+Pradesh, Maharashtra,
+Apr 1, 2004 	Decision in December
+2010; further
+Vansadhara Water
+Disputes Tribunal
+Andhra Pradesh,
+Odisha
+Feb 1, 2010 	Decision in September
+2017; further report
+Mahadayi Water
+Disputes Tribunal
+Goa, Karnataka,
+Maharashtra
+Nov 1, 2010 	Decision in August
+2018; further report
+Mahanadi Water
+Disputes Tribunal
+Chhattisgarh, Odisha 	Mar 1, 2018 	Under adjudication
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+MCN 2.0
+ 	Magna Carta Mains 2026
+Mains Concise Note (MCN) 22 : Water Federalism
+
+-- 14 of 30 --
+
+Issues?
+1.Structural and Legal Ambiguities
+a.Federal-Jurisdictional Ambiguity: The division of powers between Centre and States is imprecise, leading to confusion and
+contestation over roles and responsibilities1.
+b.Historico-Geographical Ambiguity: State boundaries have changed over time, but water-sharing agreements often rely on
+outdated arrangements, fuelling disputes.
+c.Institutional Ambiguity: The roles of tribunals and the Supreme Court overlap, causing delays and uncertainty in dispute
+resolution.
+2.Operational and Political Challenges
+a.Delays and Inefficiency: Tribunals often take decades to deliver decisions, and implementation is further delayed by political and
+bureaucratic hurdles.
+b.Non-Compliance: States sometimes refuse to comply with tribunal or court decisions, citing political or electoral pressures.
+c.Data Deficits: Lack of credible, shared data on water flows and usage undermines trust and effective decision-making.
+d.Fragmented Approach: Water governance is often reductionist, focusing on engineering solutions rather than integrated,
+ecological management.
+e.Political Mobilisation: Water disputes are politicized, becoming tools for regional identity and electoral mobilisation, which
+hinders compromise and consensus-building.
+3.Technical and Ecological Issues
+a.Supply Augmentation Bias: Over-reliance on large dams and supply-side interventions, neglecting demand management,
+efficiency, and ecosystem health.
+b.Climate Change: Increasing variability and extremes exacerbate existing disputes and challenge old allocation models.
+Best Practices Globally
+1.Integrated River Basin Management (IRBM): Adopted in the EU (Water Framework Directive), Australia (Murray-Darling Basin), and
+other countries, IRBM emphasises managing water at the basin level, integrating ecological, social, and economic objectives.
+2.Basin Authorities: Bodies like the Murray-Darling Basin Authority (Australia) and LAWA (Germany) facilitate coordination, data
+sharing, and consensus-building among stakeholders.
+3.Water Markets: Australia and Chile have established water markets to allow flexible, efficient allocation of water, especially during
+scarcity.
+4.Credible Data Institutions: The US Geological Survey (USGS) provides transparent, reliable water data, supporting consensus and
+adaptive management.
+Solutions
+1.Institutional and Legal Reforms
+a.Build Federal Consensus: Elevate water security as a national agenda, with clear, shared roles for Centre and States, and
+empower platforms like the Interstate Council for deliberation and consensus-building1.
+b.Redefine Centre’s Role: Expand and clarify the Centre’s powers under Entry 56 to facilitate partnerships and support state
+regulatory frameworks, rather than act only as an adjudicator.
+c.Establish Robust Basin Authorities: Move toward integrated river basin organisations with genuine participation from all
+stakeholders and clear mandates for ecological, economic, and social outcomes.
+d.Strengthen Data Systems: Invest in autonomous, credible institutions for data gathering and knowledge production, with
+transparent protocols and stakeholder buy-in.
+2.Policy and Fiscal Innovations
+a.Design Better Fiscal Transfers: Make intergovernmental fiscal transfers (IGFTs) performance-based, flexible, and tailored to
+state-specific challenges, incentivising progressive reforms and sustainable practices.
+b.Promote Demand Management: Shift focus from supply augmentation (dams, diversions) to demand management, efficiency,
+and ecosystem restoration.
+c.Resolve Contradictory Policies: Align water, agriculture, and energy policies (e.g., MSP, electricity subsidies) to break perverse
+incentives that drive overuse and conflict.
+3.Participatory and Multidisciplinary Approaches
+a.Inclusive Governance: Ensure representation of diverse expertise (social, ecological, economic) in decision-making bodies.
+b.Stakeholder Engagement: Foster public participation, transparency, and accountability at all levels of water governance.
+c.Learning from Successes: Study and adapt lessons from successful models in other sectors (e.g., RKVY in agriculture, PMGSY in
+rural roads) and countries.
+4.Political and Social Measures
+a.Depoliticise Disputes: Encourage positive politicisation—public discourse focused on resolution and consensus, not identity-
+based mobilisation.
+b.Build Trust: Invest in confidence-building measures, both institutionally and electorally, to support durable agreements.
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+MCN 2.0
+ 	Magna Carta Mains 2026
+Mains Concise Note (MCN) 22 : Water Federalism
+
+-- 15 of 30 --
+
+SC set timelines for Governor Assent in State of TN v Bn Ravi in 2025 followed by a request for
+Presidential Reference which reversed the timelines set.
+Intro
+Enshrined under Articles 153 to 167 of the Indian Constitution, the office of the Governor symbolises the link
+between the Centre and the States in India’s quasi-federal structure
+Supreme Court Timelines on Governor's Assent
+Background: There has been growing concern over delays by
+Governors in granting assent to Bills passed by state legislatures,
+sometimes leading to legislative paralysis
+Supreme Court Ruling (April 2025): The Supreme Court set explicit
+timelines for Governors to act on Bills under Article 200:
+One month to grant or withhold assent.
+Three months if the Bill is reserved for the President’s
+consideration.
+One month to act on Bills returned for reconsideration
+President’s Role: For the first time, the Court also directed that the
+President must decide on Bills referred by Governors within three
+months
+SC reversed its 2025 judgement while delivering a Presidential
+Reference later in 2025
+Appointment
+The Governor is appointed by
+the President of India as per
+Article 155 of the
+Constitution. The
+appointment is made by the
+central government, usually
+on the advice of the Prime
+Minister and the Council of
+Ministers.
+- Central government’s
+dominance; lack of
+transparency
+- Politicization; often used as
+a reward for loyalty
+- No formal consultation with
+state governments
+- Sarkaria Commission:
+Appointee should be
+eminent, from outside the
+state, detached from local
+politics, and not active in
+politics recently.
+Consultation with the Chief
+Minister recommended.
+- Punchhi Commission:
+Endorsed Sarkaria, added
+fixed tenure and transparent
+process; suggested a panel
+for selection.
+- Rajamannar Committee:
+Governor should not act as
+Centre’s agent;
+recommended more state
+say.
+Eligibility
+The Governor must be a
+citizen of India and at least 35
+years old as per Article 157 of
+the Constitution.
+- Minimal constitutional
+criteria (only age and
+citizenship)
+- No bar on recent politicians
+or persons with conflicts of
+interest
+- Sarkaria & Punchhi
+Commissions: Eminent
+persons only; should not be
+active politicians or involved
+in state politics.
+- Conventions: Preferably
+from outside the state; not
+holding office of profit.
+Aspect 	Description 	Issues 	Solution
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+MCN 2.0
+ 	Magna Carta Mains 2026
+Mains Concise Note (MCN) 23 : Governor
+
+-- 16 of 30 --
+
+Removal
+The Governor holds office
+at the pleasure of the
+President as per Article
+156(1). There is no fixed
+term for removal, and it
+can be done without
+specifying reasons.
+- Arbitrary removal at the
+pleasure of the President
+- No fixed grounds or
+process; leads to
+politicisation and
+instability
+- Supreme Court (B.P.
+Singhal, 2010): Removal
+cannot be arbitrary, must
+be for valid and
+compelling reasons.
+- Punchhi Commission:
+Removal should follow an
+impartial process,
+possibly similar to
+presidential
+impeachment.
+- Rajamannar Committee:
+Removal should not be at
+Centre’s whim; suggested
+state legislature
+involvement.
+Discretionary Powers
+These are powers
+exercised by the Governor
+according to their own
+discretion, without the
+advice of the Council of
+Ministers. Examples
+include appointing a Chief
+Minister in a hung
+assembly, reserving bills
+for the President’s assent,
+and recommending
+President’s Rule under
+Article 356.
+- Vague scope; potential
+for misuse in hung
+assemblies, bill assent,
+and recommending
+President’s Rule
+- Frequent political
+controversies
+- Sarkaria Commission:
+Discretion to be used
+sparingly, within
+constitutional
+conventions;
+recommended judicial
+review to check misuse.
+- Punchhi Commission:
+Discretionary powers to
+be limited, guided by
+reason and good faith;
+recommended timelines
+for bill assent (six
+months).
+- 2nd Administrative
+Reforms Commission:
+Guidelines for exercise of
+discretion by Inter-State
+Council.
+Arguments For Retaining:
+1.Acts as a constitutional check and upholds the federal
+structure.
+2.Provides stability in times of political crisis, such as hung
+assemblies or constitutional breakdowns.
+3.Ensures that the state government acts within the
+framework of the Constitution.
+4.Facilitates communication and coordination between
+the Centre and states, especially in matters of national
+importance.
+Should We Even Have the Office of the Governor?
+Arguments Against/For Reform:
+1.The office is often misused for political purposes,
+undermining state autonomy.
+2.Delays in assent to Bills and discretionary interventions
+have led to legislative deadlocks.
+3.Several committees (Rajamannar, Sarkaria, Punchhi) have
+recommended reforms to limit central interference and
+make the office more impartial and accountable.
+4.Most expert bodies have not recommended abolition but
+advocate for reforms: fixed tenure, clear eligibility,
+transparent removal, and limiting discretionary powers.
+The Governor was meant to be a sentinel of the Constitution, not a shadow of the Centre. When discretion turns into disruption,
+the balance of federalism falters. Restoring dignity to this office is not just a legal need—it is a democratic imperative.
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+MCN 2.0
+ 	Magna Carta Mains 2026
+Mains Concise Note (MCN) 23 : Governor
+
+-- 17 of 30 --
+
+MCN 2.0
+ 	Magna Carta Mains 2026
+Mains Concise Note (MCN) 23 : Governor
+Governor’s Address to the State Legislature: Articles 175 and 176
+Core issue
+The controversy arises when Governors either skip the annual address, refuse to read the cabinet-approved
+text, omit portions, or convert the address into a personal/political statement. This is especially contentious in
+Opposition-ruled States because the Governor is a Union-appointed constitutional head, while the address
+reflects the elected State government’s policy agenda.
+Constitutional position
+Article 175 gives the Governor a general right to address either House or both Houses and send messages to
+the House. Article 176 is different: it creates a mandatory special address at the commencement of the first
+session after every general election and at the first session of every year. The Constitution uses “shall” in
+Article 176, making it a constitutional duty, not a matter of personal choice.
+The Governor is not an independent political authority in ordinary legislative-executive matters. Article 163
+makes the Governor act on the aid and advice of the Council of Ministers except where the Constitution
+specifically permits discretion, and Article 159 requires the Governor to preserve, protect and defend the
+Constitution.
+The Supreme Court in Shamsher Singh v. State of Punjab held that the President and Governor exercise
+constitutional powers on ministerial aid and advice, except in constitutionally specified discretionary areas.
+Why the Governor cannot rewrite the address
+The address is constitutionally delivered by the Governor but politically belongs to the elected Council of
+Ministers. The Governor’s role is similar to that of a constitutional reader of the government’s policy statement,
+not an editor of the State’s political programme. In Nabam Rebia v. Deputy Speaker, the Supreme Court noted
+that unlike Section 63 of the Government of India Act, 1935, Article 175 does not retain the phrase “in his
+discretion”; therefore, messages under Article 175 must be in consonance with ministerial aid and advice.
+This logic applies even more strongly to Article 176 because the annual address is meant to inform the
+Legislature of the causes of summons and enable a Motion of Thanks/debate on the government’s policies. If
+the Governor omits portions critical of the Union or inserts his own formulation, it distorts responsible
+government and shifts accountability away from the elected cabinet.
+Current controversies
+Recent controversies in Kerala and Karnataka show a pattern: Governors objecting to portions of policy
+addresses, omitting paragraphs, or refusing to deliver the full speech. In Kerala, reports stated that the
+Governor omitted portions and later sought that only the read-out portions be treated as official record, while
+the Chief Minister maintained that the full cabinet-approved text forms the address. In Karnataka, reports
+stated that the Governor objected to paragraphs in the government-prepared address, including parts
+concerning Union-State fiscal issues, and declined or curtailed the customary address.
+Democratic and federal concerns
+This practice raises four concerns: first, it weakens collective responsibility because the Assembly debates a
+speech that may no longer reflect the elected government’s programme; second, it allows the Governor to
+become a political participant; third, it undermines State autonomy by screening policy criticism of the Union;
+and fourth, it creates avoidable constitutional confrontation at the very opening of the legislative year.
+The Supreme Court in Nabam Rebia warned that the Governor cannot assume roles not constitutionally
+assigned to him and cannot act as a “conscience keeper” or marshal of the Assembly’s functioning. Any
+interjection by the Governor into legislative functioning beyond the Constitution is liable to judicial review.
+Way forward
+The address should be treated as the cabinet’s speech delivered through the Governor. If the Governor has
+concerns about factual errors, constitutionally impermissible content, or defamatory material, the proper
+course is prior consultation with the Chief Minister, not unilateral deletion on the floor of the House. The full
+cabinet-approved text should be laid on the table and treated as the official record where the Governor omits
+parts. State Rules of Procedure may be clarified to this effect.
+A constitutional convention should be codified: the Governor must read the cabinet-approved address;
+objections, if any, must be recorded before the session; and refusal to deliver the address should be treated as
+a serious breach of constitutional duty. This would protect both the dignity of the Governor and the supremacy
+of the elected legislature.
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+Specific Issues
+
+-- 18 of 30 --
+
+Governor’s Role in Government Formation in a Hung Assembly
+Core issue
+The Governor’s discretion becomes most sensitive when no party has a clear majority. The constitutional danger is that the
+Governor may prefer a politically convenient claimant rather than the person most likely to command the confidence of the House.
+Constitutional basis
+Article 164(1) says the Chief Minister is appointed by the Governor, while other Ministers are appointed on the Chief Minister’s
+advice. Article 164(2) makes the Council of Ministers collectively responsible to the Legislative Assembly. Thus, the Governor’s
+discretion in a hung Assembly is not personal or ideological; it is only a temporary constitutional mechanism to identify who can
+face the House.
+The Constitution does not lay down a detailed order of preference for hung Assemblies. Therefore, conventions, commission
+reports and judicial decisions fill the gap.
+Sarkaria and Punchhi Commission principles
+The Sarkaria Commission’s central principle was that the Governor should call the party or combination commanding the widest
+support in the Assembly, and that the Governor’s task is to ensure government formation, not to install a government whose
+policies he approves.
+Where no party has a clear majority, the recommended order is: first, a pre-poll alliance; second, the largest single party staking
+claim with support of others; third, a post-electoral coalition where all partners join government; and fourth, a post-electoral
+alliance where some parties join government and others support from outside. The Punchhi Commission substantially reaffirmed
+this order and recommended that these guidelines be treated as constitutional conventions.
+Floor test as the decisive test
+The Governor may examine letters of support and rival claims only as a prima facie exercise. The final test is not Raj Bhavan
+arithmetic but the floor of the House. In S.R. Bommai v. Union of India, the Supreme Court held that the proper forum to test
+majority support is the Legislative Assembly not by the Governor herself.
+In Rameshwar Prasad v. Union of India, the Court struck down the dissolution of the Bihar Assembly where the Governor’s report
+relied on fears of horse-trading before allowing a government to be formed. The Court held that private assessment of majority,
+when a floor test is possible, is anathema to democratic principle.
+Key concerns
+Misuse of discretion. Examples such as Goa, Manipur, Karnataka and Maharashtra show that different Governors have applied
+different yardsticks: sometimes inviting the single largest party, sometimes inviting a post-poll coalition, and sometimes giving long
+or short periods for proving majority. This inconsistency creates the impression that the office is acting politically rather than
+constitutionally.
+Timing. A very long period to prove majority may encourage horse-trading; an unreasonably short period may prevent genuine
+coalition building. The Sarkaria/Punchhi approach is that the Chief Minister should ordinarily prove majority within a reasonable
+time, generally within 30 days, unless urgent circumstances require a shorter period.
+Way forward
+India needs a codified constitutional convention, preferably through rules framed by State legislatures or a constitutional
+amendment, laying down the order of invitation, time frame for floor test, and the obligation to record reasons. The Governor
+should invite the claimant most likely to command majority, appoint a pro-tem Speaker where necessary, ensure oath of MLAs, and
+require a floor test at the earliest reasonable date. The Governor must not assess the morality of alliances; that is for voters,
+parties, the Speaker under the Tenth Schedule, and courts where applicable.
+Governor Demanding Signed Letters, Delaying Oath, and Fixing Confidence Vote: The Tamil Nadu-type Issue
+Core issue
+Can a Governor refuse to invite the single largest party or claimant unless it first produces signed letters from an absolute majority
+of MLAs? Can the Governor delay the oath and insist on proof before swearing-in? Can he direct a confidence vote within a fixed
+deadline?
+Correct constitutional test
+The Governor’s duty after an election is to identify the person most likely to command confidence, not to conduct a parallel floor
+test in Raj Bhavan. The Governor may seek support letters, coalition letters, or party-authorisation letters as preliminary evidence.
+But he cannot insist that all supporting MLAs personally submit signatures as a precondition to the oath when the correct forum
+for proving majority is the Assembly.
+Why a demand for absolute majority before oath is problematic
+The Constitution does not say that a Chief Minister-designate must prove an absolute majority before being sworn in. In
+parliamentary practice, minority governments are possible so long as they enjoy the confidence of the House. S.R. Bommai and
+Rameshwar Prasad both recognise that what matters is confidence of the House, not necessarily a pre-existing numerical majority
+outside the House.
+Further, Article 189 provides that questions in the House are decided by a majority of members present and voting, unless the
+Constitution provides otherwise. Requiring signatures from 50%+1 of the full House before oath converts a parliamentary
+confidence test into a presidential-style precondition.
+In Rameshwar Prasad, the Supreme Court stated that issues of floor-crossing are for the Speaker during/after the floor test, and
+broader political impropriety is for the electorate and public scrutiny.
+Practical constitutional formula
+The Governor should follow this sequence: invite the claimant according to the Sarkaria-Punchhi order; require a written claim of
+support, but not a pre-oath parade or compulsory signatures of every supporter; swear in the Chief Minister; summon the House
+at the earliest reasonable date; ensure MLAs take oath; and let majority be tested through a confidence motion on the floor. In
+Subhash Desai v. Principal Secretary, Governor of Maharashtra, the Supreme Court held that the Governor’s discretion to call a
+floor test is not unfettered
+The guiding principle is simple: Raj Bhavan may identify the claimant, but the Assembly alone certifies the majority.
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+MCN 2.0
+ 	Magna Carta Mains 2026
+Mains Concise Note (MCN) 23 : Governor
+
+-- 19 of 30 --
+
+NITI Aayog, established in 2015 to replace the erstwhile Planning Commission, represents a paradigm shift
+in India’s approach to economic governance—from top-down planning to cooperative and competitive
+federalism.
+Intro
+Rationale for Establishment
+1.Shift from Centralised to Decentralised Planning: The Planning Commission’s top-down approach was seen as
+outdated for India’s diverse and rapidly changing needs. NITI Aayog was designed to foster a bottom-up approach,
+emphasising local-level planning and state participation.
+2.Cooperative Federalism: NITI Aayog aims to strengthen Centre-State partnerships, encouraging states to play an
+active role in national development strategies.
+3.Focus on Innovation and Knowledge: The institution serves as a think tank, promoting innovation, entrepreneurship,
+and evidence-based policy-making by leveraging expertise from various sectors.
+4. Inclusive and Sustainable Development: Special attention is given to vulnerable sections of society, ensuring that
+growth is equitable and sustainable.
+A. Policy Initiatives
+* Aspirational Districts Programme: Targets rapid transformation of underdeveloped districts through convergence, collaboration,
+and competition among states. It has led to improvements in health, education, agriculture, and basic infrastructure in several
+districts.
+* Atal Innovation Mission (AIM): Fosters a culture of innovation and entrepreneurship through Atal Tinkering Labs in schools and Atal
+Incubation Centres for startups, boosting India’s innovation ecosystem.
+* Strategy for New India @75: A comprehensive roadmap for India’s development across 41 sectors, formulated through extensive
+stakeholder consultations.
+Impact: Examples and Case Studies
+Sector 	Initiative/Case Study 	Outcome/Impact
+Agriculture 	Mazhapolima (Kerala)
+Rainwater harvesting for well recharge,
+addressing water scarcity through
+community participation.
+Financial Inclusion 	Panchayat Banks (Jharkhand)
+Village-level banking, improved access to
+government schemes, reduced leakages, and
+increased transparency.
+Health 	Arogyakeralam (Kerala)
+Community-based palliative care, home visits
+by teams, holistic support for chronically ill
+patients.
+Governance Entitlement-Based District Planning
+(Bihar)
+Decentralized planning for accuracy and
+equity, institutionalizing district-level
+strategies.
+Nutrition Decentralized ICDS Supplementary
+Nutrition (Odisha)
+Empowered women SHGs, improved nutrition
+delivery, enhanced social sustainability
+through community-driven models.
+Technology 	SMART Anganwadi (Gujarat)
+Mobile app for real-time monitoring of child
+health and nutrition, streamlined service
+delivery.
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+MCN 2.0
+ 	Magna Carta Mains 2026
+Mains Concise Note (MCN) 24 : Niti Aayog
+
+-- 20 of 30 --
+
+Challenges
+1.Limited Financial Powers: Unlike the Planning Commission, NITI Aayog does not allocate funds,
+which limits its influence over implementation.
+2.Coordination Issues: India’s federal structure can hamper effective coordination between Centre
+and States, affecting policy execution.
+3.Data Limitations: Inadequate and unreliable data at various administrative levels hinder evidence-
+based policymaking and monitoring.
+4.State Participation: Variability in state cooperation, with some states boycotting meetings or not
+fully engaging with NITI Aayog’s initiatives.
+5.Perceived Partisanship: Accusations of political bias and lack of autonomy have sometimes
+undermined its credibility.
+6.Methodological Concerns: Criticisms regarding the accuracy and applicability of indices and
+rankings published by NITI Aayog.
+7.Limited Public Accountability: The institution’s advisory role and lack of clear accountability
+mechanisms reduce its ability to drive change.
+Solutions
+1.Empower with Financial and Legal Authority: Granting NITI Aayog greater financial and statutory
+powers could strengthen its role in policy implementation and accountability.
+2.Strengthen Data Infrastructure: Invest in robust, real-time data systems for better policy design,
+monitoring, and evaluation.
+3.Institutionalise Stakeholder Engagement: Build formal frameworks for regular consultation with
+states, civil society, and the private sector to ensure buy-in and effective implementation.
+4.Promote Non-Partisan Functioning: Safeguard NITI Aayog’s independence to ensure unbiased
+policy advice and foster trust among all stakeholders.
+5.Capacity Building at State and Local Levels: Support states and local bodies with resources and
+training to effectively implement policies and programs.
+6.Transparent Monitoring and Reporting: Enhance transparency through open data initiatives,
+regular progress reports, and public dissemination of outcomes.
+7.Innovate for Inclusion: Continue to pilot and scale up innovative models, especially those that
+empower marginalised groups and address regional disparities.
+NITI Aayog was born to give shape to India’s aspirations, not just its allocations. Yet, without financial autonomy or
+legislative teeth, it risks becoming a vision without velocity. For it to truly steer India’s development story, it must
+evolve from being a think tank to a do tank—grounded in innovation, empowered by federal trust, and driven by
+measurable impact.
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+MCN 2.0
+ 	Magna Carta Mains 2026
+Mains Concise Note (MCN) 24 : Niti Aayog
+
+-- 21 of 30 --
+
+The Goods and Services Tax (GST), implemented in 2017, marked India’s boldest step towards “one nation,
+one tax, one market.
+Intro
+The 19th report of Parliament’s Public Accounts Committee (PAC) is appropriately scathing in its criticism of the
+Goods and Services Tax (GST) regime, introduced in July 2017 to simplify, unify and improve indirect tax
+compliance in India
+Key Changes in GST Rates (Effective Sept
+22, 2025)
+5% Slab (Essentials): Applies to
+common household goods, packed
+food, clothing, shoes, and
+pharmaceutical products.
+18% Slab (Standard): The new
+standard rate for most consumer
+goods, services, and electronics,
+replacing the old 28% rate
+40% Slab (Luxury/Sin): Applies to
+luxury cars, high-end motorcycles,
+pan masala, tobacco, and aerated
+drinks.
+Exemptions: Health and life
+insurance premiums are now exempt
+from GST
+Advantages
+1.Creation of a Common National Market: By
+unifying multiple taxes, GST has facilitated the
+creation of a single market across India, improving
+the ease of doing business and interstate
+commerce.
+2.Reduction in Tax Burden: The elimination of
+cascading taxes and input tax credit mechanism
+has generally reduced the overall tax burden on
+goods, making Indian products more competitive.
+3.Increased Tax Base and Compliance: The digital-
+first approach and centralised reporting have
+broadened the tax base and improved compliance,
+bringing more businesses into the formal economy.
+4.Transparent and Self-Policing: GST’s structure and
+digital tracking make tax evasion more difficult and
+administration more efficient.
+5.Boost to the Economy: GST has streamlined
+supply chains, reduced logistics costs, and
+potentially boosted consumer spending by
+lowering prices for many goods and services.
+6.Revenue Implications: The broadening of the tax
+base and improved compliance are expected to
+increase government revenues, though the actual
+impact depends on economic conditions and
+ongoing compliance.
+1.Technological and Compliance Hurdles: The transition to
+a fully digital system has posed challenges, especially for
+small and medium enterprises (SMEs) with limited digital
+literacy and resources
+2.Revenue Decline: The PAC highlights a nearly two
+percentage points drop in indirect tax revenue between
+FY18 and FY20, before the COVID-19 pandemic.
+3.Complexity: Despite intentions to simplify, frequent rate
+changes, multiple return filings, and evolving rules have
+made compliance burdensome for many businesses,
+particularly SMEs
+4.Centralising Tendencies: Major revenue-generating States
+have raised concerns about diminished fiscal autonomy
+and sharp declines in indirect tax collections. The
+destination-based nature of GST, levied at the point of
+consumption, has adversely affected manufacturing-heavy
+States.
+5.Compensation Delays: The GST (Compensation to States)
+Act, 2017, promised States a 14% annual revenue growth
+for five years (2017–22), using FY16 as the base year.
+However, many States have reported non-receipt or
+serious delays in compensation, negatively impacting
+governance.
+6.Exclusions: Certain items such as alcohol for human
+consumption and select petroleum products remain
+outside the GST ambit, limiting its comprehensiveness
+Issues
+GST was envisioned as a unifying force for India’s fragmented tax landscape—but unity without equity breeds
+friction. As States struggle with revenue loss and compliance burdens persist, the real test of GST lies not in its
+design, but in its delivery. For GST to truly succeed, it must balance efficiency with empathy, and harmonisation with
+federal trust.
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+MCN 2.0
+ 	Magna Carta Mains 2026
+Mains Concise Note (MCN) 25 : GST
+Next Gen GST
+
+-- 22 of 30 --
+
+Aspect 	Cooperative Federalism 	Competitive Federalism Confrontational
+Federalism
+Definition
+Flexible, collaborative
+relationship between
+central and state
+governments to achieve
+common goals.
+System where central and
+state governments, and
+states among themselves,
+compete for resources,
+investments, and reforms.
+Tense or adversarial
+relationship, often due to
+the central government
+overstepping into state
+domains.
+Nature of Relationship
+Horizontal partnership;
+joint decision-making and
+shared responsibilities.
+Both vertical (Centre vs.
+State) and horizontal (State
+vs. State) competition;
+rivalry for development
+and resources.
+Often vertical; central
+dominance leads to
+disputes, mistrust, or state
+resistance.
+Key Features
+- Joint policy formulation
+- Shared funding and
+implementation
+- Mutual trust.
+- States compete for
+central funds, investments,
+and rankings
+- Policy innovation
+- Fiscal discipline.
+- Central encroachment on
+state powers
+- Use of governors for
+political ends
+- Policy imposition.
+Constitutional Basis
+Not explicitly stated;
+implied through
+mechanisms like Inter-
+State Council, GST Council,
+NITI Aayog.
+Based on decentralisation,
+fiscal federalism, and post-
+liberalisation reforms.
+Emerges from disputes
+over constitutional
+boundaries, central
+overreach, or misuse of
+concurrent powers.
+Decision-Making
+Consensus-based,
+consultative; Centre and
+states act as partners.
+States independently
+design and implement
+policies to outperform
+others.
+Centre often unilaterally
+imposes decisions, leading
+to state opposition.
+Examples
+- GST Council formation
+- NITI Aayog
+- Disaster management
+(COVID-19 response)
+- Ayushman Bharat.
+- Ease of Doing Business
+rankings
+- Vibrant Gujarat Summit
+- States’ own welfare
+schemes (e.g., KALIA, Rythu
+Bandhu)
+- Attracting FDI.
+- Revocation of Article 370
+(J&K)
+- Central farm laws
+- Governor’s role in Tamil
+Nadu
+- GST compensation
+disputes.
+Benefits
+- Balanced regional
+development
+- Resource sharing
+- Reduces regional
+disparities.
+- Policy innovation
+- Economic efficiency
+- Improved public service
+quality
+- Healthy competition.
+- Can highlight state rights
+issues
+- May lead to judicial
+clarification of powers.
+Challenges
+- Coordination difficulties
+- Potential for delays
+- Power imbalances.
+- Regional inequalities
+- “Race to the bottom” risk
+- Weaker states may lag.
+- Erodes trust
+- Hampers governance
+- Can trigger constitutional
+crises.
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+MCN 2.0
+ 	Magna Carta Mains 2026
+Mains Concise Note (MCN) 26 : Models of Federalism
+
+-- 23 of 30 --
+
+Feature of India’s Unitary Model Constitutional Basis /
+Provision Example
+Strong Centre Union List, Articles 245–
+246, Seventh Schedule
+Defence policy, foreign relations and currency are controlled exclusively by
+the Union.
+Residuary powers with Centre Article 248; Entry 97,
+Union List
+Cyber laws, digital taxation and new technology regulation can be legislated
+by Parliament.
+Single Constitution 	Constitution of India All States function under the same Constitution, except special historical
+arrangements earlier given to J&K before 2019.
+Single citizenship 	Articles 5–11 A person from Kerala has the same Indian citizenship rights in Maharashtra
+or Delhi.
+Parliament can alter State boundaries 	Article 3 	Creation of Telangana in 2014; reorganisation of Jammu & Kashmir in 2019.
+Emergency provisions 	Articles 352, 356, 360 During National Emergency, Parliament can legislate on State subjects;
+under President’s Rule, State executive power is taken over by the Union.
+President’s Rule 	Article 356 President’s Rule has been imposed in States such as Punjab, Kerala,
+Uttarakhand and Arunachal Pradesh at different times.
+Governor as Centre’s nominee 	Articles 153–161 	Governors may reserve State Bills for the President’s consideration.
+All India Services 	Article 312 District Collectors and Superintendents of Police are State-level officers but
+belong to All India Services.
+Parliament can legislate on State subjects
+in national interest Article 249 Parliament can legislate on matters like public order or agriculture if
+declared necessary in national interest.
+Parliament can legislate on State subjects
+during Emergency Article 250 	During Emergency, Centre’s legislative authority expands over States.
+Parliament can legislate on State subjects
+if States consent Article 252 	Water pollution control legislation was enacted through this route.
+International obligations override federal
+division Article 253 Environmental laws and human rights-related laws can be enacted by
+Parliament to fulfil international commitments.
+Concurrent List and Union supremacy 	Article 254 Criminal law, education, forests, labour welfare and marriage laws often
+show Union influence.
+Financial dependence of States 	Articles 268–281 Centrally Sponsored Schemes like PMAY, Jal Jeevan Mission and NHM
+require State implementation but Union funding and guidelines.
+Cesses and surcharges outside divisible
+pool Articles 270–271 Education cess, health cess and other surcharges reduce the shareable tax
+pool.
+Integrated election machinery 	Article 324 State Assembly elections are conducted under the supervision of the
+Election Commission of India.
+Comptroller and Auditor General 	Articles 148–151 CAG audits State government expenditure and places reports before State
+Legislatures.
+Integrated constitutional bodies
+UPSC, Finance
+Commission, Election
+Commission, CAG
+UPSC conducts recruitment for All India Services; Finance Commission
+recommends tax sharing.
+Uniform civil and criminal justice structure IPC/BNS, CrPC/BNSS,
+Evidence Act/BSA Criminal law reforms passed by Parliament apply across most of India.
+Centre’s directions to States 	Articles 256–257 Union can issue directions to States for implementing central laws or
+protecting national infrastructure.
+GST 	Article 279A 	GST Council recommends rates, exemptions and procedures
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+MCN 2.0
+ 
+Magna Carta Mains 2026 Mains Concise Note (MCN) 26 : Models of Federalism
+
+-- 24 of 30 --
+
+Area 	Cooperative Federalism 	Competitive Federalism 	Combative Federalism
+Meaning
+Centre and States work
+together to solve common
+problems.
+States compete to attract
+investment, improve
+governance and rank better.
+Centre and States, or States
+inter se, enter conflict,
+litigation or political
+confrontation.
+Institutional platforms
+NITI Aayog Governing Council
+brings Centre and States
+together as “Team India”; NITI
+itself describes its role as
+promoting cooperative
+federalism.
+NITI Aayog promotes rankings
+such as Health Index, SDG
+Index, School Education
+Quality Index, Water Index,
+Innovation Index and Export
+Preparedness Index.
+Boycott of NITI Aayog
+meetings by some States,
+alleging inadequate
+consultation or fiscal
+centralisation.
+GST regime
+GST Council under Article
+279A: Union and States jointly
+decide tax rates, exemptions
+and procedures; it is often
+cited as the best institutional
+example of fiscal cooperation.
+States compete to increase
+GST compliance, improve
+revenue mobilisation and
+attract GST-paying businesses.
+Disputes over GST
+compensation, rate
+rationalisation and fiscal
+autonomy. In Mohit Minerals,
+the Supreme Court held that
+GST Council recommendations
+are persuasive, not binding,
+preserving federal autonomy.
+Development planning
+Centrally Sponsored Schemes
+such as Jal Jeevan Mission,
+PMAY, SBM, PMGSY and
+NHM require Centre-State
+cost sharing and
+implementation.
+States compete in
+implementation speed,
+beneficiary coverage,
+sanitation, housing, health and
+infrastructure outcomes.
+States often object to fund-
+sharing ratios, branding
+requirements, conditionalities
+and delayed releases.
+Aspirational Districts
+Programme
+Centre, States and district
+administrations coordinate to
+improve lagging districts.
+Delta rankings under the
+Champions of Change
+dashboard create competition
+among districts and States.
+Criticism that centrally
+designed indicators may ignore
+local priorities or increase
+administrative pressure on
+States.
+Ease of doing business
+and investment
+Centre frames broad reforms;
+States implement land, labour,
+logistics and single-window
+systems.
+States compete through
+investment summits, industrial
+policies, tax incentives and
+business reform rankings.
+Conflicts arise when States
+allege discriminatory allocation
+of central projects, special
+packages or infrastructure
+support.
+Public health
+COVID-19 management,
+vaccination, Ayushman Bharat,
+disease surveillance and NHM
+show shared responsibility.
+States compete through health
+indices, hospital infrastructure,
+insurance coverage and health
+outcomes.
+COVID-era disputes over
+oxygen allocation, migrant
+movement, lockdown powers
+and vaccine procurement
+showed friction.
+Education
+NEP 2020 implementation,
+Samagra Shiksha and PM-SHRI
+require Centre-State
+coordination.
+School Education Quality
+Index and Performance
+Grading Index encourage
+States to improve outcomes.
+Some States resist NEP
+provisions, common entrance
+frameworks, language policy
+or centralisation in higher
+education regulation.
+MCN 2.0
+ 	Magna Carta Mains 2026
+Mains Concise Note (MCN) 27 : Example Matrix
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+
+-- 25 of 30 --
+
+Area 	Cooperative Federalism 	Competitive Federalism 	Combative Federalism
+Welfare delivery
+One Nation One Ration Card,
+DBT, Aadhaar-linked welfare
+and food security require
+Centre-State integration.
+States compete through
+welfare innovations: Tamil
+Nadu’s social welfare model,
+Kerala’s social development,
+Odisha’s disaster management,
+Telangana’s Rythu Bandhu-
+type schemes.
+Disputes arise over naming,
+funding and duplication
+between central and State
+schemes.
+Agriculture
+e-NAM, PM-KISAN data
+sharing, irrigation schemes and
+crop insurance require Centre-
+State cooperation.
+States compete in
+procurement systems, agri-
+marketing reforms, irrigation
+efficiency, millet promotion
+and agri-exports.
+The three farm laws, later
+repealed, became a major
+Centre-State and farmer-
+Centre conflict over legislative
+competence and consultation.
+Environment and
+disaster management
+Disaster response under
+NDMA/SDMA, climate action
+plans, CAMPA funds and
+pollution-control mechanisms
+need joint action.
+States compete in renewable
+energy capacity, green
+investment, EV policies and
+climate-resilient infrastructure.
+Inter-State river disputes such
+as Cauvery, Krishna, Ravi-
+Beas/SYL and Mahanadi show
+combative federalism between
+States.
+Governor-State
+relations
+Ideally, Governors act as
+constitutional links between
+Union and States.
+Not generally a competitive
+area.
+Delays in assent to State Bills,
+floor-test controversies and
+reservation of Bills for
+President’s consideration
+often create conflict.
+Delhi and asymmetric
+federalism
+Article 239AA creates a
+special power-sharing model
+between the elected Delhi
+government, LG and Union.
+Delhi competes with
+States/UTs in health,
+education, transport and
+welfare models.
+Repeated Delhi Government–
+LG–Union disputes over
+services and administration.
+Central agencies and
+law enforcement
+Coordination between State
+police, CBI, NIA, ED and
+central intelligence agencies
+can strengthen internal
+security.
+States compete in policing
+reforms, conviction rates,
+cybercrime capacity and public
+safety indices.
+Several States have withdrawn
+general consent to CBI or
+accused central agencies of
+political misuse, reflecting
+distrust in Centre-State
+relations.
+Finance and borrowing
+Finance Commission
+devolution, grants-in-aid, GST
+compensation and disaster
+funds are cooperative fiscal
+instruments.
+States compete for better
+fiscal discipline, higher own-
+tax revenue, capital
+expenditure and investment
+ratings.
+Disputes over
+cesses/surcharges outside
+divisible pool, borrowing limits,
+GST compensation and
+centrally imposed fiscal
+conditions.
+Language and culture
+Eighth Schedule, classical
+language recognition, cultural
+grants and regional-language
+education reflect
+accommodation.
+States compete to promote
+tourism, heritage, language, GI
+tags and cultural industries.
+Anti-Hindi imposition
+movements, language policy
+disputes and cultural
+autonomy claims
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+MCN 2.0
+ 	Magna Carta Mains 2026
+Mains Concise Note (MCN) 27 : Example Matrix
+
+-- 26 of 30 --
+
+MCN 2.0
+ 	Magna Carta Mains 2026
+Mains Concise Note (MCN) 28 : Ladakh
+Ladakh — covering roughly 59,146 sq. km with a sparse population of about 2.74 lakh (2011 Census), comprising
+Buddhists, Muslims, and tribal communities — now operates under direct Central administration via a Lieutenant
+Governor, with no elected assembly to represent its people.
+The two Autonomous Hill Development Councils (LAHDC Leh and LAHDC Kargil), constituted under the Ladakh
+Autonomous Hill Development Councils Act, 1997, remain the only elected local bodies, but their powers are limited and
+subordinate to the LG.
+The Core Demand: Extension of the Sixth Schedule of the Constitution to Ladakh — the same constitutional instrument that
+protects tribal areas in Assam, Meghalaya, Tripura, and Mizoram through autonomous district councils with legislative,
+executive, and judicial powers.
+Articles 244(2) and 275(1) read with the Sixth
+Schedule provide for the administration of tribal areas
+in four North-Eastern states. Autonomous District
+Councils (ADCs) under the Sixth Schedule can:
+Make laws on land management, forests (excluding
+reserved forests), use of waterways, regulation of
+jhum cultivation, and village administration
+Establish village courts and try certain civil and
+criminal cases under customary law
+Levy and collect certain taxes and royalties
+Regulate money-lending, trading by non-tribals,
+and social customs
+Manage primary schools, dispensaries, markets,
+and ferries within their areas
+This grants a constitutional shield over land,
+culture, and identity — far stronger than anything
+available under ordinary panchayat law or the
+LAHDC Act.
+Sixth Schedule
+Ladakh's Four Demands
+Statehood — Full statehood for Ladakh
+with its own Legislature
+Sixth Schedule — Constitutional protection
+for tribal identity, land, and culture
+Recruitment — Separate Public Service
+Commission / job reservations for locals
+Lok Sabha — Additional parliamentary
+representation (currently one MP for the
+entire UT)
+Why Ladakh is Demanding the Sixth Schedule
+1. Loss of the "State Subject" protection. Before 2019, J&K's
+Constitution and Article 35A barred outsiders from buying
+land or permanently settling. With their abrogation, Ladakhis
+fear an unchecked demographic influx and sale of land to non-
+locals, threatening tribal land rights.
+2. No legislature, no voice. Unlike J&K UT, Ladakh has no
+legislative assembly. Every law applicable to Ladakh is made
+either by Parliament or through executive orders — with no
+elected Ladakhi body having the power to modify or reject it.
+3. Ecological fragility. Ladakh's high-altitude ecosystem —
+glaciers, pastures, wetlands — is deeply intertwined with tribal
+land use. Without constitutional protection, commercial
+interests or Central decisions could alter land-use patterns
+irreversibly.
+4. Cultural and linguistic survival. Indigenous languages
+(Ladakhi, Balti, Purgi, Changskhat), Buddhist and Shia religious
+customs, and traditional pastoral practices face erosion
+without legal protection.
+5. Dilution of Hill Council powers. Post-2019, the two Hill
+Councils have found their functional autonomy squeezed by
+the LG's overarching authority. Funds, functionaries, and
+functions remain inadequately transferred.
+Challenges to Sixth Schedule Extension
+1.Security argument: Strategic border territory;
+Centre wary of limiting its administrative
+flexibility in a live conflict zone
+2.Precedent concern: Could encourage similar
+demands from other strategic UTs (e.g.,
+Andaman & Nicobar)
+3.Intra-Ladakh divide: Kargil (predominantly
+Muslim) and Leh (predominantly Buddhist) have
+occasionally differed on the nature of
+protection sought
+4.Sixth Schedule's NE origin: The Schedule was
+designed specifically for the North-East;
+extending it to a non-NE UT requires
+constitutional amendment — a higher bar than
+simple legislation
+5.Scope ambiguity: Defining which powers would
+vest in an ADC vs. the LG vs. Parliament in a
+borderland UT is legally and politically complex
+Short Term : Statutory strengthening of Hill
+Councils via LAHDC Act amendment; guaranteed
+recruitment reservations for domicile residents
+Medium Term : Statehood with legislature, enabling
+Ladakhis to legislate on local matters without Sixth
+Schedule's NE-specific framework
+Constitutional Constitutional amendment extending
+Sixth Schedule or creating a Ladakh-specific
+Schedule analogous to Article 371 special
+provisions
+Dialogue Revive HPC talks with a time-bound
+mandate; include civil society alongside political
+parties and Hill Councils in formal negotiations
+Solutions
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+
+-- 27 of 30 --
+
+Panchayats and Municipalities are the frontline of India's democracy — where policy meets people. Yet, despite
+constitutional mandates, they often function as agents of the state rather than true representatives of the people
+Intro
+73rd and 74 CA, 1993 constitutionalised the Gandhian dream of democratic decentralisation	th
+Despite Panchayats holding immense historical value in India as sabhas and samitis, the British Raj neglected
+them and propelled municipalities for financial gain so much so that Lord Rippon is known as the father of self
+government in India.
+1.Panchayat Advancement Index published in 2025 by
+MoPR is a multi-domain and multi-sectoral index that
+is intended to be used to assess the overall holistic
+development, performance & progress of panchayats
+2.KN tops the Devolution Index 2024 released in Feb
+2025 while UP and Bihar have shown tremendous
+improvement
+3.CAG Report on ULB show a 42% gap in resources and
+expenditure among 18 states
+4.MoPR Panel on elected women representatives formed
+after a 2023 SC judgement calls for penalties and
+serious punishments to combat issues of proxy
+sarpanches : shows overall 49.5% women reps but
+some states fall behind
+Contemporary
+Issues
+Panchayats : Analysis
+FRAMEWORK : Whether the basic provisions mentioned in the Constitution are adhered to by states?
+Issues :
+1.All states have enacted conformity laws and conducted elections; nearly 14
+lakh women hold elected positions, ensuring the 1/3rd reservation with
+instances of proxy posts, lack to autonomy
+2.However, less than 20% of states have fully devolved all 29 subjects from the
+Eleventh Schedule in both de jure and de facto terms.
+3.Many states do not operationalise DPCs effectively or at all, despite
+constitutional mandates
+4.Many SFCs are either non-functional or their recommendations are ignored.
+5.Regular elections are held, but timely conduct and delimitation remain
+inconsistent in states like Jharkhand and Maharashtra.
+Solutions
+1.Mandate compliance auditing by
+NITI Aayog or a designated
+constitutional body on
+constitutional provisions.
+2.Use performance-linked Finance
+Commission grants as an incentive
+(as recommended by 15th FC).
+3.Digitally monitor DPC meetings
+and outputs via e-GramSwaraj.
+FUNCTION: Measures how panchayats fulfilled civic responsibilities, from sanitation and waste management to health and education.
+Issues :
+1.Function overlaps with line departments.
+2.Limited autonomy; Panchayats used more for last-mile scheme delivery, not governance.
+3.Variability persists among states in assigning and letting Panchayats execute functions. For example, while Kerala and
+Karnataka show vertical and horizontal convergence, several Northeastern and BIMARU states restrict real decision-making
+autonomy
+4.Many Panchayats excel in scheme implementation (MGNREGA, ICDS, Swachh Bharat Mission), but struggle with infrastructural
+deficits, over-reliance on schemes,
+Solutions
+1.Convergence of schemes (e.g., integrating MGNREGA with agriculture extension, women SHGs running enterprises) delivers
+practical improvements in livelihoods and service delivery.
+2.Task-specific Activity Mapping across tiers.
+3.Establish a statutory services list for exclusive Panchayat delivery (recommendation in Devolution Index1).
+4.Incentivise SDG-localization via GPDPs with measurable service benchmarks.
+Case Studies
+1.National Panchayat Awards 2024, winning Panchayats like Galibeedu (Karnataka) achieved 100% social security pension
+coverage, universal public distribution, and near-complete sanitation and nutrition services.
+2.Perumpudappa (Kerala) deployed targeted subsidies in agriculture and dairy, reaching 3,000 families and delivering full PDS
+and PMMVY coverage.
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+MCN 2.0
+ 	Magna Carta Mains 2026
+Mains Concise Note (MCN) 29 : Panchayats
+
+-- 28 of 30 --
+
+FINANCES: The efficiency in the devolution of funds to panchayats and the sources of their funding, whether their own revenues,
+borrowings, or state and Central grants.
+Issues :
+1.Decline in untied grants: From 85% (13th FC) to 60% (15th FC - ₹2.36 Lakh Cr)
+2.Central and state grants form over 95% of Panchayat funds—mainly as tied/untied grants based on Finance Commission
+recommendations
+3.Only 47% of total SFC recommendations implemented
+4.Delayed state releases—2023-24 saw numerous states disbursing less than 25% of obligations under FC
+5.Centrally Sponsored Schemes like MGNREGA channel vast funds, but their tied nature reduces Panchayats’ autonomy
+Case Studies
+1.TN digitised property tax collection through Panchayat ERP, improving Own Source Revenue (OSR) by 18%
+2.Odisha: strong SFC-led revenue-sharing
+3.Sikkim: High GPDP convergence, full grant utilisation
+4.Kerala’s participatory budgeting
+Solutions
+1.Constitution of a Consolidated Fund for Local Governments, as suggested by Upendra Baxi
+2.Legislate minimum timelines for disbursal from state exchequers
+3.Simplify and digitize tax collection (e.g., market fee, sanitation fee) with e-GramSwaraj integration
+FUNCTIONARIES: Assessing the strength and performance of panchayat officials and infrastructure available to them
+Issues
+1.Many officials, particularly women and those from reserved categories, face educational and digital literacy barriers. Proxy
+leadership (relatives acting for women sarpanches) remains a challenge where institutional training and support is weak
+2.Most panchayats operate with inadequate technical/clerical staff. States like Bihar, UP, MP show less than 20% staff in place
+compared to required numbers. (As of 2024, the average vacancy in Panchayat technical staff was 42% across India.)
+3.Many states rely on honorary or contractual staff, affecting qualit
+4.Gaps persist in offices, ICT tools, and basic amenities
+5.Physical/digital infrastructure deficits persist in up to 60% of surveyed gram panchayats
+6.Gram Sabha meetings poorly attended; only 15 states met annual quorum in >75% villages1
+7.Funds audited but not acted upon
+8.Limited awareness of entitlements by rural public
+Case Studies
+1.In Galibeedu (Karnataka), strong SHG networks and Panchayat-led training delivered both social and physical infrastructure
+improvements (e.g., waste management units, cooperative factories
+2.Odisha's SIRD implemented cascade training, e-learning modules, and hand-holding for over 38,618 participants annually,
+dramatically improving functional capacity and local innovation
+Solutions
+1.Make participation in training compulsory for honoraria payments
+2.Deploy mobile-based vernacular e-learning modules
+3.Establish peer-to-peer knowledge exchanges modeled on Saansad Adarsh Gram Yojana villages and National Panchayat Awards
+4.Gram Sabha meetings poorly attended; only 15 states met annual quorum in >75% villages
+5.Social audit units (in sync with MGNREGA audits)
+6.Gram Sabhas & GPDPs can serve as citizen oversight tools
+7.Mandate minimum Gram Sabha frequency and agenda disclosure
+8.Frame uniform Citizen Charter for Rural Service Delivery across states
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+MCN 2.0
+ 	Magna Carta Mains 2026
+Mains Concise Note (MCN) 30 : Panchayats
+
+-- 29 of 30 --
+
+FRAMEWORK : Whether the basic provisions mentioned in the Constitution are adhered to by states?
+Issues
+1.DPCs/ MPCs are defunct or never formed in majority
+states
+2.Only 14 states conducted regular municipal elections in
+last 5 years
+3.Political and administrative resistance is more acute in
+urban contexts
+4.A few states lag in representation quotas and in setting
+up empowered planning committees
+5.Many functions remain under state control or are
+exercised through parastatals or parallel bodies
+Solutions
+1.Encourage constitutional accountability audits
+2.Use City Finance Rankings and Smart Cities
+evaluation for planning compliance checks
+FUNCTION: Measures how municipalities fulfilled civic responsibilities, from sanitation and waste management to health and
+education.
+Issues
+1.Fragmented responsibilities (e.g.,
+Jal Boards report to state, not
+ULBs)
+2.Diluted municipal authority amid
+Smart City SPVs, AMRUT, etc.
+3.Many tier-II and III cities face
+backlogs in basic services like
+solid waste management, housing,
+and water supply—primarily due
+to underfunding, staff shortages,
+and overlapping jurisdictions.
+Case Studies/Data
+1.Indore has led six years in a row in Swachh
+Survekshan, advancing door-to-door waste
+collection and bio-CNG units
+2.Over 45% of ULBs fail to meet service-level
+benchmarks in water supply and waste
+management
+Solutions
+1.Operationalise 18 functions of the
+12th Schedule via exclusive activity
+maps
+2.Enact Municipal Services Cadre with
+qualified urban planners and
+engineers
+FINANCES: The efficiency in the devolution of funds to municipalities and the sources of their funding, whether their own revenues,
+borrowings, or state and Central grants.
+Issues
+1.Dependence on state and central grants is high,
+with tied funding for centrally sponsored schemes a
+dominant source.
+2.Municipal bonds are legal, but low uptake (only 11
+cities)
+3.Loss of local taxes post-GST adoption have reduced
+fiscal autonomy
+4.Low property tax recovery (0.2% of GDP, far below
+global average of 1%–2.5%)
+Case Studies/Data
+1.Pune and Ahmedabad have
+used municipal bonds,
+improving civic infrastructure
+without aid delays.
+2.Municipal revenues form just
+1% of GDP (vs. 5-6% in
+Brazil/South Africa)
+Solutions
+1.Digitally link property records with
+tax platforms (e.g., GIS mapping)
+2.Institutionalise credit rating systems
+and allow pooled bonds for Tier-2
+and Tier-3 cities
+FUNCTIONARIES: Assessing the strength and performance of municipality officials and infrastructure available to them
+Issues
+1.Understaffing & deputation model weakens
+city manager systems
+2.No trained town planners, and planning done
+by private consultants
+3.Audit delay and weak compliance culture
+4.No citizen audit or participatory budgeting in
+most cities
+5.Commissioner-led model limits autonomy of
+elected councils.
+Case Studies/Data
+1.National Institute of Urban
+Affairs, IIPA Urban Cell, and
+AMRUT training modules
+offer structural inputs
+2.Surat and Pune’s adoption of
+real-time digital reporting
+3.Odisha's Urban Academy
+integrates e-learning with on-
+site exposure visits.
+Solutions
+1.Extend hands-on procurement,
+finance, GIS, e-governance training
+2.Incentivize cities achieving skill
+milestones with ranking upgrades in
+City Finance Index
+3.Institute Ward Sabhas with statutory
+powers
+4.Mandate online disclosure of ULB
+budgets, passed resolutions, and
+social audits
+If India is to become truly self-governing, its Panchayats and Municipalities must be more than administrative shells — they must become
+engines of transformative change.
+Municipalities : Analysis
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+MCN 2.0
+ 	Magna Carta Mains 2026
+Mains Concise Note (MCN) 30 : Municipalities
+
+-- 30 of 30 --
+

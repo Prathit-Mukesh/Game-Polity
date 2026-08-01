@@ -1,0 +1,1481 @@
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+MCN 2.0
+ 	Magna Carta Mains 2026
+Mains Concise Note (MCN) 49 : President’s Role in a Parl Democracy
+The President of India, as the constitutional Head of State under a parliamentary system, occupies a position that is at once symbolic and
+structurally indispensable
+Constitutional and Functional Dimensions of the President's Role
+1. Nominal Executive Head (Articles 52–78)
+All executive action of the Union is formally taken in the name of the
+President (Article 77), even though it is the Council of Ministers that decides.
+Appoints the Prime Minister, other Ministers, Governors, the CAG, Election
+Commissioners, judges of the Supreme Court and High Courts, and members
+of UPSC.
+Bound by the "aid and advice" of the Council of Ministers under Article
+74(1); post the 42nd and 44th Amendments, this advice is binding, though
+the President may require reconsideration once.
+2. Legislative Role
+Summons, prorogues, and can dissolve the Lok Sabha; addresses the first
+session after each general election and the first session of each year (Article
+87).
+Assent to bills (Article 111): the President may give assent, withhold assent,
+or return a bill (except a Money Bill) for reconsideration.
+No fixed timeline exists for assent, giving rise to the phenomenon of the
+"pocket veto" — indefinite inaction, which is neither assent nor refusal.
+Certain state bills reserved by the Governor under Article 200 require
+Presidential assent, and rejection of the bills leads of the death of the bill.
+3. Ordinance-Making Power (Article 123)
+Enables the Union Executive to legislate when Parliament is not in session,
+subject to Cabinet advice and subsequent parliamentary approval within six
+weeks of reassembly.
+Originally an emergency provision borrowed from the Government of India
+Act, 1935; India, Pakistan, and Bangladesh remain rare examples of
+parliamentary democracies retaining ordinance-making power at this scale.
+4. Judicial Power — Pardoning (Article 72)
+Power to grant pardon, reprieve, respite, remission, or commutation of
+sentence, including in death sentence cases — broader in scope than the
+Governor's parallel power under Article 161.
+Exercised on the aid and advice of the Council of Ministers (Home Ministry),
+yet subject to limited judicial review for arbitrariness, mala fide exercise, or
+unexplained delay.
+5. Financial Role
+Money Bills can only be introduced in Parliament with prior Presidential
+recommendation (Article 117); the Annual Financial Statement (Budget) is
+laid before Parliament in the President's name (Article 112); Contingency
+Fund of India is at the President's disposal (Article 267).
+6. Diplomatic and Military Role
+Represents India in international affairs; treaties and international
+agreements are negotiated and ratified in the President's name, subject to
+Parliament's role.
+Supreme Commander of the Defence Forces (Article 53(2)) — a formal, non-
+operational role; actual military decision-making rests with the Cabinet
+Committee on Security.
+7. Emergency Powers (Articles 352, 356, 360)
+National Emergency (external aggression/armed rebellion), President's Rule
+in states (failure of constitutional machinery), and Financial Emergency.
+These represent the most consequential — and most contested — dimension
+of the office, since they permit the President (in effect, the Union Executive)
+to override the federal division of power.
+8. Discretionary/Reserve Powers
+Though ordinarily bound by ministerial advice, situations exist where the
+President exercises independent judgment:
+Appointing a Prime Minister in a hung Lok Sabha, or when the incumbent
+PM dies/resigns suddenly without a clear successor.
+Dismissing a government that has demonstrably lost majority support but
+refuses to resign.
+Returning advice for reconsideration once under the proviso to Article 74(1).
+Deciding whether to act on advice of a Council of Ministers that has lost
+confidence but continues in office in a caretaker capacity.
+Issues in Fulfilling the Presidential Role
+1. Ambiguity of "Aid and Advice" and Reserve Powers
+The Constitution does not exhaustively define situations of genuine
+discretion, leaving the President to rely on convention rather than codified
+rule — a vacuum that becomes acute in coalition politics and hung verdicts.
+2. The Pocket Veto Problem
+Unlike the U.S. President, whose pocket veto is time-bound (10 days), the
+Indian President faces no deadline on withholding assent, enabling bills to
+remain in indefinite limbo — most famously, the Postal Bill of 1986, never
+signed by President Zail Singh and left to lapse.
+3. Politicisation of Discretionary Choices in Hung Verdicts
+Decisions on who is invited to form the government in fractured mandates
+(1989, 1996, 1998, 2004 at the Centre; frequent at state level) have
+repeatedly drawn charges of partisan bias, since no codified "post-poll
+alliance" protocol exists.
+4. Delay and Inaction on Bills and Mercy Petitions
+Mercy petitions under Article 72 have historically taken years — even
+decades — to decide, raising Article 21 concerns about "death row limbo."
+Similarly, reserved state bills have lain pending for years without a
+Presidential decision, prompting the Supreme Court's 2025 intervention in
+State of Tamil Nadu v. Governor to impose timelines (Governor: 1–3
+months; President: 3 months on Governor-referred bills).
+5. Ordinance Overuse ("Ordinance Raj")
+Though meant to be exceptional, ordinance re-promulgation has been
+frequent, especially in the 1970s–1990s and at the state level, effectively
+bypassing legislative scrutiny (e.g., the Delhi Services Ordinance, 2023, and
+repeated Commercial Courts ordinances).
+6. Misuse of Emergency Provisions
+Article 356 (President's Rule) has been invoked close to 130 times since
+1950, frequently for partisan reasons rather than genuine constitutional
+breakdown — a practice later curbed, though not eliminated, by S.R.
+Bommai v. Union of India (1994).
+7. Erosion of Neutrality and Perception of Executive Capture
+Because the President is elected by an Electoral College dominated by the
+ruling coalition and often has a prior political career, questions of
+independence recur — particularly regarding assent to contentious bills
+(e.g., farm laws, CAA) or silence on matters of institutional friction.
+8. Weak Accountability Mechanisms
+Impeachment under Article 61 is constitutionally so onerous (special
+majority in both Houses, charge investigation) that it has never been used,
+leaving few real checks on the manner (as opposed to the fact) of exercise
+of Presidential functions.
+9. Governor–President Interface Tensions
+Politically charged Governors reserving bills for President's consideration as
+a delaying tactic (Tamil Nadu, Kerala, Punjab, West Bengal in recent years)
+transfers federal friction upward to the Presidential office, entangling it in
+Centre–state disputes it was designed to stand above.
+10. Absence of a Real Check on Prime Ministerial Advice
+Since the 44th Amendment made the President's ability to seek
+reconsideration a one-time, non-binding option, the office has effectively
+no substantive veto over Cabinet decisions — a design choice that
+preserves parliamentary supremacy but limits the President's capacity to
+act as a genuine constitutional brake.
+Indicator 	Data Point
+Article 356 (President's Rule) invocations 	~130 times since 1950
+Ordinance peaks 	Highest in 1970s (133) and 1990s (196), coinciding with political
+instability
+Impeachment proceedings against a President 	Zero completed cases since 1950 (Article 61 never successfully
+invoked)
+Countries retaining ordinance-making power in parliamentary systems India, Pakistan, Bangladesh — a global rarity
+
+-- 1 of 18 --
+
+Country 	Head of State Model 	Reserve/Discretionary Powers 	Key Distinguishing Feature
+India Indirectly elected President;
+nominal executive
+PM appointment in hung
+Parliament, one-time
+reconsideration, mercy powers
+Ordinance power retained; broad
+Article 356 emergency power
+United Kingdom 	Hereditary Monarch Reserve powers by convention
+(inviting PM, royal assent)
+No written constitution;
+conventions, not codified rules,
+govern discretion
+Germany Federal President, elected by
+Federal Convention
+Can refuse to sign clearly
+unconstitutional laws; nominates
+Chancellor
+Stronger norm of legal-formal
+review before signing bills
+Israel 	President, elected by the Knesset Mandate to form government to a
+party leader after elections
+Explicit, codified process for
+consultations post-election
+Ireland 	President, directly elected
+Can refer bills to the Supreme
+Court for constitutionality review
+(Article 26)
+Unique "reference" power — a
+genuine constitutional check
+absent in India
+Italy President, elected by Parliament +
+regional delegates
+Can dissolve Parliament, appoint
+PM after consultations, refuse to
+sign decree-laws deemed
+unconstitutional
+Greater use of moral suasion
+during coalition crises
+Case Studies
+Zail Singh and the Postal Bill (1986): President Giani Zail Singh neither signed nor rejected the Indian Post Office (Amendment) Bill, effectively using a
+"pocket veto" — illustrating the constitutional gap around assent timelines that persisted until the 2025 Supreme Court intervention.
+K.R. Narayanan and Bihar President's Rule (1998): President Narayanan returned the Union Cabinet's recommendation to impose President's Rule in
+Bihar for reconsideration — a rare, assertive use of the Article 74(1) proviso, seen as a landmark moment of Presidential independence.
+A.P.J. Abdul Kalam and the Office of Profit Bill (2006): President Kalam initially withheld assent and sought reconsideration of the Office of Profit
+(Removal of Disqualification) Bill; when returned by Parliament unchanged, he was constitutionally bound to sign it — illustrating the limits of the
+President's suspensive veto.
+S.R. Bommai v. Union of India (1994): Though concerning Governors and Article 356, the judgment squarely constrained the President's emergency
+powers, mandating floor tests, judicial reviewability of "satisfaction," and restrictions on assembly dissolution before parliamentary approval.
+State of Tamil Nadu v. Governor R.N. Ravi (2025): The Supreme Court, for the first time, fixed timelines binding both the Governor and the President for
+bill assent, directly responding to years of legislative paralysis caused by indefinite reservation of bills — a case as much about Presidential accountability
+as gubernatorial conduct. This was reversed via a Presidential Reference under Art 143
+Droupadi Murmu's Presidency (2022– ): As India's first tribal woman President, her tenure has been read as both a symbolic milestone in representative
+politics and a test case for how far ceremonial visibility translates into substantive institutional assertiveness.
+Delhi Office of Profit Disqualifications (2018): President Ram Nath Kovind, acting on the Election Commission's recommendation, disqualified 20 Delhi
+MLAs for holding "office of profit" as Parliamentary Secretaries — an example of the President exercising a quasi-judicial constitutional function based
+on independent constitutional body advice, later stayed by the Delhi High Court.
+Way Forward / Reform Solutions
+Codify Timelines for Assent: Extend the Supreme Court's 2025 directive into a constitutional or statutory amendment fixing outer limits for
+Presidential decisions on bills, ordinances, and mercy petitions, eliminating the pocket veto ambiguity.
+Develop a Post-Poll Protocol for Hung Verdicts: Following practices like Germany's and Israel's structured consultation processes, India could
+evolve a transparent, publicly known convention (single largest party first, then pre-poll alliances, then post-poll coalitions with a floor test
+within a fixed period) to reduce the perception of partisan discretion.
+Limit and Guide Emergency Powers: Building on S.R. Bommai, further legislative guidelines (as recommended by the Sarkaria and Punchhi
+Commissions) should govern the "satisfaction" standard for Article 356, mandating a reasoned, speaking order from the Governor before any
+Presidential proclamation.
+Introduce a Constitutional Reference Power: Consider an Ireland-style mechanism allowing the President to refer a bill to the Supreme Court
+for an advisory opinion on constitutionality before assent, strengthening the office's role as a genuine, apolitical safeguard (distinct from the
+existing Article 143 reference, which is government-initiated).
+Institutionalise an Independent Clemency Review Body: To depoliticise Article 72 decisions and prevent prolonged death-row uncertainty, an
+independent clemency board with fixed timelines and transparent criteria could support (not replace) Presidential decision-making.
+Strengthen Transparency in Ordinance Use: Mandate public disclosure of the "urgency" justification for each ordinance and cap re-
+promulgation, as recommended in various Law Commission reports, to prevent the ordinance route from substituting for regular legislative
+process.
+Insulate the Office from Political Career Pipelines: While not requiring a formal bar, evolving a stronger convention — akin to the Speaker's
+post-election detachment from party affiliation in the UK — for Presidential candidates to visibly distance themselves from active partisan roles
+would bolster perceived neutrality.
+Empower Judicial Review of Delay, Not Just Decision: Extend the logic used for mercy petitions (unexplained delay as grounds for
+commutation) to bill assent and other Presidential functions, ensuring that inaction itself becomes constitutionally reviewable.
+The President of India was conceived not as a rubber stamp but as a constitutional sentinel — one whose authority lies less in the frequency of its
+exercise and more in its availability as a check when the ordinary machinery of parliamentary accountability falters.
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+MCN 2.0
+ 	Magna Carta Mains 2026
+Mains Concise Note (MCN) 49 : President’s Role in a Parl Democracy
+
+-- 2 of 18 --
+
+Intro
+1.Misuse for Political
+Expediency
+2.Re-promulgation
+3.Lack of Scrutiny
+4.No Cap
+5.Impact Post-Lapse
+6.Bypassing Committees
+1.A.K. Roy v. Union of India (1982)
+a.Urgency is essential; ordinances not a substitute for
+regular lawmaking.
+2.DC Wadhwa v. State of Bihar (1987)
+a.Re-promulgation is a “fraud on the Constitution.”
+3.Krishna Kumar Singh v. State of Bihar (2017)
+a.Ordinance must be laid before legislature; re-
+promulgation unconstitutional.
+Recently, the strength of the Supreme Court was increased to 37 via an Ordinance right before the
+court went into its summer vacation, raising questions on urgency and necessity.
+Originally, conceived from the GoI Act, 1935; Only India, Pakistan, and Bangladesh permit ordinance-
+making in parliamentary democracies—a rare exception globally
+Rationale
+1.Emergency
+Legislative Need
+2.Continuity of
+Governance
+3.Exceptional Tool
+Data
+1.Frequency and Trends: he decades
+1990–1999 and 1970–1979 saw the
+highest numbers (196 and 133,
+respectively), coinciding with political
+instability and coalition governments
+2.State-Level Data: States have higher
+rates of re-promulgation. For example,
+Kerala reissued 140 out of 144
+ordinances in 2021
+3.Re-promulgation: Only 42 central
+ordinances have been reissued, but
+state governments frequently re-
+promulgate ordinances to extend their
+life
+Constitutional Scheme
+1.Can only be passed when either of the houses are not in session
+2.Can be issued only on the respective ordinary legislative powers of
+Parliament and State Legislatures
+3.Constitutional Amendments cannot be Ordinances
+4.Have to passed within the first 6 weeks of the house coming back to
+session
+5.Can be Judicially Reviewed [Art 13(2) and Legislative Competence]
+6.President/Governor can respectively return or reject the Central or State
+Ordinances
+7.Governor can’t promulgate on Ordinance on something which should or
+could have been reserved for the President
+Issues
+Parliamentary Democracy
+Separation of Powers
+1.Undermines Legislative Supremacy
+2.Weakens Deliberation
+3.Disrupts Committee System
+4.Dilution of Public Mandate
+5.Collective Responsibility
+1.Legislative Power usurped by Executive
+2.Judicial Overload
+3.Constitutional Disequilibrium
+4.Federalism
+Jurisprudence
+Jurisprudence
+1.Mixed Signals
+2.Judicial Review Evolving
+3.Need for Stronger Standards
+4.Gap in Implementation
+Post Lapse Prognosis
+1.Re-promulgation Not Permitted
+2.Actions under the ordinance may remain
+valid (doctrine of past operation)
+3.Rights conferred or taken away may be
+lost unless expressly saved or re-enacted
+by statute
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+MCN 2.0
+ 	Magna Carta Mains 2026
+Mains Concise Note (MCN) 50 : Ordinances
+For in the quiet expansion of ordinance-making lies the loud warning of democratic decay. The future of India's constitutional
+order depends on restoring law-making to the chamber of elected debate, not the corridors of executive decree.
+
+-- 3 of 18 --
+
+Parliamentary rules also require the government to explain why immediate legislation was necessary.
+The quality of an Ordinance depends less on its subject and more on whether there was genuine urgency, limited
+use and prompt parliamentary scrutiny
+Example 	Why the Ordinance route was justified
+Epidemic Diseases (Amendment) Ordinance,
+2020
+Promulgated during the sudden COVID-19 emergency to prohibit violence
+against healthcare personnel and damage to medical property. The
+provisions were subsequently enacted by Parliament.
+Insolvency and Bankruptcy Code amendment
+during COVID-19, 2020
+Temporary changes to insolvency law could reasonably be treated as
+emergency economic relief.
+Indian Institute of Information Technology,
+Design and Manufacturing, Kancheepuram
+Ordinance, 2011
+The Institute urgently needed statutory recognition as an institution of
+national importance so that graduating students could lawfully receive
+degrees. It is often cited as a classic case where a temporary legal gap
+required immediate correction.
+Criminal Law Amendment Ordinance, 2013
+Following the 2012 Delhi gang rape, immediate strengthening of criminal-
+law protections for women responded to an extraordinary public-safety
+concern. It was followed by parliamentary enactment. However, because a
+Bill and committee process were already underway, it remains a qualified,
+rather than perfect, example of good use.
+Example 	Why it represents misuse
+Repeated Bihar Ordinances—Krishna Kumar
+Singh v. State of Bihar
+Bihar repeatedly re-promulgated Ordinances concerning the takeover of
+Sanskrit schools without securing legislative approval.
+Land Acquisition Amendment Ordinances,
+2014–15
+The December 2014 Ordinance was re-promulgated in modified form in
+April 2015 and again in May 2015, even while the replacement legislation
+faced opposition and was under parliamentary examination.
+Enemy Property Amendment Ordinances,
+2016
+The same policy was repeatedly continued through successive Ordinances
+while legislation remained pending.
+Tribunals Reforms Ordinance, 2021 Using an Ordinance for structural reform was criticised as avoiding
+deliberative scrutiny rather than responding to a sudden emergency.
+Bank nationalisation Ordinance, 1969
+Although presented as urgent economic reform, the scale and permanence
+of the policy raised the question whether the executive was using urgency
+to avoid prior parliamentary debate.
+Ordinances issued immediately after a
+parliamentary session
+When the government waits for Parliament to adjourn and then
+promulgates an Ordinance on a foreseeable matter, the claimed urgency
+becomes doubtful. It suggests deliberate avoidance of legislative debate.
+Ordinances reproducing Bills rejected or
+stalled in Parliament
+A government cannot legitimately use the Ordinance route merely because
+it lacks numbers in one House. Political difficulty is not the constitutional
+“necessity” contemplated by Article 123.
+Use of Ordinances: Good and Bad
+MCN 2.0
+ 	Magna Carta Mains 2026
+Mains Concise Note (MCN) 50 : Ordinances
+An Ordinance should bridge a legislative vacuum, not manufacture parliamentary consent.
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+
+-- 4 of 18 --
+
+Intro
+The power to pardon, resting with the President and the Governors under Articles 72 and 161 of the Indian
+Constitution, stands as one of the most potent symbols of the Republic’s humanism—where justice is not
+merely cold and legalistic but tempered with compassion, conscience, and corrective intent.
+Rooted in the monarchic traditions of ancient civilizations and evolving through constitutional democracies,
+this power represents a paradox: it allows an unelected figurehead to override the solemn verdicts of the
+judiciary.
+Rationale
+1.Correcting Judicial Errors
+2.Justice-Enhancing and Justice-Neutral
+Measure
+3.Policy and Compassion
+4.Democratic Accountability
+5.Mercy as a Sovereign Function
+6.Moral Authority
+7.Historical Precedent
+Issues
+1.Lack of Transparency
+2.Political Influence
+3.Delay in Disposal
+4.Separation of Powers
+5.No Review Mechanism
+6.Judicial Review Limits
+Judgements
+1.Mohinder Singh v. Punjab (1977)
+a.Power to pardon can’t override due process; must be
+reasoned
+2.Maru Ram v. Union of India (1981)
+a.Pardoning power is not personal discretion of
+President/Governor; must act on Council of Ministers’
+advice
+3.Kehar Singh v. Union of India (1989)
+a.Pardoning power is broad, includes revisiting merits of
+the case; not judicial in nature but subject to limited
+review
+4.Satpal v. State of Haryana (2000)
+a.Mercy decision must consider post-conviction
+behaviour; absence of such consideration can
+invalidate the pardon
+5.Shatrughan Chauhan v. Union of India (2014)
+a.The Court held that undue delay in deciding mercy
+petitions can be a ground for commuting death
+sentences
+International Practices
+USA Article II, Sec 2 –
+President can grant pardons except in
+impeachment. Subject to limited judicial
+review in exceptional cases like Hoffa v. Saxbe
+UK
+Exercise of mercy by Crown on Home
+Secretary’s advice; judicial review limited (e.g.
+R v. Secretary of State, ex parte Bentley)
+Pakistan
+Article 45 – President has unfettered power;
+not subject to judicial review
+Bangladesh
+Article 49 – Power vests in President, but only
+exercised on PM’s advice
+Solutions :
+1.Judicial Review with Self-Restraint
+2.Guidelines and Transparency
+3.Executive Self-Restraint
+4.Timely Decisions
+5.Public Accountability
+6.Independent Clemency Board
+7.Legislative Oversight
+8.Constitutional Amendment
+Conclusion
+The challenge, therefore, lies not in curtailing the
+power, but in disciplining its exercise—with
+procedural fairness, timely action, and judicious
+restraint. For in a nation where the rule of law
+reigns supreme, even mercy must march to the
+rhythm of reason.
+MCN 2.0
+ 	Magna Carta Mains 2026
+Mains Concise Note (MCN) 51 : Pardons
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+
+-- 5 of 18 --
+
+The office of the Vice-President of India embodies the Constitution’s vision of continuity, balance, and neutrality —
+ensuring that neither the Executive nor the Parliament ever faces a vacuum in authority.
+Intro
+Rationale
+1.Presiding Over Proceedings : Ensures orderly conduct, regulates debate, and maintains discipline.
+i.2018 – VP Venkaiah Naidu rejected the impeachment motion against CJI Dipak Misra, ruling it as "lacking
+merit". Though contested, it reflected the Chairman’s power to prevent politically motivated motions from
+disrupting judicial-administrative stability.
+ii.2023 – VP Jagdeep Dhankhar firmly intervened to prevent disruptions during discussion on the women’s
+reservation bill, pressing members to maintain decorum.
+2.Interpretation and Enforcement of Rules : Authority to interpret rules under Rule 266 of RS Rules
+a.2015 – Hamid Ansari permitted calling attention motion by Opposition on rising intolerance despite government
+objection. Interpreted rules to uphold democratic debate.
+b.2023 – Dhankhar disallowed multiple short-duration discussions citing Rule 267, sparking contention with
+Opposition, illustrating the Chairman's discretionary reach.
+3.Deciding on Admissibility of Motions & Questions : Has powers to admit/deny adjournment, privilege, or censure
+motions.
+a.2012 – Hamid Ansari admitted FDI in retail discussion despite government’s hesitation, enabling debate on major
+policy reform.
+b.2023 – Dhankhar refused Opposition's motion to discuss Pegasus surveillance issue under Rule 267, triggering
+debate on parliamentary accountability.
+4.Casting Vote (In Case of Tie) : Similar to US VP’s Senate role, though rare due to party dominance in India.
+a.1972 – VP Gopal Swarup Pathak cast a tie-breaking vote on the Payment of Bonus Bill, influencing labour welfare
+legislation.
+5.Committee-Related Administrative Powers : Nominates members to parliamentary committees.
+a.2004 – Bhairon Singh Shekhawat ensured cross-party inclusion in the Ethics Committee during the cash-for-query
+scandal, enhancing credibility.
+6.Upholding Decorum & Discipline : Can suspend members for unruly conduct (Rule 256).
+a.2021 – M. Venkaiah Naidu suspended 12 Opposition MPs during Winter Session for disruptions, though criticized
+as excessive.
+7.Ensuring Federal Balance : As head of the States’ House, the Chairman must facilitate federal dialogue.
+a.During GST debate (2016), Hamid Ansari ensured regional concerns from Tamil Nadu and West Bengal were heard,
+leading to compensation guarantees in GST framework.
+8.Facilitating Debate Beyond Political Polarisation : Encourages deliberation focused on national interest.
+a.Post 26/11 Mumbai attacks (2008), VP Hamid Ansari promoted collective debate on national security without
+partisan blame, leading to consensus on revamping intelligence architecture.
+9.Constitutional & Ethical Custodian : Expected to be impartial though often criticised for perceived bias.
+a.2023 – VP Dhankhar publicly criticised Supreme Court’s remarks on basic structure doctrine, raising controversy
+over neutrality expected from RS Chairman.
+Role as RS Chair
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+MCN 2.0
+ 	Magna Carta Mains 2026
+Mains Concise Note (MCN) 52 : Vice President
+Refer in addition to MCN 2.0 Note 45
+
+-- 6 of 18 --
+
+Issue 	Explanation & Impact
+Lacks real powers Except when acting as President, the VP has no substantive executive or
+legislative authority.
+Political Partisanship VP often comes from ruling party → neutrality in Rajya Sabha may be
+compromised.
+Limited Constitutional Role VP does not head any committee, nor plays advisory or decision-making
+role in governance.
+Ceremonial & Overlapping Role Rajya Sabha can function under Deputy Chairman; President’s succession
+contingency is rare.
+No link with States 	Unlike President, VP is not elected by states → weaker federal legitimacy.
+Chairmanship overshadowed by Leader
+of House
+Actual floor management done by Leader of the House; VP's powers
+become procedural rather than substantive.
+Role 	Impact on Parliament 	Strength 	Weakness
+Presiding Authority 	Procedural efficiency 	Non-partisan Limited engagement with
+MPs
+Rule Interpretation 	Ensures order Protects institutional
+dignity
+Prone to charges of
+arbitrariness
+Motion Admissibility 	Filters meaningful debate 	Prevents disruption 	Can suppress dissent
+Casting Vote 	Critical decision-making 	Power balance 	Rare usage
+Committee Oversight 	Enhances deliberation 	Facilitates expertise 	Often symbolic
+Discipline 	Maintains order 	Enforces standards 	Seen as partisan
+Federal Voice 	Accommodates states 	Platform for regional issues Dominated by party whips
+Overall Analysis of the office of VP as whole
+Analysis of Role as Chair
+MCN 2.0
+ 	Magna Carta Mains 2026
+Mains Concise Note (MCN) 52 : Vice President
+Refer in addition to MCN 2.0 Note 45
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+
+-- 7 of 18 --
+
+Feature 	India 	USA 	UK 	France
+Method of Election Electoral College (Both
+Houses MPs)
+By national popular
+vote, indirectly
+through Presidential
+ticket
+No office of VP
+No permanent VP;
+Presidential
+succession handled by
+President of Senate
+Role in Legislature Chairman of Rajya
+Sabha
+President of Senate
+(casts tie-breaking
+vote)
+Presiding roles
+handled by Speakers
+of Houses
+President of Senate
+presides over joint
+sessions on occasion
+Role in Executive
+No real executive
+power unless acting
+President
+Second highest
+executive authority;
+part of Cabinet and
+National Security
+No equivalent; PM is
+head of government
+VP-equivalent rarely
+acts; Prime Minister is
+executive head
+Line of Succession 1st in line to
+Presidency
+1st in line to
+Presidency
+Monarch → PM (no
+VP)
+President → Senate
+President → PM
+Political Role 	Expected to be neutral
+Highly political; often
+future Presidential
+candidate
+N/A
+Senate President may
+be political but rarely
+executive
+Suggestions to Strengthen the Office of the Vice-President
+1.Reinforce Neutrality in Rajya Sabha
+a.Adopt a code of impartial conduct for the Chair.
+b.VP should suspend active party membership upon assuming office (similar to Speaker convention).
+c.Ensure Leader of House and Leader of Opposition are consulted before disciplinary decisions.
+2.Strengthen the Role in Parliamentary Leadership
+a.VP should be made ex-officio head (or co-chair) of:
+i.Rules Committee
+ii.Ethics Committee
+iii.Privileges Committee
+b.Annual “State of Rajya Sabha Report” to review productivity, disruptions, legislative quality.
+3.Provide a Defined Advisory Role
+a.VP may be included in a constitutional advisory council with President & PM (no executive authority).
+b.VP may help in inter-house legislative coordination during deadlocks.
+4.Enhance Federal Legitimacy
+a.Consider including State Legislatures in VP electoral college (similar to President), but with lower weightage.
+b.Makes VP national, not just parliamentary, in representation.
+5.Clear Guidelines on Disruptions and Floor Discipline
+a.VP should be empowered (via Rajya Sabha rules) to:
+b.Mandate cooling-off suspensions for repetitive disruption.
+c.Prioritise debate + accountability time before voting.
+6.Professional Secretariat Support
+a.Establish a dedicated Parliamentary Research Cell for the VP’s office.
+b.Structured training for:
+i.Procedural rulings
+ii.Comparative parliamentary practice
+iii.Conflict mediation
+7.Non-Partisan Appointment Convention (Long-Term Ideal)
+a.Move towards a consensus candidate model (similar to Speaker in UK).
+b.Pre-election all-party consultation to find widely acceptable candidates.
+Ultimately, the strength of the Vice-President’s office lies not in its powers but in the neutrality with which it is exercised — and restoring
+that spirit amid rising political polarisation is vital to preserve the dignity of parliamentary democracy.
+MCN 2.0
+ 	Magna Carta Mains 2026
+Mains Concise Note (MCN) 52 : Vice President
+Refer in addition to MCN 2.0 Note 45
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+
+-- 8 of 18 --
+
+India's Council of Ministers are the 'efficient secret' of the Indian Constitution — the real power dressed in constitutional language
+that locates authority in the President.
+Constitutional Position 	Ministers' Role
+President —
+nominal/formal executive Advise President (Art. 74)
+PM + CoM — real
+executive Collective governance (Art. 75)
+Parliament — legislative
+supremacy
+Collective Responsibility to Lok
+Sabha (Art. 75(3))
+Judiciary — constitutional
+guardian
+Subject to judicial review of
+decisions
+Amendment 	Key Change
+42nd CA, 1976
+President bound by ministerial advice
+— removed discretionary power
+completely.
+44th CA, 1978
+President may return advice once for
+reconsideration; must act on
+reconsidered advice.
+52nd CA, 1985
+10th Schedule (Anti-Defection Law) —
+affects ministerial appointments from
+defecting legislators.
+91st CA, 2003
+Cap on Council of Ministers — max
+15% of Lok Sabha strength; anti-
+defection provisions strengthened.
+Grouping 	Composition/Function
+Cabinet (Formal) 	All Cabinet Ministers
+Cabinet Committee Subset for specific domains
+(e.g., CCS)
+Group of Ministers (GoM) 	Ad-hoc bodies for inter-
+ministerial issues
+Empowered Group of
+Ministers (EGoM)
+EGoMs with
+financial/executive powers
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+MCN 2.0
+ 	Magna Carta Mains 2026
+Mains Concise Note (MCN) 53 : Ministers
+The Formal Hierarchy: Three Tiers
+Cabinet Ministers
+Highest rank — members of the Cabinet proper.
+Attend all Cabinet meetings and have full voting rights.
+Head major departments: Finance, Home, Defence,
+External Affairs.
+Usually 20–25 in number in practice (though no
+constitutional cap on this sub-category).
+Examples: Nirmala Sitharaman (Finance), Amit Shah
+(Home), S. Jaishankar (External Affairs) in Modi 3.0.
+Ministers of State (MoS)
+Two sub-types: Independent Charge and Without
+Portfolio.
+MoS with Independent Charge: Heads a ministry not
+helmed by a Cabinet Minister — functions almost like a
+Cabinet Minister but does not attend Cabinet meetings
+unless invited.
+MoS without Independent Charge: Assists a Cabinet
+Minister; does not attend Cabinet meetings. E.g., MoS in
+Home Ministry under a Cabinet Minister for Home.
+Deputy Ministers
+Third tier — assist a Cabinet Minister or MoS. Do not
+attend Cabinet meetings.
+Rarely appointed in recent decades. Last used
+significantly in the 1970s–80s. Currently not in practice
+in the Union Government.
+Parliamentary Secretaries
+• Not constitutionally mentioned but used in States.
+Delhi, Tamil Nadu, Himachal Pradesh have had them.
+• Supreme Court in Bimolangshu Roy v. State of
+Assam (2017) and subsequent cases struck down
+Parliamentary Secretary appointments as violating Art.
+164(1A) — they amounted to enlarging the ministry
+beyond the constitutional cap.
+Functional Groupings within the Cabinet
+The UPA government extensively used Groups of Ministers (GoMs) and
+Empowered Groups of Ministers (EGoMs). By 2013, there were over 25
+active GoMs. Critics argued this paralysed decision-making and diffused
+accountability — a minister could always blame the GoM. The Modi
+government abolished most GoMs after 2014.
+Innovations
+
+-- 9 of 18 --
+
+MCN 2.0
+ 	Magna Carta Mains 2026
+Mains Concise Note (MCN) 53 : Ministers
+Impact of Cabinet Form of Government on Parliamentary Democracy
+Strengths of the Cabinet System
+Fusion of Powers = Responsive Government
+• Unlike the US presidential system with its separation of powers, India's cabinet system fuses executive and legislative power.
+• The PM and Cabinet must command legislative majority — this ensures executive-legislative alignment and stable policy passage.
+Accountability Mechanism
+• Question Hour, Zero Hour, No-Confidence Motions — all are accountability tools that work because ministers are also
+parliamentarians.
+• The executive cannot ignore the legislature as can happen in a presidential system.
+Collective Decision-Making
+• In theory, Cabinet government means collective wisdom. No single person can unilaterally commit the state — theoretically.
+How the Cabinet System Harms Parliamentary Democracy
+Party Whip and Anti-Defection: Legislator as Rubber Stamp
+• The 10th Schedule and party whip system mean parliamentarians must vote with the party/government.
+• A backbencher MP cannot effectively criticise the government in Parliament without risking disqualification.
+• The Cabinet, which is supposed to be accountable to Parliament, effectively controls Parliament through its majority and whip.
+Coalition Compulsions and Policy Paralysis
+•Coalition CoMs must negotiate policy with partners — leading to policy paralysis (UPA 2: 2010–2014 was marked by decision-making
+gridlock).
+•No-action as policy: When coalition partners disagree, the safest option is inaction.
+Question Hour Dysfunctionality
+•PRS Legislative Research data: In recent years, Parliament meets for fewer days (average 70 days per year vs. 120+ days in Nehru era).
+•Ministers use supplementary questions as an opportunity for political point-scoring, not substantive answers.
+•Starred questions (oral answers) get answered for only a fraction of questions listed.
+Delegated Legislation — Parliament's Powers Hollowed Out
+•Ministers increasingly govern through Rules, Regulations, and Notifications under enabling legislation — without Parliamentary
+oversight.
+•Example: COVID-19 lockdown, demonetisation, abrogation of Art. 370 — all executed with minimal Parliament time, using
+ministerial/executive powers.
+The Fusion that Corrupts: Executive Control of Legislature
+•The majority government effectively controls the Lok Sabha agenda through the Business Advisory Committee where the
+government has numerical dominance.
+•Bills increasingly passed without Committee scrutiny: PRS data shows between 2019–2023, many bills were passed without referring
+to Standing Committees.
+•This inverts constitutional logic: Cabinet should be accountable TO Parliament, but controls Parliament instead.
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+Key Structural Differences : India & UK
+The Ministerial Code (UK) vs. India's Absence
+• UK: The Ministerial Code is a detailed document codifying ministers' ethical obligations, conflict of interest rules, use of
+government resources, and relationship with the civil service.
+• India: Has no equivalent published Ministerial Code. The Government of India (Transaction of Business) Rules deal with
+procedure, not ethics.
+• UK Ministerial Code: Revised by each PM. Boris Johnson's tenure saw questions about the Code's enforceability — but
+the Code itself exists.
+Parliamentary Questions: PMQs vs. India
+• UK: Prime Minister's Questions (PMQs) every Wednesday — live, combative, nationally televised. PM personally
+answers.
+• India: No equivalent. PM is rarely present in Question Hour; ministers answer for their portfolios.
+• UK: Departmental Questions — ministers answer for their departments in rotation. Provides real accountability.
+• India: Starred questions are limited to ~20 oral answers per day, with much supplementary play.
+Individual Ministerial Responsibility
+• UK: Strong : Dominic Raab (2023): Resigned after bullying inquiry despite initial PM support.
+• India Weak : No minister resigned over 1984 riots or, COVID-19 oxygen shortage.
+The Civil Service Relationship
+•UK: A permanent, politically neutral civil service (Permanent Secretaries) serves ministers. There is clear separation
+between political direction and civil service execution.
+•India: IAS dominates. But the civil service is not truly neutral — transfers, postings, and deputation are heavily politicised.
+The permanent-political interface is murky.
+'Babu Raj' in India: Senior IAS officials sometimes capture ministers — especially new, non-expert ministers. In UK,
+Permanent Secretaries are powerful but operate within the ministerial command structure more cleanly
+
+-- 10 of 18 --
+
+Ideal Criterion 	Rationale
+Administrative competence 	Ensures policy execution and managerial efficiency
+Clean public reputation & integrity 	Enhances public trust and constitutional morality
+Subject-matter understanding / ability to learn quickly Reduces dependence on bureaucracy and improves decision-
+making
+Capacity for inter-ministerial coordination Essential for complex, cross-sectoral challenges (e.g., climate-
+health-water nexus)
+Social and gender diversity as democratic value Representation strengthens legitimacy and equity in
+governance
+Criteria Size
+1.Legal / Constitutional : Under Articles 75 and 164,
+i.Be eligible to be a Member of Parliament
+ii.Citizen of India;
+iii.≥ 25 years (Lok Sabha) or ≥ 30 years (Rajya Sabha).
+2.Constitution does not mandate:
+a.Educational qualifications,
+b.Prior administrative experience,
+c.A “clean record” unless conviction automatically disqualifies.
+3.Judicial Position:
+a. The Supreme Court in several cases (e.g., observations in PUCL v.
+Union of India) held that PM/CM should uphold constitutional
+morality and avoid inducting persons with serious criminal
+antecedents.
+4.Political / Practical Criteria
+a.Parliamentary Strength & Loyalty
+i.Ministers must manage Parliament, defend government policy in
+debates, and ensure cohesion.
+b.Coalition Management & Ally Accommodation
+i.In coalition governments, ministries become political bargaining
+instruments.
+ii.High-visibility ministries like Railways, Petroleum, Telecom often
+go to key allies.
+c.Regional Balance
+i.To maintain federal legitimacy, representation is ensured from
+diverse states/regions.
+d.Caste / Community / Gender Representation
+i.Cabinet composition often mirrors social justice concerns and
+electoral arithmetic.
+e.Domain Expertise & Technocratic Value
+i.Some portfolios require specialised knowledge (e.g., Finance,
+External Affairs, IT, Health).
+ii.Hence technocrats, former civil servants, economists and
+diplomats may be inducted.
+5.Public Communication Ability
+i.In media-driven governance, Ministers must communicate
+effectively, especially in crises.
+Is 15% the Ideal Strength? – A Critical View
+Arguments Supporting 15% Ceiling
+Checks Patronage Politics:
+Reduces use of ministerial berths as
+rewards for factional loyalty.
+Enhances Cabinet Efficiency:
+A smaller Cabinet promotes coherent
+decision-making and meaningful
+deliberation.
+Encourages Competence:
+Limited posts compel PM/CMs to prioritise
+performance and capacity in
+appointments.
+Arguments Against 15% Ceiling
+Still Allows Overly Large Cabinets:
+Even 70–80 ministers can create overlap,
+diffusion of responsibility, and bureaucratic
+congestion.
+Too Many Ministers of State Without Real
+Power:
+Leads to ambiguity over accountability
+("Who is actually responsible?").
+Arguments Suggesting Future Revision
+(Ceiling May Become Too Low)
+Governance Today Is More Complex:
+New domains (AI regulation, renewable
+energy, semiconductor policy,
+cybersecurity, blue economy) require
+specialised leadership.
+Large ‘Super-Ministries’ Need Sub-
+Portfolio Coordination:
+Ministries like Finance, Home, Health, and
+Climate require multiple capable junior
+ministers to effectively manage diverse
+functions.
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+MCN 2.0
+ 	Magna Carta Mains 2026
+Mains Concise Note (MCN) 53 : Ministers
+
+-- 11 of 18 --
+
+MCN 2.0
+ 	Magna Carta Mains 2026
+Mains Concise Note (MCN) 53 : Ministers
+Issues with Ministers in India
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+Criminalisation of the Council of Ministers
+One of the gravest structural issues in Indian democracy is the presence of
+ministers with serious criminal antecedents.
+• ADR Report 2024: Of 543 Lok Sabha MPs elected in 2024, 251 (46%)
+have declared criminal cases against them.
+• In the Modi 3.0 Cabinet (2024): Several ministers have declared criminal
+cases at the time of oath-taking.
+• Mafia-to-Minister pipeline: Atiq Ahmed (Uttar Pradesh), D.P. Yadav —
+examples of politicians with serious criminal records entering legislatures
+and influencing ministerial appointments.
+Oversized Cabinets (Pre-91st Amendment)
+•Before 2003, there was no cap on cabinet size. Cabinets were expanded
+for political reasons — to accommodate caste, regional, and coalition
+compulsions.
+•H.D. Deve Gowda's Cabinet (1996): 33 Cabinet Ministers + numerous
+MoS — called 'the largest and most diverse Cabinet.'
+•Indira Gandhi's cabinets at times exceeded 60 members when all grades
+included.
+91st Amendment (2003) introduced the 15% cap — a reform response to
+this bloat.
+Conflict of Interest and Portfolio Allocation
+•Ministers often get portfolios in sectors where they have personal
+business interests.
+•No dedicated conflict of interest legislation for ministers in India (unlike
+Australia, Canada, UK).
+•Example: Mining industry insiders as Mines Ministers; real estate
+developers as Housing Ministers.
+Lack of Ministerial Expertise
+•No constitutional requirement for any subject expertise for a ministerial
+appointment.
+•Health Ministry managed by those with no medical/public health
+background; Finance Ministry by non-economists.
+Contrast: France, Germany, Scandinavian countries frequently appoint
+technocrats/experts.
+Bureaucratic Capture
+•Ministers are politically powerful but often dependent on senior IAS/IFS
+officers for technical guidance.
+•This can lead to 'file raj' — where bureaucrats set the real agenda and
+ministers merely rubber-stamp.
+•Or the reverse: politicisation of the bureaucracy where ministers
+transfer/post officers based on loyalty rather than merit.
+Post-Retirement Sinecure Culture
+•Ministers routinely appointed as Governors, Chairpersons of
+Commissions, Ambassadors after leaving office — creating expectation of
+reward rather than public service.
+•This 'revolving door' undermines independent constitutional bodies like
+the National Human Rights Commission, UGC, etc.
+Corruption & Misuse of Office
+•2G Spectrum, Commonwealth Games, Coal Scam, Fodder Scam, Saradha
+Chit Fund
+A Ministerial Code for India
+• Recommendation: India must enact a Ministerial Code — a published,
+enforceable document covering: conflict of interest, use of government
+resources, relationship with civil service, standards of conduct.
+• Global model: UK Ministerial Code, Canada's Conflict of Interest Act
+(2006), Australia's Statement of Ministerial Standards.
+• The 2nd ARC (2nd Administrative Reforms Commission, 2005–09)
+recommended a comprehensive code of ethics for ministers — yet to be
+implemented.
+Strengthening Parliamentary Oversight
+•Strengthen Departmental Standing Committees: All bills should be
+mandatorily referred to Standing Committees (as recommended by M.N.
+Venkatachalaiah Commission).
+•PMQs-equivalent: Institute a weekly 'PM's Parliament Time' — PM
+answers questions in Lok Sabha directly. Enhances accountability.
+•Fixed Parliamentary Calendar: Parliament should sit for at least 100
+days per year (currently ~65 days). France, Germany, UK all have longer
+sitting calendars.
+Conflict of Interest Legislation
+•Canada: Conflict of Interest Act (2006) — ministers must recuse from
+decisions where they have personal interest; assets must be placed in
+blind trusts.
+•Australia: Ministerial Standards require disclosure of interests; ministers
+must divest financial interests in relevant sectors.
+•India: No equivalent. NITI Aayog has discussed this; Lokpal does cover
+ministers for corruption but not preventive conflict of interest.
+Expert Involvement in Governance
+•Germany: Ministers are often subject specialists — Finance Ministry
+headed by trained economists, Health Ministry by health professionals.
+•Singapore: Cabinet draws on elite technocrats; ministers are subject to
+performance metrics.
+India Reform: Institute a system of Senior Minister-Technical Adviser
+pairings — a political minister and a domain expert working together
+with shared accountability
+Strengthening Individual Ministerial Responsibility
+•Enact a 'Ministerial Accountability Act' defining clear triggers for
+ministerial resignation — modelled on UK conventions but made
+statutory.
+•Parliamentary Committees should be empowered to call a vote of
+censure on individual ministers — not just the whole government.
+New Zealand: Parliamentary Committees have substantial power to
+summon and interrogate ministers; model worth studying
+Depoliticising Ministerial-Bureaucracy Interface
+•Implement Fixed-Tenure for civil servants: Ensure IAS officers cannot
+be transferred arbitrarily by ministers — as Supreme Court directed in
+T.S.R. Subramanian v. Union of India (2013).
+•Civil Services Board: As directed by SC in T.S.R. Subramanian — should
+filter political interference in civil service postings.
+•UK model: Permanent Secretaries report to both ministers AND
+Parliament — dual accountability that prevents capture.
+Cabinet Governance Reforms
+•Publish a Cabinet Manual: UK Cabinet Manual (published 2011, revised
+2022) makes constitutional conventions explicit and enforceable. India
+should publish an equivalent.
+•Restore Cabinet Committees to formal decision-making: Reduce
+reliance on PMO for all decisions — devolve to Cabinet Committees with
+published mandates.
+•Sunset GoMs: Any Group of Ministers that does not submit a report
+within 6 months should be automatically dissolved.
+Solutions
+The Council of Ministers is not just a constitutional institution — it is the daily exercise of the people's mandate. Every
+unaccountable minister, every bloated cabinet, every conflict of interest unaddressed is a democratic debt left unpaid. India's
+parliamentary democracy does not need a new constitution. It needs ministers worthy of the one it has.
+
+-- 12 of 18 --
+
+Collective responsibility is the constitutional glue that holds the executive together in a parliamentary system. It
+transforms a group of ministers with diverse views into a unified political entity that must rise and fall together
+before the people’s representatives.
+Aspect 	Regular Cabinet (Govt) 	Shadow Cabinet (Opposition) (UK)
+Legal Status 	Constitutional/Executive authority 	Conventional, no executive power
+Leader 	Prime Minister 	Leader of Opposition
+Members 	Ministers holding portfolios 	Shadow Ministers for same portfolios
+Function 	Formulate & implement policy 	Scrutinise, criticise, present alternatives
+Accountability 	To Parliament & People 	To own party & electorate
+Intro
+Judicial Interpretations
+R.K. Jain v. Union of India (1993)
+Ministers must stand by and defend Cabinet decisions
+both inside and outside Parliament, regardless of their
+personal opinions.
+S.P. Anand v. H.D. Deve Gowda (1996)
+Every minister is collectively responsible for every
+decision, whether they personally agreed or not.
+The principle does not mean that an individual
+minister’s personal remarks automatically represent or
+bind the entire government.
+Collective accountability flows from Cabinet to
+minister, not from minister to Cabinet.
+Common Cause v. Union of India (2018)
+Collective responsibility has two dimensions:
+Ministers must appear unified in policy support.
+The entire cabinet shares success or failure of policies.
+Dr. B.R. Ambedkar resigned from the Cabinet in 1953 due to disagreement over the Hindu Code Bill, demonstrating the expected
+ethical consequence of dissent—resignation instead of public oppositional stance.
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+MCN 2.0
+ 	Magna Carta Mains 2026
+Mains Concise Note (MCN) 53 : Ministers
+Individual Responsibility vs. Collective Responsibility
+While Art. 75(3) mandates collective responsibility, there is also the convention of individual ministerial responsibility — a minister is responsible for
+all acts of omission and commission in their ministry. However, this convention is weaker in India than in the UK.
+• UK: Crichel Down Affair (1954) — Minister Dugdale resigned over administrative failure even though he had no personal involvement.
+• India: This norm is routinely violated. Ministers rarely resign for departmental failures. The 2G Spectrum scam (A. Raja), Commonwealth Games
+scandal (Suresh Kalmadi), Coal scam — none resulted in preemptive ministerial resignations.
+
+-- 13 of 18 --
+
+1. Limited individual dissent : Ministers are expected to publicly support Cabinet decisions, even if they personally
+disagree. This restricts their ability to voice individual policy preferences that differ from the collective stance.
+a.Example (India): In 2019, Finance Minister Arun Jaitley publicly defended demonetisation, despite some internal
+reservations within the government. Under collective responsibility, dissent had to remain private once the Cabinet
+decided.
+b.Comparative: In the UK, Robin Cook resigned in 2003 over the Iraq War because he disagreed with Cabinet policy —
+rather than publicly criticising it while remaining in office.
+2.Constrained policy advocacy
+a.Example: When Maneka Gandhi (Minister for Women and Child Development) advocated for stricter environmental
+norms and animal welfare policies, she had to align them with broader government economic priorities rather than
+pursue an independent agenda.
+b.Comparative: In the UK, Boris Johnson as Foreign Secretary (2016–18) was often seen as constrained from publicly
+advocating a harder Brexit line than the government’s collective position.
+3.Pressure for consensus
+a.Example: During the 2016 GST rollout, ministers from different portfolios (Finance, Commerce, Consumer Affairs) had
+to compromise to present a unified Cabinet stance despite differing economic concerns.
+b.Comparative: In the UK coalition government (2010–15), Liberal Democrat ministers frequently compromised to
+maintain Cabinet consensus with Conservatives on austerity policies.
+4.Resignation as the main recourse
+a.Example: Arif Mohammad Khan resigned from Rajiv Gandhi’s Cabinet in 1986 over the Shah Bano case, disagreeing
+with the government’s decision to dilute the Supreme Court’s judgment.
+b.Comparative: Robin Cook (UK, 2003) and Jim Hacker (fictional “Yes Minister”) both illustrate how resignation is the
+ethical route when one cannot abide by collective Cabinet decisions.
+5.Emphasis on private persuasion
+a.Example: During the 1991 economic reforms, Manmohan Singh privately persuaded sceptical ministers of the
+necessity of liberalisation before a collective Cabinet endorsement. Public dissent was avoided.
+b.Comparative: In the UK, ministers often use Cabinet committees or informal “sofa government” meetings to influence
+decisions behind closed doors.
+6.Reduced transparency
+a.Example: The Cabinet’s deliberations on Article 370 abrogation (2019) were kept highly confidential; individual
+ministers could not publicly discuss their personal reasoning.
+b.Comparative: In Australia, Cabinet confidentiality is protected by convention; ministers cannot later reveal internal
+disagreements (as seen in debates over COVID-19 response policies).
+7.Prime Ministerial influence
+a.Example: The dismissal of Shashi Tharoor (2010) following controversy over IPL statements showed how the PM can
+enforce collective discipline and limit ministerial autonomy.
+b.Comparative: In the UK, Prime Minister Margaret Thatcher’s reshuffles often removed ministers (e.g., Geoffrey Howe)
+who showed open disagreement, consolidating her policy control.
+8.Team-based approach
+a.Example: Under Atal Bihari Vajpayee’s coalition government (1999–2004), ministers like Jaswant Singh and Yashwant
+Sinha coordinated economic and foreign policies jointly to ensure a coherent team approach.
+b.Comparative: In New Zealand’s Cabinet Manual, the doctrine is explicitly described as fostering “team government,”
+requiring ministers to defend all Cabinet decisions.
+9.Accountability trade-offs
+a.Example: During the COVID-19 response, criticism of mismanagement of health and migrant issues could not be
+pinned on one minister; the entire Cabinet bore collective responsibility.
+b.Comparative: In the UK Windrush scandal (2018), responsibility was diffused across departments — demonstrating
+how collective accountability can obscure individual responsibility.
+10.Policy consistency
+a.Example: The Modi government’s uniform policy messaging on welfare schemes (Jan Dhan, Ujjwala, Swachh Bharat)
+ensured coherence across ministries but reduced scope for portfolio-specific experimentation.
+b.Comparative: In Canada, collective responsibility ensures consistency between federal ministries in bilingual policy
+implementation, even if regional ministers face local pressures.
+Impact of Doctrine of Collective Responsibility on Autonomy and Accountability
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+MCN 2.0
+ 	Magna Carta Mains 2026
+Mains Concise Note (MCN) 53 : Ministers
+
+-- 14 of 18 --
+
+Feature / Aspect 	India 	United Kingdom 	France 	United States
+Form of Government Parliamentary
+(Westminster adapted)
+Parliamentary
+(Westminster model)
+Semi-Presidential
+(Dual executive)
+Presidential
+(Separation of powers)
+Head of State President (Ceremonial,
+acts on advice) Monarch (Ceremonial) President (Strong,
+elected)
+President (Strong,
+elected)
+Head of Government Prime Minister 	Prime Minister Prime Minister (shares
+power with President)
+President (also Head
+of Government)
+Collective
+Responsibility
+Explicitly codified
+under Art. 75(3) →
+Council of Ministers
+collectively
+responsible to Lok
+Sabha.
+Strong convention:
+Cabinet must retain
+confidence of House
+of Commons.
+Cabinet is collectively
+responsible to the
+National Assembly,
+but may also be
+influenced by the
+President; dual
+accountability.
+No collective
+responsibility to
+Legislature because
+Cabinet is not drawn
+from it.
+Individual
+Responsibility
+Ministers individually
+responsible for acts of
+their departments; can
+be removed by PM.
+Strong tradition —
+ministers resign for
+departmental failures
+or misleading
+Parliament (e.g.,
+Profumo Affair).
+Exists, but political
+responsibility is
+diffused due to
+President–PM duality;
+minister resignations
+less common.
+Weak — Secretaries
+rarely resign for errors
+unless Congressional
+pressure mounts.
+Legal Responsibility
+Ministers personally
+liable for unlawful
+acts; judicial review
+under Arts. 32 & 226;
+prosecuted like
+ordinary citizens.
+Ministers may be held
+criminally or civilly
+liable; courts can
+review prerogative
+powers (GCHQ Case,
+M v Home Office).
+Ministers can be
+prosecuted, but
+administrative courts
+(Conseil d'État) handle
+most executive legality
+matters.
+Legal responsibility
+exists, but President
+enjoys extensive
+executive privilege;
+Cabinet members may
+be subpoenaed by
+Congress or Courts.
+Responsibility to
+Legislature
+Strong: Questions,
+Censure, No-
+Confidence,
+Parliamentary
+Committees (PAC,
+Estimates).
+Very strong: Question
+Time + Select
+Committees +
+confidence votes.
+Conditional:
+Government falls only
+if National Assembly
+passes Motion of
+Censure; otherwise
+President dominates.
+Weak: Cabinet not
+responsible to
+Congress; Congress
+can hold hearings but
+cannot dismiss
+executive.
+Responsibility to
+Judiciary
+Strong: Judicial review
++ PILs + Fundamental
+Rights.
+Judicial review
+(common law).
+Judicial review exists
+through Constitutional
+Council & Conseil
+d'État.
+Judicial review under
+Supreme Court
+(Marbury v Madison).
+Dismissal of Ministers
+PM advises President
+→ removal. No-
+confidence collapses
+entire Council.
+PM resigns Cabinet if
+loses majority in
+House of Commons.
+Government removed
+by National Assembly
+vote OR President can
+dissolve Assembly.
+Cabinet removed only
+by the President, not
+Congress.
+Nature of
+Accountability
+Multi-layered: Political
++ Legal +
+Constitutional.
+Convention-driven
+accountability + strong
+Parliamentary scrutiny.
+Hybrid accountability,
+context-dependent
+(cohabitation
+dynamics).
+Separation-based
+accountability: Legal +
+Congressional
+oversight, not
+collective.
+MCN 2.0
+ 	Magna Carta Mains 2026
+Mains Concise Note (MCN) 53 : Ministers (also refer to MCN 2.0 Note 33)
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+
+-- 15 of 18 --
+
+1.Constitutional head of government
+a.The PM is the “head of the Council of Ministers,” explicitly mentioned in Article 74.
+b.The President is the nominal executive; the PM is the real executive (de facto).
+c.All executive action of the Union is taken in the name of the President (Article 77), but the
+decision-making is driven by the PM-led Cabinet.
+2.Leader of the Lok Sabha majority
+a.The PM is usually (not always) a Lok Sabha member and is the acknowledged leader of the majority
+there.
+b.This gives control over:
+i.Confidence of the House
+ii.Money Bills / Budget passage
+iii.Legislative agenda, timing of bills, guillotine of demands for grants, etc.
+3.Chair of the Cabinet : The PM decides:
+a.size of the Council of Ministers;
+b.distribution of portfolios;
+c.Cabinet agenda (what comes up for decision and what never sees the table);
+d.core groups / GoMs / EGoMs for inter-ministry coordination;
+e.crisis response architecture (war, financial crisis, pandemic).
+4.Nodal point between party and state
+a.The PM is also usually the most important political figure in the ruling party/alliance.
+b.This means they can enforce party discipline in Parliament through the whip system: members vote
+as told, or risk disqualification under the Anti-Defection Law (Tenth Schedule).
+5.National security, foreign policy, finance core
+a.By convention, the PM personally retains some of the highest-stakes portfolios at least in
+supervisory terms: PMO is deeply involved in Defence, Home/Internal Security, Finance, External
+Affairs, Atomic Energy, Space.
+6.First among equals… but only sometimes
+a.Classically, Westminster theory calls the PM primus inter pares (“first among equals”).
+b.Reality in India has varied by era:
+i.High Cabinet government phase: e.g. early Nehru cabinets were debate-heavy with strong
+ministers (Patel, Ambedkar, etc.).
+c.High PMO centralisation phase: e.g. Indira Gandhi after 1969 split the Congress; decision-making
+moved from Cabinet to PMO, creating what scholars call “Prime Ministerial Government.”
+d.Coalition-constraint phase: e.g. 1996–2004 (Deve Gowda, Gujral, Vajpayee), PM must constantly
+negotiate with allies to survive.
+e.Re-centralisation phase in stable-majority governments: A strong-Majority PM tends to centralise
+again (coordination through PMO/CMO-style governance, direct monitoring dashboards, etc., to
+keep ministries aligned with flagship schemes).
+The Prime Minister is the pivot of the parliamentary system, combining political authority with administrative
+leadership, and translating the mandate of the people into governance.
+Ultimately, the Prime Minister’s role reflects the strength of democratic mandate and maturity of
+institutions: the office thrives when it leads collaboratively and governs constitutionally.
+Position of the Prime Minister
+MCN 2.0
+ 	Magna Carta Mains 2026
+Mains Concise Note (MCN) 53 : Ministers
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+
+-- 16 of 18 --
+
+Key features of the Bill (as introduced) are:
+1.If a Minister (including the Prime Minister) is arrested and detained in custody for 30 consecutive days on
+allegation of an offence punishable with 5 years or more imprisonment, then the President (on advice of PM)
+must remove the Union Minister / PM.
+2.In case of Chief Minister or State Minister: the Governor (on advice of CM) must remove the Minister; if the
+CM/Minister themselves are in custody for 30 days, they must resign/automatically cease to hold office.
+3.If removal/resignation does not happen by the 31st day of detention, the minister ceases to hold office
+automatically from the day after the 30th day.
+4.Re-appointment is allowed: once released from custody, the person may be re-appointed as a Minister.
+5.“Serious offences” are defined as those carrying at least five years’ imprisonment (or more) under any law in force
+130th Constitutional Amendment Bill. 2025
+Impacts on ministerial appointments and governance
+1.Greater risk for ministers with serious criminal charges
+a.Ministers with ongoing prosecution or detention risk
+automatic removal after 30 days of custody. That may
+deter appointment of those with serious unresolved
+charges (depending on political calculations).
+b.Parties may screen more carefully before picking ministers
+if the Bill becomes law.
+2.Incentive for PM/CMs to act quickly
+a.The PM/CM will be under pressure: if a minister is
+detained, the PM (or CM) must advise removal by 31st day
+or face automatic cessation. This reduces discretion.
+b.It may lead to more frequent ministerial
+resignations/removals tied to legal issues rather than
+purely political ones.
+3.Potential for political-legal manipulation
+a.The trigger is “detention for 30 consecutive days” (not
+conviction), there is room for misuse: arrests/detention
+may be used for political ends, leading to removal even
+before trial/discharge.
+b.Critics argue this may shift accountability from legislature
+to prosecutorial/detention regime.
+4.Impact on appointment strategy
+a.PMs may prefer ministers without pending serious
+investigations/detentions to avoid risk of destabilisation.
+b.May influence coalition negotiations: allies may insist on
+clean profile ministries if this law passes.
+5.Potential effect on government stability
+a.Since a minister’s removal may have broader political
+fallout (coalition partners upset, regional representation
+imbalance), the Bill adds a new structural risk for the
+government.
+6.Symbolic effect on integrity narrative
+a.The government presents the Bill as enhancing
+“constitutional morality” and good governance. For
+example, the Home Minister said no minister should “run
+the government while being in jail.”
+b.This may raise public expectation of ministerial probity,
+even if actual effect is limited.
+Key critiques, constitutional issues & caveats
+1.Presumption of innocence: Critics say removal
+based on detention (not conviction) violates the
+principle of “innocent until proven guilty.” E.g., one
+article:
+2.Separation of powers / misuse risk: The fact that
+criminal investigation/detention regime can trigger
+removal introduces a link between
+executive/prosecution machinery and political
+office removal. There is risk of arbitrary arrests
+leading to forced resignations.
+3.Ambiguity in definition of offences: The Bill uses
+“offence punishable with 5 years or more” — but
+which law? How’s detention defined in each case?
+Bail within 30 days appears as a safe-harbour (if
+bail granted before 30 days, the trigger may not
+apply) but practical variability exists.
+4.Automatic cessation vs. political accountability:
+The removal mechanism is automatic in absence of
+advice; this shifts removal from purely
+political/legislative process to a quasi-legal trigger.
+That may reduce the role of the legislature
+(collective responsibility) in favour of
+judicial/legal/detention trigger. This may impact
+the doctrine of collective responsibility.
+5.Effect on ministerial appointment discretion:
+While the Bill is pitched as “raising standards,”
+critics fear it may also be used to sideline political
+opponents by using arrest/detention as instrument
+of removal.
+6.Pending status: As of now, it is a Bill — it has not
+yet been enacted into law. So the provisions are
+prospective
+In a democracy, the demand for integrity in public life is non-negotiable. But integrity must be secured through law, not at the cost
+of justice. The 130th Amendment is a step toward ethical governance, yet its real test lies not in the text of the amendment, but in
+how responsibly the State wields it.
+MCN 2.0
+ 	Magna Carta Mains 2026
+Mains Concise Note (MCN) 53 : Ministers
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+
+-- 17 of 18 --
+
+Intro
+Recent Draft UGC Regulations 2025 in context of state varsity laws have led to questions on appropriate use
+of delegated legislation as well as federalism.
+Excuse for the Legislature, a shield for Executors, and a provocation to the Constitutional Jurist - Justice PB
+Mukherjee
+Exercising of legislative power by an agent who is lower in rank to the Legislature, or who is subordinate to
+the Legislature.
+1.Pressure on Parliamentary Time
+a.Legislature formulates general policy and
+delegates details to executive.
+2.Technicality of Subject Matter
+a.Laws involving science, defence, health, etc.,
+require expert input.
+3.Flexibility
+a.Allows timely response to changing needs
+without lengthy amendment processes.
+4.Emergencies
+a.Critical for quick action during crises (e.g.,
+pandemics, war).
+5.Experimentation
+a.Executive can trial rules before full-scale
+implementation.
+6.Implementation Efficiency
+a.Local bodies better understand regional issues,
+enabling tailored governance.
+Need for Delegated Legislation
+Impact on Parliamentary Democracy
+1.Positive impact: Allows Parliament to focus on major
+policy issues; enables efficient and responsive
+governance.
+2.Negative impact: Risk of executive overreach; dilution
+of parliamentary sovereignty; potential for reduced
+public scrutiny and debate.
+3.Democratic deficit: If not properly controlled, can
+undermine accountability and transparency, leading to
+“bureaucratic legislation
+Impact on Separation of Powers
+1.Traditional view: Separation of powers is blurred as the
+executive performs legislative functions.
+2.Modern reality: Complete separation is impractical;
+delegation is a pragmatic necessity for effective
+governance.
+3.Constitutional balance: While delegation is permitted,
+essential legislative functions (policy-making) must remain
+with the legislature. Courts ensure that delegation does
+not amount to abdication of legislative responsibility
+International Comparisons
+1.UK :
+a.Extensive use; Parliament retains ultimate
+authority; “Henry VIII clauses” sometimes used
+2.US :
+a.Permitted but limited by strict separation of
+powers doctrine; agencies make regulations
+3.Australia
+a.Extensive use; similar to UK; executive makes
+regulations under Acts
+Key Landmark Judgments
+1.Re Delhi Laws Act, 1912
+a.Delegated legislation as a necessity in modern
+governance but firmly established that the
+legislature must retain ultimate control and cannot
+delegate its core law-making powers.
+2.Dwarka Prasad Laxmi Narain v. State of UP (1954)
+a.Executive cannot use delegated legislation to
+bypass the legislature’s essential functions.
+Its legitimacy lies not in convenience but in constitutional fidelity—to the rule of law, parliamentary oversight, and the
+citizen’s right to be governed by accountable laws. As India’s administrative complexity deepens, the challenge is to
+wield delegation not as a shortcut, but as a carefully monitored tool that serves, rather than supplants, the legislature.
+MCN 2.0
+ 	Magna Carta Mains 2026
+Mains Concise Note (MCN) 54 : Delegated Legislation
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+
+-- 18 of 18 --
+

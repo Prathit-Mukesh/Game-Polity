@@ -1,0 +1,712 @@
+Case 	Ruling
+State of Madras v. V.G. Row (1952)
+Struck down a law banning an association without judicial review of
+the grounds, holding that “reasonableness” under 19(4) must be
+tested objectively by courts, not left to unreviewable executive
+satisfaction.
+All India Bank Employees' Assn. v. N.I.
+Tribunal (1962)
+Confirmed the right to form unions does not extend to a guaranteed
+right to achieve every union objective (e.g., compulsory recognition);
+collective bargaining may be regulated by ordinary law.
+Damyanti Naranga v. Union of India (1971)
+Held that compulsorily altering the composition of a voluntary
+association violates 19(1)(c); the right to associate includes the right
+to associate only with those one has voluntarily admitted.
+O.K. Achudan Nair v. Union of India (1976)
+Upheld restrictions on association for armed-forces-attached civilian
+staff (Army Act categories) under Article 33, illustrating how special
+constitutional carve-outs narrow 19(1)(c) for select classes of
+workers.
+B.R. Singh v. Union of India (1989)
+Recognised the right to strike as an “important weapon” in the trade
+union armoury flowing from the logic of collective bargaining, even
+while declining to elevate it to fundamental-right status — a tension
+the Court has never fully resolved.
+T.K. Rangarajan v. State of Tamil Nadu
+(2003)
+Held government employees have no fundamental or even statutory
+right to strike, sharply separating the right to associate from any right
+to withhold labour collectively.
+Magna Carta Mains 2026
+MCN 2.0
+Mains Concise Note (MCN) 11 : Labour Rights [Art 19(1)(c)]
+In 1921, a Madras court fined Bahman Pestonji Wadia and his fellow organisers £2,000 for the “conspiracy” of forming a trade
+union. Constitution guarantees that very act as a fundamental right — and yet, in 2026, an estimated 7–8 million gig and
+platform workers in the country have no recognised forum at all in which to exercise it
+Indian workers have an unimpeachable right to unionise, but no
+co-extensive constitutional right to be bargained with, to strike,
+or to picket effectively.
+Those entitlements exist, if at all, only as statutory creations
+— and statutes can be narrowed by ordinary legislative
+majority in a way the Constitution cannot.
+Landmark and Recent Case Law
+Trade Union Act, 1926 - Labour Codes (Rules recently notified in May 2026)
+Historical Evolution of Trade Union Rights
+Early labour movement in India began with formation of Madras Labour Union (1918) by B. P. Wadia.
+Initially, trade unions were treated as criminal conspiracies under colonial law.
+The Trade Unions Act, 1926 granted legal recognition and protection to unions.
+Provided immunity from certain civil and criminal liabilities for legitimate union activities.
+In Nov 2025, the Union Government brought into force four labour codes — the Code on Wages (2019), the
+Industrial Relations Code (2020), the Code on Social Security (2020), and the Occupational Safety, Health and
+Working Conditions Code (2020) — consolidating 29 central statutes, including the Trade Union Act, 1926 itself.
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+
+-- 1 of 9 --
+
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+Magna Carta Mains 2026
+MCN 2.0
+Mains Concise Note (MCN) 11 : Labour Rights [Art 19(1)(c)]
+Changes that strengthen workers' position
+• Sole Negotiating Union, recalibrated: the IR Code initially set a 51% muster-roll threshold for a union to become
+the sole bargaining agent — a bar most fragmented, high-turnover workforces could never clear. The Industrial
+Relations (Central) Rules, 2026 lowered this to 30% membership, verified by secret ballot (including electronic
+voting), with recognition valid for three years — a direct, rules-stage correction of the Code's most criticised
+provision.
+• Gig and platform workers named in statute for the first time: the Code on Social Security creates a statutory
+category for gig and platform workers, mandates aggregator contributions (1–2% of annual turnover) to a Social
+Security Fund, and requires worker registration on a centralised, Aadhaar-linked portal — filling the very silence the
+original Industrial Relations Code 2020 was criticised for.
+• Universal Grievance Redressal Committees and a Re-skilling Fund for retrenched workers (15 days' wages per
+worker) are now mandatory across covered establishments, regardless of union presence.
+Gap Between Law and Practice Despite legal recognition, effective protection
+remains weak.
+No uniform minumum wages as per recently notified rules, leads to state wise
+fluctuations
+Shift in Labour Policy Framework Post-1991 reforms introduced labour flexibility
+prioritising economic growth.
+Consolidation of labour laws into four Labour Codes (2020).
+The Industrial Relations Code, 2020 subsumes Trade Unions Act provisions
+with minimal substantive change.
+Constraints on Collective ActionStringent conditions for strikes:
+Mandatory 60-day notice period
+Restrictions during conciliation/tribunal proceedings
+High threshold: 51% worker support required for recognition of negotiating
+unions.
+Result: Legal strikes become difficult to organise.
+Colonial Continuities Many restrictive provisions echo colonial laws like:
+Public Safety Bill (1928)
+Trade Disputes Act (1929)
+Indicates continuity of state control over labour mobilisation.
+Exclusion of Informal & Platform WorkersNew labour codes do not adequately
+recognise gig/platform workers.
+Terms like “gig” and “platform” absent in Industrial Relations Code.
+Workers classified as independent contractors, denying them:
+Collective bargaining rights
+Trade union protections
+• Decriminalisation of most compliance failures, replacing imprisonment with
+monetary penalties (Rs 50,000–Rs 10,00,000) — friendlier to employers, but also
+a weaker deterrent against unfair labour practices.
+• Retrenchment and closure threshold raised from 100 to 300 workers, meaning
+the vast majority of mid-sized Indian factories and firms can now lay off,
+retrench, or close without seeking prior government permission — the very
+protection the 1947 Act had built in response to early-twentieth-century mill
+closures.
+The deepest lesson of this history is that Article 19(1)(c) was never meant to be self-executing. It is a constitutional promise that
+requires continuous, deliberate statutory maintenance to remain real.
+Case Studies
+Zomato's March 2024 plan for
+separate vegetarian/non-vegetarian
+fleets with distinct uniforms risked
+exposing riders' religious and caste
+identity to discrimination.
+Telangana Gig and Platform
+Workers Union (TGPWU) helped
+draft the Telangana Gig and
+Platform Workers (Registration,
+Social Security and Welfare) Bill,
+2025, following similar laws in
+Rajasthan (2023) and Karnataka
+(2025)
+The Indian Federation of App-based
+Transport Workers — formed 2019,
+~35,000 members across Ola, Uber,
+Swiggy, Zomato — petitioned in
+September 2021 that treating gig
+workers as “partners” rather than
+employees violates Articles 14, 21,
+and 23
+Issues
+As of mid-2026, implementation remains uneven: Gujarat and Arunachal Pradesh have notified rules under all four
+codes; Karnataka, Maharashtra, and Kerala have largely followed; several states, including West Bengal, have yet to
+notify rules under any code. Because labour sits on the Concurrent List, a worker's actual protection in 2026 still
+depends heavily on which state they work in — a federal unevenness that recalls the patchwork registration practices
+the 1926 Act was designed to standardise.
+Way Forward:
+1. Lower the bargaining threshold further
+— and extend it to platforms.
+2. Convert social security coverage into
+collective voice.
+3. Standardise state rule-making on a fixed
+timeline.
+4. Ratify ILO Conventions 87 and 98.
+5. Build a transparent grievance-to-
+tribunal pipeline for platform disputes.
+
+-- 2 of 9 --
+
+Intro
+Life & Liberty
+Art 21
+Life 	Personal Liberty
+Procedure Estd. By Law
+Dignity
+Privacy
+Due Process Of Law
+Principles of Natural Justice
+Right
+Expansion
+Restriction
+Art 19
+Freedoms
+Reasonable
+Restrictions &
+Test of
+Reasonableness
+Art 14
+Equality
+Before Law
+Equal Protection
+of Law
+Reasonable Classification
+Intelligible
+Differentia
+Rational
+Nexus
+ARBITRARINESS
+Life & Death 	Criminal Justice 	Socio Economic
+Environment
+Free Legal Aid
+Hoskot v. MH (1978)
+Speedy Trial
+Hussainara Khatoon v.
+BH (1979)
+Anti-hand cuffing
+Prem Shankar v. Delhi
+Admin (1980)
+Anti Delay in Death
+Sentence Execution
+T.V. Vatheeswaran v.
+State of TN (1981)
+Free & Fair Trial
+DLF v. Central
+Coalfields (2009)
+Minimum Wages
+PUDR v. UoI (1982)
+Human Dignity sans exploit
+Bandhua Mukti Morcha v. UoI (1984)
+Livelihood
+Olga Tellis v. BMC (1985)
+Education
+Mohini Jain v. KN (1991)
+Health & Medical Care
+Consumer Education and Research Centre v. UoI
+(1995)
+Shelter
+Chameli Singh v. UP (1996)
+Workplace Sexual Harassment
+Vishaka v. RJ (1997)
+Right to Sleep
+Ramlila Maidan (2012)
+Third Gender
+NALSA v. UoI (2014)
+Right to Marry
+Ajay Hasia (1981)
+Adultery Decriminalised
+Joseph Shine v. UoI (2019)
+Homosexuality Decriminalised
+Navtej Singh Johar v. UoI (2019)
+Food
+PUCL v. UoI (2003)
+Water
+Susetha v. TN (2006)
+Accessibility
+Rajiv Raturi v. UoI (2024)
+Climate Change
+Ranjitsinh & Ors. v. UoI
+(2024)
+Healthy Env.
+Research Foundation v.
+UoI (2005)
+Protection of Env
+Animal and Env Legal
+Defence Fund v. UoI
+(1997)
+Pollution Free Air
+Subhash Kr. v. BH (1991)
+Clean Environment
+MC Mehta v. UoI(1986)
+Passive Euthanasia
+Harish Rana (2026)
+Aruna Shanbaug v.
+UoI (2011)
+Living Will
+Common Cause v.
+UoI (2018)
+Issues concerning both 19 &
+21 : 14, 19, 21 should not be
+violated
+Issues concerning only 21 :
+14 and 21 should not be
+violated
+Maneka Gandhi v. UoI (1978)
+The true test of a just society is not how it protects the powerful, but how fiercely it guards the life and
+liberty of each person—especially against the might of the State
+Magna Carta Mains 2026
+MCN 2.0
+Mains Concise Note (MCN) 12 : Life & Liberty
+New Interpretations (2026)
+1.Safely walk on footpath
+a.Maniyar v. Ayyapan
+2.Safely travel on highways
+a.Phalodi Accident vs NHAI
+3.Menstrual Health
+a.Jaya Thakur v. GoI
+4.Adoptive mothers also
+entitled to Maternity Leave.
+a.Hamsaanandini Nanduri
+v. Union of India
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+
+-- 3 of 9 --
+
+Privacy & Data Protection Law
+AK Gopalan (1950)
+Satish Chandra (1954)
+Kharak Singh (1962)
+Part of CoI - X
+Source of Power - X
+J. (Retd) Puttusway v. UoI (2017)
+FR u/Art 21 + 19
+Proportionality Test
+J. Sri Krishna Report (2019)
+Digital Privacy
+Digital Personal Data Protection
+Act, 2023
+Impact
+Possible Implications
+Challenges
+Data/Informational Privacy
+Surveillance
+Physical Privacy
+Ambush Journalism
+Decisional Privacy
+LGBTQIA+ Rights
+Proprietary Privacy
+Identity Theft
+Comprehensive
+Legislation
+Digital : Right to be Forgotten, Deemed Consent, First Origin Message (IT Rules), Personality Rights
+Good Governance : RTI Exclusion, Right to Know
+Welfare : UWin, Aarogya Setu, Aadhar Voter Linkage
+Security : Facial Recognition, 2024 Interception Rules, Sanchar Setu (2026)
+Digital Personal Data Protection Act, 2023
+In a democracy like India—diverse, vocal, and increasingly digitized—the right to privacy is not merely a legal shield but a
+philosophical cornerstone. It redefines how citizens engage with technology, government, and each other, demanding a new
+social contract grounded in trust, transparency, and respect for individuality.
+The Digital Personal Data Protection (DPDP) Act, 2023 is India's first standalone, cross-sectoral law on personal data, enacted
+after the Supreme Court recognised privacy as a fundamental right under Article 21 in K.S. Puttaswamy v. Union of India
+(2017) and following the recommendations of the Justice B.N. Srikrishna Committee (2018). The Act was operationalised
+through the DPDP Rules, 2025, notified by MeitY
+● Applicability: Covers digital personal data processed within India, and processing outside India if linked to offering
+goods/services to persons in India (extraterritorial reach, akin to GDPR).
+● Consent-centric design: Consent must be free, specific, informed, unconditional and unambiguous, backed by clear
+affirmative action; Deemed Consent permitted for state functions, employment, medical emergencies and legitimate uses.
+Notices must use simple, specific language itemising data and purpose.
+● Key actors: Data Principals (rights to access, correction, erasure, grievance redress, nominate a representative on
+death/incapacity); Data Fiduciaries (tiered obligations); Data Processors (contractually bound); Consent Managers (registered
+intermediaries enabling unified consent control); Data Protection Board of India (a fully digital, four-member adjudicatory
+body; appeals lie to TDSAT).
+● Significant Data Fiduciaries (SDFs): Government-notified entities (by data volume/sensitivity/risk) face enhanced duties —
+annual Data Protection Impact Assessment (DPIA) and independent audit, a Data Protection Officer, algorithmic due-
+diligence, and possible data-localisation restrictions for specified categories of data.
+● Breach reporting: Tiered timeline — initial intimation to the Board and affected principals “without delay,” followed by a
+detailed report within 72 hours, covering cause, impact, mitigation and remedial steps.
+● Children & persons with disabilities: Verifiable parental/guardian consent required; certain exemptions allow platforms to
+process children's data for safety, education and limited safeguards (e.g., ed-tech, healthcare) without full restriction.
+● Cross-border transfer: Liberalised, “negative-list” approach — data may flow abroad by default, subject to government-
+specified restrictions on transfers to particular countries/entities (a “no-fly list” rather than a whitelist), and continuing
+sectoral localisation (e.g., payments data).
+● Penalties: Steep, schedule-based fines up to ₹250 crore (failure of security safeguards), ₹200 crore (breach-notification
+failure; child-data violations), and ₹150 crore (SDF non-compliance) — among the highest globally relative to GDPR's
+turnover-linked penalties.
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+Magna Carta Mains 2026
+MCN 2.0
+Mains Concise Note (MCN) 12 : Life & Liberty
+
+-- 4 of 9 --
+
+Jurisdiction/Framework 	Distinguishing Feature 	Lesson for India
+EU — GDPR (2018)
+Independent supervisory authorities; turnover-
+linked fines (up to 4% global revenue); strong
+data-subject rights (portability, erasure, explicit
+opt-in).
+Strengthen DPB autonomy; consider
+proportionate, deterrent penalty
+design beyond flat caps.
+EU — Right to be Forgotten
+Judicially evolved erasure right (Google Spain,
+2014) balanced against free expression/public
+interest.
+Calibrate erasure rights with
+journalistic and historical-record
+exceptions.
+California — CCPA/CPRA Opt-out (rather than opt-in) model for data sale;
+dedicated California Privacy Protection Agency.
+Sector-specific consent thresholds;
+specialised enforcement capacity.
+Singapore — PDPA
+Co-regulatory model with industry codes; Data
+Protection Trustmark certification builds
+consumer trust.
+Encourage certification/self-
+regulatory schemes to ease MSME
+compliance.
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+Magna Carta Mains 2026
+MCN 2.0
+Mains Concise Note (MCN) 12 : Life & Liberty
+● Wide state exemptions: Section 17 exempts government agencies from several obligations on grounds of security,
+sovereignty and public order, with no independent oversight comparable to judicial warrants — raising surveillance and
+proportionality concerns post-Puttaswamy.
+● Weakened RTI: Amendment to Section 8(1)(j) of the RTI Act removes the public-interest balancing test for personal
+information, potentially curbing transparency on public servants' assets, qualifications and conduct (though Section
+8(2)'s overriding public-interest clause technically survives).
+● Data Protection Board's independence: Members appointed by the Central Government, with tenure and service
+conditions government-determined — risking executive capture and weak adjudicatory independence, unlike GDPR's
+autonomous Data Protection Authorities.
+● Compliance burden on MSMEs/startups: Consent-architecture overhaul, breach-response systems and itemised
+notices are resource-intensive; over 70% of small advertisers using platforms like Google/Meta may need to re-
+engineer targeted-ad consent flows.
+● Ambiguity in cross-border rules: The government's “restricted countries” list and SDF data-localisation criteria are not
+yet notified, creating planning uncertainty for industry.
+● Deemed consent's breadth: Critics argue the “legitimate use” and deemed-consent categories are wide enough to
+dilute the consent-first philosophy of the Act.
+● Long implementation runway: Core duties apply only from May 2027; until then, the older IT Act, 2000 and the 2011
+SPDI Rules continue to govern — a prolonged transition with weaker safeguards.
+● Limited scope: Confined to digital personal data; non-personal and non-digital data remain unregulated, leaving gaps
+in an increasingly data-driven economy (e.g., anonymised/aggregated datasets used in AI training).
+Key Issues & Concerns
+● Strengthen Board independence: Fixed tenure, transparent appointment via a broad-based committee, and financial autonomy
+for the Data Protection Board, akin to other quasi-judicial bodies (SEBI, TRAI).
+● Notify pending rules early and clearly: Expedite notification of cross-border “restricted list”, SDF criteria and localisation
+categories to reduce compliance uncertainty for industry.
+● Calibrated MSME support: Simplified, templated notices, sandbox compliance periods, and capacity-building (e.g., via STQC,
+MeitY helpdesks) for small businesses and startups.
+● Restore RTI balance: Re-examine the amendment to Section 8(1)(j) to preserve the public-interest override for information
+relating to public servants and use of public funds.
+● Independent oversight for state processing: Introduce judicial or parliamentary oversight mechanisms for government data
+processing/surveillance exemptions, in line with the proportionality test laid down in Puttaswamy.
+● Build the consent-manager ecosystem: Encourage interoperable, low-cost Consent Manager platforms (a DigiLocker-like model)
+so individuals can manage consent across fiduciaries from a single dashboard.
+● Continuous multi-stakeholder dialogue: Periodic review involving regulators, industry, civil society and citizens — given the law's
+stated SARAL (Simple, Accessible, Rational, Actionable) intent — to recalibrate rules as digital markets and AI use cases evolve.
+● Capacity-building for enforcement: Train DPB staff, sectoral regulators and law-enforcement agencies in data-protection
+auditing, DPIA review and digital forensics to ensure the law is not merely aspirational.
+Way Forward
+
+-- 5 of 9 --
+
+Case 	Ruling
+Maneka Gandhi v. Union of India, 1978
+Widened Article 21 beyond procedure to substantive
+personal liberty — foundation for later environmental
+reading of “life”.
+Rural Litigation & Entitlement Kendra v. State of U.P. ,
+1985
+First recognised the right to a healthy environment as
+part of Article 21 (Doon Valley mining case).
+M.C. Mehta v. UOI, 1985
+Treated pollution-free environment as a fundamental
+right under Article 21; spawned a long line of “Mehta
+cases.”
+Subhash Kr v. St of Bihar, 1991
+Read Articles 48A & 51A(g) with Art. 21; held the state
+constitutionally obliged to protect environmental quality
+of life.
+Vellore Citizens' Forum v. UOI, 1996
+Introduced the Precautionary Principle and Polluter Pays
+Principle into Indian law; endorsed sustainable
+development.
+M.C. Mehta v. Kamal Nath, 1997
+Established the Public Trust Doctrine — the state holds
+natural resources in trust for the people, not for private
+gain.
+T.N. Godavarman Thirumulpad v. UOI, 1996 Continuing mandamus expanding forest protection
+under the Forest (Conservation) Act, 1980.
+A.P. Pollution Control Board v. M.V. Nayudu 1999 Called for scientific expertise and public participation in
+environmental decision-making.
+Narmada Bachao Andolan v. UOI, 2000 Balanced large dam development against environmental
+and rehabilitation concerns.
+M.K. Ranjitsinh v. UOI, 2024 Recognised a distinct right against adverse effects of
+climate change, flowing from Articles 21 and 14.
+THE RIGHT TO A HEALTHY ENVIRONMENT
+Magna Carta Mains 2026
+MCN 2.0
+Mains Concise Note (MCN) 12 : Life & Liberty
+Delhi's winter smog crisis — recurring GRAP curbs, school closures, work-from-home orders — reflects a deeper gap: India has no explicit
+constitutional right to a clean environment. Courts have had to read it into existing provisions, making enforcement contingent and
+reactive rather than guaranteed.
+• No environmental clause existed in the original 1950 Constitution; protections were built later through
+interpretation and amendment.
+• Article 21 (Right to Life): Judicially expanded to include the right to a pollution-free, healthy
+environment — the principal vehicle for environmental rights in India.
+• Articles 48A & 51A(g) (42nd Amendment, 1976): State duty to protect environment, forests, wildlife;
+corresponding citizen duty to do the same — Directive Principle + Fundamental Duty working in tandem.
+• Articles 32 & 226: Enable Public Interest Litigation (PIL), the chief procedural tool through which
+environmental claims reach the higher judiciary.
+• Article 14 (Equality): Used to challenge arbitrary clearances and unequal environmental burden-
+sharing.
+• Article 253 & Concurrent List: Allow Parliament to legislate on environment to honour international
+treaty obligations (e.g., Stockholm 1972).
+CONSTITUTIONAL FOUNDATIONS
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+
+-- 6 of 9 --
+
+Law 	Function
+Environment (Protection) Act,
+1986
+Umbrella law; Sec. 2(a) defines
+“environment”
+Water Act, 1974 / Air Act, 1981 Sector-specific pollution control
+statutes; basis for SPCB/CPCB powers.
+Wildlife (Protection) Act, 1972 Species and habitat protection;
+underpins WCCB enforcement.
+Forest (Conservation) Act, 1980 Restricts diversion of forest land for
+non-forest use.
+Forest Rights Act, 2006 	Recognises forest-dwellers' rights;
+community-based forest governance.
+Biological Diversity Act, 2002 	Implements India's CBD obligations;
+access & benefit-sharing.
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+Magna Carta Mains 2026
+MCN 2.0
+Mains Concise Note (MCN) 12 : Life & Liberty
+• Sustainable Development — development and ecological
+protection are not opposed; growth must be ecologically
+prudent (Vellore Citizens' case).
+• Precautionary Principle — states must act on serious or
+irreversible environmental threats even without full scientific
+certainty.
+• Polluter Pays Principle — the party responsible for pollution
+bears the cost of remedy and harm prevention (e.g., NGT's
+Samit Mehta marine-pollution order).
+• Public Trust Doctrine — the state is a trustee, not an owner,
+of natural resources (rivers, forests, commons) held for public
+benefit (M.C. Mehta v. Kamal Nath).
+• Absolute Liability — hazardous industries are liable for harm
+from their activities regardless of fault or negligence, with no
+exceptions (post-Oleum Gas Leak case; stricter than English
+“strict liability”).
+• Intergenerational Equity — present use of resources must
+not compromise the needs of future generations.
+CORE LEGAL PRINCIPLES
+• Absolute liability for hazardous-substance
+disasters traces to the Oleum Gas Leak case —
+stricter than English strict liability, with no
+statutory exceptions.
+• Precautionary principle: lack of full scientific
+certainty cannot justify postponing cost-
+effective measures against serious
+environmental harm.
+• Jus publicum: the state holds resources in trust
+for citizens — Art. 39(b) common ownership, Art.
+39(c) prevention of wealth concentration.
+DISASTER & EMERGENCY PRINCIPLES
+Weak enforcement: under-resourced SPCBs,
+corruption, political/corporate pressure
+dilute compliance.
+Overlapping jurisdiction — MoEFCC, CPCB,
+SPCBs, local bodies — causes delay and
+buck-passing.
+EIA erosion: 180–320-day clearance
+timelines and self-reported compliance are
+open to manipulation.
+Judicial dependency: with no enumerated
+environmental right, every claim must anchor
+to another Part III right, leaving protection
+contingent on litigation.
+Implementation gap: NGT/court orders often
+outrun administrative capacity to enforce
+them on the ground.
+PERSISTENT CHALLENGES
+• Codify the right: insert an explicit right to a clean,
+healthy environment into Part III, making state and
+citizens equally accountable.
+• Strengthen institutions: better funding and
+independence for CPCB/SPCBs and the NGT; widen
+NGT jurisdiction to cover wildlife and forest-rights
+matters.
+• Real-time monitoring: IoT/satellite data for air, water,
+soil quality — shift from reactive GRAP curbs to
+predictive governance.
+• Genuine public participation in EIA processes;
+community-led conservation on the Forest Rights Act
+model.
+• Enforce Polluter Pays/EPR to fund restoration, not as
+a cost of business; align with global pacts (Glasgow;
+Kunming-Montreal 30-by-30).
+BEST PRACTICES GOING FORWARD
+
+-- 7 of 9 --
+
+Case 	Ruling
+Gian Kaur v. State of Punjab (1996)
+Article 21 does NOT include the right to die; but distinguished
+euthanasia/assisted dying from suicide — opening the door for later recognition
+of passive euthanasia.
+Aruna Shanbaug v. Union of India (2011)
+First legal recognition of passive euthanasia in India, but declined relief in
+Shanbaug’s own case (she showed responses, breathed unaided). Laid down
+interim procedure: withdrawal needs High Court approval via a 3-doctor
+committee.
+Common Cause v. Union of India (2018)
+Constitution Bench held right to die with dignity is an inseparable facet of Art.
+21; legally validated Advance Medical Directives (living wills); issued detailed
+guidelines — two medical boards, judicial magistrate approval, mandatory
+District Collector/judicial oversight.
+Common Cause (Review), 2023
+Simplified the 2018 process: notarised/gazetted attestation of living wills
+(instead of judicial magistrate countersignature); two medical boards (hospital
+primary board + secondary board with external nominee, doctors need only 5
+yrs’ experience); removed mandatory immediate judicial oversight in every case
+— hospitals now only need to inform the magistrate.
+Harish Rana v. Union of India, 2026
+(March 2026)
+First-ever court order actually implementing passive euthanasia. SC permitted
+withdrawal of Clinically Assisted Nutrition & Hydration (CANH) for a 32-year-
+old in a permanent vegetative state for 13 years. Held CANH is “medical
+treatment” and can be withdrawn once it serves no therapeutic purpose;
+waived the 30-day cooling-off period given unanimous medical-board and
+family consensus; directed AIIMS Delhi to provide a palliative/end-of-life care
+plan; urged Parliament to legislate, noting “passive euthanasia” is an increasingly
+obsolete term.
+Active
+Euthanasia
+Passive
+Euthanasia
+Nature
+An act — directly
+causing death
+(e.g. lethal
+injection)
+An omission —
+withholding/with
+drawing life-
+sustaining
+treatment
+Legal status in
+India
+Illegal; amounts
+to culpable
+homicide /
+abetment of
+suicide
+Legal, subject to
+Common Cause /
+Harish Rana
+safeguards
+Constitutional
+basis
+Not protected —
+no “right to be
+killed” under Art.
+21
+Protected as part
+of right to die
+with dignity
+under Art. 21
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+Magna Carta Mains 2026
+MCN 2.0
+Mains Concise Note (MCN) 12 : Life & Liberty
+Euthanasia ( Greek - “good death”) refers to deliberately ending a person’s life to relieve suffering. India permits only passive
+euthanasia — withholding/withdrawing life-sustaining treatment — as part of the right to die with dignity under Article 21.
+• Article 21 – Right to Life & Personal Liberty: interpreted to
+include the “right to die with dignity”, but not a general “right to
+die” or right to be killed.
+• Distinction maintained by courts: Omission vs Commission —
+allowing death to occur naturally (withdrawing futile treatment)
+is lawful; actively causing death is not.
+• BNS – Abetment of suicide and attempted suicide; active
+euthanasia/assisted dying attracts “culpable homicide” and
+abetment liability for the assisting doctor/family member.
+• Section 115, Mental Healthcare Act 2017 – Presumes a
+person attempting suicide is under severe stress and shall not
+be tried under S.309 IPC — indirectly decriminalising suicide
+attempts (not euthanasia per se).
+• No standalone euthanasia statute – Parliament has never
+legislated on this; the regime rests entirely on SC guidelines,
+last revised in 2023. The Union Health Ministry issued only
+draft guidelines in 2024 (non-binding).
+• Advance Medical Directive (“Living Will”) – A document by a
+mentally competent adult specifying refusal of treatment if
+they later lose decision-making capacity; judicially recognised,
+not yet backed by legislation.
+Legal & Constitutional Provisions
+
+-- 8 of 9 --
+
+Jurisdiction 	Model & Key Features
+Netherlands (2002)
+First to codify active euthanasia by statute; allows both euthanasia and physician-
+assisted suicide under 6 “due care” criteria (unbearable suffering, voluntary request).
+Regional committees review every case post-facto.
+UK — End of Life Bill
+Passed House of Commons (2024); permits physician-assisted dying for competent
+adults with <6 months prognosis, subject to medical certification; awaiting House of
+Lords approval.
+USA (14 states + D.C.)
+“Medical aid in dying” (Oregon model): doctor prescribes, patient self-administers;
+restricted to terminal illness (≤6-month prognosis). Active euthanasia illegal
+everywhere in the US.
+Australia (all 6 states) Voluntary assisted dying legalised 2019–2022; requires terminal diagnosis (death
+within 6–12 months), adult residency, and assessment by ≥ 2 physicians.
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+Magna Carta Mains 2026
+MCN 2.0
+Practical & Procedural
+• Multi-layered process (dual boards, family consensus, magistrate intimation) remains slow outside metro hospitals; relief in
+Harish Rana came only via an extraordinary Art. 32 petition — not realistically available to an average family.
+• Acute shortage of doctors with requisite experience for medical boards; very few states (e.g. Maharashtra, Goa, Karnataka)
+have even constituted the required panel of nominated doctors.
+• Families are often forced to take such decisions informally, outside the legal framework, exposing doctors to legal risk and
+denying patients a dignified, lawful process.
+Ethical & Social
+• Risk of coercion: expensive long-term care and weak palliative infrastructure could pressure the elderly, disabled, or
+financially dependent toward withdrawal — “disguised abandonment” rather than autonomous choice.
+• Best-interests test for incompetent patients is under-specified — no clear evidentiary hierarchy; family wishes assumed
+convergent with the patient’s inferred will, without independent assessment.
+• India’s fragmented, under-resourced healthcare system and deep family involvement make wholesale adoption of Western
+active-euthanasia models socially premature.
+Institutional & Legal
+• Continuing legislative vacuum: courts have repeatedly urged Parliament to legislate, but India still has no statute on passive
+euthanasia or end-of-life care — judicial guidelines remain an interim substitute.
+• State-level ombudsman/oversight mechanisms have a mixed record — delays, weak enforcement, public unfamiliarity blunt
+effectiveness.
+Issue Analysis
+Mains Concise Note (MCN) 12 : Life & Liberty
+• Comprehensive legislation: Parliament should enact a dedicated End-of-Life Care Act giving statutory force to the
+Common Cause / Harish Rana framework, rather than leaving it to repeated judicial revision.
+• Digital living-will registry: Register Advance Medical Directives on a national digital portal linked to Aadhaar, allowing
+patients to create, update, or revoke directives online with physician validation.
+• Hospital-based ethics review: Empower in-house Hospital Ethics Committees (senior doctors + palliative specialist +
+neutral third party) to authorise withdrawal within a fixed timeline (e.g. 48 hours), replacing the cumbersome external-board
+chain.
+• Decentralised, tech-enabled oversight: Replace unproven State-ombudsman models with digital dashboards and
+independent medical auditors holding statutory backing.
+• Mandatory safeguards: Retain a short cooling-off period and mandatory counselling/palliative-care review to guard against
+coercion of vulnerable groups, without undue procedural burden.
+• Capacity building & awareness: Integrate end-of-life ethics/law into medical curricula, expand palliative care, and run
+public-trust campaigns on advance-care planning — laws fail without awareness.
+Reforms / The Way Forward
+India need not import an active-euthanasia model to honour its constitutional promise of dignity in life and dying. Refining the existing passive-euthanasia
+protocol — statutory backing, digital tools, hospital-based ethics review, and stronger palliative care — can make end-of-life decisions accessible and humane,
+consistent with India’s context, while guarding against misuse.
+
+-- 9 of 9 --
+

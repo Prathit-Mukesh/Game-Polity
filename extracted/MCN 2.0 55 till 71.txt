@@ -1,0 +1,2349 @@
+Court Tier 	Pending Cases (2026) 	Share of Total 	Key Indicator
+Supreme Court ~93,000 (31 Mar
+2026) ~0.2% Sanctioned strength raised 34→38 judges (2026
+Ordinance/Bill)
+High Courts (25) 	~63 lakh 	~11–13% Working strength well below sanctioned strength
+in most HCs
+District &
+Subordinate Courts ~4.5–4.9 crore 	~85–87% Over 1.8 crore cases pending at the stage of
+appearance/service alone
+Total (all tiers) 	5.5+ crore 	100% 	180,000+ cases pending over 30 years
+Level 	Sanctioned Strength Working Strength (approx.,
+2026) Vacancy Position
+Supreme Court 	38 (post-2026 Ordinance/Bill;
+earlier 34) ~32–34 	2–4 vacancies amid retirements
+through 2026
+High Courts (all 25) 	~1,122 	~750–770 	About 350+ vacancies
+District & Subordinate
+Courts ~25,800 	~20,500–21,100 Approximately 5,000+ vacancies
+(2024–26 range)
+MCN 2.0
+Mains Concise Note (MCN) 55 : Judicial Pendency
+Magna Carta Mains 2026
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+With over 5.5 crore cases pending across the Supreme Court, High Courts and the subordinate judiciary, delay has become the single
+largest structural threat to the credibility of India's justice-delivery system — and to the constitutional promise of Article 21.
+Intro
+Source: National Judicial Data Grid (NJDG); PRS Legislative Research, Vital Stats — Pendency and Vacancies in the Judiciary
+Composition and Nature of the Backlog
+● Civil–criminal split: At the subordinate court level, roughly 77% of pending cases are criminal and 23% civil (March 2026 NJDG
+data) — the reverse of the Supreme Court, where about 79% of pending matters are civil and 21% criminal.
+● Government as litigant: The State (Union and State governments combined) is estimated to be a party in about 50% of all
+pending cases — making the government itself the single largest litigant burdening the courts.
+● Land and property disputes: These account for roughly 20% of all pending cases nationally and about 66% of pending civil
+cases — also comprising about a quarter of matters decided by the Supreme Court.
+● Age of pendency: Growth in pendency between 2010 and 2020 averaged about 2.8% a year; at prevailing disposal rates,
+clearing the existing backlog (assuming no new filings) would take roughly 1.3 years for the Supreme Court and about 3 years
+each for the High Courts and subordinate courts — an unrealistic counterfactual given that filings continue unabated.
+● Undertrial prisoners: A large share of India's prison population consists of undertrials awaiting the conclusion of trial — many
+for periods exceeding the maximum sentence prescribed for the alleged offence, a recurring concern flagged by the Supreme
+Court and the NCRB's Prison Statistics reports.
+India's judge-to-population ratio stood at roughly 21 judges per million population as of 2022 — far below the 50-per-million benchmark
+recommended by the Law Commission of India and the Justice V.S. Malimath Committee
+
+-- 1 of 31 --
+
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+MCN 2.0
+Mains Concise Note (MCN) 55 : Judicial Pendency
+Magna Carta Mains 2026
+Structural and Systemic Causes
+Higher Judiciary (Supreme Court and High Courts)
+● Constitution Bench backlog: Complex constitutional questions
+requiring larger (5-, 7- or 9-judge) benches often wait years for listing,
+since regular benches are consumed by routine special leave petitions
+(SLPs). This has a cascading effect — subordinate courts and High
+Courts often stay proceedings pending an authoritative
+pronouncement from the apex court.
+● Litigation explosion at the Supreme Court via SLPs: Article 136
+special leave jurisdiction has expanded far beyond its constitutional
+design as an exceptional remedy, turning the Supreme Court into a
+routine court of appeal and diluting its role as a constitutional court.
+● Chronic High Court vacancies: Delays in the collegium–government
+appointment process, including protracted file movement between
+the collegium, state governments and the Union government, leave
+large numbers of sanctioned posts unfilled for years at a time.
+● Adjournment culture: Weak enforcement of the limits on
+adjournments under the Code of Civil Procedure and want of firm
+case-management by benches contribute to matters dragging on.
+● Fragmented case law and forum-shopping: Divergent rulings by
+different High Courts and benches on similar questions encourage
+repeated litigation and appeals, adding to volumes.
+Lower Judiciary (District and Subordinate Courts)
+● Concentration of the crisis: Over 85% of all pending cases in the
+country sit in the district and subordinate courts — the level at which
+the ordinary citizen interacts most directly with the justice system —
+making this the true epicentre of the pendency problem.
+● Infrastructure deficit: Many district courts function with inadequate
+courtroom space, understaffed registries, poor digitisation, and
+shortages of court managers, translators and forensic support.
+● Investigation and prosecution delays: Chargesheets filed late, poor
+quality of investigation, forensic backlogs, and witness turning hostile
+due to long delays all prolong criminal trials.
+● Service of summons and appearance-stage delay: A very large share
+of pending cases in subordinate courts (over 1.8 crore, per the
+Supreme Court's own 'State of the Judiciary' report) are stuck merely
+at the stage of appearance or service of summons — a problem of
+process, not adjudication.
+● Frequent adjournments and multiplicity of proceedings: Parallel civil
+and criminal proceedings on the same set of facts, and routine grant
+of adjournments, multiply hearings without disposing of matters.
+● Government litigation: The State's own departments — being party
+to roughly half of all pending cases — frequently fail to take timely
+decisions on settlement, appeals or withdrawal of matters, keeping
+cases alive unnecessarily.
+Recent Measures Implemented
+Expansion of the Supreme Court's Sanctioned Strength
+Court's sanctioned strength from 34 to 38 judges (including
+the CJI) — the first increase since 2019
+Administrative and Technological Reforms
+A reconstituted Artificial Intelligence Committee of the
+Supreme Court (December 2025), chaired by Justice P.S.
+Narasimha, to guide adoption of AI tools across the Supreme
+Court and subordinate judiciary for efficiency, accessibility
+and transparency.
+A unified digital case-status platform (announced January
+2026) linking trial courts, High Courts and the Supreme
+Court so that orders are reflected in real time across levels,
+reducing delay caused by manual updation of records.
+Constitution of four Special Division Benches (effective 13
+July 2026) to exclusively and continuously hear the Supreme
+Court's oldest pending civil and criminal matters — around
+800 legacy cases identified for priority, time-bound disposal.
+An advance-transfer policy adopted by the Collegium
+(February 2026), enabling a judge in line to become a High
+Court Chief Justice to be transferred about two months
+ahead of the vacancy
+Continued emphasis on mediation and Lok Adalats as the
+'greatest immediate potential' for clearing backlogs
+Filling of Vacancies
+Through 2026, the Supreme Court Collegium has issued a
+steady stream of recommendations for High Court
+appointments — though many recommendations remain
+pending with the Central government for extended periods,
+and several High Courts continue to function under Acting
+Chief Justices (seven of 25 High Courts, as of July 2026).
+Budgetary and Infrastructure Push
+The Union Budget 2026–27 allocated ₹2,010 crore for
+judicial infrastructure and digitisation — ₹810 crore for
+district and subordinate court infrastructure and ₹1,200
+crore for the e-Courts Project Phase III (part of the National
+Mission for Justice Delivery and Legal Reforms).
+The Centrally Sponsored Scheme for Fast Track Special
+Courts — including 398 exclusive POCSO courts among 775
+operating Fast Track Special Courts nationwide — has been
+extended to September 2026.
+Judicial Pronouncements and Institutional Self-Reflection
+Proposals such as a dedicated national mission for
+negotiated justice — 'Sahmati Samadhan Nyaya Mission' —
+to institutionalise plea bargaining and pre-trial settlement as
+mainstream tools rather than rarely used provisions; this
+remains a policy proposal rather than an announced
+government scheme.
+Country 	Key Mechanism 	Design Feature India Can Draw On
+Singapore 	Judicial case management & e-Litigation Judges actively fix trial timelines at first hearing; heavy
+use of scheduling software and cause-list discipline
+United States 	Alternative Dispute Resolution mandates Court-annexed mediation and arbitration built into civil
+procedure before trial is permitted
+Germany 	Specialised, well-staffed judiciary High judge-to-population ratio (~24+ per 100,000) and
+strong reliance on written procedure to shorten hearings
+Rwanda / South Korea 	Time-bound disposal targets Statutory or administrative deadlines for disposal of
+specific categories of cases, monitored centrally
+
+-- 2 of 31 --
+
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+MCN 2.0
+Mains Concise Note (MCN) 55 : Judicial Pendency
+Magna Carta Mains 2026
+Way Forward:
+Judicial Strength and Appointments
+1. Fill vacancies on a fixed timeline: Institutionalise a binding timeline (e.g., 3–6 months) between collegium recommendation and government
+notification, potentially through a revised Memorandum of Procedure, to end the chronic HC/SC vacancy problem.
+2. Rationalise judge strength to population and caseload: Move systematically toward the Law Commission's benchmark of 50 judges per
+million population, calibrated to each state's actual case-filing trends rather than a uniform national formula.
+3. Revive the All-India Judicial Service (AIJS): A centralised, merit-based recruitment mechanism for the subordinate judiciary (on the lines of
+the civil services) can address regional disparities in quality and speed of recruitment, subject to safeguards for state autonomy and reservation
+policy.
+4. Strengthen the district judiciary cadre: Fast-track promotion pipelines and better service conditions to make district judgeships more
+attractive and reduce attrition.
+Court and Case Management Reforms
+5. Differentiated case-flow management: Classify cases at filing into fast-track, standard and complex categories (as in Australia) with distinct
+procedural timelines, rather than treating all matters identically.
+6. Curb routine adjournments: Strict enforcement of the three-adjournment limit already provided in the Code of Civil Procedure, with costs
+imposed for non-compliance.
+7. Special benches for legacy cases: Extend the Supreme Court's 2026 model of dedicated benches for the oldest pending matters to High
+Courts and district courts, with time-bound clearance targets.
+8. Restrain expansive use of Article 136 SLPs: Encourage the Supreme Court to exercise stronger judicial discipline in admitting special leave
+petitions, reserving its docket for matters of genuine constitutional or public importance, and refer routine appellate work to strengthened
+High Courts.
+9. National uniform case-management rules: A model set of case-management rules for civil and criminal trial courts, adopted uniformly across
+states, to reduce procedural divergence.
+Alternative Dispute Resolution and Negotiated Justice
+10. Mainstream plea bargaining: Build institutional capacity — trained prosecutors, clear protocols, judicial oversight — so plea bargaining
+moves beyond its current sub-1% usage toward the 15–30% range seen in continental Europe, with safeguards against coercion.
+11. Expand Lok Adalats and mediation: Scale up National Lok Adalat drives and pre-litigation mediation (especially for matrimonial, motor-
+accident-claims, cheque-bounce and commercial disputes), building on their demonstrated success.
+12. Mandatory pre-litigation mediation: Extend the Commercial Courts Act, 2015 model of mandatory pre-institution mediation to a wider set
+of civil and family disputes.
+13. Reform lawyer remuneration structures: Align incentives so that lawyers and prosecutors have a professional interest in reaching a fair
+settlement rather than prolonging litigation for billable appearances.
+Technology and Infrastructure
+14. Complete e-Courts Phase III on schedule: Ensure the ₹7,210 crore, four-year e-Courts Phase III programme (2023–2027) delivers fully
+digital, paperless courts, expanded virtual-court capacity, and nationwide e-filing/e-payment adoption.
+15. Responsible AI adoption: Use AI for case allocation, cause-list optimisation, translation, and legal research — as the Supreme Court's
+reconstituted AI Committee is attempting — while heeding the CJI's caution that technology must remain 'a servant of justice, not its
+substitute', particularly for litigants unfamiliar with digital tools.
+16. Fix the appearance/service bottleneck: Since over 1.8 crore subordinate-court cases are stuck merely at the summons/appearance stage,
+prioritise electronic and tracked service of summons, and empower process-serving agencies with better resources.
+17. Invest in physical infrastructure: Sustain and scale up the Centrally Sponsored Scheme for district-court infrastructure (₹810 crore in
+2026–27) to address courtroom shortages, especially in smaller towns.
+Reducing Government Litigation
+18. Implement the National Litigation Policy in letter and spirit: Empower government departments to take timely calls on withdrawing
+frivolous appeals, and institute internal accountability for delay in litigation decisions, given the State's role as the single largest litigant.
+19. Litigation audits: Periodic departmental audits of pending government litigation to identify cases fit for withdrawal or settlement.
+Criminal Justice and Undertrial Reforms
+20. Strengthen investigation quality: Better forensic infrastructure, trained investigating officers, and time-bound chargesheet filing to prevent
+trial delays rooted in poor investigation.
+21. Undertrial review committees: Ensure District Legal Services Authorities and undertrial review committees function actively to secure bail
+or release for eligible undertrials, per Section 479 BNSS (equivalent to the erstwhile Section 436A CrPC).
+22. Expand and sustain Fast Track Special Courts: Continue and expand the FTSC/ePOCSO scheme (775 courts currently) beyond its
+September 2026 extension, with a permanent, adequately funded structure rather than repeated short-term renewals.
+Institutional and Constitutional Measures
+23. National Judicial Infrastructure Authority: Operationalise a permanent, statutorily backed body (as recommended in various policy
+discussions) to plan, fund and monitor court infrastructure nationally, reducing dependence on ad hoc state-wise allocations.
+24. Data-driven monitoring: Use the NJDG not merely as a public dashboard but as a management tool — with High Court Chief Justices and
+District Judges held accountable for movement on pendency-reduction targets in their jurisdictions.
+Legislative correction of appeal-heavy laws: Review procedural and substantive laws that generate excessive appellate litigation (e.g., taxation,
+land acquisition) to build in finality at earlier stages
+
+-- 3 of 31 --
+
+Intro
+While the SC has been prompt to recognise Independence of Judiciary as Basic Structure in SC AoR Assn. v. Union of India (1994),
+Judicial Accountability remains a delicate balance between Parliamentary Democracy and Public Trust.
+8630 complaints against judges between 2016-2025 as per Law Minister’s reply to a Parliamentary Question.
+Components of Judicial Independence
+A. Structural/Institutional Independence
+1.Separation of Powers: Judges are not part of legislature/executive (Article 50).
+2.Security of Tenure: Judges of the SC/HC cannot be removed except by impeachment under Articles 124(4) and 217.
+3.Financial Autonomy: Salaries charged on the Consolidated Fund; cannot be varied to a judge’s disadvantage (Article 125, 221).
+4.Appointment process: Collegium system gives primacy to the judiciary in appointments and transfers (Second and Third Judges cases).
+5.Fixed Service Conditions: Articles 125 and 221 ensure that the salaries and allowances of Supreme Court and High Court judges are fixed
+and cannot be varied to their disadvantage during their term
+B. Functional Independence
+1.No Interference in Judicial Functions: Courts cannot be directed on how to decide cases (Article 141).
+2.Control over Court Proceedings: Judges control procedure, contempt powers, listing, etc.
+3.Prohibition on Discussion of Judicial Conduct: Articles 121 and 211 prohibit the discussion of a judge’s conduct in Parliament or State
+Legislatures except in the context of impeachment, protecting judges from political pressure. Supplemented by Judges Enquiry Act, 1968
+4.Powers and Jurisdiction of Supreme Court: Parliament can only add to the powers and jurisdiction of the Supreme Court but cannot
+curtail them
+5.Power to punish for contempt: Both the Supreme Court and the High Court have the power to punish any person for their contempt. (Art
+129/215)
+C. Internal Independence
+1.Freedom from influence within the judiciary (e.g., pressure from superiors like Chief Justices).
+D. Decisional Independence
+1.Judges decide cases "without fear or favour, affection or ill-will" (Third Schedule – Oath of Office)
+MCN 2.0
+Mains Concise Note (MCN) 56 : Judicial Independence & Accountability
+Magna Carta Mains 2026
+Components of Judicial Accountability
+A. Constitutional Accountability
+1.Impeachment Process: Judges can be removed for "proved misbehaviour or incapacity" under Articles 124(4) and 217(1)(b).
+2.Judges (Inquiry) Act, 1968: Outlines the detailed procedure for impeachment, requiring a motion by at least 100 Lok Sabha or 50 Rajya
+Sabha members, investigation by a three-member committee, and approval by a two-thirds majority in both Houses of Parliament.
+3.Declaration of Assets: Supreme Court Resolution (1997), though not binding.
+4.High Court Control Over Subordinate Judiciary: Art.235 gives High Courts control over the subordinate judiciary, ensuring
+accountability at lower level
+B. Institutional Accountability
+1.In-House Procedure: Established by SC for internal inquiry into complaints.
+a.K. Veeraswami v. Union of India (1991) - Prior CJI permission needed to investigate judges
+2.Restatements of Judicial Values (1999): Ethical code adopted by the judiciary.
+C. Public Accountability
+1.Reasoned Judgments: Judgments are public documents and subject to appeal and academic scrutiny.
+a.CPIO, SC v Subhash Chandra Agarwal (2010) - case by case basis
+2.Contempt of Court: While meant to protect dignity, excessive use can stifle legitimate criticism.
+E. Case Studies:
+Justice V. Ramaswami: Impeachment failed in 1993 due to political abstentions
+Justice Soumitra Sen: Resigned before impeachment could be completed, Justice Dinakaran: Resigned on the day of the inquiry
+Justice Varma (Del HC) currently in news, J. Gogoi (Conflict of Interest)
+Key Issues
+High Threshold for Removal: The Judges (Inquiry) Act, 1968, and Articles 124(4), 217(1)(b), and 218 of the Constitution require a
+motion signed by at least 100 Lok Sabha or 50 Rajya Sabha members, investigation by a three-member committee, and a two-thirds
+majority in both Houses of Parliament to remove a judge for “proven misbehaviour or incapacity”. This makes removal extremely rare
+and difficult.
+Political Influence and Delay: The process is susceptible to political machinations and can be delayed or derailed by partisan interests.
+Lack of Intermediate Sanctions: The law provides no mechanism for censure, suspension, or lesser penalties short of removal, making
+the process all-or-nothing.
+In-House Mechanism Limitations: The SC ’s in-house procedure for complaints lacks statutory backing and transparency, and
+decisions are not publicly disclosed
+Resignation as a Loophole: Judges can resign to avoid impeachment, halting investigations and escaping accountability.
+Limited Transparency: There is no mandatory public disclosure of judicial assets or liabilities, and the impeachment process lacks clear
+timelines and public accountability.
+Judicial independence is not a privilege of judges—it is the right of every citizen to an impartial arbiter. The moment courts bend to power or
+prejudice, justice becomes a casualty and democracy, its silent victim.
+Judicial accountability is not an attack on independence—it's its anchor. In a democracy, where judges wield immense power, silence on their
+conduct is not neutrality, but negligence. Justice must not only be done, but must be seen to be answerable.
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+
+-- 4 of 31 --
+
+Greater transparency is
+justified in
+Confidentiality may
+remain necessary in
+Appointment criteria
+and procedures
+Internal judicial
+deliberations
+Reasons for
+administrative
+decisions
+Draft judgments and
+discussions among
+judges
+Case listing and bench
+allocation principles
+Sensitive personal
+information
+Judicial assets and
+conflicts of interest
+Information affecting
+fair trials or security
+Final findings of
+misconduct
+Preliminary unverified
+complaints
+Judicial independence
+protects
+Judicial accountability
+prevents
+Impartial adjudication Arbitrariness
+Constitutional review Misconduct
+Minority rights 	Conflicts of interest
+Rule of law 	Administrative
+opacity
+Security from political
+retaliation
+Institutional
+complacency
+Recommendations for Reform
+1.Establish an Independent Judicial Oversight Body
+a.Judicial councils or commissions in the UK (Judicial Conduct Investigations Office), Europe, and Latin America oversee complaints,
+recommend disciplinary actions, and ensure accountability without compromising independence.
+2.Implementation: The lapsed Judicial Standards and Accountability Bill, 2010 should be revived and empowered with statutory
+authority to investigate complaints, recommend sanctions, and monitor judicial conduct.
+3.Introduce Intermediate Sanctions
+a.In the United States, federal judges can be subject to disciplinary actions by Judicial Councils of the Circuits, including public or
+private reprimands, suspension, or referral for impeachment, depending on the severity of misconduct.
+b.Amend the Judges (Inquiry) Act to allow for a range of disciplinary measures, with clear procedures and safeguards for judicial
+independence.
+4.Enhance Transparency and Public Accountability by mandatory disclosure of assets
+5.Set Clear Timelines and Procedures
+a.Introduce statutory timelines for each stage of the removal process, from complaint to final decision, to ensure timely resolution
+and prevent evasion through delay.
+6.Close the Resignation Loophole
+a.Amend the law to ensure that investigations continue even if a judge resigns, and that findings are made public to prevent future
+evasion
+7.Broaden the Grounds for Investigation
+a.Clearly define “misbehaviour” to include corruption, ethical violations, and conduct undermining judicial integrity, and allow the
+oversight body to investigate a broader range of complaints.
+8.Ensure Judicial Involvement in Disciplinary Proceedings
+a.Retain the involvement of senior judges in the investigatory process, but ensure the oversight body includes non-judicial members
+to enhance credibility and independence
+Relationship Between Judicial Independence and Judicial Accountability
+Providing Security of Tenure and Fixed Salaries (Articles 124, 125, 217, 221), ensuring independence.
+Establishing Strict Removal Procedures (Articles 124(4), 217(1)(b), Judges (Inquiry) Act, 1968), ensuring accountability.
+Judicial Review: Landmark judgments like Kesavananda Bharati v. State of Kerala (1973) uphold the basic structure doctrine,
+protecting judicial independence while ensuring constitutional accountability.
+In Indira Gandhi v. Raj Narain (1975), the Allahabad High Court invalidated the Prime Minister’s election, demonstrating judicial
+independence and accountability to the Constitution
+Mutual Necessity: An independent judiciary must be accountable to remain legitimate. Excessive insulation breeds opacity.
+Sankalchand Sheth and SP Gupta cases reflect early concern for independence.
+Second Judges Case established judicial primacy in appointments
+Checks and Balances: Independence guards against executive overreach; accountability prevents judicial tyranny.
+NJAC judgment (2015) reasserted independence as part of the Basic Structure but drew criticism for avoiding structural reforms
+ensuring accountability
+Constitutional Morality: Balancing Judicial Independence and Accountability
+Constitutional morality rejects the false choice between independence and accountability. Independence without accountability may become judicial
+supremacy; accountability without independence may become political subordination.
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+MCN 2.0
+Mains Concise Note (MCN) 56 : Judicial Independence & Accountability
+Magna Carta Mains 2026
+
+-- 5 of 31 --
+
+Intro
+Issues
+Framework Evolution
+Art 124/217 : Pres to SC/HC Judges in
+consultation with CJI
+Collegium System evolved by SC
+supplemented with MoP
+CJI on seniority principle by convention
+UoI v Sankalchand Sheth (1977)
+“consultation” not concurrence
+limited court review if advice not followed,
+S.P. Gupta v President of India (1981) (1 Judges Case)	st
+“consultation” not “concurrence.”; court reduced its own power
+limited court review only if govt rejected advice on mala fide grounds
+SC AoR Assn v. UoI (1993) (2 Judges Case)	nd
+Introduced the Collegium System while retaining primary to CJI
+Overruled earlier judgements
+In Re: Pres Ref (1999) (3 Judges Case)	rd
+“consultation” is plurality, solidified the collegium process
+CJI + 4 senior SC Judges for SC
+CJI + 2 senior HC Judges for HC
+99 CA + NJAC	th
+CJI + 2 Senior SC Judges + Law Minister + 2 eminent jurists nominated by
+CJI, PM and LoP (1 eminent jurist - SC/ST/OBC, Religious Minority or
+Woman)
+SC AoR Assn v. UoI (1993) (4 Judges Case)	th
+99 CA + NJAC struck down as IoJ is basic structure	th
+1.Lack of Transparency
+a.Until 2017, collegium resolutions were generally not published. Even today, published resolutions frequently communicate the final
+decision without revealing the comparative assessment of all candidates considered.
+2.Executive Influence
+a.NJAC - 99 CA struck down	th
+3.Merit vs. Representation
+a.There are no publicly measurable and uniformly applied indicators defining “merit” for elevation from the Bar
+4.Accountability Concerns
+a.Post NJAC judgment, the Supreme Court expressly suggested creating a formal complaints mechanism within the Memorandum of
+Procedure
+5.Diversity Deficit
+a.A Parliamentary Standing Committee report of 2023 found that, among High Court judges appointed since 2018, only approximately 3%
+belonged to Scheduled Castes and 1.5% to Scheduled Tribes
+6.Informal Lobbying and Nepotism Allegations
+a.Supreme Court in May 2025 to start publishing appointment data identifying whether recommended High Court candidates were related
+to serving or retired Supreme Court or High Court judges
+7.Delays
+a.As of 1 July 2026, the High Courts had a sanctioned strength of 1,122 judges, but only 781 were working, leaving 341 vacancies—about
+30% of sanctioned strength.
+Recent Best Practices/Recommendations
+1.SC and now HC Collegium details public but needs more details
+2.214 LCI : National Judicial Service	th
+3.At least 1 woman judge (regardless of seniority) in collegium
+4.Detailed set of criteria for the selection of judges.
+5.‘Eminent Jurists’ to also be appointed to SC
+6.An application process which includes a formal nominations
+system.
+7.Dedicated Office of Judicial Appointments within the SC
+1.US, SCOTUS Judges are appointed by the President with the
+consent of the Senate. The candidates are assessed by a
+committee of the American Bar Association and reviewed by
+the Senate Judiciary Committee before a vote in the Senate.
+There is no set retirement age for judges in the US as they
+continue to hold office for "good behaviour".
+2.In the UK, it is the independent Judicial Appointments
+Commission (JAC) that oversees the process of judges’
+appointments. The JAC consists of 15 members; three of
+these are judges, while 12 members are selected through a
+process of open competition.
+3.South Africa, there is a 23-member Judicial Services
+Commission (JSC) that advises the President to nominate the
+judges.
+Global Best Practices
+In a constitutional democracy, the question is not merely who appoints the
+judges, but who guards the independence, integrity, and legitimacy of those
+who guard the Constitution.
+When the process of appointing judges lacks transparency, the credibility of justice itself stands trial. A judiciary meant to be the guardian of the Constitution
+cannot draw its strength from shadows—its legitimacy must rest on openness, integrity, and public trust.
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+MCN 2.0
+Mains Concise Note (MCN) 57 : Higher Judicial Appoinments
+Magna Carta Mains 2026
+
+-- 6 of 31 --
+
+Type 	SC 	HC
+Adhoc
+Under Art 127
+Reason : shortage of sitting SC judges (Quorum)
+Eligibility : Sitting HC Judge (Qualified to be SC Judge)
+Status : Same as SC Judge
+Period : Temporary - as per need
+Process :
+President Consent
+CJ of Concerned HC Consultation
+CJI may request in writing
+Under Art 224A (Also informally called adhoc HC Judges)
+Added via 15 CA, 1963	th
+Reason : None specified in CoI
+Eligibility :
+ex HC Judge
+Status : Similar benefits of HC judge not deemed as one
+Period : Temporary - as per need
+Process : CJ of HC with Pres Consent can request
+Retired
+Under Art 128
+Reason : None specified
+Eligibility :
+ex SC Judge
+ex HC Judge (qualified to become SC Judge)
+Status : Similar benefits of SC judge not deemed as one
+Period : Temporary - as per need
+Process : CJI with Pres Consent can request
+Addl. 	NA
+Under Art 224(1)
+Reason : Increase/Backlog in HC
+Eligibility : Qualified to be HC Judge
+Status : Same as HC Judge
+Period : 2 yrs max or 62 yrs
+Process : Appointed by President
+Acting 	NA
+Under Art 224(2)
+Reason : Sitting HC Judge unavailable
+Eligibility : Qualified to be HC Judge
+Status : Same as HC Judge or 62 yrs
+Period : Till sitting HC judge become available
+Process : Appointed by President
+Original Guidelines 	New/Updated 2025 Guidelines
+More than 20% vacancies in the HC 	Removed
+Specific type of cases are pending > 5 yrs 	Same
+If more than 10% HC Cases pending > 5 yrs 	Same
+Case disposal rate < New Case filing rate 	Same
+NA 	Adhoc/Retd Judges < 10% HC sanctioned strength (NEW)
+NA 	Adhoc/Retd. Judges can only hear criminal appeals
+2025 SC Guidelines on appointing Adhoc/Retiring Judges to HC
+The SC in 2021 in the case of Lok Prahari had laid down some conditions. On the basis of ANY of these conditions, retired HC judges could
+be appointed as adhoc judges. The SC in Jan 2025 has revised some of the guidelines.
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+MCN 2.0
+Mains Concise Note (MCN) 57 : Higher Judicial Appoinments
+Magna Carta Mains 2026
+
+-- 7 of 31 --
+
+Framework
+Art 233 : DJ apptd by Governor
+in consultation with HC
+Art 234 : Subordinate Judiciary
+by Governor in consultation with
+HC and SPSC
+Art 235 : Control over
+Subordinate Judiciary with the
+High Court
+Art. 312 : AIJS by Parliament
+(not implemented yet)
+1.Each State has its own judicial service for the subordinate judiciary, and HC judges
+are mostly selected from the State’s judicial service and the State HC’s practising
+lawyers.
+2.The judicial service in the subordinate judiciary in a State will generally be broken up
+between the regular judicial service and the higher judicial service
+3.District and Sessions Court Judges will be in the more senior cadre, while civil judges
+and magistrates will be in the lower cadre
+4.State’s judicial service is a competitive exam conducted by SPSC in consultation with
+state HC.
+a.Recently, policy of 3 yrs prior practice has been made mandatory even at this
+stage of recruitment
+5.Members of the bar can be recruited directly into the senior cadre if they have
+practised as advocates for 7 years or more -
+a.District Judges require 7 yrs of experience as an advocate and are appointed by
+Gov after being recommended by concerned HC
+Process
+Case 	Importance
+All India Judges Association
+v. Union of India (1992,
+2002)
+Laid down norms for service
+conditions, fixed tenure,
+training
+All India Judges Association
+v. UoI (2002)
+SC directed establishment
+of State Judicial Academies
+Malik Mazhar Sultan v. U.P.
+Public Service Commission
+(2006–2017)
+SC fixed calendar deadlines
+for recruitment of judges
+Centre for Public Interest
+Litigation v. UoI (2019)
+Delay in appointments
+violates access to justice
+Body 	Recommendation
+Law Commission (116th
+Report, 1986)
+Suggested creation of All
+India Judicial Service (AIJS)
+Malimath Committee
+(2003)
+Fast-track courts, AIJS,
+improved conditions for
+judicial officers
+Justice M. Jagannadha Rao
+Committee
+Proposed common judicial
+service exam and judicial
+academies
+21st Law Commission
+Advocated for urgent steps
+to implement AIJS with
+consultation
+Key Issues
+1.Inconsistencies across States in exams, syllabi, selection standards
+2.Lack of uniformity in eligibility and recruitment rules
+3.Delays in filling vacancies: ~20–30% of sanctioned posts lie vacant in many states
+4.Political and Executive Interference in some states
+5.Poor service conditions, infrastructure, and training
+6.No institutionalised judicial academy training across states
+7.Training Gaps: Newly recruited judges often under-prepared.
+Argument For AIJS 	Argument Against AIJS
+Ensures uniformity, merit,
+all-India mobility
+Infringes upon states' rights
+under Art. 233–234
+Solves vacancies, talent
+crunch
+Language and local law
+challenges
+Better career pipeline 	Undermines High Court's
+role in oversight
+Common training and
+evaluation
+Centre encroaching upon
+judicial federalism
+Intro The subordinate judiciary, often described as the “first line of defence”, suffers from 23% vacancies and accounts for
+87% of the total pendency of cases in India
+A judiciary that fails at its lowest rung fractures the
+promise of justice at every level. Until appointments to
+the subordinate courts are made timely, transparently,
+and uniformly, the lofty ideals of constitutional justice
+will remain paper-deep—resonant in principle, but
+elusive in practice.
+MCN 2.0
+Mains Concise Note (MCN) 58 : Subordinate Judicial Appoinments
+Magna Carta Mains 2026
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+
+-- 8 of 31 --
+
+Essentials for JR
+Rule of Law
+Constitutionalism
+Written Constitution
+Rights & Liberties
+Democracy
+Separation of Powers
+Independence of Judiciary
+Judicial Review
+(Not mentioned in CoI)
+Legislative Action 	Executive & Admin Action
+SC Doctrines enhancing JR
+SC & HCs DO NOT have similar powers of JR.
+SC can also review its own judgements through Review Petitions (Art 137) and
+Curative Petitions (Hurra 2002 Case Guidelines) which HCs can’t. (Review of Judicial
+Action does not strictly come under Judicial Review)
+All Appeals may not necessarily be Judicial Review (Cases appealing bail denials are
+not Judicial Review)
+CoI doesn’t explicitly mention HC appellate jurisdiction powers as it does for SC.
+Limitations of Judicial Review
+Advice given by CoM to Pres
+or S.Com to Gov (Art 74, 163)
+Legislative Proceedings (Art
+122, 212)
+Delimitation Orders (Art 329,
+243O, 243ZG)
+Adaption of Pre Constitution
+Laws post commencement by
+Pres Order (Art 372)
+Laws added to IXth Sch
+before 24 Apr 1973
+(Kesavananda Bharti Case)
+Constitution Based Sources 	SC Interpretations enhancing JR
+Art 13 : Laws can’t violate FR
+Art 32 : SC writ powers (SC only)
+Art 226 : HC Writ powers
+Art 131 : C v S/S v. S disputes (SC only)
+Art 132 - 136 : Civil, Criminal, Spl Leave Appeals
+Art 142 : Int of ‘complete justice’ (SC only)
+Art 143 : President’s Reference (SC only)
+Art 246 : Division of Powers between C&S
+Doctrine of Basic Structure
+Doctrine of Eclipse
+Doctrine of Severability
+Doctrine of Waiver
+Doctrine of Colourable Legislation
+Doctrine of Pith & Substance
+Doctrine of Proportionality
+Doctrine of Legitimate Expectation
+Doctrine of Harmonious Construction
+Due Process of Law
+Principles of Natural Justice
+Impact of JR
+Rule of Law
+Constitutionalism
+Rights & Liberties
+Parliamentary Democracy
+Checks & Balances
+Federalism
+Judicial Activism
+Art 228 : HC to transfer specific cases from
+subordinate courts
+Constitution
+SC & HCs are guardians and
+protectors of Rights &
+Liberties
+Actions or Exercise of
+Powers :
+Executive/Legislative
+Valid/Invalid
+Judicial Review : Checks and
+Balances on various powers
+flowing from the
+Constitution
+Intro
+Judicial Review is sine qua non for a federal parliamentary democracy assuring the most exhaustive set of rights, all
+through one of the longest written Constitutions of the world.
+SC in L. Chandra Kumar v. Union of India (1997) declared Articles 32 and 226 as part of basic structure
+MCN 2.0
+Mains Concise Note (MCN) 59 : Judicial Review
+Magna Carta Mains 2026
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+
+-- 9 of 31 --
+
+Impact on Parliamentary Democracy & Separation of Powers
+Positive 	Negative
+1.Constitutional Safeguard
+a.Basic Structure Doctrine
+2.Executive Accountability
+a. Maneka Gandhi (1978) Due Process
+3.Electoral Fairness
+a.ADR Cases (Electoral Bonds), Lily Thomas
+4.Minority Protection:
+a.Navtej Singh Johar (2018 : decriminalising
+homosexuality
+5.Protection of Fundamental Rights
+a.Romesh Thappar (1950) : Press Rights
+6.Empowers Citizens:
+a.Art 32/226
+7.Protecting Federal Interests
+a.SR Bommai (1994) : Emergency Provisions
+8.Balanced Governance
+a.Minerva Mills (Art 39b/c > 14,19,21)
+9.Checks Executive Arbitrariness
+a.Krishna Kumar (2017) - Ordinances
+1.Democratic Deficit
+a.NJAC Judgement (2015)
+2.Policy Disruption
+a.P. Chidambaram v. ED, 2019, where bail
+policies faced judicial scrutiny.
+3.Judicial Overreach
+a.Collegium, ECI Appts (Anoop Baranwal Case)
+4.Delayed Reforms
+a.Staying Farm Laws in 2021
+5.Operational Delays
+a.Environmental Clearances
+6.Judicial Encroachment
+a.Vishaka Guidelines
+Limitations of Judicial Review
+1.Constitutional Immunities:
+a.Presidential Immunity: Under Article 361, the President and Governors enjoy immunity from judicial proceedings for
+acts done in their official capacity. This limits the courts' ability to review certain executive actions.
+b.Judicial Immunity: Judges of the Supreme Court and High Courts are protected from legal action for their judicial
+conduct, as per Article 124(4) and 218.
+c.Ninth Schedule: Laws placed in the Ninth Schedule of the Constitution were initially immune from judicial review.
+However, the Supreme Court in I.R. Coelho v. State of Tamil Nadu (2007) held that laws added to the Ninth Schedule
+after April 24, 1973, are subject to judicial review if they violate fundamental rights or the basic structure of the
+Constitution.
+2.Separation of Powers: The doctrine of separation of powers imposes inherent limitations on judicial review:
+a.Political Questions: Courts generally refrain from interfering in matters considered "political questions" that fall within
+the purview of the legislature or executive.
+b.Policy Decisions: The judiciary avoids reviewing the wisdom or correctness of policy decisions made by the executive,
+as long as they are within constitutional bounds.
+3.Procedural and Practical Constraints:
+a.Locus Standi: Only parties with sufficient interest in a case can approach the courts for judicial review, limiting
+frivolous litigation.
+b.Time Limitations: There are often time limits within which judicial review can be sought, preventing indefinite
+challenges to government actions.
+c.Res Judicata: The principle of res judicata prevents re-litigation of issues already decided by courts, limiting repeated
+challenges on the same grounds.
+4.Judicial Self-Restraint: The judiciary often exercises self-restraint to avoid overreach (Supriyo Case, Same Sex Marriages)
+5.Deference to Expertise: Courts often defer to the expertise of specialised bodies or administrative authorities in technical
+matters.
+6.Presumption of Constitutionality: Laws enacted by the legislature are presumed to be constitutional, and the burden of
+proving otherwise lies on the challenger.
+MCN 2.0
+Mains Concise Note (MCN) 59 : Judicial Review
+Magna Carta Mains 2026
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+
+-- 10 of 31 --
+
+Judicial Activism
+Creative & Innovative
+interpretation of Law
+Judges allow their personal
+views
+Active process of implementation
+of the rule of law;
+preservation functional democracy
+Cross the line that separates
+judging
+from legislating or administration
+Intro
+"Judicial activism on the theory of Jurisprudence called Sociological Jurisprudence, arms the judiciary with wide
+legislative and executive powers" - Justice Katju
+From resetting spectrum auctions to setting timelines for Governors, from public interest litigations to pursuit of
+complete justice, Judicial Activism is India’s Judicial Reality, sometimes necessary sometimes an overkill.
+Method 	Description 	Constitutional Basis 	Key Features 	Examples
+Judicial Review
+Examination of
+constitutionality of laws
+and executive actions
+Articles 13, 32, 136, ,
+226.
+Applies to central and
+state laws; Can strike
+down unconstitutional
+laws.
+Kesavananda Bharati
+v. State of Kerala
+(1973).
+Complete Justice
+Granting relief or issuing
+directions without any
+reasoning
+Art 142 	Extraordinary power 	TN Governor Case
+Public Interest
+Litigation (PIL)
+Allows any public-
+spirited individual to
+approach court for
+oppressed class
+Judicially evolved; No
+specific article
+Relaxed locus standi;
+Non-adversarial
+approach
+Hussainara Khatoon
+v. State of Bihar
+(1979).
+Constitutional
+Interpretation
+Expansive interpretation
+of constitutional
+provisions
+Inherent judicial
+power
+Dynamic and purposive
+interpretation
+Maneka Gandhi v.
+Union of India (1978).
+Access to
+International
+Statutes/Tests/Judg
+ements
+Reference to
+international
+conventions and
+treaties
+Article 51(c)
+Used for human rights
+and environmental
+issues
+Vishaka v. State of
+Rajasthan (1997).
+Supervisory Powers
+over Lower Courts
+Higher courts' oversight
+of lower courts Articles 227 and 136 Power to transfer
+cases; Issue guidelines
+Prakash Singh v.
+Union of India (2006).
+Suo Motu
+Cognizance
+Courts take up matters
+on their own initiative Articles 32 and 226
+Used for public interest
+or constitutional
+threats
+Recent Case of
+Abhaya in Kolkata.
+Methods of ‘Judicial Activism’ sometimes leading to Judicial Legislation, Judicial Overreach, Judicial Adventurism
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+MCN 2.0
+Mains Concise Note (MCN) 60 : Judicial Activism & Restraint
+Magna Carta Mains 2026
+
+-- 11 of 31 --
+
+Impact on Parliamentary Democracy & Separation of Powers
+Positive 	Negative
+1.Accountability Issues: Judges lack electoral
+mandate, reducing democratic legitimacy.
+2.Institutional Overlap: Courts assume
+administrative roles (e.g., Monitoring Committee
+on Delhi Pollution, 2021).
+3.Resource Mismanagement: Courts lack expertise
+for policy implementation (e.g., Swachh Bharat
+directives)
+4.Judicial Populism : ban on the sale of liquor along
+highways
+5.Democratic Erosion: Undermines parliamentary
+sovereignty (e.g., NCT of Delhi v. UOI, 2018,
+redefining federal powers).
+6.Inconsistency: Ad hoc rulings create legal
+uncertainty (e.g., varying standards in
+environmental bans).
+1.Filling Legislative Gaps: Addresses
+parliamentary inaction (e.g., Vishaka guidelines
+for workplace harassment).
+2.Protecting Vulnerable Groups: Ensures rights
+enforcement (e.g., Right to Food litigation,
+expanding welfare access).
+3.Executive Accountability: Monitors government
+inaction (e.g., Vineet Narain v. UOI, 1997,
+directing CBI autonomy).
+4.Innovative Remedies: Flexibly enforces rights
+(e.g., continuing mandamus in environmental
+cases).
+5.Rights Expansion: Dynamic interpretation
+adapts to societal changes (e.g., Privacy as a
+Fundamental Right, 2017).
+Judicial activism, when rooted in constitutional fidelity and public interest, serves as a vital corrective to executive inaction and legislative
+inertia, empowering the marginalized and expanding rights. Yet, when it blurs into judicial adventurism, it risks eroding democratic
+accountability and unsettling the separation of powers.
+Judicial Restraint
+Components
+Respecting precedent: Upholding established precedents rather than overturning past decisions. (Review Petitions)
+Deferring to legislative intent: Referring to the original intent of lawmakers when interpreting laws. (Same Sex Marriages)
+Presumption of constitutionality: Assuming laws are constitutional unless there is a clear violation (Art 13(2))
+Rationale
+1.only judiciary is empowered to decide the limits of the jurisdiction of the other organs of the government, and therefore, this
+power should be exercised with utmost humility and self-restraint
+2.the mistake or errors of the lower courts can be corrected by the higher courts, but there is none above the Supreme Court to
+correct its error.
+JUDICIAL ACTIVISM
+Human Rights 	Env. Protection 	Judicial Legislation by Direction
+Sunil Batra v Delhi Admn : right
+to protection against solitary
+confinement
+Nilabati Behera v State of Orissa :
+right against custodial violence
+D K Basu v State of West Bengal :
+right of the arrested person
+Vishaka v State of Rajasthan :
+right of the female employees not
+to be sexually harassed at the
+place of work
+Bandhua Mukti Morcha : right to
+live with human dignity, free from
+exploitation.
+Majorly through PILs
+Vellore Citizens Welfare Forum v
+Union of India (1996) : pollution by
+tannery industries
+T N Godavarman v Union of India
+(1997): protection and
+conservation of forests
+MC Mehta v India (1987): polluter
+pays for the pollution
+AP Pollution Control Board v MV
+Nayudu (1999): the burden of
+proof will lie on the party that
+wants to change the status
+Majorly through PILs
+Gaurav Jain v India(1990) :
+directions as to how children
+of prostitutes should be
+educated
+TMA Pai Foundation v
+Karnataka(1995) : what should
+be the fee structure in medical
+or engineering colleges
+Vishaka v Rajasthan(1997)
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+MCN 2.0
+Mains Concise Note (MCN) 60 : Judicial Activism & Restraint
+Magna Carta Mains 2026
+
+-- 12 of 31 --
+
+Art 142 : Complete Justice
+Rationale
+1.Grant relief to do “complete
+justice” in a given case beyond
+the applicable statutory provisions
+2.issue directions to fill, what the
+court perceives as “legislative
+gaps”, which directions operate as
+the law of the land until such time
+that the legislature or the
+executive steps in.
+3.Do not hold precedent value
+Analysis
+1.Pros:
+a.Equitable Justice: Resolves unique cases (e.g., Union Carbide
+Compensation, 1989, for Bhopal victims).
+b.Systemic Reforms: Enables structural changes (e.g., Lakshmi Kant Pandey
+v. UOI, 1984, regulating inter-country adoptions).
+c.Ensures Complete Justice : Perarivalan Case (2022)
+d.Protects Public Interest: In Savelife Foundation v. UOI (2016
+2.Cons:
+a.Unchecked Authority: Risks judicial overreach (e.g., Reliance Natural
+Resources Ltd. v. Reliance Industries, 2010, rewriting contracts).
+b.Legal Uncertainty: Erodes statutory predictability (e.g., Coal Block
+Allocation cancellations, 2014, disrupting industries).
+“Paradoxically, the greatest danger to the administration of justice and constitutional interpretation arises from the
+genuine desire of Judges to do justice in each individual case.”... HM Seervai
+Research published by IIM-Ahmedabad in May 2024 suggests that of the 1579 Supreme Court cases where the terms
+“Article 142” or “complete justice” were used, instances of ambiguous usage in almost 40% of cases
+In Supreme Court Bar Association v Union of India (1998), SC referred to the provision as “a valuable weapon in the hands
+of the Court to prevent clogging or obstruction of the stream of injustice.” But it also imposed a kind of fetter on the
+provision by noting that it can “supplement” but not “supplant” the substantive law under consideration.
+For a direction under Article 142 to be effective, there needs to be an implementation mechanism. [Pravasi Bhalai
+Sangathan v Union of India (2014)]
+Intro
+As long as there are intersections between law and public life, there will be a place for the Court’s discretionary power under Article
+142. And as long as the rule of law prevails, there will be calls to use it sparingly, at each time upholding constitutional principles and
+respecting the separation of powers
+Suo Moto
+Intro
+In 2024, the Supreme Court exercised its suo moto jurisdiction in 12 cases, the highest ever since its establishment
+Methods
+Court may take action against a person who disobeys or shows ‘contempt’ towards it
+Court may, by its own will, transfer a case to itself or to the lower courts
+It may take cognisance of pressing issues affecting society
+Pros
+Urgent Intervention: Suo motu powers
+allow courts to intervene swiftly in
+emergencies, such as during the COVID-
+19 migrant crisis, where the Supreme
+Court took cognizance of the plight of
+migrant workers
+Public Interest: Suo motu actions can
+protect marginalized groups and address
+systemic issues that might otherwise go
+unnoticed, such as the rights of deaf
+students or prisoners1.
+Cons
+1.Selective Justice: The exercise of suo motu
+powers depends on the priorities of
+individual judges, leading to concerns about
+selective justice.
+2.Procedural Risks: Suo motu actions may lack
+procedural safeguards, such as proper notice
+and hearing, raising concerns about fairness
+and due process.
+3.Judicial Overreach: Suo motu powers can
+lead to judicial overreach, where courts
+intervene in matters that are best left to the
+executive or legislature.
+Examples
+1.Manipur Violence
+2.Lokpal HC Judge Ambit
+3.Ganga Cleanliness
+4.Sariska Tiger Reserve
+5.Kar Hospital Case
+Art 32, 226 and growth of PILS have increased the scope of suo moto cases heard by constitutional courts.
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+MCN 2.0
+Mains Concise Note (MCN) 61 : Suo Moto & Complete Justice
+Magna Carta Mains 2026
+
+-- 13 of 31 --
+
+# 	Issue / Theme 	Case Name 	Key Holding
+1 Menstrual health as
+fundamental right Dr. Jaya Thakur v. Union of India
+Menstrual health/dignity recognised under
+Art. 21 (and 21A, 14) as inseparable from
+right to life; directed infrastructure,
+education, gender-sensitised curricula.
+Court separately (Shailendra Mani Tripathi
+PIL) declined to mandate uniform paid
+menstrual leave, fearing hiring bias;
+referred policy design to MWCD.
+2 Artificial nutrition &
+passive euthanasia
+Harish Rana v. Union of India (M.A.
+No. 2238/2025)
+First actual application of Common Cause
+(2018) guidelines; held Clinically Assisted
+Nutrition and Hydration (CANH/PEG-tube
+feeding) is 'medical treatment' that can be
+withdrawn/withheld under the 'best
+interest of patient' test when it only
+prolongs dying without therapeutic benefit.
+3 Safe passage on highways In Re: Phalodi Accident (following
+Gyan Prakash v. UoI, 2025)
+Held 'right to safe passage on roads' part of
+Art. 21; imposed positive state duty on
+NHAI/MoRTH to remove encroachments,
+blackspots, illegal roadside structures; suo
+motu after 34 deaths in
+Rajasthan/Telangana highway crashes.
+Issued 13 guidelines.
+4 Right to live without fear
+of animal attacks In Re: City Hounded by Strays
+Right to life with dignity includes freedom
+from stray dog/cattle attacks; ordered
+fencing of schools/hospitals, sterilisation-
+relocation of strays, cattle removal from
+highways/expressways, personal liability
+for defaulting officials.
+5 Human trafficking victims'
+right to rehabilitation Prajwala v. Union of India
+First recognised a constitutional right to
+rehabilitation for trafficking/CSE victims
+under Arts. 21 & 23; issued a
+comprehensive 'Victim Protection Plan';
+clarified rehabilitation cannot be forced on
+a victim against her will; distinguished
+trafficking from voluntary adult sex work.
+6 Right to walk on footpath Maniyar Iliyaz @ Shaik Riyaz v. P.
+Ayyappan
+Right to walk on safe, demarcated
+footpaths held a fundamental right under
+Art. 19(1)(d) (with Art. 21 dimension),
+taking priority over vehicular movement.
+Follows earlier S. Rajaseekaran v. UoI
+orders (14 May 2025) on
+accessible/disabled-friendly footpaths
+under Art. 21.
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+MCN 2.0
+Mains Concise Note (MCN) 62 : Recent Case Law Examples
+Magna Carta Mains 2026
+Rights, Social Justice & Environmental Governance Cases (2025-2026)
+
+-- 14 of 31 --
+
+7 Chambal sand mining In Re: Illegal Sand Mining in
+National Chambal Sanctuary
+Suo motu cognisance of illegal sand
+mining destroying Gharial habitat; stayed
+Rajasthan's denotification of 732
+hectares; directed GPS/CCTV
+monitoring; held state officials potentially
+'vicariously liable' for inaction.
+8 NCERT / judicial corruption
+controversy In Re: NCERT Class 8 Textbook
+SC took suo motu cognisance of a Class 8
+chapter referencing judicial
+corruption/case backlog; imposed
+blanket ban, ordered seizure/digital
+takedown, issued show-cause notices to
+NCERT, calling it a potential contempt;
+textbook later withdrawn by government.
+9 Maternity leave for adoptive
+mothers
+Hamsaanandini Nanduri v. Union of
+India
+Struck down Section 60(4), Code on
+Social Security, 2020 (age-cap of 3
+months on adopted child for maternity
+leave eligibility) as violative of Arts. 14 &
+21; adoptive mothers now entitled to 12
+weeks' leave irrespective of child's age;
+Centre urged to legislate paternity leave.
+10 Aravalli hills / mining In Re: Definition of Aravalli Hills
+and Ranges
+Initially accepted a 100-metre-height +
+500m-buffer definition and ordered a
+Management Plan for Sustainable Mining
+(MPSM); after protests, Court stayed its
+own order and constituted a fresh High-
+Powered Expert Committee - interim
+mining freeze continues.
+11 CSR to include environmental
+responsibility
+M.K. Ranjitsinh & Ors. v. Union of
+India (Great Indian Bustard case)
+Held Corporate Social Responsibility
+inherently includes Corporate
+Environmental Responsibility (CER); CSR
+environmental spending is a
+constitutional obligation under Art.
+51A(g) and Companies Act s.166(2), not
+voluntary charity; banned solar
+installations >2MW and overhead
+transmission lines in GIB habitat.
+12 Narco tests 	Amlesh Kumar v. State of Bihar
+Reaffirmed Selvi v. State of Karnataka
+(2010) - forced narco tests violate Arts.
+20(3) & 21; voluntary tests need
+magistrate-recorded informed consent
+and have no standalone evidentiary
+value.
+13 Ex post facto environmental
+clearances
+Vanashakti v. Union of India
+(original) -> CREDAI v. Vanashakti
+(review)
+Originally struck down 2017
+Notification/2021 OM permitting
+retrospective ECs as unconstitutional
+(Art. 21). On CREDAI's review petition, a
+2:1 bench recalled this ruling, a- sharply
+criticised in dissent as retrogression from
+the precautionary principle.
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+MCN 2.0
+Mains Concise Note (MCN) 62 : Recent Case Law Examples
+Magna Carta Mains 2026
+
+-- 15 of 31 --
+
+# 	Issue / Theme 	Case Name 	Key Holding
+14 Judicial review of legislation
+(interim stay standard)
+In re: Waqf (Amendment) Act,
+2025 (Asaduddin Owaisi v.
+UoI)
+Refused blanket stay of the Act (presumption
+of constitutionality of parliamentary law), but
+partially stayed specific provisions (e.g., 'waqf
+by user' deletion effects, non-Muslim board
+composition aspects) pending final hearing -
+illustrates the Court's calibrated/restrained
+model of judicial review of a full statute.
+15 Suo motu + Article 142 (road
+safety)
+In Re: Phalodi Accident v.
+NHAI
+Suo motu after 34 deaths in twin highway
+crashes; invoked Art. 142 to issue nationwide
+interim directions on highway safety - a fresh
+example of the 'complete justice' doctrine
+reviving debate on its scope/limits.
+16 Article 142 - service law /
+institutional deadlock
+All India Judges Assn. v. Union
+of India
+5-judge bench invoked Art. 142 to lay down
+mandatory, judicially-created seniority rules
+(roster system) for Higher Judicial Service
+officers - example of the Court filling a
+legislative/administrative vacuum via
+'complete justice' where states had failed to
+frame uniform rules.
+17
+Bulldozer justice / right to
+shelter (curbing executive
+excess)
+In Re: Directions in the Matter
+of Demolition of Structures
+Declared punitive demolitions 'wholly
+unconstitutional', violating due process,
+separation of powers and the right to shelter
+(Arts. 19 & 21); laid down pan-India
+guidelines (show-cause notice, 15-day period,
+videography); in March 2025 ordered Rs 10
+lakh compensation to UP demolition victims
+for non-compliance - continuing mandamus in
+action.
+18 Judicial review of Election
+Commission's plenary power
+Association for Democratic
+Reforms v. Election
+Commission of India (Bihar SIR
+case)
+Upheld ECI's Special Intensive Revision of
+electoral rolls as within Art. 324 / S.21(3) RPA
+power, but had earlier used interim directions
+(Aadhaar/ration card as ID proof, online
+claims for excluded voters) to soften the
+exercise - balances deference to a
+constitutional body with rights-protective
+interim tailoring.
+MCN 2.0
+Mains Concise Note (MCN) 62 : Recent Case Law Examples
+Magna Carta Mains 2026
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+Judicial Review, Activism, Suo Motu Cognisance & Article 142 ('Complete Justice')
+
+-- 16 of 31 --
+
+19 Suo motu on
+institutional/judicial dignity
+In Re: NCERT Class 8
+Textbook
+Suo motu cognisance (no petitioner) leading
+to a blanket ban/seizure order and contempt
+threat - widely debated as an example of the
+judiciary acting as both 'protector and
+prosecutor' of its own institutional reputation,
+raising due-process and self-restraint
+questions.
+20 Judicial review recall / self-
+correction
+CREDAI v. Vanashakti (Review
+of the ex post facto EC ban)
+The Court reviewed and recalled its own May
+2025 judgment on environmental clearances
+- a rare instance of the SC exercising review
+jurisdiction to reverse itself, prompting
+debate on judicial consistency and the
+precautionary principle (strong dissent by
+Bhuyan, J.).
+21 Suo motu - wildlife/public
+safety (continuing mandamus)
+In Re: City Hounded by Strays
+(stray dog/cattle menace)
+Multi-stage suo motu proceeding with
+escalating directions (fencing, sterilisation,
+relocation, personal liability of officials) - a
+classic example of continuing judicial
+supervision over an executive/municipal
+failure.
+22
+Suo motu - ecological
+protection (continuing
+mandamus, Art. 142)
+In Re: Illegal Sand Mining in
+National Chambal Sanctuary
+Court invoked Art. 142 to issue detailed,
+evolving directions to three states, NHAI and
+central ministries; held errant officials could
+be 'vicariously liable' - shows judiciary
+stepping into a coordination vacuum among
+states.
+23 Judicial self-restraint / limits
+on Article 142
+High Court Bar Assn.,
+Allahabad v. State of U.P. line
+of reasoning (revisited in 2026
+discourse)
+Reaffirmed that Art. 142 cannot override
+statutory provisions, nullify accrued rights of
+non-parties, or bypass natural justice - cited
+repeatedly in 2025-26 commentary as the
+doctrinal ceiling on 'complete justice',
+especially amid criticism of expansive suo
+motu orders (NCERT case, Aravalli flip-flop).
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+MCN 2.0
+Mains Concise Note (MCN) 62 : Recent Case Law Examples
+Magna Carta Mains 2026
+Judicial Review, Activism, Suo Motu Cognisance & Article 142 ('Complete Justice')
+
+-- 17 of 31 --
+
+Judicial Activism / Positive Rights Expansion
+• Bulldozer justice curbs (Demolition of Structures, 2024-25) - judiciary checking executive excess and
+protecting the right to shelter through pan-India binding guidelines and compensation orders.
+• Chambal sand mining & Aravalli suo motu interventions - judiciary filling a coordination vacuum
+among States on ecologically sensitive matters, using continuing mandamus and Article 142.
+• Human trafficking victims' right to rehabilitation (Prajwala case) - Court fashions a comprehensive
+'Victim Protection Plan' in the continued absence of a dedicated central law (since 2004).
+• Passive euthanasia extension to CANH (Harish Rana case) - incremental but significant extension of
+the Common Cause (2018) framework to a new category of medical treatment.
+• Right to safe highways / footpaths - novel extensions of Article 21/19(1)(d) responding to road-safety
+data, using Article 142 to issue nationwide operational directions.
+B. Judicial Restraint / Self-Correction
+• CREDAI v. Vanashakti (recall of the ex post facto EC ban) - a rare instance of the Court reviewing and
+reversing its own environmental ruling, citing the risk of 'devastating' economic consequences (with a
+strong dissent warning against retrogression from the precautionary principle).
+• Waqf (Amendment) Act interim order - Court declined a blanket stay of a parliamentary statute,
+staying only specific provisions, reaffirming that interim relief against legislation should be exceptional.
+• Bihar SIR judgment (ADR v. ECI) - deference to the Election Commission's plenary power under Article
+324, even while using earlier interim orders to protect voters from arbitrary exclusion.
+• Aravalli definition flip-flop - the Court's willingness to stay its own November 2025 order after
+recognising the earlier expert committee's recommendations may have been 'misconstrued', and to
+reconstitute a fresh committee.
+C. Contested / Criticised Instances of Activism
+• NCERT Class 8 textbook suo motu ban - criticised as the judiciary acting as 'protector and prosecutor'
+of its own institutional reputation without full adversarial hearing; raises due-process concerns even
+where the underlying discomfort (an unapproved chapter naming judicial corruption) is understandable.
+• Menstrual leave PIL - Court's refusal to mandate a uniform paid-leave policy (fearing hiring bias)
+shows a self-aware limit on how far rights-language can be translated into binding economic mandates,
+leaving the matter to executive policy design.
+D. Doctrinal Anchors
+• Article 142 ('complete justice'): used in All India Judges Assn. (service law), Phalodi Accident (road
+safety), and the Chambal sand-mining proceedings - but its limits were reaffirmed in the Allahabad HC
+Bar Association line of reasoning: Article 142 cannot override statute, nullify accrued third-party rights,
+or bypass natural justice.
+• Suo motu cognisance: exercised in NCERT (institutional dignity), Chambal (ecology), and stray-animal
+(public safety) matters - useful to discuss both its emergency-response value (COVID migrant crisis
+precedent) and its risks (selective justice, absence of a formal petitioner/adversarial process).
+• Continuing mandamus: visible in the Demolition of Structures, Chambal sand-mining, and stray-dog
+proceedings - the Court retains seisin over a matter through repeated compliance hearings rather than a
+one-time order.
+• Judicial review of legislation: Waqf Amendment Act case is the clearest 2025-26 example of the
+'presumption of constitutionality' standard being applied to limit interim stays of parliamentary
+enactments.
+MCN 2.0
+Mains Concise Note (MCN) 62 : Recent Case Law Examples
+Magna Carta Mains 2026
+Analysis of Recent Case Laws
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+
+-- 18 of 31 --
+
+MCN 2.0
+Mains Concise Note (MCN) 63 : Attorney General
+Magna Carta Mains 2026
+Article 76: Provides for the Attorney General of India (AG) as the highest law officer of the Union.
+Nature of Office
+Constitutional office, not a government servant.
+Represents a hybrid character:
+Advisor to the Executive,
+Officer of the Court,
+Participant in the Legislature.
+This makes the AG a bridge institution across all
+three organs of the State.
+Appointment, Qualifications, Tenure
+Appointment : by the President on the advice of the Government
+(PM/Law Minister).
+Qualifications : Must be qualified to be appointed as a SC
+Citizen of India.
+Holds office during the pleasure of the President (i.e., government).
+No fixed tenure.
+Usually resigns when a new government comes to power.
+Remuneration
+Determined by the Government; not charged on the CFI
+Powers, Duties & Functions
+(A) Advisory Functions
+Advises the Government of India on legal matters.
+Gives opinions when referred by the President
+(Article 143 references are to the Supreme Court,
+not AG).
+(B) Legal Representation
+Represents the Union in:
+Supreme Court
+High Courts
+Tribunals
+Handles major constitutional cases (e.g., Aadhaar,
+Sabarimala, Article 370 challenges, etc.).
+(C) Legislative Role
+Can participate in Parliament proceedings.
+Provides legal clarifications on the floor of the
+House.
+(D) Miscellaneous
+Supervises Solicitor General and Additional
+Solicitors General.
+Represents India in international legal matters
+(e.g., ICJ in Kulbhushan Jadhav case—though
+handled by Harish Salve, AG was involved in
+policy framing).
+Limitations on the Attorney General
+Not a Government Employee
+Cannot be sued for advice rendered.
+Cannot practice as a lawyer against the Government of
+India.
+Restrictions
+Cannot defend accused in criminal cases without
+government consent.
+Cannot appear in cases where the Government is an
+adverse party.
+Conflict of Interest Issue
+AG can have private practice → creates potential
+conflict between public duty and private clients
+Importance of the Attorney General
+Guardian of Constitutional Values
+Expected to uphold constitutional morality in advising the
+Executive.
+Legal Cohesion
+Ensures uniformity in litigation strategy across ministries.
+Voice of the Union in the Court
+Symbolically represents sovereignty and the Union government.
+Institutional Memory
+Provides continuity amidst changing political leadership.
+Issues & Criticisms
+1. Lack of Independence
+AG holds office “during pleasure” → politically dependent.
+Often criticised for defending government decisions rather
+than constitutional correctness
+Example: AG’s defence of Aadhaar Act as Money Bill (2016).
+2. No Fixed Tenure
+Can be removed anytime, impacting autonomy.
+3. Conflict of Interest
+AGs have taken private clients that may lead to perceived
+bias.
+4. No Statutory Duties or Code of Conduct
+Unlike UK where AG follows a strict Ministerial Code.
+5. Heavy Litigation Load
+Government is the largest litigant → overburdens AG’s
+office.
+6. Limited Parliamentary Accountability
+AG participates but does not vote or undergo rigorous
+parliamentary oversight.
+Reforms Needed
+1. FIXED TENURE
+E.g., 3-year term → ensures independence.
+2. STATUTORY FRAMEWORK
+Define duties, conflict of interest rules, ethical obligations.
+3. FULL-TIME POSITION
+Bar private practice; compensate accordingly.
+4. STRENGTHEN LAW OFFICERS’ CADRE
+Create a professional legal service for government litigation.
+5. TRANSPARENCY IN APPOINTMENT
+Use a collegium-like consultative mechanism (PM, CJI, LoP).
+6. Enhance Parliamentary Oversight
+Regular reports to Standing Committees.
+7. Reduce Government Litigation
+Implement National Litigation Policy to reduce frivolous
+appeals.
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+
+-- 19 of 31 --
+
+Intro
+The SC in Gayatri Balasamy v ISG Novasoft Technologies (2025) upheld a court’s power to modify an arbitral
+award under Sections 34 and 37 of the Arbitration Act, 1996
+In a legal system burdened by delays and procedural complexity, the Arbitration and Conciliation Act, 1996 was
+envisioned as a bold escape route—offering speed, flexibility, and finality. Yet, as arbitration increasingly mirrors
+litigation in cost and complexity, one must ask: has it remained a true alternative, or merely become a parallel
+courtroom cloaked in private robes?
+Rationale Behind the Arbitration and Conciliation Act, 1996
+1.Minimise Judicial Intervention: The Act sought to limit the supervisory role of courts in arbitral proceedings, aiming to
+expedite the resolution of disputes and reduce the burden on the judicial system.
+2.Promote Efficiency and Finality: The Act was designed to make arbitral procedures fair, efficient, and capable of meeting
+the needs of specific arbitrations, ensuring that arbitral awards are final, binding, and enforceable as a decree of the court.
+3.Align with International Standards: The 1996 Act was based on the United Nations Commission on International Trade
+Law (UNCITRAL) Model Law on International Commercial Arbitration, bringing Indian law into conformity with global best
+practices and making India an arbitration-friendly jurisdiction.
+4.Encourage Alternative Dispute Resolution (ADR): The Act was part of a broader movement to promote ADR mechanisms,
+such as arbitration, conciliation, and mediation, as alternatives to traditional litigation, which is often slow, expensive, and
+procedurally rigid.
+5.Support Economic Liberalisation: The Act was introduced in the context of India’s economic liberalization in the 1990s,
+aiming to attract foreign investment by providing a reliable and efficient dispute resolution mechanis
+Key Aspects of the Arbitration and Conciliation Act
+Part I – Arbitration:
+Governs domestic arbitration and international
+commercial arbitration seated in India.
+1.Arbitration Agreement: Must be in writing and can be a
+clause in a contract or a separate agreement.
+2.Appointment of Arbitrators: Parties can agree on the
+procedure; if they fail, the court can appoint arbitrators.
+3.Jurisdiction: Arbitral tribunal can rule on its own
+jurisdiction (Kompetenz-Kompetenz principle).
+4.Conduct of Proceedings: Tribunal is not bound by the
+Code of Civil Procedure or the Indian Evidence Act;
+proceedings are flexible and party-driven.
+5.Interim Measures: Tribunal and courts can grant interim
+relief.
+6.Arbitral Award: Must be in writing, reasoned, and signed.
+It is final and binding on the parties.
+7.Setting Aside Awards: Limited grounds for setting aside,
+including invalidity of agreement, lack of notice, and
+violation of public policy.
+8.Enforcement: Awards are enforceable as a decree of the
+court.
+Part II – Foreign Awards:
+Governs enforcement of foreign arbitral awards under
+the New York and Geneva Conventions
+1.Definition of Foreign Award: Award made
+in a reciprocating territory under a written
+arbitration agreement.
+2.Enforcement: Foreign awards are
+enforceable in India, subject to limited
+grounds for refusal.
+Part III – Conciliation:
+Governs conciliation proceedings, which are voluntary,
+confidential, and result in a binding settlement agreement
+Part IV – Supplementary Provisions:
+Miscellaneous provisions, including rule-making powers for
+High Courts
+1.Section 5: Limits judicial intervention.
+2.Section 7: Defines Arbitration Agreement.
+3.Sections 8 & 11: Mandates judicial authorities to refer disputes to arbitration and empowers
+courts to appoint arbitrators.
+4.Section 16: Kompetenz-Kompetenz — Arbitral Tribunal can rule on its own jurisdiction.
+5.Section 34: Grounds for setting aside an arbitral award (e.g., public policy, procedural irregularity).
+6.Section 36: Awards are enforceable as court decrees.
+7.Sections 44-52: Deals with foreign awards and their enforcement under New York Convention
+Key Sections of the
+Arbitration and
+Conciliation Act
+MCN 2.0
+Mains Concise Note (MCN) 64 : Arbitration & Conciliation Act
+Magna Carta Mains 2026
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+
+-- 20 of 31 --
+
+Key Amendments to the Arbitration and Conciliation Act
+1.2015 Amendment:
+a.Timelines: Introduced strict timelines for the completion of arbitral proceedings (12 months, extendable by 6 months).
+b.Fast Track Procedure: Provided for a fast-track arbitration process.
+c.Public Policy Challenge: Clarified and narrowed the scope of “public policy” as a ground for setting aside awards.
+d.Confidentiality: Strengthened provisions for confidentiality of arbitral proceedings.
+e.Interim Relief: Allowed Indian courts to grant interim relief in support of foreign-seated arbitrations.
+f.IBA Guidelines: Incorporated the IBA Guidelines on Conflicts of Interest as schedules to the Act.
+2.2019 Amendment:
+a.Arbitration Council of India (ACI): Established the ACI to promote institutional arbitration and set standards for
+arbitrators and institutions.
+b.Qualification and Accreditation: Introduced criteria for the qualification and accreditation of arbitrators, raising
+concerns about the exclusion of foreign-qualified arbitrators.
+c.Streamlining Procedures: Aimed to further streamline procedures and reduce delays, though some provisions (like ACI)
+have not been fully implemented.
+3.Other Legislative Developments:
+a.Commercial Courts Act, 2015: Established specialised commercial courts to handle complex commercial disputes,
+including arbitration matters.
+b.New Delhi International Arbitration Centre (NDIAC) Act, 2019: Created a flagship institution for conducting
+international and domestic arbitrations in India
+Key Judgments Related to the Arbitration and Conciliation Act
+1.BALCO v. Kaiser Aluminium (2012): Part I applies only to arbitrations seated in India. Indian courts have no jurisdiction
+over foreign-seated arbitrations.
+2.S.B.P. & Co. v. Patel Engineering (2006): Held that the power of the Chief Justice under Section 11 (appointment of
+arbitrators) is judicial, not administrative.
+3.ONGC v. Saw Pipes Ltd. (2003): Expanded the scope of “public policy” to include “patent illegality” as a ground for setting
+aside awards, leading to increased judicial intervention.
+4.Shri Lal Mahal v. Progetto Grano Spa (2013): Clarified that the definition of “public policy” in enforcement proceedings is
+narrower than in setting aside proceedings
+5.Gayatri Balasamy v. M/s ISG Novasoft Technologies Ltd. (2025): Clarified the limited circumstances under which courts
+can modify arbitral awards, including severability of invalid parts, correction of clerical errors, and modification of post-
+award interes
+Issues with Arbitration and Conciliation
+1.Judicial Intervention
+2.Delays
+3.Costs
+4.Lack of Precedent
+5.Confidentiality Issues
+6.Bias and Repeat Appointments
+7.Limited Judicial Review
+8.Unfamiliarity with ADR.
+9.Statutory vs. Contractual Arbitration
+Solutions
+1.Strict Adherence to Timelines
+2.Judicial Training
+3.Promotion of Institutional Arbitration
+4.Legislative Clarity
+5.Awareness Campaigns
+6.Confidentiality Safeguard
+7.Arbitrator Accreditation
+8.Legislative Reform
+Impact of the Supreme Court Judgment on Power to Modify Awards
+Limited Power to Modify: Courts have a limited power to modify awards under Sections 34 and 37 of the Act,:
+Severability: When invalid parts of the award can be separated from valid parts.
+Clerical/Computational Errors: To correct typographical, clerical, or computational errors.
+Post-Award Interest: To modify post-award interest if it does not comply with the standards prescribed by the Act
+No General Power to Modify
+Art 142 can still be used
+The promise of ADR lies not just in statutes, but in reimagining justice itself.
+MCN 2.0
+Mains Concise Note (MCN) 64 : Arbitration & Conciliation Act
+Magna Carta Mains 2026
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+
+-- 21 of 31 --
+
+Rationale
+1.Judicial Efficiency: Reducing court burdens by mandating pre-litigation mediation for civil/commercial disputes
+(excluding urgent interim relief).
+2.International Alignment: Aligning with global practices like the Singapore Convention by subsuming "conciliation"
+under "mediation" and recognising online/community mediation.
+3.Economic Growth: Positioning India as a hub for domestic/international mediation to boost commercial dispute
+resolution.
+Key Provisions
+Scope and Application
+1.Mandatory Pre-Litigation Mediation:
+Required for civil/commercial suits
+unless urgent interim relief is sought.
+2.International Mediation: Applies to
+mediations conducted in India where
+at least one party is foreign-national
+or entity.
+3.Exclusions: Disputes involving minors,
+deities, criminal prosecutions, tax
+matters, and others listed in the First
+Schedule
+Process Framework
+1.Time Limits: Mediation must
+conclude within 120 days
+(extendable by 60 days).
+2.Confidentiality: All mediation
+communications are privileged;
+inadmissible in courts/tribunals.
+3.Settlement Enforcement: Mediated
+agreements are enforceable as
+court decrees under the Code of
+Civil Procedure, 1908
+Institutional Mechanisms
+1.Mediation Council of India (MCI):
+Regulates mediator registration,
+accreditation, and ethical
+standards.
+2.Mediation Service Providers:
+Includes court-annexed centers,
+legal services authorities, and
+government-notified bodies.
+3.Online/Community Mediation:
+Recognises digital mediation and
+community-led resolution for
+local disputes
+Amendments to Existing Laws
+Overrides conciliation provisions in the Arbitration and Conciliation Act, 1996.
+Amends the Indian Contract Act, 1872, and CPC, 1908, to reference mediation.
+1.Procedural Ambiguities
+a.Interim Measures
+b.Mediator Standards
+2.Implementation Gaps
+a.Voluntary vs. Mandatory
+b.Registration of Settlements
+3.Exclusion of Key Disputes
+a.Government Entities
+b.Cross-Border Gaps
+Issues Solutions
+1.Legislative and Regulatory Improvements
+a.Ratify Singapore Convention
+2.Issue Clarifying Rules:
+a.Define interim relief powers for mediators/courts.
+b.Adopt conflict-of-interest guidelines
+c.Mandate Registration
+3.Operational Enhancements
+a.MCI Capacity Building:
+b.Digital Infrastructure
+4.Stakeholder Engagement
+a.Government Flexibility
+b.Awareness Campaigns
+Intro
+India’s Mediation Association as well as the first mediation conference was launched and conducted
+respectively in May 2025
+“The Mediation Act was the first step in consolidating Gandhi’s civilisational legacy.” - Hon’ble Pres Murmu
+Mediation offers resolution, not retaliation. But unless it's empowered with trust, structure, and wider acceptance, it risks
+becoming the most underused tool in a system desperate for alternatives.
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+MCN 2.0
+Mains Concise Note (MCN) 65 : Mediation Act
+Magna Carta Mains 2026
+
+-- 22 of 31 --
+
+Comparison Chart
+Aspect 	Arbitration 	Conciliation 	Mediation
+Governing Law Arbitration and Conciliation Act,
+1996;
+Arbitration and Conciliation Act,
+1996 (Part III); Mediation Act,
+2023
+Mediation Act, 2023; Code of
+Civil Procedure, 1908 (Section
+89); Supreme Court (Mediation
+Initiation
+Written arbitration agreement or
+clause; Notice of arbitration to
+other party
+Mutual consent; Written
+invitation to conciliate;
+Appointment of conciliator
+Mutual consent; Court referral;
+Pre-litigation mediation as per
+Mediation Act, 2023
+Neutral Party
+Arbitrator(s) appointed by parties
+or court; Must be impartial and
+independent
+Conciliator(s) appointed by
+parties; Can be 1-3 conciliators
+Mediator chosen by parties or
+appointed by court/institution;
+Must be certified as per Act, 2023
+Procedure
+Formal hearings; Submission of
+pleadings and evidence; Cross-
+examination allowed
+Less formal; Conciliator meets
+parties jointly and separately; Can
+suggest terms of settlement
+Informal; Mediator facilitates
+dialogue; Joint and private
+sessions; No power to impose
+Outcome Binding arbitral award; Final and
+enforceable like court decree
+Non-binding settlement
+agreement; Becomes binding
+when signed by parties
+Non-binding mediated settlement
+agreement; Can be made binding
+through court order
+Enforceability Domestic awards enforced under
+Section 36;
+Enforceable as per Section 73 of
+Arbitration and Conciliation Act
+Enforceable under Section 28 of
+Mediation Act, 2023; Can be
+challenged within 90 days
+Confidentiality
+Confidential proceedings; Award
+may be public unless agreed
+otherwise
+Highly confidential; Section 75
+prohibits disclosure of information
+Confidential as per Section 21 of
+Mediation Act; Exceptions for
+implementation or enforcement
+Applicable
+Disputes
+Commercial, civil disputes; Some
+matters excluded (e.g., criminal,
+matrimonial)
+Commercial, civil matters, family
+disputes; Not applicable for non-
+compoundable offences
+All civil, commercial, family
+disputes; Exceptions in First
+Schedule of Mediation Act
+Court
+Intervention
+Limited to appointment, interim
+measures, and
+enforcement/setting aside of
+Minimal; Court may appoint
+conciliator if parties fail to agree
+Court can refer cases to
+mediation; Can enforce mediated
+settlement agreements
+Time Frame
+12 months from completion of
+pleadings; Extendable by 6
+months (Section 29A)
+No specific time limit; Parties can
+agree on duration
+120 days from first appearance;
+Extendable to 180 days with
+parties' consent
+Cost Generally higher; Arbitrator fees,
+venue costs, legal representation
+Moderate; Conciliator fees,
+administrative costs
+Usually lower; Mediator fees,
+possible court fees for
+enforcement
+Appeal Limited grounds for appeal under
+Section 34; Time limit of 3 months
+No appeal process; Settlement
+agreement treated as arbitral
+award
+Limited grounds for challenge
+under Section 29 of Mediation Act
+Role of Neutral
+Adjudicatory; Makes binding
+decision based on evidence and
+law
+Advisory; Actively proposes
+solutions and settlement terms
+Facilitative; Helps parties
+communicate and find their own
+solution
+Flexibility Less flexible; Follows agreed rules
+or institutional rules
+Moderately flexible; Conciliator
+can structure process
+Highly flexible; Parties have
+control over process and outcome
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+MCN 2.0
+Mains Concise Note (MCN) 66 : Arbitration & Conciliation Act
+Magna Carta Mains 2026
+
+-- 23 of 31 --
+
+Level 	Institution 	Jurisdiction
+District Level 	Commercial Courts
+For areas where High Courts have ordinary
+original civil jurisdiction (OOCJ) — e.g., Delhi,
+Bombay, Madras, Calcutta.
+High Court Level 	Commercial Division Bench of the High Court for cases above the
+specified value.
+Appellate Division Commercial Appellate
+Division
+Hears appeals from Commercial Courts and
+Commercial Divisions.
+Issue
+Infrastructure Gaps
+Capacity
+Constraints
+Compliance with
+Timelines
+Limited Awareness
+Appeal Backlog
+MCN 2.0
+Mains Concise Note (MCN) 67 : Commercial Courts
+Magna Carta Mains 2026
+Before 2015, commercial disputes in India were handled by regular civil courts, leading to significant delays due to case backlogs. To
+address this, the Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015
+Objective:
+To ensure speedy disposal of high-value
+commercial disputes.
+To improve India’s ease of doing business
+ranking by strengthening contract
+enforcement mechanisms.
+To create a specialized judicial
+infrastructure for commercial matters.
+Scope and Definitions
+(a) Commercial Disputes
+Defined under Section 2(1)(c) — includes disputes arising out of:
+Ordinary transactions of merchants, bankers, financiers, traders.
+Partnership agreements.
+Intellectual property rights (trademarks, patents, copyrights).
+Insurance, construction contracts, joint ventures.
+Sale of goods, immovable property used exclusively in trade or commerce.
+(b) Specified Value
+Initially: ₹1 crore (as per Section 2(1)(i)).
+Amended (2018): Reduced to ₹3 lakh to expand access to specialized courts
+Amendment (2018): Empowered State Governments to constitute Commercial Courts even at the district judge level in
+areas where High Courts have OOCJ.
+Timelines and Procedures
+Fast-track resolution:
+Written statement within 120 days of
+service of summons — otherwise, forfeiture
+of right to defend (Section 16).
+Case Management Hearings (Section 15A):
+Judges must manage and schedule the
+timeline for filing documents, framing
+issues, and recording evidence.
+Judgment Timeline:
+Pronouncement of judgment within 90
+days of conclusion of arguments.
+Appeals:
+To be filed within 60 days and disposed of
+within 6 months.
+Specialized Judges: Judges with experience in
+commercial disputes.
+Electronic Filing & Case Management:
+Mandatory filing of documents and affidavits
+through digital means.
+Costs Regime: Courts can award actual costs to
+discourage frivolous litigation.
+Summary Judgments (Section 16): Court can
+decide cases without recording evidence if no
+real triable issue exists.
+Way Forward
+Capacity Building: Specialized training
+for judges and court staff.
+Expansion: Establish commercial courts
+in every district.
+Digital Integration: Strengthen e-filing,
+virtual hearings, and case-tracking
+systems.
+ADR Strengthening: Institutionalize pre-
+litigation mediation through private
+mediation centers.
+Periodic Review: Regular audits to
+measure case disposal efficiency.
+By institutionalizing speed,
+specialization, and structure, it
+bridges the gap between legal
+certainty and economic growth.
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+
+-- 24 of 31 --
+
+Intro
+Tribunals are judicial or quasi-judicial institutions established by law intended to provide specialised and faster
+adjudication of certain subject matters.- Law Commission, 2017
+In 1976, Articles 323A and 323B were inserted in the Constitution of India through the 42nd CA, 1976
+1.Lack of Independence
+2.Inconsistent Functioning
+3.Infrastructure and Resources
+4.Judicial Oversight and Appeals
+5.Multiplicity and Overlap
+6.Short Tenure and Reappointment
+Issues
+1.L. Chandra Kumar v. Union of India (1997): Established that
+decisions of tribunals are subject to judicial review by High Courts
+under Articles 226/227
+2.Madras Bar Association v. Union of India (2021): SC struck down
+provisions of the Tribunals Reforms Ordinance, 2021, related to
+service conditions
+3.Municipal Corporation of Greater Mumbai v. Ankita Sinha (2021):
+Recognised the suo moto powers of the National Green Tribunal
+Judgements
+1.Strengthening Independence: Transparent and merit-based
+appointment mechanisms should be established to reduce
+executive interference
+2.Uniform Procedures: Standardising rules and procedures across
+tribunals to ensure consistency and efficiency.
+3.Adequate Resources: Providing sufficient funding, staffing, and
+infrastructure to tribunals to enhance their functioning.
+4.Capacity Building: Training and capacity development for tribunal
+members and staff.
+5.Technology Integration: Digitisation of filing, hearings, and case
+management to improve accessibility and efficiency.
+6.Judicial Oversight: Ensuring that tribunal decisions remain
+subject to judicial review, but with clear guidelines to prevent
+excessive litigation.
+7.Consolidation: Proposals to consolidate tribunals under a single
+umbrella body for better coordination and reduced multiplicity
+Solutions
+Best Practices - World Bank
+1.Data-Driven Specialisation
+2.Streamlined Processes
+3.Adequate Infrastructure and IT Support:
+4.Specialised Judicial Selection
+5.Performance Monitoring
+6.Public Awareness
+7.Alternative Dispute Resolution (ADR)
+Tribunals were created to deliver swift and specialised
+justice—but when they start mimicking courts in delay
+and dependence, they lose their very purpose. Without
+true autonomy and reform, tribunals risk becoming just
+another clogged cog in the judicial machine.
+1.As of March 15,2021, the central government
+industrial tribunal cum-labour courts had
+7,312 pending cases;
+2.As of February 28, 2021, the Armed Forces
+Tribunal had 18,829 pending cases; A
+3.As of January 1, 2018, the Income-tax
+Appellate Tribunal had 91,643 pending cases
+Data (Parl Standing Committee)
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+MCN 2.0
+Mains Concise Note (MCN) 68 : Tribunals
+Magna Carta Mains 2026
+
+-- 25 of 31 --
+
+Intro
+NGT in news for asking CPCB for framing pan India guidelines on Silica Mining, strict action on Ghazipur Landfill,
+deaths in Assam despite banning Rat Hole Mining
+The National Green Tribunal (NGT) was established under the NGT Act, 2010.
+Rationale
+1.Expeditious Disposal: To ensure speedy resolution of cases related to environmental protection, forest conservation, and
+natural resources.
+2.Expertise: To leverage multidisciplinary expertise in handling complex environmental disputes.
+3.Reducing Judicial Burden: To reduce the caseload of higher courts on environmental matters.
+4.Accessibility: To provide a less formal, less expensive, and more accessible forum for environmental justice.
+5.Implementation of Environmental Laws: To enforce laws related to pollution control, forest conservation, and environmental
+impact assessment
+Famous Decisions of the NGT
+1.Ms. Betty C. Alvares v. The State of Goa and Ors.: Recognized the right of non-citizens to file environmental cases,
+emphasizing that environmental justice is universal.
+2.Almitra H. Patel & Ors. v. Union of India and Ors.: Directed states to implement Solid Waste Management Rules, 2016,
+and prohibited open burning of waste.
+3.Srinagar Bandh Aapda Sangharsh Samiti & Anr. v. Alaknanda Hydro Power Co. Ltd. & Ors.: Held power companies liable
+for environmental damage using the "No Fault Liability" principle.
+4.Samit Mehta v. Union of India and Ors.: Applied the "Polluter Pays" principle, directing compensation for marine pollution.
+5.Save Mon Region Federation and Ors. v. Union of India and Ors.: Suspended environmental clearance for a hydro project
+to protect endangered species.
+6.Other Notable Orders: Banned old diesel vehicles in Delhi, cancelled coal block clearances in Chhattisgarh, and restricted
+construction in eco-sensitive areas like the Sunderbans
+Issues
+1.Resource Constraints: Chronic understaffing and lack of
+infrastructure, with benches often operating below
+mandated strength.
+2.Jurisdictional Limitations: Exclusion of key laws (e.g.,
+Wildlife Protection Act, Forest Rights Act) limits its ability
+to address all environmental issues.
+3.Enforcement Gaps: Many NGT orders remain
+unimplemented due to weak compliance mechanisms.
+4.Lack of Judicial Oversight: Delegation of judicial work to
+expert committees sometimes results in decisions made
+without proper hearings, violating natural justice.
+5.Credibility and Transparency: Concerns about self-
+assessment reports and perceived bias against
+development projects.
+6.Overreach Allegations: Use of suo moto powers has led to
+debates about judicial overreach and exceeding statutory
+mandates
+Solutions
+1.Increased Funding and Resources: Providing adequate financial
+and administrative support to ensure full staffing and
+functioning of all benches
+2.Expanded Jurisdiction: Including all relevant environmental laws
+under the NGT’s purview to address a broader range of issues.
+3.Improved Enforcement Mechanisms: Establishing institutional
+mechanisms to ensure compliance with NGT orders.
+4.Judicial Oversight and Natural Justice: Ensuring that all parties
+are heard and that judicial work is not unduly delegated to
+expert committees.
+5.Capacity Building: Enhancing the skills and expertise of NGT
+members and staff through training and capacity development.
+6.Transparency and Accountability: Making decisions and
+procedures more transparent and accountable to the public.
+7.Technology Integration: Using digital tools for case management,
+hearings, and communication to improve efficiency and
+accessibility
+The National Green Tribunal was born to be a green guardian, not a powerless observer. Unless its orders are enforced and its
+autonomy protected, environmental justice in India will remain more promise than practice.
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+MCN 2.0
+Mains Concise Note (MCN) 69 : National Green Tribunal
+Magna Carta Mains 2026
+
+-- 26 of 31 --
+
+Intro Gram Nyayalayas are village-level courts established under the Gram Nyayalayas Act, 2008, to provide affordable,
+accessible, and speedy justice to citizens in rural areas at their doorstep
+Framework
+1.Establishment: State governments, in consultation with respective
+High Courts, establish Gram Nyayalayas for every intermediate
+panchayat or a group of contiguous panchayats.
+2.Appointment: The presiding officer, called the Nyayadhikari, is
+appointed by the state government in consultation with the High
+Court and must meet the qualifications of a Judicial Magistrate of the
+First Class.
+3.Jurisdiction: Gram Nyayalayas have both civil and criminal
+jurisdiction as specified in the First and Second Schedules of the Act.
+Civil jurisdiction includes property disputes, labor disputes, and other
+matters; criminal jurisdiction covers offenses punishable by up to two
+years of imprisonment.
+4.Procedure: They follow a simplified procedure, are not bound by the
+Indian Evidence Act, 1872 (now the Bharatiya Sakshya Adhiniyam),
+but are guided by the principles of natural justice and any rules made
+by the High Court.
+5.Conciliation: The Act mandates that civil disputes should first be
+attempted to be resolved through conciliation before proceeding to
+trial.
+6.Appeals: Appeals in criminal cases lie to the Court of Session and in
+civil cases to the District Court, with a strict six-month timeline for
+disposal.
+Performance and Data:
+1.331 Operational while 4887 Notified
+2.States like AP and TL have none operational
+3.Out of 4,20,129 cases received since the year
+2020, 2,96,634 cases have been disposed of till
+date
+1.Low Case Resolution:
+2.Infrastructure and Staffing
+3.Jurisdictional Ambiguity
+4.Inaccessible Locations
+5.Limited Awareness
+6.Procedural Shortcomings
+7.Resistance from States
+8.Inadequate Funding
+Issues 	Global best practices
+1.Gacaca courts in Rwanda or the informal justice systems in many
+African countries emphasise community participation and
+reconciliation
+2.United Kingdom and Canada have simplified procedures for small
+claims and minor offenses to reduce delays and costs.
+3.Community-based systems are integrated with the formal judiciary to
+provide oversight and protect rights, as practiced in South Africa and
+Indonesia.
+Solutions
+1.Regular Cadre of Nyayadhikaris: Establish a dedicated cadre to ensure continuity and professionalism.
+2.Local Language and Simplified Procedures: Conduct proceedings in local languages and simplify procedures to make
+them more accessible.
+3.Awareness Campaigns: Conduct seminars, press releases, and outreach programs to educate stakeholders.
+4.Permanent Infrastructure: Establish permanent Gram Nyayalayas at suitable locations with adequate staff and resources.
+5.Clear Jurisdiction: Redefine and clarify the jurisdiction of Gram Nyayalayas to avoid overlap with other forums.
+6.State Budgetary Support: Ensure adequate funding and provisioning in state budgets.
+7.Monitoring and Evaluation: Regular monitoring and third-party evaluations to assess performance and identify areas for
+improvement
+Gram Nyayalayas were meant to bring justice to the doorstep—but without proper funding, staffing, and awareness, they remain
+courts in name, not in reach
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+MCN 2.0
+Mains Concise Note (MCN) 70 : National Green Tribunal
+Magna Carta Mains 2026
+
+-- 27 of 31 --
+
+Tool 	Function 	Status
+SUPACE Precedent identification, factual-matrix
+analysis Experimental / pilot
+LegRAA 	Legal research & reference extraction 	Operational (assistive)
+SUVAS 	Judgment translation (18 languages) 	Operational
+ASR (Transcription) 	Real-time transcription of oral arguments Operational, expanding
+ASR-SHRUTI Voice-to-text dictation of
+orders/judgments Operational
+PANINI 	Translation & linguistic structuring 	Operational
+e-Filing defect-scrutiny (IIT
+Madras) OCR/ML based flagging of filing defects 	Limited pilot (AoRs)
+Digital Courts 2.1 / CIS 4.0 	Integrated case management dashboards Operational, being scaled
+MCN 2.0
+Mains Concise Note (MCN) 71 : AI and Judiciary
+Magna Carta Mains 2026
+In June 2026, the Supreme Court's AI Committee released the draft “Regulations for Use of Artificial Intelligence (AI) in Courts, 2026” for
+public consultation — signalling that the judiciary itself now recognises AI governance as unfinished business that must be settled before, not
+after, deeper adoption.
+Why the Judiciary Cannot Ignore AI
+● Access to justice: Backlogs, cost of litigation, and language
+barriers keep large sections of citizens — especially the poor
+and rural population — outside the practical reach of courts.
+● Capacity constraints: Persistent vacancies (roughly a fifth to
+a quarter of sanctioned judicial posts lie vacant at various
+levels) mean human resources alone cannot clear the backlog.
+● Administrative overload: Judges spend disproportionate
+time on scheduling, record-keeping and research — tasks that
+do not require judicial mind application but consume judicial
+bandwidth.
+● Global competitiveness: Ease of doing business and
+contract enforcement rankings are tied to how quickly
+commercial disputes are resolved; AI-enabled efficiency has a
+direct economic dividend.
+● Irreversibility of early choices: The institutional architecture
+and standard-setting mechanisms decided now will be very
+hard to reverse once AI is embedded in courts — making the
+present a decisive constitutional moment.
+Current Applications of AI Across India’s Justice System
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+
+-- 28 of 31 --
+
+Body 	Composition / Role
+Apex Body (Supreme Court level)
+Sitting SC and HC judges, a MeitY official, finance and
+cybersecurity experts, advocates; sets national standards,
+approves AI systems, publishes annual governance reports
+AI Committees (SC & each High Court) 	Framed under the Apex Body; oversee AI adoption within
+their jurisdiction
+AI Secretariats 	District Judge-level officer in each court; day-to-day
+operational AI governance
+Five specialised committees 	Judicial; Technical; Infrastructure & Finance; Case & Data
+Management; Cyber Security
+CoRE-AI (Centre of Research and Excellence on AI)
+Neutral research body — evaluates AI tools, maintains a
+central registry of tools/technical standards, advises the
+Apex Body, but has no procurement stake
+Institutional and Regulatory Architecture
+Existing Bodies
+Supreme Court e-Committee: sets overall policy and strategy for court digitisation under e-Courts Phases I–III;
+High Courts handle implementation, allowing local adaptation within national standards.
+Supreme Court AI Committee: chaired by a sitting Supreme Court judge; oversees translation, research-assistance
+and process-automation initiatives, and reviews pilots before wider rollout. It was reconstituted to strengthen its
+mandate and has authored the 2026 Draft Regulations.
+Sub-committees of High Court judges and technical experts examine secure connectivity, authentication and
+protection of judicial data.
+Constitutional and Legal Anchors
+Article 21 (right to life and personal liberty, read to include the right to a speedy trial and access to justice) frames
+the justification for efficiency-enhancing technology.
+Article 141 (binding nature of Supreme Court decisions) and Article 145 (Supreme Court’s rule-making power)
+provide the constitutional basis for the Court to frame AI regulations for itself and subordinate courts.
+The Digital Personal Data Protection Act, 2023 (DPDPA) intersects with judicial AI wherever litigant or case data
+is processed by AI tools, though courts currently operate largely outside its direct enforcement architecture.
+Funding
+Under e-Courts Phase III, an outlay of ₹7,210 crore has been earmarked, with a specific component for “Future
+Technological Advancement” covering AI, machine learning and blockchain — signalling long-term budgetary
+commitment rather than one-off experimentation
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+Draft Regulations for Use of AI in Courts, 2026
+What Is Permitted
+AI may be used for case management, transcription,
+translation, legal research, document summarisation,
+accessibility and court administration.
+Lawyers may use AI in drafting pleadings, subject to
+mandatory disclosure of the AI-assisted character of
+the document (Regulation 43).
+Where AI “materially assists” a judge in case
+management, document analysis or administration,
+courts must inform litigants and counsel in a timely,
+accessible manner.
+Private vendors may be engaged, but only with written
+approval from the competent court authority and
+subject to mandatory contract terms covering data
+ownership and IP.
+What Is Absolutely Prohibited
+Risk-scoring to assess flight risk.
+Predicting recidivism.
+Evaluating bail eligibility through AI.
+Determining the credibility of witnesses,
+parties, accused persons or counsel via AI.
+Using AI to predict, profile or infer the
+future conduct or behaviour of any party.
+Submitting AI-generated output as
+independent evidence, or without disclosing
+its AI-generated character.
+Use of “black-box” (unexplainable) AI
+systems in matters affecting personal liberty
+Institutional Architecture Proposed
+MCN 2.0
+Mains Concise Note (MCN) 71 : AI and Judiciary
+Magna Carta Mains 2026
+
+-- 29 of 31 --
+
+MCN 2.0
+Mains Concise Note (MCN) 71 : AI and Judiciary
+Magna Carta Mains 2026
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+Contested Issues
+● Conflict of interest: the Apex Body that regulates AI in courts is itself appointed predominantly by sitting judges of the
+same judiciary it is meant to oversee — raising concerns about independence of standard-setting.
+● Fragmented standards: because the Draft Regulations do not define uniform, mandatory technical benchmarks (acceptable
+error rates, explainability thresholds, training-data provenance), each of India’s 25 High Courts may set different approval
+standards, risking inconsistent adoption and, in effect, inconsistent justice.
+● Disclosure burden: the Supreme Court Advocates-on-Record Association (SCAORA) has opposed the blanket AI-disclosure
+requirement for lawyers (Regulation 43) as unworkable given existing professional-conduct norms.
+● Capacity gap: in-house audit requirements and a bar on sharing source code with external parties presuppose a level of
+technical capacity that most courts do not yet have.
+● Interface with the broader national AI-governance framework (e.g., the Ministry of Electronics and IT’s AI governance
+guidelines) remains undefined.
+Challenges and Concerns
+Structural and Institutional
+● Fragmented governance: successive waves of court technology (computerisation, digitisation, video-conferencing, AI) have
+each spawned separate committees, fragmenting accountability and slowing decision-making instead of consolidating
+expertise in one durable institution.
+● No permanent execution body: unlike the National Payments Corporation of India (NPCI) for UPI or the Unique
+Identification Authority of India (UIDAI) for Aadhaar, the judiciary lacks a permanent, well-resourced institution with the
+ownership and continuity needed to execute a technology transformation of this scale.
+Standards and Accountability
+● Absence of uniform technical standards: what a system must explain, to whom, and what error rate is tolerable in a bail
+matter versus a scheduling task remain undefined, leaving each High Court to set its own bar.
+● Standard-setter and procurer overlap: unless a neutral body such as CoRE-AI is genuinely free of procurement interest,
+standards risk being set by the same body that benefits from a particular vendor or system succeeding.
+● Explainability and the ‘black box’ problem: many advanced AI/ML models cannot fully explain their own outputs, in tension
+with due process requirements that litigants understand and contest the basis of decisions affecting them.
+Bias, Fairness and Rights
+● Algorithmic bias: predictive tools trained on historical data can encode and amplify existing social biases (caste, religion,
+gender, economic status) — a risk starkly illustrated abroad by the COMPAS recidivism-scoring controversy in the United
+States, where risk scores were shown to correlate with socio-economic factors rather than culpability.
+● Right to a fair trial and natural justice: outsourcing any part of evidentiary evaluation, bail assessment or sentencing logic to
+opaque algorithms risks diluting audi alteram partem and reasoned adjudication.
+● Access and the digital divide: AI-driven efficiency for e-filing and virtual hearings can inadvertently disadvantage litigants
+without digital literacy, devices or connectivity — particularly in rural India.
+Data Privacy and Security
+● Judicial data includes highly sensitive personal, medical and financial information; AI training and deployment raise
+questions of data ownership, retention, vendor access and cross-border data flows.
+● Interface with the DPDPA, 2023 is not yet fully settled for court-generated and litigant data.
+● Cybersecurity risk grows with every additional AI-enabled touchpoint integrated into ICMIS/CIS.
+Human and Institutional Capacity
+● Judges, court staff and even lawyers vary widely in digital literacy across India’s 25 High Courts and thousands of
+subordinate courts, risking uneven and inequitable adoption.
+● Vendor dependency: private technology providers may claim IP over tools built substantially on judicial data, creating long-
+term lock-in risks if contractual safeguards are weak.
+● Overburdened existing bodies: the e-Committee and AI Committee, with rotating memberships, may lack the permanence
+and dedicated staffing needed for sustained oversight.
+
+-- 30 of 31 --
+
+Country / Region 	Initiative
+China 	Smart Courts (since 2016); Shanghai’s ‘206’ system; Hangzhou Internet Court’s Xiao Zhi
+Brazil 	VICTOR (Federal Supreme Court); SIGMA (drafting aid)
+Singapore 	AI-assisted Small Claims Tribunal guidance
+United Kingdom 	Judicial guidance permitting AI for summarisation/administrative tasks only
+Canada 	2024 Guidelines for Use of AI in Canadian Courts (Canadian Judicial Council)
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+MCN 2.0
+Mains Concise Note (MCN) 71 : AI and Judiciary
+Magna Carta Mains 2026
+Global Best Practices and Comparative Experience
+Recommendations
+Institutional Reform
+1. Consolidate the fragmented committee architecture into a single, permanent, adequately staffed institution — modelled on
+UIDAI/NPCI’s institutional permanence.
+2. Ensure CoRE-AI’s genuine neutrality by insulating it from procurement decisions and vendor relationships, consistent with the
+UPI-style separation of standard-setter from market participant.
+3. Address the conflict-of-interest critique by including a meaningful proportion of independent technologists, civil-society and bar
+representatives in the Apex Body, beyond judicial nominees.
+Standards and Technical Safeguards
+4. Notify uniform, mandatory technical standards — acceptable error rates by use-case, explainability requirements, and training-
+data provenance disclosures — so that approvals do not vary arbitrarily across 25 High Courts.
+5. Mandate algorithmic audits and bias-testing (including disaggregated testing across caste, gender, religion and region) before any
+AI tool is approved for court use, with published audit summaries.
+6. Retain and strengthen the non-derogable prohibitions on bail, recidivism, witness-credibility and black-box liberty-affecting uses
+— these should not be diluted through future amendment.
+Access, Capacity and Inclusion
+7. Scale AI-enabled multilingual and voice-interface tools (SUVAS, PANINI, ASR-SHRUTI) to district and taluka courts, not just the
+Supreme Court and High Courts, to close the urban-rural access gap.
+8. Invest in digital literacy training for judges, court staff, and legal-aid lawyers, paired with continued physical/offline access (e-
+Seva Kendras, District Legal Services Authorities) so digitisation does not become a new barrier for the digitally excluded.
+9. Extend AI-assisted guidance tools (on the Singapore Small Claims Tribunal model) to Lok Adalats, Gram Nyayalayas and consumer
+fora to help unrepresented litigants.
+Data Protection and Cybersecurity
+10.Specific judicial-data protection protocol given the special sensitivity of case data.
+11.Contractually bar vendors from claiming IP over models substantially trained on judicial data, and mandate data-localisation and
+access-logging for any AI system handling case records.
+Legislative and Constitutional Clarity
+12.Consider placing the core non-derogable prohibitions and the Apex Body’s standard-setting mandate on a statutory footing (via
+Parliamentary legislation or rules under Article 145), rather than relying solely on Supreme Court regulations, to give the framework
+durability beyond any one Chief Justice’s tenure.
+13.Build periodic parliamentary and public reporting (annual governance reports, as already proposed for the Apex Body) into the
+framework to maintain democratic accountability over an unelected standard-setting body.
+Phased, Evidence-Based Rollout
+14.Continue current practice of piloting tools (e.g., e-filing defect scrutiny, SUPACE) before full deployment, with transparent
+evaluation criteria and sunset/review clauses.
+15.Institutionalise feedback loops from litigants, the Bar and civil society (as being done through the current public-comment
+process) into a recurring, not one-time, consultation cycle as AI capability evolves.
+“Technology as an enabler of justice, not a substitute for judgement” — the guiding philosophy repeatedly invoked by the
+Government and the Supreme Court in describing AI’s role in India’s courts
+
+-- 31 of 31 --
+
