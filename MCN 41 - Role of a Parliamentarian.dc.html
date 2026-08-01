@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<link rel="stylesheet" href="_ds/industry-538b43af-66f3-4b59-a996-aa8df05d5c72/styles.css">
+<style>
+html{scroll-behavior:smooth}
+body{margin:0}
+body[data-recall="1"] [data-hl]{color:transparent !important;background:var(--color-neutral-300) !important;border-bottom-color:transparent !important;cursor:pointer}
+body[data-recall="1"] [data-hl][data-revealed="1"]{color:inherit !important;background:var(--hl,#d6ebff) !important;cursor:pointer}
+</style>
+</helmet>
+<div data-screen-label="MCN 41" style="min-height:100vh;--hl:{{ hlColor }}">
+<header style="position:sticky;top:0;z-index:50;background:var(--color-bg);border-bottom:1px solid var(--color-divider);padding:10px 28px;display:flex;align-items:center;gap:14px;flex-wrap:wrap">
+  <span style="font-family:var(--font-heading);font-weight:600;font-size:13px;letter-spacing:.08em;background:var(--color-accent);color:var(--color-bg);padding:3px 10px">MCN 41</span>
+  <span style="font-family:var(--font-heading);font-weight:600;font-size:16px;letter-spacing:.01em">Role of a Parliamentarian</span>
+  <nav style="display:flex;gap:6px;flex-wrap:wrap;margin-left:auto;align-items:center">
+    <button onClick="{{ goRoles }}" class="btn btn-secondary" style="font-size:12px;padding:4px 12px">7 Roles</button>
+    <button onClick="{{ goData }}" class="btn btn-secondary" style="font-size:12px;padding:4px 12px">Data</button>
+    <button onClick="{{ goIssues }}" class="btn btn-secondary" style="font-size:12px;padding:4px 12px">Issues A–H</button>
+    <button onClick="{{ goGlobal }}" class="btn btn-secondary" style="font-size:12px;padding:4px 12px">Global</button>
+    <button onClick="{{ goReforms }}" class="btn btn-secondary" style="font-size:12px;padding:4px 12px">Reforms</button>
+    <button onClick="{{ toggleRecall }}" title="Hides keywords &amp; cases — click a blank to reveal" style="font-family:var(--font-heading);font-weight:600;font-size:12px;letter-spacing:.04em;padding:5px 14px;cursor:pointer;margin-left:8px;border:1px solid var(--color-accent);background:{{ recallBg }};color:{{ recallFg }}">{{ recallLabel }}</button>
+  </nav>
+</header>
+
+<section data-screen-label="Hero" style="background:var(--color-accent-900);color:var(--color-bg);padding:64px 28px 72px;--color-text:#f2f2f3;--color-divider:rgba(242,242,243,.3)">
+  <div style="max-width:1060px;margin:0 auto">
+    <div style="font-size:12px;letter-spacing:.14em;text-transform:uppercase;color:var(--color-accent-400);margin-bottom:16px">Polity · Parliament · Mains Concise Note 41</div>
+    <h1 style="margin:0 0 36px;font-size:clamp(44px,6vw,76px);line-height:.98;letter-spacing:0;text-transform:uppercase;color:var(--color-bg)">Role of a<br>Parliamentarian</h1>
+    <blockquote class="blueprint" style="margin:0;max-width:700px;padding:20px 24px;font-size:18px;line-height:1.55;color:var(--color-accent-200)"><i class="corner tl"></i><i class="corner tr"></i><i class="corner bl"></i><i class="corner br"></i>“Parliament is not a rubber stamp for the executive; it is a mirror of the people's will, and the Member of Parliament is its most vital reflecting surface.”</blockquote>
+    <div style="display:flex;gap:8px;flex-wrap:wrap;margin-top:36px">
+      <span class="tag tag-outline" style="color:var(--color-accent-300);border-color:var(--color-accent-300)">Legislator</span>
+      <span class="tag tag-outline" style="color:var(--color-accent-300);border-color:var(--color-accent-300)">Representative</span>
+      <span class="tag tag-outline" style="color:var(--color-accent-300);border-color:var(--color-accent-300)">Watchdog</span>
+      <span class="tag tag-outline" style="color:var(--color-accent-300);border-color:var(--color-accent-300)">Constituency servant</span>
+    </div>
+  </div>
+</section>
+
+<section id="sec-roles" data-screen-label="Seven Roles" style="padding:64px 28px;max-width:1116px;margin:0 auto">
+  <div style="display:flex;align-items:baseline;gap:14px;margin-bottom:6px"><span style="font-family:var(--font-heading);font-weight:600;font-size:13px;background:var(--color-accent);color:var(--color-bg);padding:3px 10px">01</span><h2 style="margin:0;text-transform:uppercase">The Seven Roles</h2></div>
+  <p class="text-muted" style="margin:0 0 32px;font-size:14px;max-width:640px">Constitutional and functional role of the parliamentarian — remember as a 7-point checklist.</p>
+  <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:22px">
+    <div class="card blueprint"><i class="corner tl"></i><i class="corner tr"></i><i class="corner bl"></i><i class="corner br"></i>
+      <div class="card-kicker">Role 1</div><div class="card-title">Legislative</div>
+      <ul style="margin:0;padding-left:18px;font-size:13.5px;line-height:1.6;display:grid;gap:6px"><li>Introducing, debating, voting on Bills — Government and <span data-hl="kw" style="background:var(--hl,#d6ebff);color:var(--color-accent-900);padding:1px 3px;font-weight:500">Private Member's Bills</span></li><li>Scrutinising <span data-hl="kw" style="background:var(--hl,#d6ebff);color:var(--color-accent-900);padding:1px 3px;font-weight:500">delegated legislation</span> and subordinate rules</li><li>Select/Joint Committees: clause-by-clause examination</li></ul>
+    </div>
+    <div class="card blueprint"><i class="corner tl"></i><i class="corner tr"></i><i class="corner bl"></i><i class="corner br"></i>
+      <div class="card-kicker">Role 2</div><div class="card-title">Representative</div>
+      <ul style="margin:0;padding-left:18px;font-size:13.5px;line-height:1.6;display:grid;gap:6px"><li>Voices constituency, regional and social-group concerns in the national forum</li><li>Link between citizens and the state — grievances, access to schemes</li></ul>
+    </div>
+    <div class="card blueprint"><i class="corner tl"></i><i class="corner tr"></i><i class="corner bl"></i><i class="corner br"></i>
+      <div class="card-kicker">Role 3</div><div class="card-title">Deliberative</div>
+      <ul style="margin:0;padding-left:18px;font-size:13.5px;line-height:1.6;display:grid;gap:6px"><li>Debates policy, budgets, public importance — <span data-hl="kw" style="background:var(--hl,#d6ebff);color:var(--color-accent-900);padding:1px 3px;font-weight:500">Zero Hour</span>, Short Duration Discussions, Calling Attention Motions</li><li><span data-hl="kw" style="background:var(--hl,#d6ebff);color:var(--color-accent-900);padding:1px 3px;font-weight:500">“Safety valve”</span> for public opinion and dissent</li></ul>
+    </div>
+    <div class="card blueprint"><i class="corner tl"></i><i class="corner tr"></i><i class="corner bl"></i><i class="corner br"></i>
+      <div class="card-kicker">Role 4</div><div class="card-title">Oversight / Accountability</div>
+      <ul style="margin:0;padding-left:18px;font-size:13.5px;line-height:1.6;display:grid;gap:6px"><li><span data-hl="kw" style="background:var(--hl,#d6ebff);color:var(--color-accent-900);padding:1px 3px;font-weight:500">Question Hour</span>, No-Confidence &amp; Adjournment Motions</li><li>Committee scrutiny: <span data-hl="kw" style="background:var(--hl,#d6ebff);color:var(--color-accent-900);padding:1px 3px;font-weight:500">DRSCs, PAC, Estimates, PUC</span>; CAG reports via PAC</li></ul>
+    </div>
+    <div class="card blueprint"><i class="corner tl"></i><i class="corner tr"></i><i class="corner bl"></i><i class="corner br"></i>
+      <div class="card-kicker">Role 5</div><div class="card-title">Financial Control</div>
+      <ul style="margin:0;padding-left:18px;font-size:13.5px;line-height:1.6;display:grid;gap:6px"><li>Approves Budget, Demands for Grants, Money Bills — <span data-hl="kw" style="background:var(--hl,#d6ebff);color:var(--color-accent-900);padding:1px 3px;font-weight:500">“power of the purse”</span></li><li>Ancestry: Commons' <span data-hl="kw" style="background:var(--hl,#d6ebff);color:var(--color-accent-900);padding:1px 3px;font-weight:500">“no taxation without representation”</span></li></ul>
+    </div>
+    <div class="card blueprint"><i class="corner tl"></i><i class="corner tr"></i><i class="corner bl"></i><i class="corner br"></i>
+      <div class="card-kicker">Role 6</div><div class="card-title">Constituency Development</div>
+      <ul style="margin:0;padding-left:18px;font-size:13.5px;line-height:1.6;display:grid;gap:6px"><li><span data-hl="kw" style="background:var(--hl,#d6ebff);color:var(--color-accent-900);padding:1px 3px;font-weight:500">MPLADS — ₹5 crore p.a. per MP</span> for local infrastructure</li><li>Grievance redressal via ministries; privilege to raise local issues</li></ul>
+    </div>
+    <div class="card blueprint"><i class="corner tl"></i><i class="corner tr"></i><i class="corner bl"></i><i class="corner br"></i>
+      <div class="card-kicker">Role 7</div><div class="card-title">Quasi-Judicial / Disciplinary</div>
+      <ul style="margin:0;padding-left:18px;font-size:13.5px;line-height:1.6;display:grid;gap:6px"><li>Impeachment of judges/President; privilege matters</li><li>Disqualification proceedings under the <span data-hl="kw" style="background:var(--hl,#d6ebff);color:var(--color-accent-900);padding:1px 3px;font-weight:500">Tenth Schedule</span></li></ul>
+    </div>
+  </div>
+</section>
+
+<section id="sec-data" data-screen-label="Data Snapshot" style="background:var(--color-accent-900);padding:60px 28px;--color-text:#f2f2f3;--color-divider:rgba(242,242,243,.3)">
+  <div style="max-width:1060px;margin:0 auto">
+    <div style="display:flex;align-items:baseline;gap:14px;margin-bottom:32px"><span style="font-family:var(--font-heading);font-weight:600;font-size:13px;background:var(--color-accent-400);color:var(--color-accent-900);padding:3px 10px">02</span><h2 style="margin:0;text-transform:uppercase;color:var(--color-bg)">Data Snapshot — 18th Lok Sabha</h2></div>
+    <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:22px">
+      <div class="blueprint" style="padding:16px 18px"><i class="corner tl"></i><i class="corner tr"></i><i class="corner bl"></i><i class="corner br"></i><div data-hl="kw" style="font-family: var(--font-heading); font-weight: 600; font-size: 34px; color: #FDB5B5">52%</div><div style="color:var(--color-accent-2-300);font-size:13px;margin-top:4px;line-height:1.45">of newly-elected MPs are first-timers</div></div>
+      <div class="blueprint" style="padding:16px 18px"><i class="corner tl"></i><i class="corner tr"></i><i class="corner bl"></i><i class="corner br"></i><div data-hl="kw" style="font-family:var(--font-heading);font-weight:600;font-size:34px;color:var(--color-accent-300)">56 yrs</div><div style="color:var(--color-accent-2-300);font-size:13px;margin-top:4px;line-height:1.45">average age of MPs</div></div>
+      <div class="blueprint" style="padding:16px 18px"><i class="corner tl"></i><i class="corner tr"></i><i class="corner bl"></i><i class="corner br"></i><div data-hl="kw" style="font-family:var(--font-heading);font-weight:600;font-size:34px;color:var(--color-accent-300)">74 (14%)</div><div style="color:var(--color-accent-2-300);font-size:13px;margin-top:4px;line-height:1.45">women MPs</div></div>
+      <div class="blueprint" style="padding:16px 18px"><i class="corner tl"></i><i class="corner tr"></i><i class="corner bl"></i><i class="corner br"></i><div data-hl="kw" style="font-family:var(--font-heading);font-weight:600;font-size:34px;color:var(--color-accent-300)">78%</div><div style="color:var(--color-accent-2-300);font-size:13px;margin-top:4px;line-height:1.45">have at least undergraduate education</div></div>
+      <div class="blueprint" style="padding:16px 18px"><i class="corner tl"></i><i class="corner tr"></i><i class="corner bl"></i><i class="corner br"></i><div data-hl="kw" style="font-family:var(--font-heading);font-weight:600;font-size:34px;color:var(--color-accent-300)">31% / 29%</div><div style="color:var(--color-accent-2-300);font-size:13px;margin-top:4px;line-height:1.45">MPs / MLAs with serious criminal charges declared</div></div>
+      <div class="blueprint" style="padding:16px 18px"><i class="corner tl"></i><i class="corner tr"></i><i class="corner bl"></i><i class="corner br"></i><div data-hl="kw" style="font-family:var(--font-heading);font-weight:600;font-size:34px;color:var(--color-accent-300)">~16%</div><div style="color:var(--color-accent-2-300);font-size:13px;margin-top:4px;line-height:1.45">Bills referred to DRSCs in 17th LS (was 60–70% in 14th–15th)</div></div>
+      <div class="blueprint" style="padding:16px 18px"><i class="corner tl"></i><i class="corner tr"></i><i class="corner bl"></i><i class="corner br"></i><div data-hl="kw" style="font-family:var(--font-heading);font-weight:600;font-size:34px;color:var(--color-accent-300)">~49%</div><div style="color:var(--color-accent-2-300);font-size:13px;margin-top:4px;line-height:1.45">average DRSC meeting attendance (2009–14)</div></div>
+      <div class="blueprint" style="padding:16px 18px"><i class="corner tl"></i><i class="corner tr"></i><i class="corner bl"></i><i class="corner br"></i><div data-hl="kw" style="font-family:var(--font-heading);font-weight:600;font-size:34px;color:var(--color-accent-300)">~80%</div><div style="color:var(--color-accent-2-300);font-size:13px;margin-top:4px;line-height:1.45">PAC recommendations accepted by government</div></div>
+    </div>
+    <p style="color:var(--color-accent-2-400);font-size:12px;margin:24px 0 0">Most common professions: agriculture &amp; social work.</p>
+  </div>
+</section>
+
+<section id="sec-issues" data-screen-label="Issues A-H" style="padding:64px 28px;max-width:1116px;margin:0 auto">
+  <div style="display:flex;align-items:baseline;gap:14px;margin-bottom:6px"><span style="font-family:var(--font-heading);font-weight:600;font-size:13px;background:var(--color-accent);color:var(--color-bg);padding:3px 10px">03</span><h2 style="margin:0;text-transform:uppercase">Issues in Fulfilling the Role</h2></div>
+  <p class="text-muted" style="margin:0 0 32px;font-size:14px">Eight issues, A to H. Case names and examples are your answer-enrichers.</p>
+  <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(440px,1fr));gap:22px">
+    <div class="card blueprint"><i class="corner tl"></i><i class="corner tr"></i><i class="corner bl"></i><i class="corner br"></i>
+      <div class="card-title"><span style="font-family:var(--font-heading);color:var(--color-accent-700);margin-right:10px">A</span>Declining Legislative Productivity &amp; Scrutiny</div>
+      <ul style="margin:0;padding-left:18px;font-size:13.5px;line-height:1.6;display:grid;gap:6px"><li>Sitting days: <span data-hl="kw" style="background:var(--hl,#d6ebff);color:var(--color-accent-900);padding:1px 3px;font-weight:500">~127 days/yr in 1950s → under 60–70</span> now</li><li>Committee referral collapsed: <span data-hl="kw" style="background:var(--hl,#d6ebff);color:var(--color-accent-900);padding:1px 3px;font-weight:500">~16% in 17th LS vs 60%+ earlier</span> — most laws bypass expert scrutiny</li><li>Rushed passage: e.g. the three <span data-hl="kw" style="background:var(--hl,#d6ebff);color:var(--color-accent-900);padding:1px 3px;font-weight:500">farm laws (2020, repealed)</span> — minimal debate, no committee reference</li></ul>
+    </div>
+    <div class="card blueprint"><i class="corner tl"></i><i class="corner tr"></i><i class="corner bl"></i><i class="corner br"></i>
+      <div class="card-title"><span style="font-family:var(--font-heading);color:var(--color-accent-700);margin-right:10px">B</span>Disruptions &amp; Lost Time</div>
+      <ul style="margin:0;padding-left:18px;font-size:13.5px;line-height:1.6;display:grid;gap:6px"><li>Disruption as routine opposition tool; sessions at <span data-hl="kw" style="background:var(--hl,#d6ebff);color:var(--color-accent-900);padding:1px 3px;font-weight:500">&lt;50% of scheduled time</span></li><li>2016: RS couldn't take up Finance &amp; Appropriation Bills amid protests</li><li>Question Hour washouts erode the very oversight tools MPs hold</li></ul>
+    </div>
+    <div class="card blueprint"><i class="corner tl"></i><i class="corner tr"></i><i class="corner bl"></i><i class="corner br"></i>
+      <div class="card-title"><span style="font-family:var(--font-heading);color:var(--color-accent-700);margin-right:10px">C</span>Anti-Defection Law &amp; the Whip</div>
+      <ul style="margin:0;padding-left:18px;font-size:13.5px;line-height:1.6;display:grid;gap:6px"><li><span data-hl="kw" style="background:var(--hl,#d6ebff);color:var(--color-accent-900);padding:1px 3px;font-weight:500">Tenth Schedule (52nd CA, 1985)</span>: MPs vote per party diktat → legislators become party instruments</li><li>Undermines executive accountability, deliberation, and MP-voter accountability (blame the whip)</li><li>Engineering persists: <span data-hl="kw" style="background:var(--hl,#d6ebff);color:var(--color-accent-900);padding:1px 3px;font-weight:500">Karnataka 2019, Maharashtra 2022, TN AIADMK 2026, Telangana BRS→INC 2024–25</span></li></ul>
+    </div>
+    <div class="card blueprint"><i class="corner tl"></i><i class="corner tr"></i><i class="corner bl"></i><i class="corner br"></i>
+      <div class="card-title"><span style="font-family:var(--font-heading);color:var(--color-accent-700);margin-right:10px">D</span>Weak Committee System</div>
+      <ul style="margin:0;padding-left:18px;font-size:13.5px;line-height:1.6;display:grid;gap:6px"><li>DRSC attendance ~49–50%; <span data-hl="kw" style="background:var(--hl,#d6ebff);color:var(--color-accent-900);padding:1px 3px;font-weight:500">one-year tenure</span> blocks sectoral expertise</li><li>PAC recommendations non-binding (though ~80% accepted)</li><li>Thin research/technical staff vs US Congress</li></ul>
+    </div>
+    <div class="card blueprint"><i class="corner tl"></i><i class="corner tr"></i><i class="corner bl"></i><i class="corner br"></i>
+      <div class="card-title"><span style="font-family:var(--font-heading);color:var(--color-accent-700);margin-right:10px">E</span>Criminalisation of Politics</div>
+      <ul style="margin:0;padding-left:18px;font-size:13.5px;line-height:1.6;display:grid;gap:6px"><li><span data-hl="kw" style="background:var(--hl,#d6ebff);color:var(--color-accent-900);padding:1px 3px;font-weight:500">ADR (2019 LS): ~43% of MPs with criminal cases, ~29% serious</span></li><li>Erodes deliberative quality and public trust</li></ul>
+    </div>
+    <div class="card blueprint"><i class="corner tl"></i><i class="corner tr"></i><i class="corner bl"></i><i class="corner br"></i>
+      <div class="card-title"><span style="font-family:var(--font-heading);color:var(--color-accent-700);margin-right:10px">F</span>Office of Profit &amp; Conflict of Interest</div>
+      <ul style="margin:0;padding-left:18px;font-size:13.5px;line-height:1.6;display:grid;gap:6px"><li>Ambiguity in <span data-hl="kw" style="background:var(--hl,#d6ebff);color:var(--color-accent-900);padding:1px 3px;font-weight:500">Arts 102(1)(a), 191(1)(a)</span></li><li>E.g. <span data-hl="kw" style="background:var(--hl,#d6ebff);color:var(--color-accent-900);padding:1px 3px;font-weight:500">20 Delhi MLAs disqualified (2018)</span> — Parliamentary Secretary posts</li></ul>
+    </div>
+    <div class="card blueprint"><i class="corner tl"></i><i class="corner tr"></i><i class="corner bl"></i><i class="corner br"></i>
+      <div class="card-title"><span style="font-family:var(--font-heading);color:var(--color-accent-700);margin-right:10px">G</span>Constituency Overload vs National Deliberation</div>
+      <ul style="margin:0;padding-left:18px;font-size:13.5px;line-height:1.6;display:grid;gap:6px"><li>Electoral incentives reward visible <span data-hl="kw" style="background:var(--hl,#d6ebff);color:var(--color-accent-900);padding:1px 3px;font-weight:500">MPLADS delivery</span> over legislative scrutiny</li><li>Structural tension: representative vs deliberative functions</li></ul>
+    </div>
+    <div class="card blueprint"><i class="corner tl"></i><i class="corner tr"></i><i class="corner bl"></i><i class="corner br"></i>
+      <div class="card-title"><span style="font-family:var(--font-heading);color:var(--color-accent-700);margin-right:10px">H</span>Privileges: Ambiguity &amp; Misuse</div>
+      <ul style="margin:0;padding-left:18px;font-size:13.5px;line-height:1.6;display:grid;gap:6px"><li>Privileges uncodified → uncertainty</li><li><span data-hl="case" style="font-family:var(--font-heading);font-weight:600;color:var(--color-accent-700);border-bottom:2px solid var(--color-accent-500)">Sita Soren v. Union of India (2024)</span> overturned <span data-hl="case" style="font-family:var(--font-heading);font-weight:600;color:var(--color-accent-700);border-bottom:2px solid var(--color-accent-500)">P.V. Narasimha Rao (1998)</span>: no immunity from prosecution for bribery for a vote/speech</li></ul>
+    </div>
+  </div>
+</section>
+
+<section id="sec-global" data-screen-label="Global Comparison" style="background:var(--color-surface);border-top:1px solid var(--color-divider);border-bottom:1px solid var(--color-divider);padding:60px 28px">
+  <div style="max-width:1060px;margin:0 auto">
+    <div style="display:flex;align-items:baseline;gap:14px;margin-bottom:28px"><span style="font-family:var(--font-heading);font-weight:600;font-size:13px;background:var(--color-accent);color:var(--color-bg);padding:3px 10px">04</span><h2 style="margin:0;text-transform:uppercase">Global Comparison</h2></div>
+    <div class="blueprint" style="background:var(--color-bg);padding:6px 18px"><i class="corner tl"></i><i class="corner tr"></i><i class="corner bl"></i><i class="corner br"></i>
+      <table class="table" style="font-size:13.5px">
+        <thead><tr><th style="width:140px">Country</th><th>Practice</th><th style="width:290px">Relevance for India</th></tr></thead>
+        <tbody>
+          <tr><td style="font-family:var(--font-heading);font-weight:600;font-size:15px;vertical-align:top">United Kingdom</td><td style="vertical-align:top">MPs may break a <span data-hl="kw" style="background:var(--hl,#d6ebff);color:var(--color-accent-900);padding:1px 3px;font-weight:500">three-line whip on conscience issues</span> without disqualification; cross-party select committees, often opposition-chaired</td><td style="vertical-align:top;color:var(--color-accent-700);font-weight:500">Calibrated whip: confidence votes vs ordinary legislation</td></tr>
+          <tr><td style="font-family:var(--font-heading);font-weight:600;font-size:15px;vertical-align:top">United States</td><td style="vertical-align:top"><span data-hl="kw" style="background:var(--hl,#d6ebff);color:var(--color-accent-900);padding:1px 3px;font-weight:500">Permanent committees with large expert staff</span> drive substantive work; deep specialisation from long tenures</td><td style="vertical-align:top;color:var(--color-accent-700);font-weight:500">Longer DRSC tenures + dedicated research staff</td></tr>
+          <tr><td style="font-family:var(--font-heading);font-weight:600;font-size:15px;vertical-align:top">Australia</td><td style="vertical-align:top"><span data-hl="kw" style="background:var(--hl,#d6ebff);color:var(--color-accent-900);padding:1px 3px;font-weight:500">“Conscience votes”</span> officially recognised on moral/ethical issues</td><td style="vertical-align:top;color:var(--color-accent-700);font-weight:500">Template for limited free votes in India</td></tr>
+          <tr><td style="font-family:var(--font-heading);font-weight:600;font-size:15px;vertical-align:top">Germany</td><td style="vertical-align:top">Bundestag: specialised <span data-hl="kw" style="background:var(--hl,#d6ebff);color:var(--color-accent-900);padding:1px 3px;font-weight:500">“rapporteurs”</span> track bills through passage</td><td style="vertical-align:top;color:var(--color-accent-700);font-weight:500">Model for MP specialisation &amp; continuity</td></tr>
+          <tr><td style="font-family:var(--font-heading);font-weight:600;font-size:15px;vertical-align:top">New Zealand</td><td style="vertical-align:top">Codified select-committee rules, <span data-hl="kw" style="background:var(--hl,#d6ebff);color:var(--color-accent-900);padding:1px 3px;font-weight:500">mandatory public bill referrals</span>, strong transparency norms</td><td style="vertical-align:top;color:var(--color-accent-700);font-weight:500">Mandatory committee-referral norms</td></tr>
+          <tr><td style="font-family:var(--font-heading);font-weight:600;font-size:15px;vertical-align:top">Canada</td><td style="vertical-align:top"><span data-hl="kw" style="background:var(--hl,#d6ebff);color:var(--color-accent-900);padding:1px 3px;font-weight:500">Deputy Speaker roles rotate across parties</span> — shared institutional responsibility</td><td style="vertical-align:top;color:var(--color-accent-700);font-weight:500">More consensual committee chairpersonship</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</section>
+
+<section id="sec-reforms" data-screen-label="Reforms" style="padding:64px 28px;max-width:1116px;margin:0 auto">
+  <div style="display:flex;align-items:baseline;gap:14px;margin-bottom:6px"><span style="font-family:var(--font-heading);font-weight:600;font-size:13px;background:var(--color-accent);color:var(--color-bg);padding:3px 10px">05</span><h2 style="margin:0;text-transform:uppercase">Reforms — Four Buckets</h2></div>
+  <p class="text-muted" style="margin:0 0 32px;font-size:14px">Each reform is tagged to its recommending body or case — cite these for marks.</p>
+  <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(440px,1fr));gap:22px">
+    <div class="card blueprint"><i class="corner tl"></i><i class="corner tr"></i><i class="corner bl"></i><i class="corner br"></i>
+      <div class="card-kicker">Bucket 1</div><div class="card-title">Structural</div>
+      <ul style="margin:0;padding-left:18px;font-size:13.5px;line-height:1.6;display:grid;gap:6px"><li><span data-hl="kw" style="background:var(--hl,#d6ebff);color:var(--color-accent-900);padding:1px 3px;font-weight:500">Mandatory committee referral</span> of all non-urgent Bills (UK practice)</li><li>Extend DRSC tenure beyond one year (US model)</li><li>Codify privileges — <span data-hl="kw" style="background:var(--hl,#d6ebff);color:var(--color-accent-900);padding:1px 3px;font-weight:500">Privileges Committee, LS (2008)</span></li></ul>
+    </div>
+    <div class="card blueprint"><i class="corner tl"></i><i class="corner tr"></i><i class="corner bl"></i><i class="corner br"></i>
+      <div class="card-kicker">Bucket 2</div><div class="card-title">Behavioural / Political</div>
+      <ul style="margin:0;padding-left:18px;font-size:13.5px;line-height:1.6;display:grid;gap:6px"><li>Confine whips to confidence/money matters; free votes on conscience — <span data-hl="kw" style="background:var(--hl,#d6ebff);color:var(--color-accent-900);padding:1px 3px;font-weight:500">170th Law Commission (1999); NCRWC (2002)</span></li><li>Intra-party democracy — <span data-hl="kw" style="background:var(--hl,#d6ebff);color:var(--color-accent-900);padding:1px 3px;font-weight:500">II ARC (2007)</span></li><li>Time-bound anti-defection adjudication — <span data-hl="case" style="font-family:var(--font-heading);font-weight:600;color:var(--color-accent-700);border-bottom:2px solid var(--color-accent-500)">Keisham Meghachandra Singh v. Speaker (2020)</span></li></ul>
+    </div>
+    <div class="card blueprint"><i class="corner tl"></i><i class="corner tr"></i><i class="corner bl"></i><i class="corner br"></i>
+      <div class="card-kicker">Bucket 3</div><div class="card-title">Institutional Capacity</div>
+      <ul style="margin:0;padding-left:18px;font-size:13.5px;line-height:1.6;display:grid;gap:6px"><li>Expert committee staff — model: <span data-hl="kw" style="background:var(--hl,#d6ebff);color:var(--color-accent-900);padding:1px 3px;font-weight:500">US Congressional Research Service</span></li><li>Public MP performance dashboards (attendance, questions, PMBs, committee work) — spirit of <span data-hl="kw" style="background:var(--hl,#d6ebff);color:var(--color-accent-900);padding:1px 3px;font-weight:500">PRS MP Track</span></li><li>Research support per MP — UK <span data-hl="kw" style="background:var(--hl,#d6ebff);color:var(--color-accent-900);padding:1px 3px;font-weight:500">House of Commons Library</span></li></ul>
+    </div>
+    <div class="card blueprint"><i class="corner tl"></i><i class="corner tr"></i><i class="corner bl"></i><i class="corner br"></i>
+      <div class="card-kicker">Bucket 4</div><div class="card-title">Electoral / Accountability</div>
+      <ul style="margin:0;padding-left:18px;font-size:13.5px;line-height:1.6;display:grid;gap:6px"><li>Rebalance incentives: reward deliberative performance, not just MPLADS visibility</li><li><span data-hl="kw" style="background:var(--hl,#d6ebff);color:var(--color-accent-900);padding:1px 3px;font-weight:500">Fast-track criminal cases</span> against sitting legislators (SC directions in PILs)</li></ul>
+    </div>
+  </div>
+</section>
+
+<footer data-screen-label="Closing" style="background:var(--color-accent-900);color:var(--color-accent-200);padding:52px 28px 60px;--color-divider:rgba(242,242,243,.3)">
+  <div style="max-width:860px;margin:0 auto;text-align:center">
+    <p style="margin:0;font-size:19px;line-height:1.55;font-weight:500">The parliamentarian is simultaneously a <span style="color:var(--color-bg);font-weight:700">legislator</span>, a <span style="color:var(--color-bg);font-weight:700">representative</span>, a <span style="color:var(--color-bg);font-weight:700">watchdog</span>, and a <span style="color:var(--color-bg);font-weight:700">constituency servant</span> — demanding both national vision and local responsiveness.</p>
+    <p style="margin:24px 0 0;font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--color-accent-2-400)">MCN 41 · Role of a Parliamentarian · End of note</p>
+  </div>
+</footer>
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props="{&quot;highlightColor&quot;:{&quot;editor&quot;:&quot;color&quot;,&quot;default&quot;:&quot;#eef6ff&quot;,&quot;tsType&quot;:&quot;string&quot;,&quot;options&quot;:[&quot;#d6ebff&quot;,&quot;#b5d9fd&quot;,&quot;#e7e7ea&quot;,&quot;#eef6ff&quot;],&quot;section&quot;:&quot;Study aids&quot;},&quot;startInRecall&quot;:{&quot;editor&quot;:&quot;boolean&quot;,&quot;default&quot;:false,&quot;tsType&quot;:&quot;boolean&quot;,&quot;section&quot;:&quot;Study aids&quot;}}">
+class Component extends DCLogic {
+  state = { recall: false };
+  go(id) {
+    const el = document.getElementById(id);
+    if (el) window.scrollTo({ top: el.getBoundingClientRect().top + window.scrollY - 60, behavior: 'smooth' });
+  }
+  componentDidMount() {
+    if (this.props.startInRecall) this.setRecall(true);
+    this._click = (e) => {
+      if (document.body.dataset.recall !== '1') return;
+      const t = e.target.closest('[data-hl]');
+      if (t) t.dataset.revealed = t.dataset.revealed === '1' ? '0' : '1';
+    };
+    document.addEventListener('click', this._click);
+  }
+  componentWillUnmount() {
+    document.removeEventListener('click', this._click);
+    if ('recall' in document.body.dataset) delete document.body.dataset.recall;
+  }
+  setRecall(on) {
+    const v = on ? '1' : '0';
+    if (document.body.dataset.recall !== v) document.body.dataset.recall = v;
+    document.querySelectorAll('[data-hl][data-revealed]').forEach(n => { n.dataset.revealed = '0'; });
+    this.setState({ recall: on });
+  }
+  renderVals() {
+    const r = this.state.recall;
+    return {
+      goRoles: () => this.go('sec-roles'),
+      goData: () => this.go('sec-data'),
+      goIssues: () => this.go('sec-issues'),
+      goGlobal: () => this.go('sec-global'),
+      goReforms: () => this.go('sec-reforms'),
+      toggleRecall: () => this.setRecall(!r),
+      hlColor: this.props.highlightColor ?? '#d6ebff',
+      recallLabel: r ? '● Recall ON' : 'Recall mode',
+      recallBg: r ? 'var(--color-accent)' : 'transparent',
+      recallFg: r ? 'var(--color-bg)' : 'var(--color-accent-700)',
+    };
+  }
+}
+</script>
+</body>
+</html>

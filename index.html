@@ -1,0 +1,1450 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<meta name="theme-color" content="var(--q-bg)">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="MCN Quest">
+<link rel="manifest" href="quest/manifest.webmanifest">
+<link rel="apple-touch-icon" href="quest/icon-192.png">
+<link rel="stylesheet" href="_ds/industry-538b43af-66f3-4b59-a996-aa8df05d5c72/styles.css">
+<script src="_ds/industry-538b43af-66f3-4b59-a996-aa8df05d5c72/_ds_bundle.js"></script>
+<meta name="theme-color" content="#0d151b">
+<meta name="description" content="MCN Quest — gamified Indian Polity revision for UPSC aspirants. 87 chapters, 1,061 questions, spaced repetition.">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="MCN Quest">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icon-192.png">
+<link rel="apple-touch-icon" href="icon-192.png">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700&family=Barlow:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+:root{--q-void:#080e13;--q-bg:#0d151b;--q-panel:#111d26;--q-panel2:#132330;--q-panel3:#16242f;--q-cal:#17262f;--q-chip:#1a2b38;--q-mark:#1c3244;--q-done:#1d3547;--q-track:#1e303d;--q-dot:#3a586c;--q-dim4:#3d5364;--q-dim3:#42586a;--q-dim2:#4e6274;--q-dim:#5d7286;--q-muted3:#6a8093;--q-muted2:#7f9ab0;--q-muted:#8ba4b8;--q-text3:#a8bfd1;--q-text2:#c9dced;--q-text:#e8f2fb;--q-accent-dk:#5980a6;--q-accent-md:#749dc4;--q-accent:#94bce3;--q-accent-lt:#b5d9fd;--q-accent-pale:#d6ebff;--q-good:#57c08b;--q-bad:#e0705e;--q-bgimg:linear-gradient(color-mix(in srgb, var(--q-accent) 6%, transparent) 1px,transparent 1px),linear-gradient(90deg,color-mix(in srgb, var(--q-accent) 6%, transparent) 1px,transparent 1px),linear-gradient(color-mix(in srgb, var(--q-accent) 11%, transparent) 1px,transparent 1px),linear-gradient(90deg,color-mix(in srgb, var(--q-accent) 11%, transparent) 1px,transparent 1px);--q-bgsize:34px 34px,34px 34px,170px 170px,170px 170px;--q-bganim:none;--q-col:color-mix(in srgb, var(--q-bg) 90%, transparent)}
+html,body{margin:0;padding:0;background:var(--q-void);-webkit-text-size-adjust:100%}
+body{--color-text:var(--q-text);--color-divider:color-mix(in srgb, var(--q-accent) 22%, transparent)}
+.blueprint>.corner{color:color-mix(in srgb, var(--q-accent) 50%, transparent)}
+*{-webkit-tap-highlight-color:transparent}
+::selection{background:var(--q-accent);color:var(--q-bg)}
+a{color:var(--q-accent)}a:hover{color:var(--q-accent-lt)}
+button:focus-visible{outline:2px solid var(--q-accent);outline-offset:2px}
+@keyframes qpulse{0%,100%{box-shadow:0 0 0 0 color-mix(in srgb, var(--q-accent) 55%, transparent)}50%{box-shadow:0 0 0 12px rgba(148,188,227,0)}}
+@keyframes qpop{0%{transform:scale(.9);opacity:0}100%{transform:scale(1);opacity:1}}
+@keyframes qrise{0%{transform:translateY(10px);opacity:0}100%{transform:translateY(0);opacity:1}}
+@keyframes qshake{0%,100%{transform:translateX(0)}20%{transform:translateX(-6px)}40%{transform:translateX(6px)}60%{transform:translateX(-4px)}80%{transform:translateX(4px)}}
+@keyframes qflip{0%{transform:rotateY(0)}100%{transform:rotateY(180deg)}}
+@keyframes qaurora{0%{background-position:0% 0%,100% 20%,50% 100%}50%{background-position:18% 12%,78% 4%,34% 86%}100%{background-position:0% 0%,100% 20%,50% 100%}}
+@keyframes qslide{0%{background-position:0 0}100%{background-position:170px 170px}}
+@media (prefers-reduced-motion:reduce){#qbg{animation:none !important}}
+</style>
+</helmet>
+<div data-screen-label="MCN Quest" style="min-height:100vh;background:var(--q-void);display:flex;justify-content:center;font-family:var(--font-body);color:var(--q-text);font-size:16px;line-height:1.5">
+<div id="qbg" aria-hidden="true" style="position:fixed;inset:0;z-index:0;pointer-events:none;background-image:var(--q-bgimg);background-size:var(--q-bgsize);background-repeat:repeat;animation:var(--q-bganim)"></div>
+<div style="width:100%;max-width:520px;min-height:100vh;background:var(--q-col);display:flex;flex-direction:column;position:relative;z-index:1;box-shadow:0 0 0 1px color-mix(in srgb, var(--q-accent) 14%, transparent)">
+<div aria-hidden="true" style="position:absolute;inset:7px;z-index:34;pointer-events:none;opacity:var(--q-frame,0);border:2px solid color-mix(in srgb, var(--q-accent) 55%, transparent);box-shadow:inset 0 0 0 4px transparent,inset 0 0 0 5px color-mix(in srgb, var(--q-accent) 34%, transparent),inset 0 0 70px color-mix(in srgb, var(--q-accent) 12%, transparent)"></div>
+
+<sc-if value="{{ showHud }}" hint-placeholder-val="{{ true }}">
+<header style="position:sticky;top:0;z-index:30;background:var(--q-bg);border-bottom:1px solid color-mix(in srgb, var(--q-accent) 16%, transparent);padding:11px 14px;display:flex;align-items:center;gap:10px">
+  <span style="font-family:var(--font-heading);font-weight:700;font-size:15px;letter-spacing:.1em;background:var(--q-accent);color:var(--q-bg);padding:3px 8px 2px">MCN</span>
+  <span style="font-family:var(--font-heading);font-weight:600;font-size:16px;letter-spacing:.14em;text-transform:uppercase;color:var(--q-text)">Quest</span>
+  <button onClick="{{ openSearch }}" aria-label="Search all notes" style="margin-left:6px;flex:none;background:none;border:none;padding:4px;cursor:pointer;color:var(--q-muted);display:flex" style-hover="color:var(--q-accent)">
+    <svg viewBox="0 0 24 24" style="width:18px;height:18px;fill:none;stroke:currentColor;stroke-width:1.7;stroke-linecap:round"><circle cx="11" cy="11" r="7"></circle><path d="m20 20-3.5-3.5"></path></svg>
+  </button>
+  <div style="margin-left:auto;display:flex;align-items:center;gap:12px">
+    <div style="display:flex;align-items:center;gap:3px">
+      <sc-for list="{{ heartSlots }}" as="h" hint-placeholder-count="5">
+        <svg viewBox="0 0 24 24" style="width:15px;height:15px;fill:{{ h.fill }};stroke:{{ h.stroke }};stroke-width:1.6"><path d="M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5c0 2.3 1.5 4.05 3 5.5l7 7Z"></path></svg>
+      </sc-for>
+    </div>
+    <div style="display:flex;align-items:center;gap:4px">
+      <svg viewBox="0 0 24 24" style="width:14px;height:14px;fill:none;stroke:var(--q-accent);stroke-width:1.6;stroke-linejoin:round"><path d="M4 14a1 1 0 0 1-.78-1.63l9.9-10.2a.5.5 0 0 1 .86.46l-1.92 6.02A1 1 0 0 0 13 10h7a1 1 0 0 1 .78 1.63l-9.9 10.2a.5.5 0 0 1-.86-.46l1.92-6.02A1 1 0 0 0 11 14z"></path></svg>
+      <span style="font-family:var(--font-heading);font-weight:600;font-size:15px;letter-spacing:.03em">{{ xpLabel }}</span>
+    </div>
+    <div style="display:flex;align-items:center;gap:4px">
+      <svg viewBox="0 0 24 24" style="width:14px;height:14px;fill:none;stroke:{{ streakColor }};stroke-width:1.6;stroke-linejoin:round"><path d="M8.5 14.5A2.5 2.5 0 0 0 11 12c0-1.38-.5-2-1-3-1.07-2.14-.22-4.05 2-6 .5 2.5 2 4.9 4 6.5 2 1.6 3 3.5 3 5.5a7 7 0 1 1-14 0c0-1.15.43-2.29 1-3a2.5 2.5 0 0 0 2.5 2.5z"></path></svg>
+      <span style="font-family:var(--font-heading);font-weight:600;font-size:15px">{{ streakLabel }}</span>
+    </div>
+  </div>
+</header>
+</sc-if>
+
+<sc-if value="{{ isMap }}" hint-placeholder-val="{{ true }}">
+<div style="flex:1;padding:0 0 26px">
+  <section style="padding:20px 18px 14px">
+    <div style="font-size:11px;letter-spacing:.2em;text-transform:uppercase;color:var(--q-muted2)">{{ worldKicker }}</div>
+    <h1 style="margin:5px 0 0;font-family:var(--font-heading);font-weight:700;font-size:34px;line-height:.98;letter-spacing:.005em;text-transform:uppercase;color:var(--q-text);text-wrap:balance">{{ worldName }}</h1>
+    <div style="display:flex;align-items:center;gap:10px;margin-top:12px">
+      <div style="flex:1;height:6px;background:var(--q-chip);position:relative;overflow:hidden">
+        <div style="{{ worldBarStyle }}"></div>
+      </div>
+      <span style="font-family:var(--font-heading);font-weight:600;font-size:14px;letter-spacing:.08em;color:var(--q-accent)">{{ worldProgress }}</span>
+    </div>
+  </section>
+
+  <div style="position:relative;margin:6px 0 0;{{ pathHeight }}">
+    <sc-for list="{{ dots }}" as="d" hint-placeholder-count="0">
+      <span style="{{ d.st }}"></span>
+    </sc-for>
+    <sc-for list="{{ mapNodes }}" as="n" hint-placeholder-count="8">
+      <div style="{{ n.wrapStyle }}">
+        <button onClick="{{ n.tap }}" aria-label="{{ n.aria }}" class="blueprint" style="{{ n.tileStyle }}">
+          <i class="corner tl"></i><i class="corner tr"></i><i class="corner bl"></i><i class="corner br"></i>
+          <sc-if value="{{ n.showLock }}" hint-placeholder-val="{{ false }}">
+            <svg viewBox="0 0 24 24" style="width:20px;height:20px;fill:none;stroke:var(--q-dim);stroke-width:1.6"><rect x="4.5" y="10.5" width="15" height="10.5"></rect><path d="M8 10.5V7a4 4 0 0 1 8 0v3.5"></path></svg>
+          </sc-if>
+          <sc-if value="{{ n.showNum }}" hint-placeholder-val="{{ true }}">
+            <span style="{{ n.numStyle }}">{{ n.num }}</span>
+          </sc-if>
+          <sc-if value="{{ n.showTrophy }}" hint-placeholder-val="{{ false }}">
+            <svg viewBox="0 0 24 24" style="width:26px;height:26px;fill:none;stroke:currentColor;stroke-width:1.5;stroke-linecap:round"><path d="M6 9H4.5a2.5 2.5 0 0 1 0-5H6"></path><path d="M18 9h1.5a2.5 2.5 0 0 0 0-5H18"></path><path d="M6 4h12v5a6 6 0 0 1-12 0z"></path><path d="M9 21h6M12 15v6"></path></svg>
+          </sc-if>
+        </button>
+        <sc-if value="{{ n.showStars }}" hint-placeholder-val="{{ false }}">
+          <div style="display:flex;gap:2px;justify-content:center;margin-top:5px">
+            <sc-for list="{{ n.stars }}" as="s" hint-placeholder-count="3">
+              <svg viewBox="0 0 24 24" style="width:13px;height:13px;fill:{{ s.fill }};stroke:{{ s.stroke }};stroke-width:1.5;stroke-linejoin:round"><path d="m12 2 3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01z"></path></svg>
+            </sc-for>
+          </div>
+        </sc-if>
+        <div style="{{ n.labelStyle }}">{{ n.label }}</div>
+      </div>
+    </sc-for>
+  </div>
+
+  <section style="padding:8px 18px 0">
+    <div style="font-family:var(--font-heading);font-weight:600;font-size:13px;letter-spacing:.18em;text-transform:uppercase;color:var(--q-muted2);padding:18px 0 10px;border-top:1px solid color-mix(in srgb, var(--q-accent) 16%, transparent)">All sections</div>
+    <div style="display:grid;gap:8px">
+      <sc-for list="{{ allWorlds }}" as="w" hint-placeholder-count="11">
+        <button onClick="{{ w.tap }}" style="{{ w.st }}">
+          <span style="flex:none;font-family:var(--font-heading);font-weight:700;font-size:15px;color:var(--q-accent-dk)">{{ w.n }}</span>
+          <sc-if value="{{ w.showLock }}" hint-placeholder-val="{{ false }}">
+            <svg viewBox="0 0 24 24" style="width:15px;height:15px;flex:none;fill:none;stroke:var(--q-dim);stroke-width:1.6"><rect x="4.5" y="10.5" width="15" height="10.5"></rect><path d="M8 10.5V7a4 4 0 0 1 8 0v3.5"></path></svg>
+          </sc-if>
+          <span style="flex:1;min-width:0">
+            <span style="{{ w.nameStyle }}">{{ w.name }}</span>
+            <span style="display:block;font-size:12px;color:var(--q-muted3);letter-spacing:.05em">{{ w.sub }}</span>
+          </span>
+          <span style="{{ w.rightStyle }}">{{ w.right }}</span>
+        </button>
+      </sc-for>
+    </div>
+  </section>
+</div>
+</sc-if>
+
+<sc-if value="{{ isBrief }}" hint-placeholder-val="{{ false }}">
+<div style="flex:1;display:flex;flex-direction:column;animation:qrise .28s ease both">
+  <div style="padding:14px 14px 0">
+    <button onClick="{{ goMap }}" style="display:flex;align-items:center;gap:6px;background:none;border:none;padding:6px 2px;cursor:pointer;color:var(--q-muted);font-family:var(--font-heading);font-weight:600;font-size:13px;letter-spacing:.12em;text-transform:uppercase" style-hover="color:var(--q-accent)">
+      <svg viewBox="0 0 24 24" style="width:15px;height:15px;fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"><path d="m15 18-6-6 6-6"></path></svg>Map
+    </button>
+  </div>
+  <div style="flex:1;display:flex;flex-direction:column;justify-content:center;padding:10px 20px 30px">
+    <div style="font-size:11px;letter-spacing:.2em;text-transform:uppercase;color:var(--q-muted2)">{{ briefKicker }}</div>
+    <h1 style="margin:8px 0 0;font-family:var(--font-heading);font-weight:700;font-size:38px;line-height:1;text-transform:uppercase;color:var(--q-text);text-wrap:balance">{{ briefTitle }}</h1>
+    <p style="margin:16px 0 0;font-size:15px;line-height:1.6;color:var(--q-text3);text-wrap:pretty">{{ briefLead }}</p>
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:8px;margin-top:26px">
+      <div class="blueprint" style="border:1px solid color-mix(in srgb, var(--q-accent) 20%, transparent);padding:14px 14px 13px;position:relative"><i class="corner tl"></i><i class="corner tr"></i><i class="corner bl"></i><i class="corner br"></i>
+        <div style="font-family:var(--font-heading);font-weight:700;font-size:26px;line-height:1;color:var(--q-accent)">{{ briefTime }}</div>
+        <div style="font-size:11px;letter-spacing:.13em;text-transform:uppercase;color:var(--q-muted2);margin-top:4px">To read</div>
+      </div>
+      <div class="blueprint" style="border:1px solid color-mix(in srgb, var(--q-accent) 20%, transparent);padding:14px 14px 13px;position:relative"><i class="corner tl"></i><i class="corner tr"></i><i class="corner bl"></i><i class="corner br"></i>
+        <div style="font-family:var(--font-heading);font-weight:700;font-size:26px;line-height:1;color:var(--q-accent)">{{ briefQs }}</div>
+        <div style="font-size:11px;letter-spacing:.13em;text-transform:uppercase;color:var(--q-muted2);margin-top:4px">{{ briefQsSub }}</div>
+      </div>
+    </div>
+    <div style="margin-top:14px;padding:13px 15px;background:var(--q-panel);border-left:2px solid var(--q-accent);font-size:13.5px;line-height:1.55;color:var(--q-text3)">{{ briefRule }}</div>
+    <sc-if value="{{ briefAttempts }}" hint-placeholder-val="{{ false }}">
+      <div style="margin-top:10px;font-size:12.5px;letter-spacing:.06em;color:var(--q-muted2)">{{ briefAttemptsText }}</div>
+    </sc-if>
+    <button onClick="{{ startRead }}" style="margin-top:22px;width:100%;padding:17px;cursor:pointer;border:none;background:var(--q-accent);color:var(--q-bg);font-family:var(--font-heading);font-weight:700;font-size:18px;letter-spacing:.14em;text-transform:uppercase" style-hover="background:var(--q-accent-lt)" style-active="background:var(--q-accent-md)">{{ briefCta }}</button>
+    <sc-if value="{{ noHearts }}" hint-placeholder-val="{{ false }}">
+      <div style="margin-top:12px;text-align:center;font-size:13px;color:var(--q-bad)">Out of hearts — next one in {{ heartTimer }}</div>
+    </sc-if>
+  </div>
+</div>
+</sc-if>
+
+<sc-if value="{{ isRead }}" hint-placeholder-val="{{ false }}">
+<div style="flex:1;display:flex;flex-direction:column">
+  <div style="position:sticky;top:0;z-index:30;background:var(--q-bg);border-bottom:1px solid color-mix(in srgb, var(--q-accent) 16%, transparent);padding:10px 14px;display:flex;align-items:center;gap:10px">
+    <button onClick="{{ goMap }}" aria-label="Back to map" style="flex:none;background:none;border:none;padding:4px;cursor:pointer;color:var(--q-muted);display:flex" style-hover="color:var(--q-accent)">
+      <svg viewBox="0 0 24 24" style="width:20px;height:20px;fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"><path d="m15 18-6-6 6-6"></path></svg>
+    </button>
+    <span style="font-family:var(--font-heading);font-weight:700;font-size:14px;letter-spacing:.08em;background:var(--q-chip);color:var(--q-accent);padding:3px 8px 2px">MCN {{ noteNum }}</span>
+    <span style="flex:1;min-width:0;font-family:var(--font-heading);font-weight:600;font-size:15px;text-transform:uppercase;letter-spacing:.03em;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;color:var(--q-text2)">{{ noteTitle }}</span>
+    <sc-if value="{{ isTimedRead }}" hint-placeholder-val="{{ true }}">
+      <span ref="{{ timerRef }}" style="flex:none;font-family:var(--font-heading);font-weight:700;font-size:20px;letter-spacing:.04em;color:var(--q-accent);font-variant-numeric:tabular-nums">8:00</span>
+    </sc-if>
+    <sc-if value="{{ isReview }}" hint-placeholder-val="{{ false }}">
+      <span style="flex:none;font-family:var(--font-heading);font-weight:600;font-size:11.5px;letter-spacing:.13em;text-transform:uppercase;color:var(--q-muted2)">Review</span>
+    </sc-if>
+  </div>
+  <sc-if value="{{ isTimedRead }}" hint-placeholder-val="{{ true }}">
+    <div style="height:3px;background:var(--q-panel3)"><div ref="{{ barRef }}" style="height:3px;width:100%;background:var(--q-accent)"></div></div>
+  </sc-if>
+
+  <div style="flex:1;padding:20px 18px 120px">
+    <sc-for list="{{ introQuotes }}" as="q" hint-placeholder-count="0">
+      <blockquote style="margin:0 0 18px;border-left:2px solid var(--q-accent-dk);padding:2px 0 2px 14px;font-size:15px;line-height:1.55;color:var(--q-text3);font-style:italic">{{ q.rich }}</blockquote>
+    </sc-for>
+    <sc-for list="{{ sections }}" as="sec" hint-placeholder-count="3">
+      <section style="padding:16px 0 4px">
+        <div style="display:flex;align-items:baseline;gap:10px;margin-bottom:14px">
+          <span style="font-family:var(--font-heading);font-weight:700;font-size:13px;background:var(--q-accent);color:var(--q-bg);padding:2px 7px 1px">{{ sec.kicker }}</span>
+          <h2 style="margin:0;font-family:var(--font-heading);font-weight:600;font-size:21px;line-height:1.1;text-transform:uppercase;letter-spacing:.02em;color:var(--q-text)">{{ sec.title }}</h2>
+        </div>
+        <sc-for list="{{ sec.blocks }}" as="b" hint-placeholder-count="1">
+          <div style="margin-bottom:16px">
+            <sc-if value="{{ b.isTable }}" hint-placeholder-val="{{ false }}">
+              <div style="border:1px solid color-mix(in srgb, var(--q-accent) 20%, transparent);overflow-x:auto">
+                <table style="width:100%;border-collapse:collapse;font-size:13.5px;line-height:1.5">
+                  <thead><tr><sc-for list="{{ b.headCells }}" as="h" hint-placeholder-count="2"><th style="text-align:left;font-family:var(--font-heading);font-weight:600;font-size:13px;letter-spacing:.08em;text-transform:uppercase;color:var(--q-accent);background:var(--q-panel3);padding:9px 11px;border-bottom:1px solid color-mix(in srgb, var(--q-accent) 20%, transparent)">{{ h.label }}</th></sc-for></tr></thead>
+                  <tbody><sc-for list="{{ b.rows }}" as="row" hint-placeholder-count="4"><tr><sc-for list="{{ row.cells }}" as="cell" hint-placeholder-count="2"><td style="vertical-align:top;padding:9px 11px;border-bottom:1px solid color-mix(in srgb, var(--q-accent) 10%, transparent);color:var(--q-text2)">{{ cell.rich }}</td></sc-for></tr></sc-for></tbody>
+                </table>
+              </div>
+            </sc-if>
+            <sc-if value="{{ b.isCards }}" hint-placeholder-val="{{ false }}">
+              <div style="display:grid;gap:10px">
+                <sc-for list="{{ b.items }}" as="c" hint-placeholder-count="2">
+                  <div class="blueprint" style="position:relative;border:1px solid color-mix(in srgb, var(--q-accent) 20%, transparent);padding:14px 15px 13px"><i class="corner tl"></i><i class="corner tr"></i><i class="corner bl"></i><i class="corner br"></i>
+                    <sc-if value="{{ c.hasKicker }}" hint-placeholder-val="{{ false }}"><div style="font-size:10.5px;letter-spacing:.16em;text-transform:uppercase;color:var(--q-muted2);margin-bottom:3px">{{ c.kicker }}</div></sc-if>
+                    <div style="font-family:var(--font-heading);font-weight:600;font-size:17px;text-transform:uppercase;letter-spacing:.02em;color:var(--q-text);margin-bottom:7px">{{ c.title }}</div>
+                    <ul style="margin:0;padding-left:16px;display:grid;gap:6px;font-size:13.5px;line-height:1.5;color:var(--q-text2)">
+                      <sc-for list="{{ c.bullets }}" as="bu" hint-placeholder-count="3"><li>{{ bu.rich }}</li></sc-for>
+                    </ul>
+                  </div>
+                </sc-for>
+              </div>
+            </sc-if>
+            <sc-if value="{{ b.isStats }}" hint-placeholder-val="{{ false }}">
+              <div style="display:grid;grid-template-columns:1fr 1fr;gap:8px">
+                <sc-for list="{{ b.items }}" as="s" hint-placeholder-count="4">
+                  <div style="border:1px solid color-mix(in srgb, var(--q-accent) 18%, transparent);padding:12px 13px">
+                    <div style="font-family:var(--font-heading);font-weight:700;font-size:22px;line-height:1;color:var(--q-accent)">{{ s.value }}</div>
+                    <div style="font-size:12px;line-height:1.4;color:var(--q-muted);margin-top:5px">{{ s.labelRich }}</div>
+                  </div>
+                </sc-for>
+              </div>
+            </sc-if>
+            <sc-if value="{{ b.isSteps }}" hint-placeholder-val="{{ false }}">
+              <div style="display:grid;gap:8px">
+                <sc-for list="{{ b.items }}" as="st" hint-placeholder-count="3">
+                  <div style="display:flex;gap:11px;align-items:flex-start">
+                    <span style="flex:none;width:23px;height:23px;display:flex;align-items:center;justify-content:center;border:1px solid var(--q-accent-dk);font-family:var(--font-heading);font-weight:600;font-size:13px;color:var(--q-accent)">{{ st.n }}</span>
+                    <span style="flex:1;font-size:14px;line-height:1.5;color:var(--q-text2)">{{ st.rich }}</span>
+                  </div>
+                </sc-for>
+              </div>
+            </sc-if>
+            <sc-if value="{{ b.isBullets }}" hint-placeholder-val="{{ false }}">
+              <ul style="margin:0;padding-left:17px;display:grid;gap:7px;font-size:14px;line-height:1.55;color:var(--q-text2)">
+                <sc-for list="{{ b.items }}" as="bu" hint-placeholder-count="3"><li>{{ bu.rich }}</li></sc-for>
+              </ul>
+            </sc-if>
+            <sc-if value="{{ b.isCallout }}" hint-placeholder-val="{{ false }}">
+              <div style="border-left:2px solid var(--q-accent);background:var(--q-panel);padding:12px 15px;font-size:14px;line-height:1.55;color:var(--q-text2)">{{ b.rich }}</div>
+            </sc-if>
+            <sc-if value="{{ b.isQuote }}" hint-placeholder-val="{{ false }}">
+              <blockquote style="margin:0;padding:14px 16px;background:var(--q-panel);font-size:15px;line-height:1.55;color:var(--q-accent-pale);font-style:italic">{{ b.rich }}<sc-if value="{{ b.hasBy }}" hint-placeholder-val="{{ false }}"><span style="display:block;margin-top:8px;font-style:normal;font-family:var(--font-heading);font-weight:600;font-size:12px;letter-spacing:.13em;text-transform:uppercase;color:var(--q-muted2)">— {{ b.by }}</span></sc-if></blockquote>
+            </sc-if>
+          </div>
+        </sc-for>
+      </section>
+    </sc-for>
+  </div>
+
+  <sc-if value="{{ isTimedRead }}" hint-placeholder-val="{{ true }}">
+  <div style="position:sticky;bottom:0;z-index:30;background:linear-gradient(to top,var(--q-bg) 62%,transparent);padding:14px;border-top:1px solid color-mix(in srgb, var(--q-accent) 16%, transparent)">
+    <button onClick="{{ beginQuiz }}" style="width:100%;padding:16px;cursor:pointer;border:none;background:var(--q-accent);color:var(--q-bg);font-family:var(--font-heading);font-weight:700;font-size:17px;letter-spacing:.13em;text-transform:uppercase" style-hover="background:var(--q-accent-lt)" style-active="background:var(--q-accent-md)">I'm ready — start quiz</button>
+    <div style="text-align:center;font-size:11.5px;letter-spacing:.09em;text-transform:uppercase;color:var(--q-muted3);margin-top:8px">Finishing early earns a speed bonus</div>
+  </div>
+  </sc-if>
+</div>
+</sc-if>
+
+<sc-if value="{{ isQuiz }}" hint-placeholder-val="{{ false }}">
+<div style="flex:1;display:flex;flex-direction:column">
+  <div style="position:sticky;top:0;z-index:30;background:var(--q-bg);border-bottom:1px solid color-mix(in srgb, var(--q-accent) 16%, transparent);padding:11px 14px">
+    <div style="display:flex;align-items:center;gap:10px">
+      <button onClick="{{ quitQuiz }}" aria-label="Quit" style="flex:none;background:none;border:none;padding:4px;cursor:pointer;color:var(--q-muted);display:flex" style-hover="color:var(--q-bad)">
+        <svg viewBox="0 0 24 24" style="width:18px;height:18px;fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round"><path d="M6 6l12 12M18 6L6 18"></path></svg>
+      </button>
+      <div style="flex:1;display:flex;gap:5px">
+        <sc-for list="{{ qDots }}" as="d" hint-placeholder-count="5">
+          <span style="{{ d.st }}"></span>
+        </sc-for>
+      </div>
+      <span style="font-family:var(--font-heading);font-weight:600;font-size:14px;letter-spacing:.06em;color:var(--q-muted2)">{{ qCounter }}</span>
+      <sc-if value="{{ hasTestClock }}" hint-placeholder-val="{{ false }}">
+        <span ref="{{ timerRef }}" style="font-family:var(--font-heading);font-weight:700;font-size:17px;color:var(--q-accent);font-variant-numeric:tabular-nums">12:00</span>
+      </sc-if>
+    </div>
+  </div>
+
+  <div style="flex:1;padding:18px 16px 20px;animation:qpop .2s ease both" key="{{ qKey }}">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px">
+      <span style="font-family:var(--font-heading);font-weight:600;font-size:11px;letter-spacing:.15em;text-transform:uppercase;color:var(--q-bg);background:var(--q-accent);padding:3px 8px 2px">{{ qKind }}</span>
+      <span style="font-family:var(--font-heading);font-weight:600;font-size:11px;letter-spacing:.15em;text-transform:uppercase;color:var(--q-muted2);border:1px solid color-mix(in srgb, var(--q-accent) 25%, transparent);padding:2px 7px">{{ qDiff }}</span>
+    </div>
+    <p style="margin:0;font-size:17px;line-height:1.45;color:var(--q-text);font-weight:500;text-wrap:pretty">{{ qStem }}</p>
+
+    <sc-if value="{{ qHasStatements }}" hint-placeholder-val="{{ false }}">
+      <div style="display:grid;gap:8px;margin-top:14px">
+        <sc-for list="{{ qStatements }}" as="s" hint-placeholder-count="3">
+          <div style="display:flex;gap:10px;align-items:flex-start;border:1px solid color-mix(in srgb, var(--q-accent) 18%, transparent);padding:11px 13px">
+            <span style="flex:none;font-family:var(--font-heading);font-weight:700;font-size:14px;color:var(--q-accent)">{{ s.n }}</span>
+            <span style="flex:1;font-size:14.5px;line-height:1.5;color:var(--q-text2)">{{ s.text }}</span>
+          </div>
+        </sc-for>
+      </div>
+    </sc-if>
+
+    <sc-if value="{{ qHasAR }}" hint-placeholder-val="{{ false }}">
+      <div style="display:grid;gap:8px;margin-top:14px">
+        <div style="border:1px solid color-mix(in srgb, var(--q-accent) 18%, transparent);padding:12px 13px">
+          <div style="font-family:var(--font-heading);font-weight:600;font-size:11px;letter-spacing:.16em;text-transform:uppercase;color:var(--q-accent);margin-bottom:4px">Assertion (A)</div>
+          <div style="font-size:14.5px;line-height:1.5;color:var(--q-text2)">{{ qAssertion }}</div>
+        </div>
+        <div style="border:1px solid color-mix(in srgb, var(--q-accent) 18%, transparent);padding:12px 13px">
+          <div style="font-family:var(--font-heading);font-weight:600;font-size:11px;letter-spacing:.16em;text-transform:uppercase;color:var(--q-accent);margin-bottom:4px">Reason (R)</div>
+          <div style="font-size:14.5px;line-height:1.5;color:var(--q-text2)">{{ qReason }}</div>
+        </div>
+      </div>
+    </sc-if>
+
+    <sc-if value="{{ qHasPairs }}" hint-placeholder-val="{{ false }}">
+      <div style="margin-top:14px;border:1px solid color-mix(in srgb, var(--q-accent) 18%, transparent)">
+        <sc-for list="{{ qPairs }}" as="p" hint-placeholder-count="4">
+          <div style="display:grid;grid-template-columns:1fr 1fr;gap:10px;padding:10px 12px;border-bottom:1px solid color-mix(in srgb, var(--q-accent) 10%, transparent)">
+            <span style="font-size:13.5px;line-height:1.45;color:var(--q-text2)">{{ p.l }}</span>
+            <span style="font-size:13.5px;line-height:1.45;color:var(--q-text2)">{{ p.r }}</span>
+          </div>
+        </sc-for>
+      </div>
+    </sc-if>
+
+    <sc-if value="{{ qIsOrder }}" hint-placeholder-val="{{ false }}">
+      <div style="margin-top:14px;display:grid;gap:8px">
+        <sc-for list="{{ orderItems }}" as="it" hint-placeholder-count="4">
+          <button onClick="{{ it.tap }}" style="{{ it.st }}">
+            <span style="{{ it.badgeStyle }}">{{ it.badge }}</span>
+            <span style="flex:1;text-align:left;font-size:14.5px;line-height:1.4">{{ it.label }}</span>
+          </button>
+        </sc-for>
+      </div>
+      <sc-if value="{{ orderCanUndo }}" hint-placeholder-val="{{ false }}">
+        <button onClick="{{ orderUndo }}" style="margin-top:10px;white-space:nowrap;background:none;border:1px solid color-mix(in srgb, var(--q-accent) 30%, transparent);color:var(--q-muted);padding:9px 16px;cursor:pointer;font-family:var(--font-heading);font-weight:600;font-size:12px;letter-spacing:.12em;text-transform:uppercase" style-hover="border-color:var(--q-accent);color:var(--q-accent)">Undo</button>
+      </sc-if>
+    </sc-if>
+
+    <sc-if value="{{ qHasOptions }}" hint-placeholder-val="{{ false }}">
+      <div style="margin-top:16px;display:grid;gap:9px">
+        <sc-for list="{{ qOptions }}" as="o" hint-placeholder-count="4">
+          <button onClick="{{ o.tap }}" style="{{ o.st }}">
+            <span style="{{ o.keyStyle }}">{{ o.key }}</span>
+            <span style="flex:1;text-align:left;font-size:14.5px;line-height:1.45">{{ o.label }}</span>
+            <sc-if value="{{ o.tick }}" hint-placeholder-val="{{ false }}">
+              <svg viewBox="0 0 24 24" style="width:19px;height:19px;flex:none;fill:none;stroke:var(--q-good);stroke-width:2.4;stroke-linecap:round;stroke-linejoin:round"><path d="m5 13 4 4L19 7"></path></svg>
+            </sc-if>
+            <sc-if value="{{ o.cross }}" hint-placeholder-val="{{ false }}">
+              <svg viewBox="0 0 24 24" style="width:19px;height:19px;flex:none;fill:none;stroke:var(--q-bad);stroke-width:2.4;stroke-linecap:round"><path d="M6 6l12 12M18 6L6 18"></path></svg>
+            </sc-if>
+          </button>
+        </sc-for>
+      </div>
+    </sc-if>
+
+    <sc-if value="{{ qShowExp }}" hint-placeholder-val="{{ false }}">
+      <div style="{{ expStyle }}">
+        <div style="{{ expTitleStyle }}">{{ expTitle }}</div>
+        <div style="font-size:14px;line-height:1.6;color:var(--q-text2)">{{ qExplain }}</div>
+      </div>
+    </sc-if>
+  </div>
+
+  <sc-if value="{{ qShowNext }}" hint-placeholder-val="{{ false }}">
+    <div style="position:sticky;bottom:0;z-index:30;background:var(--q-bg);border-top:1px solid color-mix(in srgb, var(--q-accent) 16%, transparent);padding:13px 14px">
+      <button onClick="{{ nextQ }}" style="width:100%;padding:16px;cursor:pointer;border:none;background:var(--q-accent);color:var(--q-bg);font-family:var(--font-heading);font-weight:700;font-size:17px;letter-spacing:.13em;text-transform:uppercase" style-hover="background:var(--q-accent-lt)">{{ nextLabel }}</button>
+    </div>
+  </sc-if>
+</div>
+</sc-if>
+
+<sc-if value="{{ isResult }}" hint-placeholder-val="{{ false }}">
+<div style="flex:1;display:flex;flex-direction:column;justify-content:center;padding:26px 20px 32px;animation:qrise .3s ease both">
+  <div style="text-align:center">
+    <div style="font-size:11px;letter-spacing:.22em;text-transform:uppercase;color:var(--q-muted2)">{{ resKicker }}</div>
+    <h1 style="margin:8px 0 0;font-family:var(--font-heading);font-weight:700;font-size:42px;line-height:1;text-transform:uppercase;{{ resTitleColor }}">{{ resTitle }}</h1>
+    <sc-if value="{{ resPassed }}" hint-placeholder-val="{{ false }}">
+      <div style="display:flex;gap:8px;justify-content:center;margin-top:18px">
+        <sc-for list="{{ resStars }}" as="s" hint-placeholder-count="3">
+          <svg viewBox="0 0 24 24" style="width:38px;height:38px;fill:{{ s.fill }};stroke:{{ s.stroke }};stroke-width:1.3;stroke-linejoin:round"><path d="m12 2 3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01z"></path></svg>
+        </sc-for>
+      </div>
+    </sc-if>
+    <div style="margin-top:16px;font-size:15px;line-height:1.55;color:var(--q-text3);text-wrap:pretty">{{ resMessage }}</div>
+  </div>
+
+  <div class="blueprint" style="position:relative;margin-top:24px;border:1px solid color-mix(in srgb, var(--q-accent) 22%, transparent);padding:16px 16px 14px"><i class="corner tl"></i><i class="corner tr"></i><i class="corner bl"></i><i class="corner br"></i>
+    <div style="display:grid;gap:9px">
+      <sc-for list="{{ resLines }}" as="l" hint-placeholder-count="4">
+        <div style="display:flex;align-items:baseline;gap:10px;font-size:14px">
+          <span style="flex:1;color:var(--q-muted)">{{ l.label }}</span>
+          <span style="{{ l.valStyle }}">{{ l.value }}</span>
+        </div>
+      </sc-for>
+    </div>
+    <div style="display:flex;align-items:baseline;gap:10px;margin-top:12px;padding-top:12px;border-top:1px solid color-mix(in srgb, var(--q-accent) 20%, transparent)">
+      <span style="flex:1;font-family:var(--font-heading);font-weight:600;font-size:15px;letter-spacing:.12em;text-transform:uppercase;color:var(--q-text)">Points earned</span>
+      <span style="font-family:var(--font-heading);font-weight:700;font-size:28px;line-height:1;color:var(--q-accent)">+{{ resPoints }}</span>
+    </div>
+  </div>
+
+  <sc-if value="{{ resNewBadges }}" hint-placeholder-val="{{ false }}">
+    <div style="margin-top:14px;display:grid;gap:8px">
+      <sc-for list="{{ resBadges }}" as="b" hint-placeholder-count="1">
+        <div style="display:flex;align-items:center;gap:11px;border:1px solid var(--q-accent);background:var(--q-panel2);padding:11px 13px">
+          <svg viewBox="0 0 24 24" style="width:19px;height:19px;flex:none;fill:none;stroke:var(--q-accent);stroke-width:1.5;stroke-linecap:round"><path d="M6 9H4.5a2.5 2.5 0 0 1 0-5H6"></path><path d="M18 9h1.5a2.5 2.5 0 0 0 0-5H18"></path><path d="M6 4h12v5a6 6 0 0 1-12 0z"></path><path d="M9 21h6M12 15v6"></path></svg>
+          <div><div style="font-family:var(--font-heading);font-weight:600;font-size:15px;text-transform:uppercase;letter-spacing:.04em;color:var(--q-text)">{{ b.name }}</div><div style="font-size:12px;color:var(--q-muted)">{{ b.desc }}</div></div>
+        </div>
+      </sc-for>
+    </div>
+  </sc-if>
+
+  <div style="margin-top:22px;display:grid;gap:9px">
+    <button onClick="{{ resPrimary }}" style="width:100%;padding:16px;cursor:pointer;border:none;background:var(--q-accent);color:var(--q-bg);font-family:var(--font-heading);font-weight:700;font-size:17px;letter-spacing:.13em;text-transform:uppercase" style-hover="background:var(--q-accent-lt)">{{ resPrimaryLabel }}</button>
+    <button onClick="{{ goMap }}" style="width:100%;padding:13px;cursor:pointer;border:1px solid color-mix(in srgb, var(--q-accent) 30%, transparent);background:none;color:var(--q-muted);font-family:var(--font-heading);font-weight:600;font-size:13px;letter-spacing:.13em;text-transform:uppercase" style-hover="border-color:var(--q-accent);color:var(--q-accent)">Back to map</button>
+  </div>
+</div>
+</sc-if>
+
+<sc-if value="{{ isFacts }}" hint-placeholder-val="{{ false }}">
+<div style="flex:1;display:flex;flex-direction:column;padding:24px 18px 30px;animation:qrise .3s ease both">
+  <div style="font-size:11px;letter-spacing:.22em;text-transform:uppercase;color:var(--q-muted2)">Reward unlocked</div>
+  <h1 style="margin:7px 0 0;font-family:var(--font-heading);font-weight:700;font-size:34px;line-height:1;text-transform:uppercase;color:var(--q-text)">Three facts<br>you didn't know</h1>
+  <p style="margin:10px 0 0;font-size:14px;color:var(--q-muted)">Tap each card to flip it. They go straight to your Fact Vault.</p>
+  <div style="margin-top:20px;display:grid;gap:11px">
+    <sc-for list="{{ factCards }}" as="f" hint-placeholder-count="3">
+      <button onClick="{{ f.tap }}" style="{{ f.st }}">
+        <i class="corner tl"></i><i class="corner tr"></i><i class="corner bl"></i><i class="corner br"></i>
+        <sc-if value="{{ f.front }}" hint-placeholder-val="{{ true }}">
+          <div style="display:flex;align-items:center;gap:12px;width:100%">
+            <span style="font-family:var(--font-heading);font-weight:700;font-size:30px;line-height:1;color:var(--q-accent-dk)">{{ f.n }}</span>
+            <span style="flex:1;text-align:left;font-family:var(--font-heading);font-weight:600;font-size:19px;line-height:1.12;text-transform:uppercase;letter-spacing:.02em;color:var(--q-text)">{{ f.title }}</span>
+            <svg viewBox="0 0 24 24" style="width:17px;height:17px;flex:none;fill:none;stroke:var(--q-muted2);stroke-width:1.6;stroke-linecap:round"><path d="M12 5v14M5 12h14"></path></svg>
+          </div>
+        </sc-if>
+        <sc-if value="{{ f.back }}" hint-placeholder-val="{{ false }}">
+          <div style="text-align:left;width:100%">
+            <div style="font-family:var(--font-heading);font-weight:600;font-size:15px;text-transform:uppercase;letter-spacing:.05em;color:var(--q-accent);margin-bottom:6px">{{ f.title }}</div>
+            <div style="font-size:14px;line-height:1.6;color:var(--q-text2);text-wrap:pretty">{{ f.detail }}</div>
+          </div>
+        </sc-if>
+      </button>
+    </sc-for>
+  </div>
+  <button onClick="{{ factsDone }}" style="margin-top:auto;width:100%;padding:16px;cursor:pointer;border:none;background:var(--q-accent);color:var(--q-bg);font-family:var(--font-heading);font-weight:700;font-size:17px;letter-spacing:.13em;text-transform:uppercase" style-hover="background:var(--q-accent-lt)">{{ factsCta }}</button>
+</div>
+</sc-if>
+
+<sc-if value="{{ isVault }}" hint-placeholder-val="{{ false }}">
+<div style="flex:1;padding:20px 18px 26px">
+  <h1 style="margin:0;font-family:var(--font-heading);font-weight:700;font-size:32px;line-height:1;text-transform:uppercase;color:var(--q-text)">Fact Vault</h1>
+  <p style="margin:8px 0 0;font-size:14px;color:var(--q-muted)">{{ vaultCount }} facts collected · earned by clearing chapters</p>
+  <sc-if value="{{ vaultEmpty }}" hint-placeholder-val="{{ true }}">
+    <div style="margin-top:26px;border:1px dashed color-mix(in srgb, var(--q-accent) 25%, transparent);padding:30px 20px;text-align:center;color:var(--q-muted3);font-size:14px">Clear your first chapter to start collecting.</div>
+  </sc-if>
+  <div style="margin-top:18px;display:grid;gap:16px">
+    <sc-for list="{{ vaultGroups }}" as="g" hint-placeholder-count="0">
+      <div>
+        <div style="display:flex;align-items:baseline;gap:9px;margin-bottom:9px">
+          <span style="font-family:var(--font-heading);font-weight:700;font-size:12px;letter-spacing:.08em;background:var(--q-chip);color:var(--q-accent);padding:2px 7px 1px">MCN {{ g.num }}</span>
+          <span style="font-family:var(--font-heading);font-weight:600;font-size:14px;letter-spacing:.09em;text-transform:uppercase;color:var(--q-muted2)">{{ g.title }}</span>
+        </div>
+        <div style="display:grid;gap:8px">
+          <sc-for list="{{ g.facts }}" as="f" hint-placeholder-count="3">
+            <div style="border:1px solid color-mix(in srgb, var(--q-accent) 16%, transparent);padding:12px 13px">
+              <div style="font-family:var(--font-heading);font-weight:600;font-size:15px;text-transform:uppercase;letter-spacing:.03em;color:var(--q-text);margin-bottom:4px">{{ f.title }}</div>
+              <div style="font-size:13.5px;line-height:1.55;color:var(--q-text3);text-wrap:pretty">{{ f.detail }}</div>
+            </div>
+          </sc-for>
+        </div>
+      </div>
+    </sc-for>
+  </div>
+</div>
+</sc-if>
+
+<sc-if value="{{ isStats }}" hint-placeholder-val="{{ false }}">
+<div style="flex:1;padding:20px 18px 26px">
+  <div style="font-size:11px;letter-spacing:.22em;text-transform:uppercase;color:var(--q-muted2)">Rank</div>
+  <h1 style="margin:5px 0 0;font-family:var(--font-heading);font-weight:700;font-size:34px;line-height:1;text-transform:uppercase;color:var(--q-text)">{{ rankName }}</h1>
+  <div style="display:flex;align-items:center;gap:10px;margin-top:12px">
+    <div style="flex:1;height:6px;background:var(--q-chip)"><div style="{{ rankBarStyle }}"></div></div>
+    <span style="font-family:var(--font-heading);font-weight:600;font-size:13px;color:var(--q-accent)">{{ rankNext }}</span>
+  </div>
+
+  <div style="display:grid;grid-template-columns:1fr 1fr 1fr;gap:8px;margin-top:20px">
+    <sc-for list="{{ statTiles }}" as="s" hint-placeholder-count="3">
+      <div style="border:1px solid color-mix(in srgb, var(--q-accent) 18%, transparent);padding:12px 11px">
+        <div style="font-family:var(--font-heading);font-weight:700;font-size:24px;line-height:1;color:var(--q-accent)">{{ s.value }}</div>
+        <div style="font-size:10.5px;letter-spacing:.13em;text-transform:uppercase;color:var(--q-muted2);margin-top:4px">{{ s.label }}</div>
+      </div>
+    </sc-for>
+  </div>
+
+  <div style="font-family:var(--font-heading);font-weight:600;font-size:13px;letter-spacing:.18em;text-transform:uppercase;color:var(--q-muted2);margin:24px 0 10px">Last 28 days</div>
+  <div style="display:grid;grid-template-columns:repeat(14,1fr);gap:4px">
+    <sc-for list="{{ calendar }}" as="c" hint-placeholder-count="28">
+      <span title="{{ c.day }}" style="{{ c.st }}"></span>
+    </sc-for>
+  </div>
+
+  <div style="font-family:var(--font-heading);font-weight:600;font-size:13px;letter-spacing:.18em;text-transform:uppercase;color:var(--q-muted2);margin:24px 0 10px">Badges — {{ badgeCount }}</div>
+  <div style="display:grid;grid-template-columns:1fr 1fr;gap:8px">
+    <sc-for list="{{ badgeList }}" as="b" hint-placeholder-count="6">
+      <div style="{{ b.st }}">
+        <div style="font-family:var(--font-heading);font-weight:600;font-size:14px;text-transform:uppercase;letter-spacing:.03em;line-height:1.15">{{ b.name }}</div>
+        <div style="font-size:11.5px;line-height:1.4;margin-top:3px;opacity:.8">{{ b.desc }}</div>
+      </div>
+    </sc-for>
+  </div>
+
+  <div style="font-family:var(--font-heading);font-weight:600;font-size:13px;letter-spacing:.18em;text-transform:uppercase;color:var(--q-muted2);margin:24px 0 10px">Interface colour</div>
+  <div style="display:grid;grid-template-columns:repeat(3,1fr);gap:8px">
+    <sc-for list="{{ themeOpts }}" as="t" hint-placeholder-count="6">
+      <button onClick="{{ t.pick }}" style="{{ t.st }}">
+        <span style="{{ t.dotStyle }}"></span>
+        <span style="font-family:var(--font-heading);font-weight:600;font-size:11.5px;letter-spacing:.13em;text-transform:uppercase">{{ t.name }}</span>
+      </button>
+    </sc-for>
+  </div>
+
+  <div style="display:flex;align-items:center;gap:12px;margin:22px 0 0">
+    <span style="flex:1;font-family:var(--font-heading);font-weight:600;font-size:13px;letter-spacing:.18em;text-transform:uppercase;color:var(--q-muted2)">Section colours</span>
+    <span style="display:flex;gap:6px;width:132px">
+      <sc-for list="{{ tintOpts }}" as="t" hint-placeholder-count="2">
+        <button onClick="{{ t.pick }}" style="{{ t.st }}">{{ t.name }}</button>
+      </sc-for>
+    </span>
+  </div>
+  <div style="font-size:12.5px;line-height:1.5;color:var(--q-dim);margin-top:7px">Each of the eleven sections takes its own colour, like the worlds of a level map.</div>
+
+  <div style="font-family:var(--font-heading);font-weight:600;font-size:13px;letter-spacing:.18em;text-transform:uppercase;color:var(--q-muted2);margin:24px 0 10px">Background</div>
+  <div style="display:grid;grid-template-columns:repeat(3,1fr);gap:8px">
+    <sc-for list="{{ bgOpts }}" as="b" hint-placeholder-count="6">
+      <button onClick="{{ b.pick }}" style="{{ b.st }}">
+        <span style="{{ b.swatchStyle }}"></span>
+        <span style="font-family:var(--font-heading);font-weight:600;font-size:11.5px;letter-spacing:.13em;text-transform:uppercase">{{ b.name }}</span>
+      </button>
+    </sc-for>
+  </div>
+
+  <div class="blueprint" style="position:relative;margin-top:24px;border:1px solid color-mix(in srgb, var(--q-accent) 22%, transparent);padding:15px 15px 14px"><i class="corner tl"></i><i class="corner tr"></i><i class="corner bl"></i><i class="corner br"></i>
+    <div style="font-family:var(--font-heading);font-weight:600;font-size:16px;text-transform:uppercase;letter-spacing:.05em;color:var(--q-text)">Install as an app</div>
+    <div style="font-size:13.5px;line-height:1.6;color:var(--q-text3);margin-top:6px">{{ installHint }}</div>
+    <div style="font-size:12.5px;line-height:1.55;color:var(--q-muted2);margin-top:8px">Progress is saved on this device. Use the backup code below to move it to another phone.</div>
+    <div style="display:flex;gap:8px;margin-top:12px">
+      <button onClick="{{ doExport }}" style="flex:1;padding:11px;cursor:pointer;border:1px solid var(--q-accent);background:none;color:var(--q-accent);font-family:var(--font-heading);font-weight:600;font-size:12px;letter-spacing:.12em;text-transform:uppercase" style-hover="background:var(--q-panel2)">Copy backup</button>
+      <button onClick="{{ doImport }}" style="flex:1;padding:11px;cursor:pointer;border:1px solid color-mix(in srgb, var(--q-accent) 30%, transparent);background:none;color:var(--q-muted);font-family:var(--font-heading);font-weight:600;font-size:12px;letter-spacing:.12em;text-transform:uppercase" style-hover="border-color:var(--q-accent);color:var(--q-accent)">Restore</button>
+    </div>
+  </div>
+
+  <div style="margin-top:16px;display:flex;gap:8px;align-items:center;flex-wrap:wrap">
+    <a href="MCN 2.0 Study Site.dc.html" style="font-size:13px;color:var(--q-muted2);text-decoration:none;border-bottom:1px solid color-mix(in srgb, var(--q-accent) 30%, transparent)">Open the classic reader</a>
+    <button onClick="{{ doReset }}" style="margin-left:auto;background:none;border:none;padding:6px 0;cursor:pointer;color:var(--q-dim);font-size:12px;letter-spacing:.06em" style-hover="color:var(--q-bad)">Reset all progress</button>
+  </div>
+</div>
+</sc-if>
+
+<sc-if value="{{ isRevise }}" hint-placeholder-val="{{ false }}">
+<div style="flex:1;padding:20px 16px 30px">
+  <div style="font-size:11px;letter-spacing:.2em;text-transform:uppercase;color:var(--q-muted2)">Spaced repetition</div>
+  <h1 style="margin:5px 0 0;font-family:var(--font-heading);font-weight:700;font-size:32px;line-height:1;text-transform:uppercase;color:var(--q-text)">Weak Deck</h1>
+  <p style="margin:12px 0 0;font-size:14px;line-height:1.55;color:var(--q-muted)">Every question you miss lands here. Get it right and it moves up a box — resurfacing after a day, then three, then a week. Four clean recalls and it retires.</p>
+
+  <div style="display:grid;grid-template-columns:1fr 1fr;gap:9px;margin-top:18px">
+    <div style="border:1px solid color-mix(in srgb, var(--q-accent) 18%, transparent);padding:13px 14px;background:var(--q-panel)">
+      <div style="font-family:var(--font-heading);font-weight:700;font-size:28px;line-height:1;color:var(--q-accent)">{{ dueCount }}</div>
+      <div style="font-size:11px;letter-spacing:.15em;text-transform:uppercase;color:var(--q-muted2);margin-top:5px">Due now</div>
+    </div>
+    <div style="border:1px solid color-mix(in srgb, var(--q-accent) 18%, transparent);padding:13px 14px;background:var(--q-panel)">
+      <div style="font-family:var(--font-heading);font-weight:700;font-size:28px;line-height:1;color:var(--q-text)">{{ deckTotal }}</div>
+      <div style="font-size:11px;letter-spacing:.15em;text-transform:uppercase;color:var(--q-muted2);margin-top:5px">In the deck</div>
+    </div>
+  </div>
+
+  <sc-if value="{{ deckReady }}" hint-placeholder-val="{{ false }}">
+    <button onClick="{{ startRevisit }}" style="width:100%;margin-top:14px;padding:16px;cursor:pointer;border:none;background:var(--q-accent);color:var(--q-bg);font-family:var(--font-heading);font-weight:700;font-size:16px;letter-spacing:.09em;text-transform:uppercase">{{ revLabel }}</button>
+  </sc-if>
+  <sc-if value="{{ deckWaiting }}" hint-placeholder-val="{{ false }}">
+    <div style="margin-top:14px;padding:14px;border:1px dashed color-mix(in srgb, var(--q-accent) 25%, transparent);text-align:center;font-size:13px;color:var(--q-muted2)">Nothing due today. The deck is resting — come back tomorrow.</div>
+  </sc-if>
+  <sc-if value="{{ deckEmpty }}" hint-placeholder-val="{{ true }}">
+    <div style="margin-top:14px;padding:18px 14px;border:1px dashed color-mix(in srgb, var(--q-accent) 22%, transparent);text-align:center;font-size:13.5px;line-height:1.55;color:var(--q-muted2)">Clean sheet. Miss a question in any chapter and it will appear here for targeted revision.</div>
+  </sc-if>
+
+  <sc-if value="{{ hasDeck }}" hint-placeholder-val="{{ false }}">
+    <div style="font-family:var(--font-heading);font-weight:600;font-size:13px;letter-spacing:.18em;text-transform:uppercase;color:var(--q-muted2);margin:24px 0 10px">By chapter</div>
+    <div style="display:grid;gap:7px">
+      <sc-for list="{{ deckRows }}" as="d" hint-placeholder-count="3">
+        <div style="display:flex;align-items:center;gap:11px;padding:11px 13px;border:1px solid color-mix(in srgb, var(--q-accent) 13%, transparent);background:var(--q-panel)">
+          <span style="flex:none;font-family:var(--font-heading);font-weight:700;font-size:14px;color:var(--q-accent-dk)">{{ d.num }}</span>
+          <span style="flex:1;min-width:0;font-size:13.5px;color:var(--q-text2);white-space:nowrap;overflow:hidden;text-overflow:ellipsis">{{ d.title }}</span>
+          <span style="flex:none;font-family:var(--font-heading);font-weight:600;font-size:12px;color:var(--q-muted)">{{ d.count }}</span>
+          <span style="{{ d.dueStyle }}">{{ d.due }}</span>
+        </div>
+      </sc-for>
+    </div>
+  </sc-if>
+</div>
+</sc-if>
+
+<sc-if value="{{ isSearch }}" hint-placeholder-val="{{ false }}">
+<div style="flex:1;display:flex;flex-direction:column">
+  <div style="position:sticky;top:0;z-index:30;background:var(--q-bg);border-bottom:1px solid color-mix(in srgb, var(--q-accent) 16%, transparent);padding:11px 13px;display:flex;align-items:center;gap:9px">
+    <svg viewBox="0 0 24 24" style="width:18px;height:18px;flex:none;fill:none;stroke:var(--q-muted);stroke-width:1.7;stroke-linecap:round"><circle cx="11" cy="11" r="7"></circle><path d="m20 20-3.5-3.5"></path></svg>
+    <input value="{{ query }}" onInput="{{ onQuery }}" placeholder="Kesavananda, Article 356, creamy layer…" autocomplete="off" style="flex:1;min-width:0;background:none;border:none;outline:none;font-family:var(--font-body);font-size:16px;color:var(--q-text)">
+    <button onClick="{{ clearQuery }}" aria-label="Clear" style="flex:none;background:none;border:none;padding:4px;cursor:pointer;color:var(--q-dim);display:flex" style-hover="color:var(--q-accent)">
+      <svg viewBox="0 0 24 24" style="width:17px;height:17px;fill:none;stroke:currentColor;stroke-width:1.8;stroke-linecap:round"><path d="M18 6 6 18M6 6l12 12"></path></svg>
+    </button>
+  </div>
+  <div style="flex:1;padding:14px 16px 30px">
+    <sc-if value="{{ searchIdle }}" hint-placeholder-val="{{ true }}">
+      <div style="padding:24px 4px;font-size:14px;line-height:1.6;color:var(--q-muted2)">Search every case name, article and keyword across all 87 notes. Cleared chapters open straight into the note; locked ones stay locked.</div>
+    </sc-if>
+    <sc-if value="{{ searchNone }}" hint-placeholder-val="{{ false }}">
+      <div style="padding:24px 4px;font-size:14px;color:var(--q-muted2)">No match. Try a case name, an article number or a doctrine.</div>
+    </sc-if>
+    <div style="display:grid;gap:8px">
+      <sc-for list="{{ searchResults }}" as="r" hint-placeholder-count="0">
+        <button onClick="{{ r.tap }}" style="{{ r.st }}">
+          <span style="display:flex;align-items:baseline;gap:9px">
+            <span style="flex:none;font-family:var(--font-heading);font-weight:700;font-size:14px;color:var(--q-accent-dk)">{{ r.num }}</span>
+            <span style="flex:1;min-width:0;font-family:var(--font-heading);font-weight:600;font-size:16px;text-transform:uppercase;letter-spacing:.02em;color:var(--q-text)">{{ r.title }}</span>
+            <span style="{{ r.rightStyle }}">{{ r.right }}</span>
+          </span>
+          <span style="display:block;font-size:11.5px;letter-spacing:.09em;text-transform:uppercase;color:var(--q-dim);margin-top:3px">{{ r.section }}</span>
+          <sc-if value="{{ r.hasTerms }}" hint-placeholder-val="{{ false }}">
+            <span style="display:block;font-size:12.5px;line-height:1.5;color:var(--q-muted);margin-top:6px">{{ r.terms }}</span>
+          </sc-if>
+        </button>
+      </sc-for>
+    </div>
+  </div>
+</div>
+</sc-if>
+
+<sc-if value="{{ showTabs }}" hint-placeholder-val="{{ true }}">
+<nav style="position:sticky;bottom:0;z-index:30;background:var(--q-bg);border-top:1px solid color-mix(in srgb, var(--q-accent) 16%, transparent);display:grid;grid-template-columns:1fr 1fr 1fr 1fr">
+  <button onClick="{{ tabMap }}" style="{{ tabMapStyle }}">
+    <svg viewBox="0 0 24 24" style="width:21px;height:21px;fill:none;stroke:currentColor;stroke-width:1.6;stroke-linejoin:round"><path d="m3 6 6-3 6 3 6-3v15l-6 3-6-3-6 3z"></path><path d="M9 3v15M15 6v15"></path></svg>
+    <span style="font-family:var(--font-heading);font-weight:600;font-size:11px;letter-spacing:.14em;text-transform:uppercase">Map</span>
+  </button>
+  <button onClick="{{ tabRevise }}" style="{{ tabReviseStyle }}">
+    <span style="position:relative;display:flex">
+      <svg viewBox="0 0 24 24" style="width:21px;height:21px;fill:none;stroke:currentColor;stroke-width:1.6;stroke-linecap:round;stroke-linejoin:round"><path d="M21 12a9 9 0 1 1-2.64-6.36"></path><path d="M21 3v6h-6"></path></svg>
+      <sc-if value="{{ hasDue }}" hint-placeholder-val="{{ false }}">
+        <span style="position:absolute;top:-5px;right:-9px;min-width:15px;height:15px;padding:0 3px;background:var(--q-bad);color:var(--q-bg);font-family:var(--font-heading);font-weight:700;font-size:10px;line-height:15px;text-align:center">{{ dueBadge }}</span>
+      </sc-if>
+    </span>
+    <span style="font-family:var(--font-heading);font-weight:600;font-size:11px;letter-spacing:.14em;text-transform:uppercase">Revise</span>
+  </button>
+  <button onClick="{{ tabVault }}" style="{{ tabVaultStyle }}">
+    <svg viewBox="0 0 24 24" style="width:21px;height:21px;fill:none;stroke:currentColor;stroke-width:1.6;stroke-linejoin:round"><path d="m12 2 9 5-9 5-9-5 9-5z"></path><path d="m3 12 9 5 9-5"></path><path d="m3 17 9 5 9-5"></path></svg>
+    <span style="font-family:var(--font-heading);font-weight:600;font-size:11px;letter-spacing:.14em;text-transform:uppercase">Vault</span>
+  </button>
+  <button onClick="{{ tabStats }}" style="{{ tabStatsStyle }}">
+    <svg viewBox="0 0 24 24" style="width:21px;height:21px;fill:none;stroke:currentColor;stroke-width:1.6;stroke-linecap:round"><path d="M12 20V10M18 20V4M6 20v-4"></path></svg>
+    <span style="font-family:var(--font-heading);font-weight:600;font-size:11px;letter-spacing:.14em;text-transform:uppercase">Stats</span>
+  </button>
+</nav>
+</sc-if>
+
+<sc-if value="{{ hasToast }}" hint-placeholder-val="{{ false }}">
+<div style="position:fixed;left:50%;bottom:86px;transform:translateX(-50%);z-index:60;background:var(--q-chip);border:1px solid var(--q-accent);color:var(--q-text);padding:11px 18px;font-size:13.5px;letter-spacing:.03em;max-width:88%;text-align:center;animation:qpop .18s ease both">{{ toast }}</div>
+</sc-if>
+
+</div>
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props="{&quot;$preview&quot;:{&quot;width&quot;:430,&quot;height&quot;:900},&quot;readMinutes&quot;:{&quot;editor&quot;:&quot;range&quot;,&quot;default&quot;:8,&quot;min&quot;:2,&quot;max&quot;:20,&quot;step&quot;:1,&quot;unit&quot;:&quot;min&quot;,&quot;tsType&quot;:&quot;number&quot;,&quot;section&quot;:&quot;Difficulty&quot;,&quot;label&quot;:&quot;Study timer&quot;},&quot;questionsPerChapter&quot;:{&quot;editor&quot;:&quot;int&quot;,&quot;default&quot;:5,&quot;min&quot;:3,&quot;max&quot;:10,&quot;step&quot;:1,&quot;tsType&quot;:&quot;number&quot;,&quot;section&quot;:&quot;Difficulty&quot;,&quot;label&quot;:&quot;Questions per chapter&quot;},&quot;strictUnlock&quot;:{&quot;editor&quot;:&quot;boolean&quot;,&quot;default&quot;:true,&quot;tsType&quot;:&quot;boolean&quot;,&quot;section&quot;:&quot;Difficulty&quot;,&quot;label&quot;:&quot;Require every answer correct&quot;},&quot;heartRegenMinutes&quot;:{&quot;editor&quot;:&quot;int&quot;,&quot;default&quot;:20,&quot;min&quot;:1,&quot;max&quot;:60,&quot;step&quot;:1,&quot;unit&quot;:&quot;min&quot;,&quot;tsType&quot;:&quot;number&quot;,&quot;section&quot;:&quot;Difficulty&quot;,&quot;label&quot;:&quot;Heart refill time&quot;}}">
+const range = (a, b) => { const r = []; for (let i = a; i <= b; i++) r.push(String(i).padStart(2, '0')); return r; };
+const WORLDS = [
+  { id:'s1', n:'01', name:'Constitution & Amendments', short:'Constitution', sub:'MCN 01–07', chs:range(1, 7), ready:true },
+  { id:'s2', n:'02', name:'Preamble & Fundamental Rights', short:'Rights', sub:'MCN 08–14', chs:range(8, 14), ready:true },
+  { id:'s3', n:'03', name:'Federalism & Local Government', short:'Federalism', sub:'MCN 15–30', chs:range(15, 30), ready:true },
+  { id:'s4', n:'04', name:'Comparative Constitutions', short:'Comparative', sub:'MCN 31–40', chs:range(31, 40), ready:true },
+  { id:'s5', n:'05', name:'Parliament', short:'Parliament', sub:'MCN 41–48', chs:range(41, 48), ready:true },
+  { id:'s6', n:'06', name:'Union Executive', short:'Executive', sub:'MCN 49–54', chs:range(49, 54), ready:true },
+  { id:'s7', n:'07', name:'Judiciary', short:'Judiciary', sub:'MCN 55–63', chs:range(55, 63), ready:true },
+  { id:'s8', n:'08', name:'ADR, Tribunals & Tech', short:'ADR & Tech', sub:'MCN 64–71', chs:range(64, 71), ready:true },
+  { id:'s9', n:'09', name:'Access to Justice', short:'Access', sub:'MCN 72–76', chs:range(72, 76), ready:true },
+  { id:'s10', n:'10', name:'Elections & Representation', short:'Elections', sub:'MCN 77–83', chs:range(77, 83), ready:true },
+  { id:'s11', n:'11', name:'Constitutional Ideas & Bodies', short:'Ideas', sub:'MCN 84–87', chs:range(84, 87), ready:true }
+];
+const TITLES = { '01':'Govt of India Act, 1935','02':'Constituent Assembly','03':'Amendments','04':'Basic Structure','05':'Basic Structure: Timeline','06':'Inclusions & Components','07':'Applications & Analysis','08':'Preamble','09':'Equality & Affirmative Action','10':'Article 19','11':'Labour Rights: Art 19(1)(c)','12':'Life & Liberty','13':'Secularism & Minorities','14':'Fundamental Duties','15':'Essentials & Core Relations','16':'Legislative Relations & Doctrines','17':'Repugnancy & Dominance','18':'Emergency','19':'Fiscal Federalism: 15th FC','20':'15th FC v 16th FC','21':'16th FC Review','22':'Water Federalism','23':'Governor','24':'NITI Aayog','25':'GST','26':'Models of Federalism','27':'Example Matrix','28':'Ladakh','29':'Panchayats','30':'Municipalities','31':'Separation of Powers','32':'Judicial Review','33':'Ministers','34':'Emergency','35':'President','36':'Presidential v Parliamentary','37':'Forms of Government','38':'Federalism','39':'Separation of Powers II','40':'Judiciary','41':'Role of a Parliamentarian','42':'Anti-Defection Law','43':'Immunities & Privileges','44':'Office of Profit','45':'Presiding Officers','46':'Bicameralism & Rajya Sabha','47':'Whips','48':'Parliamentary Committees','49':"President's Role",'50':'Ordinances','51':'Pardons','52':'Vice President','53':'Ministers','54':'Delegated Legislation','55':'Judicial Pendency','56':'Independence & Accountability','57':'Higher Judicial Appointments','58':'Subordinate Appointments','59':'Judicial Review','60':'Activism & Restraint','61':'Suo Motu & Complete Justice','62':'Recent Case Law','63':'Attorney General','64':'Arbitration & Conciliation','65':'Mediation Act','66':'Arbitration: Reform','67':'Commercial Courts','68':'Tribunals','69':'National Green Tribunal','70':'Gram Nyayalayas','71':'AI and the Judiciary','72':'Public Interest Litigation','73':'Judicial Legislation','74':'Legal Aid','75':'Lok Adalats','76':'Pressure Groups','77':'RoPA, 1951','78':'Delimitation','79':'ECI','80':'SIR','81':'Women Reservation','82':'Political Parties','83':'National & Regional Parties','84':'CAG','85':'42nd CA, 1976','86':'Transformative Constitutionalism','87':'Constitutional Morality' };
+const worldOf = num => WORLDS.findIndex(w => w.chs.includes(num));
+const AR_OPTS = [
+  'Both A and R are true, and R is the correct explanation of A',
+  'Both A and R are true, but R is NOT the correct explanation of A',
+  'A is true but R is false',
+  'A is false but R is true'
+];
+const KIND = { mcq:'Multiple choice', not:'Odd one out', stmt:'Statement based', ar:'Assertion & reason', match:'Match the pairs', order:'Sequencing' };
+const DIFF = { 1:'Easy', 2:'Moderate', 3:'Tough' };
+const READ_SECS = 480, TEST_SECS = 720, HEART_MAX = 5, HEART_MS = 20 * 60 * 1000;
+const RANKS = [[0,'Aspirant'],[900,'Prelims Ready'],[2600,'Mains Ready'],[5200,'Interview Ready'],[9000,'Constitution Nerd'],[14000,'Topper']];
+const BADGES = [
+  { id:'first', name:'First Blood', desc:'Clear your first chapter', t:s => Object.keys(s.chapters).some(k => s.chapters[k].done) },
+  { id:'perfect', name:'Flawless', desc:'Three stars on any chapter', t:s => Object.keys(s.chapters).some(k => s.chapters[k].stars === 3) },
+  { id:'triple', name:'Hat-trick', desc:'Three stars on three chapters', t:s => Object.keys(s.chapters).filter(k => s.chapters[k].stars === 3).length >= 3 },
+  { id:'speed', name:'Speed Reader', desc:'Clear with 4+ minutes left', t:s => !!s.f_speed },
+  { id:'deep', name:'Deep Reader', desc:'Use the full 8 minutes and pass', t:s => !!s.f_deep },
+  { id:'comeback', name:'Comeback', desc:'Clear after three or more tries', t:s => !!s.f_comeback },
+  { id:'hist', name:'Origin Story', desc:'Clear MCN 01 and 02', t:s => !!(s.chapters['01'] && s.chapters['01'].done && s.chapters['02'] && s.chapters['02'].done) },
+  { id:'doctrine', name:'Doctrine Master', desc:'Clear MCN 04 to 07', t:s => ['04','05','06','07'].every(k => s.chapters[k] && s.chapters[k].done) },
+  { id:'collect', name:'Collector', desc:'Bank 12 facts', t:s => Object.keys(s.facts).length * 3 >= 12 },
+  { id:'sec1', name:'Section 1 Cleared', desc:'Pass the first section test', t:s => !!(s.tests.s1 && s.tests.s1.passed) },
+  { id:'sec3', name:'Triple Section', desc:'Pass three section tests', t:s => Object.keys(s.tests).filter(k => s.tests[k].passed).length >= 3 },
+  { id:'half', name:'Halfway There', desc:'Clear 44 chapters', t:s => Object.keys(s.chapters).filter(k => s.chapters[k].done).length >= 44 },
+  { id:'full', name:'Full Syllabus', desc:'Clear all 87 chapters', t:s => Object.keys(s.chapters).filter(k => s.chapters[k].done).length >= 87 },
+  { id:'streak3', name:'On a Roll', desc:'Play three days running', t:s => s.streak >= 3 },
+  { id:'streak7', name:'Week Warrior', desc:'Play seven days running', t:s => s.streak >= 7 }
+];
+const BLANK = { xp:0, hearts:HEART_MAX, heartAt:0, chapters:{}, tests:{}, facts:{}, seen:{}, badges:[], days:[], streak:0, lastDay:'', chStreak:0, weak:{} };
+const THEMES = [
+  { id:'steel', name:'Steel', h:245, c:0.062, dark:true, swatch:'#94bce3' },
+  { id:'ember', name:'Ember', h:52, c:0.085, dark:true, swatch:'#dcb075' },
+  { id:'moss', name:'Moss', h:158, c:0.060, dark:true, swatch:'#8bc6ab' },
+  { id:'plum', name:'Plum', h:330, c:0.070, dark:true, swatch:'#d8a8c6' },
+  { id:'mono', name:'Mono', h:250, c:0.010, dark:true, swatch:'#bcbcc0' },
+  { id:'paper', name:'Paper', h:245, c:0.062, dark:false, swatch:'#41607f' },
+  { id:'parchment', name:'Parchment', h:74, c:0.050, gm:6.5, dark:false, swatch:'#8a6a34' }
+];
+const mix = (v, p) => 'color-mix(in srgb, var(' + v + ') ' + p + '%, transparent)';
+const BGS = [
+  { id:'grid', name:'Blueprint', col:90,
+    img:() => [mix('--q-accent', 6) + ' 1px,transparent 1px', '90deg,' + mix('--q-accent', 6) + ' 1px,transparent 1px', mix('--q-accent', 11) + ' 1px,transparent 1px', '90deg,' + mix('--q-accent', 11) + ' 1px,transparent 1px'].map(g => 'linear-gradient(' + g + ')').join(','),
+    size:'34px 34px,34px 34px,170px 170px,170px 170px' },
+  { id:'dots', name:'Punch Card', col:90,
+    img:() => 'radial-gradient(' + mix('--q-accent', 20) + ' 1.2px,transparent 1.2px),radial-gradient(' + mix('--q-accent', 10) + ' 1px,transparent 1px)',
+    size:'26px 26px,26px 26px', pos:'0 0,13px 13px' },
+  { id:'topo', name:'Contour', col:91,
+    img:() => 'repeating-radial-gradient(circle at 18% 22%,transparent 0 40px,' + mix('--q-accent', 9) + ' 40px 41px),repeating-radial-gradient(circle at 82% 74%,transparent 0 52px,' + mix('--q-accent', 7) + ' 52px 53px)',
+    size:'auto' },
+  { id:'weave', name:'Hatch', col:90,
+    img:() => 'repeating-linear-gradient(45deg,transparent 0 20px,' + mix('--q-accent', 8) + ' 20px 21px),repeating-linear-gradient(-45deg,transparent 0 20px,' + mix('--q-accent', 5) + ' 20px 21px)',
+    size:'auto' },
+  { id:'aurora', name:'Aurora', col:80, anim:'qaurora 28s ease-in-out infinite',
+    img:() => 'radial-gradient(52% 40% at 12% 10%,' + mix('--q-accent', 30) + ' 0%,transparent 68%),radial-gradient(46% 38% at 88% 26%,' + mix('--q-accent-dk', 34) + ' 0%,transparent 70%),radial-gradient(62% 46% at 50% 96%,' + mix('--q-accent-md', 26) + ' 0%,transparent 68%)',
+    size:'160% 160%,150% 150%,170% 170%' },
+  { id:'atlas', name:'Atlas Map', col:86,
+    img:() => [
+      'repeating-conic-gradient(from 0deg at 13% 16%,transparent 0 10.5deg,' + mix('--q-accent', 22) + ' 10.5deg 11.5deg,transparent 11.5deg 22.5deg)',
+      'repeating-conic-gradient(from 0deg at 88% 86%,transparent 0 10.5deg,' + mix('--q-accent', 18) + ' 10.5deg 11.5deg,transparent 11.5deg 22.5deg)',
+      'repeating-radial-gradient(circle at 13% 16%,transparent 0 26px,' + mix('--q-accent', 26) + ' 26px 27px,transparent 27px 62px,' + mix('--q-accent', 20) + ' 62px 63px,transparent 63px 300px)',
+      'repeating-radial-gradient(circle at 88% 86%,transparent 0 22px,' + mix('--q-accent', 22) + ' 22px 23px,transparent 23px 54px,' + mix('--q-accent', 16) + ' 54px 55px,transparent 55px 300px)',
+      'repeating-radial-gradient(ellipse 60% 40% at 62% 34%,transparent 0 54px,' + mix('--q-accent', 11) + ' 54px 55px)',
+      'repeating-radial-gradient(ellipse 50% 62% at 24% 74%,transparent 0 48px,' + mix('--q-accent', 9) + ' 48px 49px)',
+      'radial-gradient(circle at 50% 30%,' + mix('--q-accent', 7) + ' 0%,transparent 62%)'
+    ].join(','),
+    size:'auto', frame:1 },
+  { id:'plain', name:'Clean', col:100, img:() => 'none', size:'auto' }
+];
+const WORLD_HUES = [48, 12, 150, 285, 205, 332, 172, 262, 100, 28, 235];
+const TOK_DARK = { void:[.12,.20], bg:[.165,.22], panel:[.205,.26], panel2:[.235,.30], panel3:[.215,.24], cal:[.22,.24], chip:[.255,.32], mark:[.28,.40], done:[.30,.36], track:[.225,.26], dot:[.40,.40], dim4:[.375,.30], dim3:[.405,.28], dim2:[.44,.26], dim:[.50,.26], muted3:[.56,.26], muted2:[.645,.26], muted:[.695,.28], text3:[.79,.28], text2:[.865,.24], text:[.945,.20], 'accent-dk':[.585,.95], 'accent-md':[.665,.95], accent:[.775,1], 'accent-lt':[.865,.85], 'accent-pale':[.925,.55] };
+const TOK_LIGHT = { void:[.90,.10], bg:[.975,.05], panel:[.945,.10], panel2:[.915,.16], panel3:[.932,.10], cal:[.925,.10], chip:[.90,.20], mark:[.885,.32], done:[.87,.24], track:[.90,.12], dot:[.72,.30], dim4:[.78,.22], dim3:[.745,.22], dim2:[.70,.24], dim:[.635,.26], muted3:[.575,.28], muted2:[.515,.30], muted:[.465,.30], text3:[.40,.30], text2:[.315,.26], text:[.215,.20], 'accent-dk':[.615,.90], 'accent-md':[.555,.95], accent:[.495,1], 'accent-lt':[.415,.95], 'accent-pale':[.335,.80] };
+const shuffle = a => { for (let i = a.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [a[i], a[j]] = [a[j], a[i]]; } return a; };
+const mmss = s => { s = Math.max(0, Math.round(s)); return Math.floor(s / 60) + ':' + String(s % 60).padStart(2, '0'); };
+const dayKey = d => new Date(d).toISOString().slice(0, 10);
+
+class Component extends DCLogic {
+  state = { view:'map', save:{ ...BLANK }, ch:null, mode:'chapter', note:null, quest:null, quiz:null, result:null, flipped:{}, toast:'', busy:false, tick:0, theme:'steel', bg:'grid', tint:true, world:0, query:'' };
+  constructor(props) { super(props); this.timerRef = React.createRef(); this.barRef = React.createRef(); }
+
+  componentDidMount() {
+    let s = { ...BLANK };
+    try { const raw = JSON.parse(localStorage.getItem('mcnq-v1')); if (raw && typeof raw === 'object') s = { ...BLANK, ...raw }; } catch (e) {}
+    const today = dayKey(Date.now());
+    if (s.lastDay !== today) {
+      const y = dayKey(Date.now() - 864e5);
+      s.streak = s.lastDay === y ? (s.streak || 0) + 1 : 1;
+      s.lastDay = today;
+      s.days = (s.days || []).concat([today]).slice(-400);
+    }
+    if (!s.heartAt) s.heartAt = Date.now();
+    const th = localStorage.getItem('mcnq-theme') || 'parchment';
+    const bg = localStorage.getItem('mcnq-bg') || 'atlas';
+    const tint = localStorage.getItem('mcnq-tint') !== '0';
+    this.applyTheme(th);
+    this.applyBg(bg);
+    this.setState({ save:s, theme:th, bg, tint }, () => this.applyTint(this.state.world));
+    localStorage.setItem('mcnq-v1', JSON.stringify(s));
+    this._hb = setInterval(() => { if (this.state.view === 'map' || this.state.view === 'brief') this.setState(p => ({ tick:p.tick + 1 })); }, 30000);
+  }
+  applyTheme(id) {
+    const t = THEMES.find(x => x.id === id) || THEMES[0];
+    const tok = t.dark ? TOK_DARK : TOK_LIGHT, root = document.documentElement.style;
+    const GROUND = ['void','bg','panel','panel2','panel3','cal','chip','mark','done','track','dot'];
+    Object.keys(tok).forEach(k => {
+      const g = (t.gm && GROUND.indexOf(k) >= 0) ? t.gm : 1;
+      root.setProperty('--q-' + k, 'oklch(' + tok[k][0] + ' ' + (t.c * tok[k][1] * g).toFixed(4) + ' ' + t.h + ')');
+    });
+    root.setProperty('--q-good', t.dark ? 'oklch(0.75 0.13 155)' : 'oklch(0.52 0.13 155)');
+    root.setProperty('--q-bad', t.dark ? 'oklch(0.68 0.15 25)' : 'oklch(0.52 0.16 25)');
+    const m = document.querySelector('meta[name="theme-color"]');
+    if (m) m.setAttribute('content', t.dark ? '#0d151b' : '#f4f5f7');
+    localStorage.setItem('mcnq-theme', t.id);
+  }
+  applyTint(wi) {
+    const t = THEMES.find(x => x.id === this.state.theme) || THEMES[0], root = document.documentElement.style;
+    const keys = ['accent-dk', 'accent-md', 'accent', 'accent-lt', 'accent-pale'];
+    if (this.state.tint === false || wi == null) {
+      const tok = t.dark ? TOK_DARK : TOK_LIGHT;
+      keys.forEach(k => root.setProperty('--q-' + k, 'oklch(' + tok[k][0] + ' ' + (t.c * tok[k][1]).toFixed(4) + ' ' + t.h + ')'));
+      return;
+    }
+    const tok = t.dark ? TOK_DARK : TOK_LIGHT, h = WORLD_HUES[wi] == null ? t.h : WORLD_HUES[wi];
+    const c = Math.max(t.c, t.dark ? 0.088 : 0.108);
+    keys.forEach(k => root.setProperty('--q-' + k, 'oklch(' + tok[k][0] + ' ' + (c * tok[k][1]).toFixed(4) + ' ' + h + ')'));
+  }
+  applyBg(id) {
+    const b = BGS.find(x => x.id === id) || BGS[0], root = document.documentElement.style;
+    root.setProperty('--q-frame', b.frame ? '1' : '0');
+    root.setProperty('--q-frame-w', b.frame ? '1px' : '0px');
+    root.setProperty('--q-bgimg', b.img());
+    root.setProperty('--q-bgsize', b.size);
+    root.setProperty('--q-bgpos', b.pos || '0 0');
+    root.setProperty('--q-bganim', b.anim || 'none');
+    root.setProperty('--q-col', b.col >= 100 ? 'var(--q-bg)' : 'color-mix(in srgb, var(--q-bg) ' + b.col + '%, transparent)');
+    localStorage.setItem('mcnq-bg', b.id);
+  }
+  componentDidUpdate() {
+    this.loadVault();
+    const key = this.state.world + '|' + this.state.theme + '|' + this.state.tint;
+    if (this._tintKey !== key) { this._tintKey = key; this.applyTint(this.state.world); }
+  }
+  componentWillUnmount() { clearInterval(this._hb); clearInterval(this._clock); clearTimeout(this._toast); this._dead = true; }
+  loadVault() {
+    if (!this._vault) this._vault = {};
+    if (!this._vaultPending) this._vaultPending = {};
+    Object.keys(this.state.save.facts || {}).forEach(n => {
+      if (this._vault[n] || this._vaultPending[n]) return;
+      this._vaultPending[n] = true;
+      fetch('quest/q' + n + '.json').then(x => x.json()).then(j => {
+        this._vault[n] = (j.facts || []).map(f => ({ title:f.t, detail:f.d }));
+        if (!this._dead) this.forceUpdate();
+      }).catch(() => { delete this._vaultPending[n]; });
+    });
+  }
+
+  save(patch, cb) {
+    const s = { ...this.state.save, ...patch };
+    const earned = BADGES.filter(b => !s.badges.includes(b.id) && b.t(s)).map(b => b.id);
+    if (earned.length) s.badges = s.badges.concat(earned);
+    localStorage.setItem('mcnq-v1', JSON.stringify(s));
+    this.setState({ save:s }, () => cb && cb(earned));
+    return earned;
+  }
+  readSecs() { return Math.round((this.props.readMinutes ?? 8) * 60); }
+  qCount() { return Math.max(3, Math.round(this.props.questionsPerChapter ?? 5)); }
+  regenMs() { return Math.round((this.props.heartRegenMinutes ?? 20) * 60000); }
+  hearts() { const s = this.state.save, M = this.regenMs(); if (s.hearts >= HEART_MAX) return HEART_MAX; return Math.min(HEART_MAX, s.hearts + Math.floor((Date.now() - s.heartAt) / M)); }
+  heartIn() { const s = this.state.save, M = this.regenMs(); if (this.hearts() >= HEART_MAX) return 0; return M - ((Date.now() - s.heartAt) % M); }
+  spendHeart() {
+    const s = this.state.save, h = this.hearts(), M = this.regenMs();
+    const anchor = h >= HEART_MAX ? Date.now() : s.heartAt + Math.floor((Date.now() - s.heartAt) / M) * M;
+    return { hearts:Math.max(0, h - 1), heartAt:anchor };
+  }
+  say(msg) { clearTimeout(this._toast); this.setState({ toast:msg }); this._toast = setTimeout(() => this.setState({ toast:'' }), 2400); }
+
+  worldOpen(wi) {
+    if (!WORLDS[wi] || !WORLDS[wi].ready) return false;
+    if (wi === 0) return true;
+    const prev = this.state.save.tests[WORLDS[wi - 1].id];
+    return !!(prev && prev.passed);
+  }
+  chapterOpen(num) {
+    const wi = worldOf(num);
+    if (!this.worldOpen(wi)) return false;
+    const chs = WORLDS[wi].chs, i = chs.indexOf(num);
+    if (i <= 0) return true;
+    const prev = this.state.save.chapters[chs[i - 1]];
+    return !!(prev && prev.done);
+  }
+  testOpen(wi) { const w = WORLDS[wi === undefined ? this.state.world : wi]; return !!w && this.worldOpen(WORLDS.indexOf(w)) && w.chs.every(c => this.state.save.chapters[c] && this.state.save.chapters[c].done); }
+
+  rt(s) {
+    if (s == null) return null;
+    return String(s).split(/(==[^=]+==|\[\[[^\]]+\]\])/g).map((p, i) => {
+      if (p.startsWith('==') && p.endsWith('==')) return React.createElement('span', { key:i, style:{ background:'var(--q-mark)', color:'var(--q-accent-pale)', padding:'1px 3px', fontWeight:500 } }, p.slice(2, -2));
+      if (p.startsWith('[[') && p.endsWith(']]')) return React.createElement('span', { key:i, style:{ fontFamily:'var(--font-heading)', fontWeight:600, color:'var(--q-accent)' } }, p.slice(2, -2));
+      return p;
+    });
+  }
+  prepNote(raw) {
+    const pad = n => String(n).padStart(2, '0');
+    const sections = (raw.sections || []).map((s, si) => ({
+      title:s.title, kicker:pad(si + 1),
+      blocks:(s.blocks || []).map(b => {
+        const o = { isTable:false, isCards:false, isStats:false, isSteps:false, isQuote:false, isCallout:false, isBullets:false };
+        o['is' + b.type.charAt(0).toUpperCase() + b.type.slice(1)] = true;
+        if (b.type === 'table') { o.headCells = b.head.map(h => ({ label:h })); o.rows = b.rows.map(r => ({ cells:r.map(c => ({ rich:this.rt(c) })) })); }
+        if (b.type === 'cards') o.items = b.items.map(it => ({ title:it.title, kicker:it.kicker, hasKicker:!!it.kicker, bullets:(it.bullets || []).map(x => ({ rich:this.rt(x) })) }));
+        if (b.type === 'stats') o.items = b.items.map(st => ({ value:st.value, labelRich:this.rt(st.label) }));
+        if (b.type === 'steps') o.items = b.items.map((x, i) => ({ n:String(i + 1), rich:this.rt(x) }));
+        if (b.type === 'bullets') o.items = b.items.map(x => ({ rich:this.rt(x) }));
+        if (b.type === 'quote') { o.rich = this.rt(b.text); o.by = b.by; o.hasBy = !!b.by; }
+        if (b.type === 'callout') o.rich = this.rt(b.text);
+        return o;
+      })
+    }));
+    return { num:raw.num, title:raw.title, introQuotes:(raw.intro || []).concat(raw.lead ? [raw.lead] : []).map(q => ({ rich:this.rt(q) })), sections };
+  }
+
+  openChapter(num) {
+    if (!this.chapterOpen(num)) { this.say('Clear the previous chapter first'); return; }
+    this.setState({ busy:true });
+    Promise.all([fetch('notes/mcn' + num + '.json').then(r => r.json()), fetch('quest/q' + num + '.json').then(r => r.json())])
+      .then(([note, quest]) => this.setState({ ch:num, mode:'chapter', note:this.prepNote(note), quest, view:'brief', busy:false, flipped:{} }))
+      .catch(() => { this.setState({ busy:false }); this.say('Could not load that chapter'); });
+  }
+  openTest() {
+    const w = WORLDS[this.state.world];
+    if (!this.testOpen()) { this.say('Clear every chapter in this section first'); return; }
+    this.setState({ busy:true });
+    Promise.all(w.chs.map(c => fetch('quest/q' + c + '.json').then(r => r.json())).concat([fetch('quest/' + w.id + '.json').then(r => r.json())]))
+      .then(all => {
+        const syn = all.pop();
+        const pool = [];
+        all.forEach(f => f.bank.forEach(q => pool.push(q)));
+        this.setState({ ch:w.id, mode:'test', note:null, quest:{ bank:pool, syn:syn.bank }, view:'brief', busy:false });
+      })
+      .catch(() => { this.setState({ busy:false }); this.say('Could not load the section test'); });
+  }
+
+  openSearch() {
+    this.setState({ view:'search' });
+    if (this._idx || this._idxLoading) return;
+    this._idxLoading = true;
+    fetch('quest/index.json').then(r => r.json())
+      .then(d => { this._idx = d; this._idxLoading = false; if (!this._dead) this.forceUpdate(); })
+      .catch(() => { this._idxLoading = false; this.say('Could not load the search index'); });
+  }
+  results() {
+    const q = (this.state.query || '').trim().toLowerCase();
+    if (!this._idx || q.length < 2) return [];
+    const words = q.split(/\s+/).filter(Boolean);
+    const out = [];
+    this._idx.forEach(c => {
+      let score = 0;
+      const hits = [], tl = c.t.toLowerCase();
+      words.forEach(w => {
+        if (tl.includes(w)) score += 14;
+        c.s.forEach(sec => { if (sec.toLowerCase().includes(w)) score += 5; });
+      });
+      c.k.forEach(k => {
+        const kl = k.toLowerCase();
+        if (words.every(w => kl.includes(w))) { score += 9; if (hits.length < 5) hits.push(k); }
+        else if (words.some(w => kl.includes(w))) { score += 2; if (hits.length < 5) hits.push(k); }
+      });
+      if (score > 0) out.push({ c, score, hits });
+    });
+    return out.sort((a, b) => b.score - a.score).slice(0, 25);
+  }
+  today() { return Math.floor(Date.now() / 86400000); }
+  weakList() {
+    const w = this.state.save.weak || {}, t = this.today();
+    return Object.keys(w).map(k => w[k]).filter(x => x.box <= 4).sort((a, b) => a.due - b.due || a.box - b.box).map(x => ({ ...x, ready:x.due <= t }));
+  }
+  openReview(num) {
+    this.setState({ busy:true });
+    fetch('notes/mcn' + num + '.json').then(r => r.json())
+      .then(note => { clearInterval(this._clock); this.setState({ ch:num, mode:'review', note:this.prepNote(note), view:'read', busy:false }); window.scrollTo(0, 0); })
+      .catch(() => { this.setState({ busy:false }); this.say('Could not load that note'); });
+  }
+  openRevisit() {
+    const due = this.weakList().filter(x => x.ready).slice(0, 10);
+    if (!due.length) { this.say('Nothing due — clear a chapter to build the deck'); return; }
+    const chs = [...new Set(due.map(x => x.c))];
+    this.setState({ busy:true });
+    Promise.all(chs.map(c => fetch('quest/q' + c + '.json').then(r => r.json()).then(j => [c, j])))
+      .then(pairs => {
+        const by = {};
+        pairs.forEach(([c, j]) => { by[c] = j; });
+        const list = [], keys = [];
+        due.forEach(x => {
+          const src = by[x.c] && by[x.c].bank[x.i];
+          if (src) { list.push(this.prepQ({ ...src, _src:x.c })); keys.push(x.c + ':' + x.i); }
+        });
+        if (!list.length) { this.setState({ busy:false }); this.say('Deck is empty'); return; }
+        this._revKeys = keys;
+        this.setState({ ch:'revisit', mode:'revisit', note:null, quest:{ bank:list }, view:'quiz', busy:false, quiz:{ list, i:0, picks:[], times:[], pick:null, locked:false, order:[], readLeft:0, readSpent:0, t0:Date.now() } });
+      })
+      .catch(() => { this.setState({ busy:false }); this.say('Could not load the deck'); });
+  }
+  finishRevisit() {
+    clearInterval(this._clock);
+    const q = this.state.quiz, s = this.state.save;
+    const w = { ...(s.weak || {}) }, t = this.today(), gaps = [0, 0, 1, 3, 7];
+    let correct = 0;
+    q.picks.forEach((p, k) => {
+      const key = this._revKeys[k], e = w[key];
+      const right = this.isRight(q, k);
+      if (right) correct++;
+      if (!e) return;
+      if (right) { const box = e.box + 1; if (box > 4) delete w[key]; else w[key] = { ...e, box, due:t + gaps[box] }; }
+      else w[key] = { ...e, box:1, due:t, misses:(e.misses || 1) + 1 };
+    });
+    const points = correct * 40;
+    this.save({ xp:(s.xp || 0) + points, weak:w }, earned => {
+      this.setState({ view:'result', result:{ passed:correct === q.list.length, correct, total:q.list.length, points, attempts:1, stars:0, revisit:true, lines:[{ label:'Recalled correctly', value:correct + ' / ' + q.list.length }, { label:'Revision credit', value:'+' + points }], timeout:false, test:false, badges:earned.map(id => BADGES.find(b => b.id === id)) } });
+    });
+  }
+  startRead() {
+    if (this.hearts() <= 0) { this.say('Out of hearts — wait for a refill'); return; }
+    if (this.state.mode === 'test') { this.beginQuiz(TEST_SECS, 0); return; }
+    this._readStart = Date.now();
+    this.setState({ view:'read' }, () => this.runClock(this.readSecs(), () => this.beginQuiz()));
+  }
+  runClock(total, onEnd) {
+    clearInterval(this._clock);
+    const start = Date.now();
+    this._clockLeft = total;
+    const tick = () => {
+      const left = total - (Date.now() - start) / 1000;
+      this._clockLeft = left;
+      if (this.timerRef.current) this.timerRef.current.textContent = mmss(left);
+      if (this.barRef.current) this.barRef.current.style.width = Math.max(0, (left / total) * 100) + '%';
+      if (left <= 0) { clearInterval(this._clock); onEnd(); }
+    };
+    tick();
+    this._clock = setInterval(tick, 250);
+  }
+
+  pickSet(bank, n, key) {
+    const s = this.state.save, seen = new Set(s.seen[key] || []);
+    let pool = bank.map((q, i) => i).filter(i => !seen.has(i));
+    if (pool.length < n) pool = bank.map((q, i) => i);
+    return shuffle(pool).slice(0, n);
+  }
+  prepQ(q) {
+    const o = { ...q };
+    if (q.k === 'ar') o.o = AR_OPTS;
+    if ((q.k === 'mcq' || q.k === 'not') && q.o) { const idx = q.o.map((_, i) => i); shuffle(idx); o.o = idx.map(i => q.o[i]); o.a = idx.indexOf(q.a); }
+    return o;
+  }
+  beginQuiz(testSecs, unused) {
+    clearInterval(this._clock);
+    const test = this.state.mode === 'test';
+    const readLeft = test ? 0 : Math.max(0, this._clockLeft || 0);
+    const readSpent = test ? 0 : this.readSecs() - readLeft;
+    let list;
+    if (test) {
+      const q = this.state.quest;
+      const syn = shuffle(q.syn.map((_, i) => i)).slice(0, 6).map(i => q.syn[i]);
+      const rest = shuffle(q.bank.map((_, i) => i)).slice(0, 9).map(i => q.bank[i]);
+      list = shuffle(syn.concat(rest)).map(x => this.prepQ(x));
+      this._chosen = null;
+    } else {
+      const key = this.state.ch, bank = this.state.quest.bank;
+      const chosen = this.pickSet(bank, Math.min(this.qCount(), bank.length), key);
+      this._chosen = chosen;
+      list = chosen.map(i => this.prepQ(bank[i]));
+    }
+    this.setState({ view:'quiz', quiz:{ list, i:0, picks:[], times:[], pick:null, locked:false, order:[], readLeft, readSpent, t0:Date.now() } }, () => {
+      if (test) this.runClock(TEST_SECS, () => this.finish(true));
+    });
+  }
+  answer(i) {
+    const q = this.state.quiz;
+    if (q.locked) return;
+    const t = (Date.now() - q.t0) / 1000;
+    this.setState({ quiz:{ ...q, pick:i, locked:true, picks:q.picks.concat([i]), times:q.times.concat([t]) } });
+  }
+  tapOrder(i) {
+    const q = this.state.quiz;
+    if (q.locked || q.order.includes(i)) return;
+    const order = q.order.concat([i]);
+    const cur = q.list[q.i];
+    if (order.length === cur.items.length) {
+      const ok = order.every((v, k) => v === cur.seq[k]);
+      const t = (Date.now() - q.t0) / 1000;
+      this.setState({ quiz:{ ...q, order, locked:true, pick:ok ? 0 : -1, picks:q.picks.concat([ok ? 0 : -1]), times:q.times.concat([t]) } });
+    } else this.setState({ quiz:{ ...q, order } });
+  }
+  undoOrder() { const q = this.state.quiz; if (!q.locked) this.setState({ quiz:{ ...q, order:q.order.slice(0, -1) } }); }
+  nextQ() {
+    const q = this.state.quiz;
+    if (q.i + 1 >= q.list.length) { this.finish(false); return; }
+    this.setState({ quiz:{ ...q, i:q.i + 1, pick:null, locked:false, order:[], t0:Date.now() } });
+  }
+  isRight(q, k) { const item = q.list[k], p = q.picks[k]; return item.k === 'order' ? p === 0 : p === item.a; }
+
+  finish(timeout) {
+    if (this.state.mode === 'revisit') { this.finishRevisit(); return; }
+    clearInterval(this._clock);
+    const q = this.state.quiz, s = this.state.save, test = this.state.mode === 'test', ch = this.state.ch;
+    const total = q.list.length;
+    let correct = 0;
+    for (let k = 0; k < q.picks.length; k++) if (this.isRight(q, k)) correct++;
+    const bar = this.props.strictUnlock === false ? 0.8 : 1;
+    const passed = test ? correct / total >= 0.8 : correct / total >= bar;
+    const prior = test ? ((s.tests[ch] && s.tests[ch].attempts) || 0) : ((s.chapters[ch] && s.chapters[ch].attempts) || 0);
+    const attempts = prior + 1;
+    let speed = 0;
+    for (let k = 0; k < q.picks.length; k++) if (this.isRight(q, k)) speed += Math.max(0, Math.min(40, Math.round(40 * (1 - q.times[k] / 45))));
+    const base = correct * 100;
+    const readB = test ? 0 : Math.round(80 * Math.min(1, q.readSpent / 180));
+    const earlyB = (!test && passed) ? Math.min(60, Math.round(q.readLeft / 8)) : 0;
+    const mult = Math.max(0.5, 1 - 0.15 * (attempts - 1));
+    const chStreak = passed ? (s.chStreak || 0) + 1 : 0;
+    const perfect = (passed && attempts === 1) ? 150 : 0;
+    const streakB = passed ? 10 * chStreak : 0;
+    let points = Math.round((base + speed + readB + earlyB) * mult) + perfect + streakB;
+    if (!passed) points = Math.round(points * 0.3);
+
+    const patch = { xp:(s.xp || 0) + points, chStreak };
+    if (!test) {
+      const stars = passed ? (attempts === 1 ? 3 : attempts === 2 ? 2 : 1) : 0;
+      const prevCh = s.chapters[ch] || { stars:0, best:0, attempts:0, done:false };
+      patch.chapters = { ...s.chapters, [ch]:{ done:prevCh.done || passed, stars:Math.max(prevCh.stars, stars), best:Math.max(prevCh.best, points), attempts } };
+      if (passed) { patch.facts = { ...s.facts, [ch]:true }; if (q.readLeft > 240) patch.f_speed = true; if (q.readLeft < 5) patch.f_deep = true; if (attempts >= 3) patch.f_comeback = true; }
+      if (this._chosen) {
+        patch.seen = { ...s.seen, [ch]:((s.seen[ch] || []).concat(this._chosen)).slice(-24) };
+        const w = { ...(s.weak || {}) }, t = this.today();
+        q.picks.forEach((p, k) => {
+          const idx = this._chosen[k];
+          if (idx === undefined) return;
+          const key = ch + ':' + idx;
+          if (this.isRight(q, k)) { if (w[key]) delete w[key]; }
+          else w[key] = { c:ch, i:idx, box:1, due:t, misses:((w[key] && w[key].misses) || 0) + 1 };
+        });
+        patch.weak = w;
+      }
+    } else {
+      const prevT = s.tests[ch] || { passed:false, best:0, attempts:0 };
+      patch.tests = { ...s.tests, [ch]:{ passed:prevT.passed || passed, best:Math.max(prevT.best, correct), attempts } };
+    }
+    if (!passed) Object.assign(patch, this.spendHeart());
+
+    const lines = [{ label:'Correct answers', value:correct + ' / ' + total }];
+    if (base) lines.push({ label:'Base', value:'+' + base });
+    if (speed) lines.push({ label:'Answer speed', value:'+' + speed });
+    if (readB) lines.push({ label:'Reading time', value:'+' + readB });
+    if (earlyB) lines.push({ label:'Finished early', value:'+' + earlyB });
+    if (perfect) lines.push({ label:'Perfect first run', value:'+' + perfect });
+    if (streakB) lines.push({ label:'Chapter streak ×' + chStreak, value:'+' + streakB });
+    if (attempts > 1) lines.push({ label:'Retry penalty', value:'×' + mult.toFixed(2) });
+    if (!passed) lines.push({ label:'Not cleared — partial credit', value:'×0.30' });
+
+    this.save(patch, earned => {
+      this.setState({ view:'result', result:{ passed, correct, total, points, attempts, stars:passed ? (attempts === 1 ? 3 : attempts === 2 ? 2 : 1) : 0, lines, timeout, test, badges:earned.map(id => BADGES.find(b => b.id === id)) } });
+    });
+  }
+
+  goMap() { clearInterval(this._clock); this.setState({ view:'map', quiz:null, result:null }); }
+
+  renderVals() {
+    const st = this.state, s = st.save, v = st.view;
+    const hearts = this.hearts();
+    const heartSlots = [0, 1, 2, 3, 4].map(i => ({ fill:i < hearts ? 'var(--q-bad)' : 'none', stroke:i < hearts ? 'var(--q-bad)' : 'var(--q-dim3)' }));
+    const W = WORLDS[st.world] || WORLDS[0];
+    const done = W.chs.filter(c => s.chapters[c] && s.chapters[c].done).length;
+
+    // ---- map path geometry
+    const nodesRaw = W.chs.concat(['TEST']);
+    const rowH = 150, top = 58;
+    const xAt = i => 50 + 25 * Math.sin(i * 1.15);
+    const mapNodes = nodesRaw.map((c, i) => {
+      const isTest = c === 'TEST';
+      const rec = isTest ? (s.tests[W.id] || {}) : (s.chapters[c] || {});
+      const open = isTest ? this.testOpen() : this.chapterOpen(c);
+      const cleared = isTest ? !!rec.passed : !!rec.done;
+      const next = open && !cleared;
+      const bg = cleared ? 'var(--q-done)' : next ? 'var(--q-accent)' : 'var(--q-panel)';
+      const bc = cleared ? 'var(--q-accent-dk)' : next ? 'var(--q-accent)' : 'color-mix(in srgb, var(--q-accent) 18%, transparent)';
+      const fg = next ? 'var(--q-bg)' : cleared ? 'var(--q-accent)' : 'var(--q-dim)';
+      return {
+        num:c, aria:isTest ? 'Section test' : 'Chapter ' + c,
+        wrapStyle:{ position:'absolute', left:xAt(i) + '%', top:(top + i * rowH) + 'px', transform:'translate(-50%,-50%)', width:'128px', display:'flex', flexDirection:'column', alignItems:'center' },
+        tileStyle:{ position:'relative', width:isTest ? '78px' : '66px', height:isTest ? '78px' : '66px', display:'flex', alignItems:'center', justifyContent:'center', cursor:open ? 'pointer' : 'default', background:bg, border:'1px solid ' + bc, color:fg, padding:0, animation:next ? 'qpulse 2.2s ease-out infinite' : 'none' },
+        numStyle:{ fontFamily:'var(--font-heading)', fontWeight:700, fontSize:isTest ? '20px' : '26px', letterSpacing:'.02em', color:fg },
+        labelStyle:{ marginTop:'5px', fontFamily:'var(--font-heading)', fontWeight:600, fontSize:'11.5px', letterSpacing:'.08em', textTransform:'uppercase', textAlign:'center', lineHeight:1.15, color:open ? 'var(--q-muted)' : 'var(--q-dim2)' },
+        label:isTest ? 'Section test' : TITLES[c],
+        showLock:!open, showNum:open && !isTest, showTrophy:open && isTest,
+        showStars:!isTest && cleared,
+        stars:[0, 1, 2].map(k => ({ fill:k < (rec.stars || 0) ? 'var(--q-accent-lt)' : 'none', stroke:k < (rec.stars || 0) ? 'var(--q-accent-lt)' : 'var(--q-dim4)' })),
+        tap:() => isTest ? this.openTest() : this.openChapter(c)
+      };
+    });
+    const dots = [];
+    for (let i = 0; i < nodesRaw.length - 1; i++) {
+      for (let k = 1; k <= 3; k++) {
+        const f = 0.55 + (k - 1) * 0.08;
+        dots.push({ st:{ position:'absolute', left:(xAt(i) + (xAt(i + 1) - xAt(i)) * f) + '%', top:(top + (i + f) * rowH) + 'px', width:'5px', height:'5px', background:'var(--q-dot)', transform:'translate(-50%,-50%) rotate(45deg)' } });
+      }
+    }
+
+    // ---- brief
+    const test = st.mode === 'test';
+    const chRec = (test ? s.tests[st.ch] : s.chapters[st.ch]) || {};
+    const briefLead = test
+      ? 'Fifteen questions drawn from all seven chapters. Twelve minutes on the clock. Score 80% or better to earn the section badge.'
+      : (st.note && st.note.introQuotes[0] ? '' : '');
+
+    // ---- quiz
+    const q = st.quiz, cur = q ? q.list[q.i] : null;
+    const locked = q ? q.locked : false;
+    const right = q && locked ? this.isRight(q, q.i) : false;
+    const optLetters = ['A', 'B', 'C', 'D'];
+    const qOptions = (cur && cur.k !== 'order' && cur.o) ? cur.o.map((label, i) => {
+      const chosen = q.pick === i, isAns = i === cur.a;
+      let bg = 'var(--q-panel)', bc = 'color-mix(in srgb, var(--q-accent) 20%, transparent)', col = 'var(--q-text)';
+      if (locked && isAns) { bg = 'rgba(87,192,139,.13)'; bc = 'var(--q-good)'; }
+      else if (locked && chosen) { bg = 'rgba(224,112,94,.12)'; bc = 'var(--q-bad)'; }
+      else if (locked) { col = 'var(--q-muted3)'; }
+      return {
+        label, key:optLetters[i], tick:locked && isAns, cross:locked && chosen && !isAns,
+        st:{ display:'flex', alignItems:'center', gap:'11px', width:'100%', minHeight:'56px', padding:'12px 13px', cursor:locked ? 'default' : 'pointer', background:bg, border:'1px solid ' + bc, color:col, font:'inherit', textAlign:'left' },
+        keyStyle:{ flex:'none', width:'26px', height:'26px', display:'flex', alignItems:'center', justifyContent:'center', border:'1px solid ' + bc, fontFamily:'var(--font-heading)', fontWeight:700, fontSize:'13px', color:col },
+        tap:() => this.answer(i)
+      };
+    }) : [];
+    const orderItems = (cur && cur.k === 'order') ? cur.items.map((label, i) => {
+      const pos = q.order.indexOf(i);
+      const picked = pos >= 0;
+      const rightPos = locked && cur.seq[pos] === i;
+      let bc = picked ? 'var(--q-accent)' : 'color-mix(in srgb, var(--q-accent) 20%, transparent)';
+      let bg = picked ? 'var(--q-panel2)' : 'var(--q-panel)';
+      if (locked) { bc = rightPos ? 'var(--q-good)' : 'var(--q-bad)'; bg = rightPos ? 'rgba(87,192,139,.12)' : 'rgba(224,112,94,.1)'; }
+      return {
+        label, badge:picked ? String(pos + 1) : '·',
+        st:{ display:'flex', alignItems:'center', gap:'11px', width:'100%', minHeight:'54px', padding:'11px 13px', cursor:locked || picked ? 'default' : 'pointer', background:bg, border:'1px solid ' + bc, color:'var(--q-text)', font:'inherit' },
+        badgeStyle:{ flex:'none', width:'26px', height:'26px', display:'flex', alignItems:'center', justifyContent:'center', border:'1px solid ' + bc, fontFamily:'var(--font-heading)', fontWeight:700, fontSize:'13px', color:picked ? 'var(--q-accent)' : 'var(--q-dim)' },
+        tap:() => this.tapOrder(i)
+      };
+    }) : [];
+
+    // ---- result
+    const r = st.result;
+    // ---- facts
+    const factList = (st.quest && st.quest.facts) ? st.quest.facts : [];
+    const factCards = factList.map((f, i) => {
+      const k = st.ch + ':' + i, open = !!st.flipped[k];
+      return {
+        n:String(i + 1).padStart(2, '0'), title:f.t, detail:f.d, front:!open, back:open,
+        st:{ position:'relative', display:'flex', alignItems:'center', width:'100%', minHeight:'74px', padding:'15px 16px', cursor:'pointer', background:open ? 'var(--q-panel2)' : 'var(--q-panel)', border:'1px solid ' + (open ? 'var(--q-accent-dk)' : 'color-mix(in srgb, var(--q-accent) 20%, transparent)'), font:'inherit', transition:'background .18s' },
+        tap:() => this.setState({ flipped:{ ...st.flipped, [k]:!open } })
+      };
+    });
+    // ---- vault
+    const vaultGroups = Object.keys(s.facts).sort().map(num => ({ num, title:TITLES[num] || '', facts:(this._vault && this._vault[num]) || [] })).filter(g => g.facts.length);
+
+    // ---- stats
+    const xp = s.xp || 0;
+    let ri = 0; for (let i = 0; i < RANKS.length; i++) if (xp >= RANKS[i][0]) ri = i;
+    const nextRank = RANKS[ri + 1];
+    const calendar = [];
+    for (let i = 27; i >= 0; i--) {
+      const d = dayKey(Date.now() - i * 864e5), on = (s.days || []).includes(d);
+      calendar.push({ day:d, st:{ height:'16px', background:on ? 'var(--q-accent)' : 'var(--q-cal)', border:'1px solid ' + (on ? 'var(--q-accent)' : 'color-mix(in srgb, var(--q-accent) 12%, transparent)') } });
+    }
+    const weak = this.weakList(), dueNow = weak.filter(x => x.ready).length;
+    const byCh = {};
+    weak.forEach(x => { if (!byCh[x.c]) byCh[x.c] = { n:0, due:0 }; byCh[x.c].n++; if (x.ready) byCh[x.c].due++; });
+    const hits = v === 'search' ? this.results() : [];
+    const tabStyle = k => ({ display:'flex', flexDirection:'column', alignItems:'center', gap:'3px', padding:'10px 0 12px', cursor:'pointer', background:'none', border:'none', borderTop:'2px solid ' + (v === k ? 'var(--q-accent)' : 'transparent'), color:v === k ? 'var(--q-accent)' : 'var(--q-dim)', font:'inherit' });
+    const ua = navigator.userAgent || '';
+    const installHint = /iPhone|iPad|iPod/i.test(ua)
+      ? 'In Safari, tap the Share button, then Add to Home Screen. It opens full-screen like a native app.'
+      : 'In Chrome, open the ⋮ menu and tap Install app or Add to Home screen.';
+
+    return {
+      showHud:['map', 'vault', 'stats', 'revise'].includes(v),
+      showTabs:['map', 'vault', 'stats', 'revise', 'search'].includes(v),
+      isMap:v === 'map', isBrief:v === 'brief', isRead:v === 'read', isQuiz:v === 'quiz', isResult:v === 'result', isFacts:v === 'facts', isVault:v === 'vault', isStats:v === 'stats',
+      isRevise:v === 'revise', isSearch:v === 'search',
+      isTimedRead:v === 'read' && st.mode !== 'review', isReview:st.mode === 'review',
+      heartSlots, xpLabel:xp >= 1000 ? (xp / 1000).toFixed(1) + 'k' : String(xp),
+      streakLabel:String(s.streak || 0), streakColor:(s.streak || 0) > 1 ? 'var(--q-accent)' : 'var(--q-dim3)',
+      worldProgress:done + '/' + W.chs.length, worldBarStyle:{ position:'absolute', left:0, top:0, bottom:0, width:(done / W.chs.length * 100) + '%', background:'var(--q-accent)' },
+      worldKicker:'Section ' + W.n + ' · ' + (W.ready ? (this.worldOpen(st.world) ? 'Unlocked' : 'Locked') : 'Coming soon'),
+      worldName:W.name,
+      pathHeight:'height:' + (top + nodesRaw.length * rowH - 20) + 'px',
+      mapNodes, dots,
+      allWorlds:WORLDS.map((w, i) => {
+        const wDone = w.chs.filter(c => s.chapters[c] && s.chapters[c].done).length;
+        const opened = this.worldOpen(i), here = i === st.world;
+        return {
+          n:w.n, name:w.name, sub:w.sub,
+          right:!w.ready ? 'Soon' : opened ? wDone + '/' + w.chs.length : 'Locked',
+          showLock:!opened,
+          st:{ display:'flex', alignItems:'center', gap:'12px', width:'100%', textAlign:'left', padding:'13px 14px', cursor:opened ? 'pointer' : 'default', border:'1px solid ' + (here ? 'var(--q-accent)' : 'color-mix(in srgb, var(--q-accent) 13%, transparent)'), background:here ? 'var(--q-panel2)' : 'var(--q-panel)', font:'inherit' },
+          nameStyle:{ fontFamily:'var(--font-heading)', fontWeight:600, fontSize:'16px', letterSpacing:'.02em', textTransform:'uppercase', color:opened ? 'var(--q-text)' : 'var(--q-muted)', whiteSpace:'nowrap', overflow:'hidden', textOverflow:'ellipsis' },
+          rightStyle:{ fontFamily:'var(--font-heading)', fontWeight:600, fontSize:'11.5px', letterSpacing:'.12em', textTransform:'uppercase', color:here ? 'var(--q-accent)' : 'var(--q-dim)' },
+          tap:() => opened ? this.setState({ world:i }) : this.say(w.ready ? 'Pass the previous section test to unlock' : 'This section is being written')
+        };
+      }),
+
+      briefKicker:test ? 'Section ' + W.n + ' · Revision test' : 'Mains Concise Note ' + st.ch,
+      briefTitle:test ? W.name : (st.note ? st.note.title : ''),
+      briefLead:test ? ('Fifteen questions drawn from all ' + W.chs.length + ' chapters of this section, plus cross-chapter synthesis. Twelve minutes on the clock. Score 80% or better to earn the section badge and open the next section.') : 'Read the note, then clear ' + this.qCount() + ' questions. ' + (this.props.strictUnlock === false ? 'Score 80% to unlock the next chapter.' : 'Every one has to be right to unlock the next chapter.'),
+      briefTime:test ? '12:00' : mmss(this.readSecs()), briefQs:test ? '15' : String(this.qCount()),
+      briefQsSub:test ? 'Questions · 80% to pass' : (this.props.strictUnlock === false ? 'Questions · 80% to pass' : 'Questions · all must be right'),
+      briefRule:test ? 'Questions are drawn from all seven chapters and from cross-chapter synthesis. A fail costs one heart.' : 'Finish reading early and the remaining time converts into a speed bonus. A failed attempt costs one heart and gives you a fresh set of questions.',
+      briefAttempts:(chRec.attempts || 0) > 0,
+      briefAttemptsText:'Attempt ' + ((chRec.attempts || 0) + 1) + ' · best so far ' + (chRec.best || chRec.score || 0) + ' pts',
+      briefCta:test ? 'Start the test' : 'Start reading',
+      noHearts:hearts <= 0, heartTimer:mmss(this.heartIn() / 1000),
+      startRead:() => this.startRead(), goMap:() => this.goMap(),
+
+      timerRef:this.timerRef, barRef:this.barRef,
+      noteNum:st.note ? st.note.num : '', noteTitle:st.note ? st.note.title : '',
+      introQuotes:st.note ? st.note.introQuotes : [], sections:st.note ? st.note.sections : [],
+      beginQuiz:() => this.beginQuiz(),
+
+      qKey:q ? 'q' + q.i : 'q',
+      qDots:q ? q.list.map((_, i) => ({ st:{ flex:1, height:'4px', background:i < q.picks.length ? (this.isRight(q, i) ? 'var(--q-good)' : 'var(--q-bad)') : i === q.i ? 'var(--q-accent)' : 'var(--q-track)' } })) : [],
+      qCounter:q ? (q.i + 1) + '/' + q.list.length : '',
+      hasTestClock:test && v === 'quiz',
+      qKind:cur ? KIND[cur.k] : '', qDiff:cur ? DIFF[cur.d || 2] : '',
+      qStem:cur ? cur.q : '',
+      qHasStatements:!!(cur && cur.s), qStatements:cur && cur.s ? cur.s.map((t, i) => ({ n:String(i + 1) + '.', text:t })) : [],
+      qHasAR:!!(cur && cur.k === 'ar'), qAssertion:cur ? cur.as : '', qReason:cur ? cur.rs : '',
+      qHasPairs:!!(cur && cur.pairs), qPairs:cur && cur.pairs ? cur.pairs.map(p => ({ l:p[0], r:p[1] })) : [],
+      qIsOrder:!!(cur && cur.k === 'order'), orderItems, orderCanUndo:!!(q && !q.locked && q.order.length > 0), orderUndo:() => this.undoOrder(),
+      qHasOptions:!!(cur && cur.k !== 'order'), qOptions,
+      qShowExp:locked, qExplain:cur ? cur.e : '',
+      expStyle:{ marginTop:'16px', padding:'14px 15px', background:'var(--q-panel)', borderLeft:'2px solid ' + (right ? 'var(--q-good)' : 'var(--q-bad)') },
+      expTitleStyle:{ fontFamily:'var(--font-heading)', fontWeight:600, fontSize:'12px', letterSpacing:'.16em', textTransform:'uppercase', color:right ? 'var(--q-good)' : 'var(--q-bad)', marginBottom:'6px' },
+      expTitle:right ? 'Correct' : 'Not quite',
+      qShowNext:locked, nextLabel:q && q.i + 1 >= q.list.length ? 'See results' : 'Next question',
+      nextQ:() => this.nextQ(), quitQuiz:() => this.goMap(),
+
+      resKicker:r ? (r.revisit ? 'Weak deck · Spaced repetition' : r.test ? 'Section revision test' : 'MCN ' + st.ch + ' · Attempt ' + r.attempts) : '',
+      resTitle:r ? (r.revisit ? (r.passed ? 'All recalled' : 'Deck updated') : r.passed ? 'Cleared' : r.timeout ? 'Time up' : 'Not yet') : '',
+      resTitleColor:r && (r.passed || r.revisit) ? 'color:var(--q-accent)' : 'color:var(--q-bad)',
+      resPassed:!!(r && r.passed),
+      resStars:r ? [0, 1, 2].map(k => ({ fill:k < r.stars ? 'var(--q-accent-lt)' : 'none', stroke:k < r.stars ? 'var(--q-accent-lt)' : 'var(--q-dim4)' })) : [],
+      resMessage:r ? (r.revisit
+        ? (r.correct + ' of ' + r.total + ' recalled. Correct answers move up a box; missed ones return tomorrow.')
+        : r.passed
+        ? (r.test ? 'Section ' + W.n + ' is done. The next section is open, and everything here stays available for revision.' : 'Next chapter unlocked. Collect your three facts.')
+        : (r.correct + ' of ' + r.total + ' right. You lost a heart — retry with a completely fresh set of questions.')) : '',
+      resLines:r ? r.lines.map(l => ({ label:l.label, value:l.value, valStyle:{ fontFamily:'var(--font-heading)', fontWeight:600, fontSize:'15px', color:'var(--q-text)' } })) : [],
+      resPoints:r ? r.points : 0,
+      resNewBadges:!!(r && r.badges && r.badges.length), resBadges:r ? (r.badges || []) : [],
+      resPrimaryLabel:r ? (r.revisit ? 'Back to deck' : r.passed ? (r.test ? 'Back to map' : 'Collect 3 facts') : (hearts > 0 ? 'Retry now' : 'No hearts left')) : '',
+      resPrimary:() => {
+        if (!r) return;
+        if (r.revisit) { this.setState({ view:'revise', quiz:null, result:null }); return; }
+        if (r.passed) {
+          if (r.test) { const nx = st.world + 1; clearInterval(this._clock); this.setState({ view:'map', quiz:null, result:null, world:WORLDS[nx] && this.worldOpen(nx) ? nx : st.world }); }
+          else this.setState({ view:'facts' });
+          return;
+        }
+        if (hearts <= 0) { this.say('Next heart in ' + mmss(this.heartIn() / 1000)); return; }
+        if (st.mode === 'test') this.beginQuiz(); else this.setState({ view:'brief' });
+      },
+
+      factCards, factsCta:'Back to the map', factsDone:() => this.goMap(),
+
+      vaultCount:Object.keys(s.facts).length * 3, vaultEmpty:Object.keys(s.facts).length === 0, vaultGroups,
+
+      rankName:RANKS[ri][1],
+      rankBarStyle:{ height:'6px', width:(nextRank ? Math.min(100, ((xp - RANKS[ri][0]) / (nextRank[0] - RANKS[ri][0])) * 100) : 100) + '%', background:'var(--q-accent)' },
+      rankNext:nextRank ? (nextRank[0] - xp) + ' to go' : 'Max rank',
+      statTiles:[
+        { value:String(xp), label:'Points' },
+        { value:Object.keys(s.chapters).filter(k => s.chapters[k].done).length + '/87', label:'Chapters' },
+        { value:String(Object.keys(s.chapters).reduce((a, k) => a + (s.chapters[k].stars || 0), 0)), label:'Stars' }
+      ],
+      calendar, badgeCount:(s.badges || []).length + '/' + BADGES.length,
+      badgeList:BADGES.map(b => {
+        const on = (s.badges || []).includes(b.id);
+        return { name:b.name, desc:b.desc, st:{ padding:'12px 12px 11px', border:'1px solid ' + (on ? 'var(--q-accent-dk)' : 'color-mix(in srgb, var(--q-accent) 12%, transparent)'), background:on ? 'var(--q-panel2)' : 'transparent', color:on ? 'var(--q-text)' : 'var(--q-dim2)' } };
+      }),
+      bgOpts:BGS.map(b => ({
+        name:b.name,
+        st:{ display:'flex', flexDirection:'column', gap:'7px', padding:'9px 9px 8px', cursor:'pointer', background:'none', border:'1px solid ' + (st.bg === b.id ? 'var(--q-accent)' : 'color-mix(in srgb, var(--q-accent) 14%, transparent)'), color:st.bg === b.id ? 'var(--q-accent)' : 'var(--q-muted2)', font:'inherit' },
+        swatchStyle:{ height:'34px', background:'var(--q-panel2)', backgroundImage:b.img(), backgroundSize:b.id === 'aurora' ? '100% 100%' : b.size, backgroundPosition:b.pos || '0 0', border:'1px solid color-mix(in srgb, var(--q-accent) 18%, transparent)' },
+        pick:() => { this.applyBg(b.id); this.setState({ bg:b.id }); }
+      })),
+      tintOpts:[{ on:true, name:'On' }, { on:false, name:'Off' }].map(o => ({
+        name:o.name,
+        st:{ flex:'1', padding:'9px 4px', cursor:'pointer', background:st.tint === o.on ? 'var(--q-accent)' : 'none', border:'1px solid ' + (st.tint === o.on ? 'var(--q-accent)' : 'color-mix(in srgb, var(--q-accent) 14%, transparent)'), color:st.tint === o.on ? 'var(--q-bg)' : 'var(--q-muted2)', fontFamily:'var(--font-heading)', fontWeight:600, fontSize:'12px', letterSpacing:'.13em', textTransform:'uppercase' },
+        pick:() => { localStorage.setItem('mcnq-tint', o.on ? '1' : '0'); this.setState({ tint:o.on }); }
+      })),
+      themeOpts:THEMES.map(t => ({
+        name:t.name,
+        st:{ display:'flex', flexDirection:'column', alignItems:'center', gap:'6px', padding:'10px 4px 9px', cursor:'pointer', background:'none', border:'1px solid ' + (st.theme === t.id ? 'var(--q-accent)' : 'color-mix(in srgb, var(--q-accent) 14%, transparent)'), color:st.theme === t.id ? 'var(--q-accent)' : 'var(--q-muted2)', font:'inherit' },
+        dotStyle:{ width:'22px', height:'22px', background:t.swatch, border:'1px solid color-mix(in srgb, var(--q-accent) 30%, transparent)' },
+        pick:() => { this.applyTheme(t.id); this.setState({ theme:t.id }); }
+      })),
+      installHint,
+      doExport:() => {
+        const code = btoa(unescape(encodeURIComponent(JSON.stringify(s))));
+        if (navigator.clipboard) navigator.clipboard.writeText(code).then(() => this.say('Backup code copied'), () => window.prompt('Copy your backup code', code));
+        else window.prompt('Copy your backup code', code);
+      },
+      doImport:() => {
+        const code = window.prompt('Paste your backup code');
+        if (!code) return;
+        try { const obj = JSON.parse(decodeURIComponent(escape(atob(code.trim())))); this._vault = null; this._vaultPending = null; this.save({ ...BLANK, ...obj }); this.say('Progress restored'); }
+        catch (e) { this.say('That code did not work'); }
+      },
+      doReset:() => { if (window.confirm('Erase all points, stars, facts and badges?')) { this._vault = null; this._vaultPending = null; localStorage.removeItem('mcnq-v1'); this.setState({ save:{ ...BLANK, heartAt:Date.now() }, view:'map' }); } },
+
+      tabMap:() => this.setState({ view:'map' }), tabVault:() => this.setState({ view:'vault' }), tabStats:() => this.setState({ view:'stats' }),
+      tabRevise:() => this.setState({ view:'revise' }),
+      tabMapStyle:tabStyle('map'), tabVaultStyle:tabStyle('vault'), tabStatsStyle:tabStyle('stats'), tabReviseStyle:tabStyle('revise'),
+      openSearch:() => this.openSearch(),
+      hasDue:dueNow > 0, dueBadge:String(dueNow),
+
+      query:st.query || '',
+      onQuery:e => this.setState({ query:e.target.value }),
+      clearQuery:() => this.setState({ query:'' }),
+      searchIdle:!(st.query || '').trim() || (st.query || '').trim().length < 2,
+      searchNone:(st.query || '').trim().length >= 2 && !!this._idx && hits.length === 0,
+      searchCount:hits.length ? hits.length + (hits.length === 25 ? '+' : '') + ' chapters' : '',
+      searchResults:hits.map(h => {
+        const n = h.c.n, open = this.chapterOpen(n), done = !!(s.chapters[n] && s.chapters[n].done);
+        const wi = worldOf(n);
+        return {
+          num:n, title:h.c.t, section:WORLDS[wi] ? WORLDS[wi].name : '',
+          terms:h.hits.join(' · '), hasTerms:h.hits.length > 0,
+          right:done ? 'Read' : open ? 'Play' : 'Locked',
+          st:{ display:'block', width:'100%', textAlign:'left', padding:'12px 13px', cursor:open ? 'pointer' : 'default', background:'var(--q-panel)', border:'1px solid ' + (done ? 'color-mix(in srgb, var(--q-accent) 30%, transparent)' : 'color-mix(in srgb, var(--q-accent) 13%, transparent)'), font:'inherit', color:'inherit' },
+          rightStyle:{ fontFamily:'var(--font-heading)', fontWeight:600, fontSize:'11px', letterSpacing:'.13em', textTransform:'uppercase', color:done ? 'var(--q-accent)' : open ? 'var(--q-muted2)' : 'var(--q-dim2)' },
+          tap:() => done ? this.openReview(n) : open ? this.openChapter(n) : this.say('Clear the chapters before it to unlock')
+        };
+      }),
+
+      dueCount:String(dueNow), deckTotal:String(weak.length),
+      hasDeck:weak.length > 0, deckEmpty:weak.length === 0,
+      deckReady:dueNow > 0, deckWaiting:weak.length > 0 && dueNow === 0,
+      startRevisit:() => this.openRevisit(),
+      revLabel:'Start revision · ' + Math.min(10, dueNow) + ' questions',
+      deckRows:Object.keys(byCh).sort().map(c => ({
+        num:c, title:TITLES[c] || '',
+        count:String(byCh[c].n), due:byCh[c].due > 0 ? byCh[c].due + ' due' : 'resting',
+        dueStyle:{ fontFamily:'var(--font-heading)', fontWeight:600, fontSize:'11px', letterSpacing:'.12em', textTransform:'uppercase', color:byCh[c].due > 0 ? 'var(--q-accent)' : 'var(--q-dim2)' }
+      })),
+      hasToast:!!st.toast, toast:st.toast
+    };
+  }
+}
+</script>
+</body>
+</html>
