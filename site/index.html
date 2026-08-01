@@ -1,0 +1,627 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<style>
+/* Industry — design-system tokens and component classes. This file is the source of truth for the system's look; retune it here and see readme.md. */
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;700&family=Barlow+Condensed:wght@400;600&display=swap');
+
+:root {
+  --color-bg: #f2f2f3;
+  --color-surface: #e9e9ea;
+  --color-text: #1d1f20;
+  --color-accent: #5980a6;
+  --color-accent-2: #728fab;
+  --color-divider: color-mix(in srgb, #1d1f20 16%, transparent);
+
+  /* Tonal ramps — generated in OKLCH on one shared lightness scale, so the
+     same step of any role matches the others in visual value. */
+  --color-neutral-100: #f5f5f8;
+  --color-neutral-200: #e7e7ea;
+  --color-neutral-300: #d4d4d7;
+  --color-neutral-400: #b7b7ba;
+  --color-neutral-500: #98989b;
+  --color-neutral-600: #7a7a7d;
+  --color-neutral-700: #5d5d60;
+  --color-neutral-800: #424244;
+  --color-neutral-900: #2b2b2d;
+
+  --color-accent-100: #eef6ff;
+  --color-accent-200: #d6ebff;
+  --color-accent-300: #b5d9fd;
+  --color-accent-400: #94bce3;
+  --color-accent-500: #749dc4;
+  --color-accent-600: #597ea3;
+  --color-accent-700: #416180;
+  --color-accent-800: #2c455d;
+  --color-accent-900: #1d2d3d;
+
+  --color-accent-2-100: #eef6ff;
+  --color-accent-2-200: #d6ebff;
+  --color-accent-2-300: #bdd8f2;
+  --color-accent-2-400: #9ebbd8;
+  --color-accent-2-500: #7e9cb8;
+  --color-accent-2-600: #627d98;
+  --color-accent-2-700: #486077;
+  --color-accent-2-800: #314457;
+  --color-accent-2-900: #1f2d3a;
+
+  --font-heading: "Barlow Condensed", system-ui, sans-serif;
+  --font-heading-weight: 600;
+  --font-body: "Barlow", system-ui, sans-serif;
+
+  --space-1: 3.4px;
+  --space-2: 6.8px;
+  --space-3: 10.2px;
+  --space-4: 13.6px;
+  --space-6: 20.4px;
+  --space-8: 27.2px;
+
+  --radius-sm: 2px;
+  --radius-md: 4px;
+  --radius-lg: 7px;
+
+  /* Elevation — derived from the ground: soft ink-tinted shadows on a
+     light theme, a hairline edge + ambient darkness on a dark one. */
+  --shadow-sm: 0 1px 2px color-mix(in srgb, #2b2b2d 14%, transparent);
+  --shadow-md: 0 3px 10px color-mix(in srgb, #2b2b2d 16%, transparent);
+  --shadow-lg: 0 12px 32px color-mix(in srgb, #2b2b2d 22%, transparent);
+}
+
+body {
+  background: var(--color-bg);
+  color: var(--color-text);
+  font-family: var(--font-body);
+}
+h1, h2, h3, h4 { font-family: var(--font-heading); font-weight: var(--font-heading-weight); }
+
+.blueprint {
+  position: relative;
+  border: 1px solid var(--color-divider);
+  border-radius: 0;
+}
+/* The overlay image treatments (halftone, duotone) clip their overlay
+   (overflow:hidden); a blueprint wrapper draws its registration marks
+   outside the box, so when both classes share a wrapper the frame must
+   win. */
+.blueprint.halftone, .blueprint.plate, .blueprint.duotone { overflow: visible; }
+.blueprint > .corner {
+  position: absolute; width: 11px; height: 11px;
+  color: color-mix(in srgb, var(--color-text) 55%, transparent);
+}
+.blueprint > .corner::before, .blueprint > .corner::after {
+  content: ""; position: absolute; background: currentColor;
+}
+.blueprint > .corner::before { left: 5px; top: 0; width: 1px; height: 100%; }
+.blueprint > .corner::after  { top: 5px; left: 0; width: 100%; height: 1px; }
+.blueprint > .corner.tl { top: -6px; left: -6px; }
+.blueprint > .corner.tr { top: -6px; right: -6px; }
+.blueprint > .corner.bl { bottom: -6px; left: -6px; }
+.blueprint > .corner.br { bottom: -6px; right: -6px; }
+
+.duotone{position:relative;overflow:hidden}
+.duotone::after{content:"";position:absolute;inset:0;pointer-events:none;
+  background:var(--color-accent);mix-blend-mode:color}
+
+/* ══════════════════════════════════════════════════════════════════════════
+   Components — built with the tokens above. Plain CSS
+   on plain HTML: no JavaScript, no build step. Each class is documented in
+   readme.md and demonstrated in foundations/ and components/.
+   ══════════════════════════════════════════════════════════════════════ */
+
+*, *::before, *::after { box-sizing: border-box; }
+body { margin: 0; font-size: 15px; line-height: 1.55; font-weight: 400; }
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-heading); font-weight: var(--font-heading-weight);
+  line-height: 1.12; letter-spacing: -0.015em; margin: 0 0 var(--space-2);
+}
+h1 { font-size: 42px; }
+h2 { font-size: 32px; }
+h3 { font-size: 25px; }
+h4 { font-size: 20px; }
+h5 { font-size: 16px; }
+h6 { font-size: 13px; }
+h6 { letter-spacing: 0.08em; text-transform: uppercase; }
+p { margin: 0 0 var(--space-3); }
+a { color: var(--color-accent); text-underline-offset: 3px; }
+img { display: block; max-width: 100%; }
+figure { margin: 0; }
+figcaption {
+  font-size: 11px; margin-top: var(--space-1);
+  color: color-mix(in srgb, var(--color-text) 55%, transparent);
+}
+.text-muted { color: color-mix(in srgb, var(--color-text) 55%, transparent); }
+:focus { outline: none; }
+:focus-visible { outline: 2px solid var(--color-accent); outline-offset: 2px; }
+::selection { background: color-mix(in srgb, var(--color-accent) 30%, transparent); }
+
+/* — rules — */
+.hr {
+  height: 1px; border: 0; margin: var(--space-4) 0;
+  background: var(--color-divider);
+}
+
+/* — buttons — */
+.btn {
+  display: inline-flex; align-items: center; justify-content: center; gap: 6px;
+  cursor: pointer; text-decoration: none;
+  font-family: var(--font-heading); font-weight: var(--font-heading-weight);
+  font-size: 14px; line-height: 1.2; color: var(--color-text); /* matches the .input's 14px —
+     the pair sits side by side in sign-up rows */
+  background: transparent; border: 1px solid transparent;
+  padding: var(--space-2) calc(var(--space-3) * 1.2);
+  border-radius: var(--radius-md);
+}
+.btn svg { display: block; }
+.btn:disabled { opacity: 0.45; cursor: not-allowed; }
+.btn-primary { background: var(--color-accent); color: var(--color-bg); }
+.btn-primary:hover { background: var(--color-accent-600); }
+.btn-primary:active { background: var(--color-accent-700); }
+.btn-secondary { border-color: var(--color-divider); }
+.btn-secondary:hover { background: color-mix(in srgb, var(--color-text) 7%, transparent); }
+.btn-secondary:active { background: color-mix(in srgb, var(--color-text) 14%, transparent); }
+.btn-ghost { color: var(--color-accent); padding-inline: var(--space-1); }
+.btn-ghost:hover { background: color-mix(in srgb, var(--color-accent) 10%, transparent); }
+.btn-ghost:active { background: color-mix(in srgb, var(--color-accent) 18%, transparent); }
+.btn-icon { width: 36px; height: 36px; padding: 0; }
+.btn-block { width: 100%; margin-top: var(--space-2); }
+
+/* — forms — */
+.field > label {
+  display: block; font-size: 12px; margin-bottom: 5px;
+  color: color-mix(in srgb, var(--color-text) 70%, transparent);
+}
+.input {
+  width: 100%; min-height: 36px; padding: 6px 10px; font: inherit;
+  font-size: 14px; color: var(--color-text); caret-color: var(--color-accent);
+  background: var(--color-surface);
+  border: 1px solid var(--color-divider); border-radius: var(--radius-md);
+}
+.input:hover { border-color: color-mix(in srgb, var(--color-text) 45%, transparent); }
+.input:focus-visible { border-color: var(--color-accent); outline-offset: 0; }
+textarea.input { min-height: 90px; resize: vertical; }
+.radio { display: inline-flex; align-items: center; gap: 8px; cursor: pointer; font-size: 14px; }
+.radio input, .seg-opt input {
+  position: absolute; opacity: 0; width: 0; height: 0; pointer-events: none;
+}
+.radio .dot {
+  width: 16px; height: 16px; flex: none; border-radius: 50%;
+  border: 1.5px solid var(--color-divider);
+}
+.radio:hover .dot { border-color: var(--color-accent); }
+.radio input:checked + .dot {
+  border-color: var(--color-accent); background: var(--color-accent);
+  box-shadow: inset 0 0 0 4px var(--color-bg);
+}
+.radio input:focus-visible + .dot { outline: 2px solid var(--color-accent); outline-offset: 2px; }
+.seg {
+  display: inline-flex; overflow: hidden;
+  border: 1px solid var(--color-divider); border-radius: var(--radius-md);
+}
+.seg-opt {
+  display: inline-flex; align-items: center; gap: 6px;
+  padding: 7px 12px; font-size: 13px; cursor: pointer;
+}
+.seg-opt + .seg-opt { border-left: 1px solid var(--color-divider); }
+.seg-opt:has(input:checked) { background: var(--color-accent); color: var(--color-bg); }
+.seg-opt:not(:has(input:checked)):hover { background: color-mix(in srgb, var(--color-text) 7%, transparent); }
+.seg-opt:has(input:focus-visible) { outline: 2px solid var(--color-accent); outline-offset: -2px; }
+
+/* — cards — */
+.card {
+  display: flex; flex-direction: column; gap: var(--space-2);
+  padding: var(--space-3); border-radius: var(--radius-md); background: var(--color-surface);
+}
+.card-kicker { font-size: 10px; letter-spacing: 0.1em; text-transform: uppercase; color: var(--color-accent); }
+.card-title {
+  font-family: var(--font-heading); font-weight: var(--font-heading-weight);
+  font-size: 17px; line-height: 1.2;
+}
+.card-body { margin: 0; font-size: 13px; opacity: 0.8; flex: 1; }
+.card-meta {
+  display: flex; align-items: center; gap: 6px; font-size: 11px;
+  color: color-mix(in srgb, var(--color-text) 50%, transparent);
+}
+.elev-sm { box-shadow: var(--shadow-sm); }
+.elev-md { box-shadow: var(--shadow-md); }
+.elev-lg { box-shadow: var(--shadow-lg); }
+
+/* — tags — */
+.tag {
+  display: inline-flex; align-items: center; font-size: 11px;
+  letter-spacing: 0.02em; padding: 3px 10px;
+  border-radius: calc(var(--radius-md) * 0.75);
+}
+.tag-accent { background: var(--color-accent-100); color: var(--color-accent-800); }
+.tag-accent-2 { background: var(--color-accent-2-100); color: var(--color-accent-2-800); }
+.tag-neutral { background: var(--color-neutral-100); color: var(--color-neutral-800); }
+.tag-outline { border: 1px solid var(--color-accent); color: var(--color-accent); }
+
+/* — navigation — */
+.nav {
+  display: flex; align-items: center; gap: var(--space-4);
+  padding: var(--space-3) var(--space-4);
+  border-bottom: none;
+}
+.nav-brand {
+  font-family: var(--font-heading); font-weight: var(--font-heading-weight);
+  font-size: 18px; margin-right: auto;
+}
+.nav a { color: inherit; text-decoration: none; font-size: 14px; }
+.nav a:hover, .nav a[aria-current='page'] { color: var(--color-accent); }
+
+/* — tables — */
+.table { width: 100%; border-collapse: collapse; font-size: 14px; }
+.table th {
+  text-align: left; font-size: 11px; letter-spacing: 0.08em; text-transform: uppercase;
+  color: color-mix(in srgb, var(--color-text) 60%, transparent);
+  padding: var(--space-2); border-bottom: 1px solid var(--color-divider);
+}
+.table td {
+  padding: var(--space-2);
+  border-bottom: 1px solid color-mix(in srgb, var(--color-text) 8%, transparent);
+}
+.table tbody tr:hover { background: color-mix(in srgb, var(--color-text) 4%, transparent); }
+
+/* — dialog — */
+.dialog-backdrop {
+  position: fixed; inset: 0; display: grid; place-items: center;
+  padding: var(--space-4);
+  background: color-mix(in srgb, var(--color-neutral-900) 50%, transparent);
+}
+.dialog {
+  width: min(440px, 100%); display: flex; flex-direction: column; gap: var(--space-3);
+  padding: var(--space-4); border-radius: var(--radius-lg);
+  background: var(--color-surface); box-shadow: var(--shadow-lg);
+}
+.dialog-title {
+  font-family: var(--font-heading); font-weight: var(--font-heading-weight);
+  font-size: 20px;
+}
+.dialog-body { font-size: 14px; opacity: 0.85; }
+.dialog-actions { display: flex; justify-content: flex-end; gap: var(--space-2); margin-top: var(--space-2); }
+
+/* — blueprint frame: components are wireframe objects (see .blueprint
+     and .corner above) — square, transparent, hairline-bordered — */
+.card, .btn, .input, .tag, .seg, .dialog { border-radius: 0; }
+.card, .dialog { background: transparent; border: 1px solid var(--color-divider); }
+.btn { border: 1px solid var(--color-divider); }
+.btn-primary { border-color: var(--color-accent); }
+.btn-ghost { border-color: transparent; }
+
+
+</style>
+
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700;800&family=Source+Serif+4:opsz,wght@8..60,500;8..60,600;8..60,700&family=Source+Sans+3:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+html,body{margin:0;height:100%}
+body{background:var(--color-bg)}
+body[data-recall="1"] [data-hl]{color:transparent !important;background:var(--color-neutral-300) !important;border-bottom-color:transparent !important;cursor:pointer}
+body[data-recall="1"] [data-hl][data-revealed="1"]{color:var(--color-accent-900) !important;background:var(--color-accent-200) !important}
+@media (max-width:820px){
+  #mcn-aside{position:fixed !important;left:0;top:0;bottom:0;z-index:80;width:280px !important;transform:translateX(-105%);transition:transform .25s ease;box-shadow:var(--shadow-lg)}
+  body[data-nav="1"] #mcn-aside{transform:translateX(0)}
+  #mcn-menu{display:inline-flex !important}
+  .mcn-header{padding:8px 10px !important;gap:7px !important}
+  .mcn-htitle{flex:1;min-width:0;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;font-size:.92em !important}
+  .mcn-hbtn{padding:4px 8px !important;font-size:.74em !important}
+  .mcn-hero{padding:34px 20px 38px !important}
+  .mcn-content{padding:8px 16px 34px !important}
+  #mcn-panel{left:12px;right:12px !important;width:auto !important}
+}
+</style>
+</helmet>
+<div data-screen-label="MCN 2.0 Study Site" style="{{ rootStyle }}">
+  <aside id="mcn-aside" style="width:264px;flex:none;background:var(--color-surface);border-right:1px solid var(--color-divider);overflow-y:auto;display:flex;flex-direction:column">
+    <div style="padding:20px 20px 16px;border-bottom:1px solid var(--color-divider)">
+      <div style="display:flex;align-items:center;gap:10px">
+        <span style="font-family:var(--font-heading);font-weight:600;font-size:0.9em;letter-spacing:.08em;background:var(--color-accent);color:var(--color-bg);padding:2px 9px">MCN 2.0</span>
+        <span style="font-family:var(--font-heading);font-weight:600;font-size:1.05em;letter-spacing:.02em;text-transform:uppercase;color:var(--color-text)">Mains Concise Notes</span>
+      </div>
+      <div style="font-size:0.75em;color:var(--color-neutral-600);margin-top:6px;letter-spacing:.06em;text-transform:uppercase">Polity · Notes 1–48 · Revision</div>
+    </div>
+    <nav style="padding:12px 12px 28px;display:flex;flex-direction:column;gap:2px">
+      <sc-for list="{{ groups }}" as="g" hint-placeholder-count="4">
+        <div style="font-family:var(--font-heading);font-weight:600;font-size:0.78em;letter-spacing:.12em;text-transform:uppercase;color:var(--color-accent-700);padding:16px 10px 6px">{{ g.name }}</div>
+        <sc-for list="{{ g.notes }}" as="n" hint-placeholder-count="3">
+          <button onClick="{{ n.open }}" title="{{ n.title }}" style="display:flex;align-items:baseline;gap:9px;width:100%;text-align:left;border:none;padding:6px 10px;cursor:{{ n.cursor }};background:{{ n.bg }};color:{{ n.fg }};opacity:{{ n.op }};font-family:var(--font-body);font-size:0.86em;line-height:1.3" style-hover="background:var(--color-accent-100)">
+            <span style="font-family:var(--font-heading);font-weight:600;flex:none;width:20px;color:{{ n.numFg }}">{{ n.num }}</span>
+            <span style="flex:1">{{ n.short }}</span>
+            <sc-if value="{{ n.soon }}" hint-placeholder-val="{{ false }}"><span style="flex:none;font-size:0.8em;letter-spacing:.06em;text-transform:uppercase;color:var(--color-neutral-500)">soon</span></sc-if>
+          </button>
+        </sc-for>
+      </sc-for>
+    </nav>
+  </aside>
+  <sc-if value="{{ navOpen }}" hint-placeholder-val="{{ false }}">
+    <div onClick="{{ closeNav }}" style="position:fixed;inset:0;z-index:75;background:rgba(29,31,32,.45)"></div>
+  </sc-if>
+  <main ref="{{ mainRef }}" style="flex:1;overflow-y:auto;position:relative">
+    <header class="mcn-header" style="position:sticky;top:0;z-index:40;background:var(--color-bg);border-bottom:1px solid var(--color-divider);padding:10px 24px;display:flex;align-items:center;gap:12px">
+      <button id="mcn-menu" onClick="{{ toggleNav }}" aria-label="Notes menu" style="display:none;flex:none;align-items:center;justify-content:center;width:36px;height:32px;cursor:pointer;border:1px solid var(--color-neutral-400);background:transparent;color:var(--color-text);font-size:16px;line-height:1">☰</button>
+      <span style="flex:none;font-family:var(--font-heading);font-weight:600;font-size:0.85em;background:var(--color-accent);color:var(--color-bg);padding:2px 9px">MCN {{ noteNum }}</span>
+      <span class="mcn-htitle" style="font-family:var(--font-heading);font-weight:600;font-size:1.05em;text-transform:uppercase;letter-spacing:.02em;color:var(--color-text)">{{ noteTitle }}</span>
+      <div style="margin-left:auto;display:flex;gap:8px;align-items:center">
+        <button class="mcn-hbtn" onClick="{{ toggleRecall }}" title="Hides highlighted keywords — click a blank to reveal" style="font-family:var(--font-heading);font-weight:600;font-size:0.82em;letter-spacing:.05em;text-transform:uppercase;padding:5px 13px;cursor:pointer;border:1px solid var(--color-accent);background:{{ recallBg }};color:{{ recallFg }}" style-hover="background:var(--color-accent-200);color:var(--color-accent-900)">{{ recallLabel }}</button>
+        <button class="mcn-hbtn" data-panel-btn="1" onClick="{{ togglePanel }}" style="font-family:var(--font-heading);font-weight:600;font-size:0.82em;letter-spacing:.05em;text-transform:uppercase;padding:5px 13px;cursor:pointer;border:1px solid var(--color-neutral-400);background:{{ panelBg }};color:var(--color-text)" style-hover="background:var(--color-neutral-200)">Aa · Display</button>
+      </div>
+      <sc-if value="{{ panelOpen }}" hint-placeholder-val="{{ false }}">
+        <div id="mcn-panel" data-panel="1" class="blueprint" style="position:absolute;top:52px;right:20px;z-index:60;width:296px;background:var(--color-bg);border:1px solid var(--color-neutral-400);box-shadow:var(--shadow-lg);padding:18px 20px 20px"><i class="corner tl"></i><i class="corner tr"></i><i class="corner bl"></i><i class="corner br"></i>
+          <div style="font-family:var(--font-heading);font-weight:600;font-size:0.8em;letter-spacing:.12em;text-transform:uppercase;color:var(--color-accent-700);margin-bottom:10px">Accent color</div>
+          <div style="display:flex;gap:8px">
+            <sc-for list="{{ accentOpts }}" as="a" hint-placeholder-count="5">
+              <button onClick="{{ a.pick }}" title="{{ a.name }}" style="width:30px;height:30px;flex:none;cursor:pointer;background:{{ a.swatch }};border:1px solid var(--color-neutral-400);outline:{{ a.outline }};outline-offset:2px"></button>
+            </sc-for>
+          </div>
+          <div style="font-family:var(--font-heading);font-weight:600;font-size:0.8em;letter-spacing:.12em;text-transform:uppercase;color:var(--color-accent-700);margin:18px 0 10px">Typeface</div>
+          <div style="display:flex;flex-direction:column;gap:6px">
+            <sc-for list="{{ fontOpts }}" as="f" hint-placeholder-count="3">
+              <button onClick="{{ f.pick }}" style="text-align:left;padding:7px 11px;cursor:pointer;border:1px solid {{ f.border }};background:{{ f.bg }};color:var(--color-text)" style-hover="background:var(--color-accent-100)">
+                <span style="font-family:{{ f.headFam }};font-weight:600;font-size:1em">{{ f.name }}</span>
+                <span style="font-family:{{ f.bodyFam }};font-size:0.8em;color:var(--color-neutral-600);margin-left:8px">{{ f.sub }}</span>
+              </button>
+            </sc-for>
+          </div>
+          <div style="font-family:var(--font-heading);font-weight:600;font-size:0.8em;letter-spacing:.12em;text-transform:uppercase;color:var(--color-accent-700);margin:18px 0 8px">Text size — {{ sizeVal }}px</div>
+          <input type="range" min="13" max="20" step="0.5" value="{{ sizeVal }}" onChange="{{ onSize }}" style="width:100%;accent-color:var(--color-accent)">
+          <button onClick="{{ resetSettings }}" style="margin-top:14px;font-family:var(--font-heading);font-weight:600;font-size:0.78em;letter-spacing:.06em;text-transform:uppercase;padding:5px 11px;cursor:pointer;border:1px solid var(--color-neutral-400);background:transparent;color:var(--color-neutral-700)" style-hover="background:var(--color-neutral-200)">Reset defaults</button>
+        </div>
+      </sc-if>
+    </header>
+    <sc-if value="{{ loading }}" hint-placeholder-val="{{ true }}">
+      <div style="padding:80px 32px;color:var(--color-neutral-600);font-size:0.95em">Loading note…</div>
+    </sc-if>
+    <sc-if value="{{ ready }}" hint-placeholder-val="{{ false }}">
+      <section class="mcn-hero" style="background:var(--color-accent-900);color:var(--color-bg);padding:52px 36px 56px">
+        <div style="max-width:980px;margin:0 auto">
+          <div style="font-size:0.8em;letter-spacing:.14em;text-transform:uppercase;color:var(--color-accent-300);margin-bottom:12px">{{ noteTheme }} · Mains Concise Note {{ noteNum }}</div>
+          <h1 style="margin:0;font-family:var(--font-heading);font-weight:600;font-size:2.7em;line-height:1;letter-spacing:0;text-transform:uppercase;color:var(--color-bg)">{{ noteTitle }}</h1>
+          <sc-if value="{{ hasLead }}" hint-placeholder-val="{{ false }}">
+            <p style="margin:22px 0 0;max-width:680px;font-size:1.05em;line-height:1.55;color:var(--color-accent-200)">{{ leadRich }}</p>
+          </sc-if>
+          <sc-for list="{{ introQuotes }}" as="q" hint-placeholder-count="0">
+            <blockquote style="margin:22px 0 0;max-width:680px;border-left:3px solid var(--color-accent-400);padding:4px 0 4px 16px;font-size:1em;line-height:1.55;color:var(--color-accent-200)">{{ q.rich }}</blockquote>
+          </sc-for>
+        </div>
+      </section>
+      <div class="mcn-content" style="max-width:1020px;margin:0 auto;padding:14px 36px 40px">
+        <sc-for list="{{ sections }}" as="sec" hint-placeholder-count="3">
+          <section style="padding:38px 0 10px">
+            <div style="display:flex;align-items:baseline;gap:12px;margin-bottom:18px">
+              <span style="font-family:var(--font-heading);font-weight:600;font-size:0.85em;background:var(--color-accent);color:var(--color-bg);padding:2px 9px">{{ sec.kicker }}</span>
+              <h2 style="margin:0;font-family:var(--font-heading);font-weight:600;font-size:1.55em;text-transform:uppercase;letter-spacing:.01em;color:var(--color-text)">{{ sec.title }}</h2>
+            </div>
+            <sc-for list="{{ sec.blocks }}" as="b" hint-placeholder-count="1">
+              <div style="margin-bottom:22px">
+                <sc-if value="{{ b.isTable }}" hint-placeholder-val="{{ false }}">
+                  <div class="blueprint" style="background:var(--color-bg);border:1px solid var(--color-neutral-400);padding:4px 16px;overflow-x:auto"><i class="corner tl"></i><i class="corner tr"></i><i class="corner bl"></i><i class="corner br"></i>
+                    <table class="table" style="font-size:0.9em;line-height:1.5;width:100%">
+                      <thead><tr><sc-for list="{{ b.headCells }}" as="h" hint-placeholder-count="2"><th style="font-family:var(--font-heading);font-size:1.05em;letter-spacing:.03em">{{ h.label }}</th></sc-for></tr></thead>
+                      <tbody><sc-for list="{{ b.rows }}" as="row" hint-placeholder-count="4"><tr><sc-for list="{{ row.cells }}" as="cell" hint-placeholder-count="2"><td style="vertical-align:top">{{ cell.rich }}</td></sc-for></tr></sc-for></tbody>
+                    </table>
+                  </div>
+                </sc-if>
+                <sc-if value="{{ b.isCards }}" hint-placeholder-val="{{ false }}">
+                  <div style="display:grid;grid-template-columns:{{ b.gridCols }};gap:18px">
+                    <sc-for list="{{ b.items }}" as="it" hint-placeholder-count="3">
+                      <div class="card blueprint"><i class="corner tl"></i><i class="corner tr"></i><i class="corner bl"></i><i class="corner br"></i>
+                        <sc-if value="{{ it.hasKicker }}" hint-placeholder-val="{{ false }}"><div class="card-kicker">{{ it.kicker }}</div></sc-if>
+                        <div class="card-title" style="font-size:1.1em">{{ it.title }}</div>
+                        <ul style="margin:0;padding-left:17px;font-size:0.9em;line-height:1.55;display:grid;gap:6px;color:var(--color-text)">
+                          <sc-for list="{{ it.bullets }}" as="bu" hint-placeholder-count="2"><li>{{ bu.rich }}</li></sc-for>
+                        </ul>
+                      </div>
+                    </sc-for>
+                  </div>
+                </sc-if>
+                <sc-if value="{{ b.isStats }}" hint-placeholder-val="{{ false }}">
+                  <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(215px,1fr));gap:18px">
+                    <sc-for list="{{ b.items }}" as="st" hint-placeholder-count="4">
+                      <div class="blueprint" style="border:1px solid var(--color-neutral-400);padding:14px 16px"><i class="corner tl"></i><i class="corner tr"></i><i class="corner bl"></i><i class="corner br"></i>
+                        <div data-hl="kw" style="font-family:var(--font-heading);font-weight:600;font-size:1.9em;line-height:1.1;color:var(--color-accent-700)">{{ st.value }}</div>
+                        <div style="font-size:0.82em;color:var(--color-neutral-700);margin-top:5px;line-height:1.45">{{ st.labelRich }}</div>
+                      </div>
+                    </sc-for>
+                  </div>
+                </sc-if>
+                <sc-if value="{{ b.isSteps }}" hint-placeholder-val="{{ false }}">
+                  <div style="display:grid;gap:8px">
+                    <sc-for list="{{ b.items }}" as="stp" hint-placeholder-count="4">
+                      <div style="display:flex;gap:14px;align-items:baseline;border-bottom:1px solid var(--color-divider);padding:8px 4px">
+                        <span style="font-family:var(--font-heading);font-weight:600;flex:none;width:26px;color:var(--color-accent-700)">{{ stp.n }}</span>
+                        <span style="font-size:0.95em;line-height:1.5;color:var(--color-text)">{{ stp.rich }}</span>
+                      </div>
+                    </sc-for>
+                  </div>
+                </sc-if>
+                <sc-if value="{{ b.isQuote }}" hint-placeholder-val="{{ false }}">
+                  <blockquote class="blueprint" style="margin:0;padding:20px 24px;border:1px solid var(--color-neutral-400)"><i class="corner tl"></i><i class="corner tr"></i><i class="corner bl"></i><i class="corner br"></i>
+                    <p style="margin:0;font-size:1.08em;line-height:1.55;color:var(--color-accent-800)">“{{ b.rich }}”</p>
+                    <sc-if value="{{ b.hasBy }}" hint-placeholder-val="{{ false }}"><p style="margin:10px 0 0;font-family:var(--font-heading);font-weight:600;font-size:0.85em;letter-spacing:.06em;text-transform:uppercase;color:var(--color-neutral-600)">— {{ b.by }}</p></sc-if>
+                  </blockquote>
+                </sc-if>
+                <sc-if value="{{ b.isCallout }}" hint-placeholder-val="{{ false }}">
+                  <div style="border-left:3px solid var(--color-accent);background:var(--color-accent-100);padding:12px 18px;font-size:0.95em;line-height:1.55;color:var(--color-accent-900)">{{ b.rich }}</div>
+                </sc-if>
+                <sc-if value="{{ b.isBullets }}" hint-placeholder-val="{{ false }}">
+                  <ul style="margin:0;padding-left:19px;font-size:0.95em;line-height:1.6;display:grid;gap:7px;color:var(--color-text)">
+                    <sc-for list="{{ b.items }}" as="bu" hint-placeholder-count="3"><li>{{ bu.rich }}</li></sc-for>
+                  </ul>
+                </sc-if>
+              </div>
+            </sc-for>
+          </section>
+        </sc-for>
+        <footer style="display:flex;justify-content:space-between;align-items:center;border-top:1px solid var(--color-divider);margin-top:28px;padding:22px 0 10px">
+          <sc-if value="{{ hasPrev }}" hint-placeholder-val="{{ false }}"><button onClick="{{ goPrev }}" class="btn btn-secondary" style="font-size:0.85em">← {{ prevLabel }}</button></sc-if>
+          <sc-if value="{{ noPrev }}" hint-placeholder-val="{{ false }}"><span></span></sc-if>
+          <span style="font-size:0.72em;letter-spacing:.14em;text-transform:uppercase;color:var(--color-neutral-500)">MCN {{ noteNum }} · End of note</span>
+          <sc-if value="{{ hasNext }}" hint-placeholder-val="{{ false }}"><button onClick="{{ goNext }}" class="btn btn-primary" style="font-size:0.85em">{{ nextLabel }} →</button></sc-if>
+          <sc-if value="{{ noNext }}" hint-placeholder-val="{{ false }}"><span></span></sc-if>
+        </footer>
+      </div>
+    </sc-if>
+  </main>
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script>
+const NOTE_GROUPS = [
+  ['Historical Underpinnings', [['01','Govt of India Act, 1935'],['02','Constituent Assembly']]],
+  ['Amendments & Basic Structure', [['03','Amendments'],['04','Basic Structure'],['05','Basic Structure: Timeline'],['06','Inclusions & Components'],['07','Applications & Analysis']]],
+  ['Preamble & Fundamental Rights', [['08','Preamble'],['09','Equality & Affirmative Action'],['10','Article 19'],['11','Labour Rights: Art 19(1)(c)'],['12','Life & Liberty'],['13','Secularism & Minorities'],['14','Fundamental Duties']]],
+  ['Federalism & Local Government', [['15','Essentials & Core Relations'],['16','Legislative Relations & Doctrines'],['17','Repugnancy & Dominance'],['18','Emergency'],['19','Fiscal Federalism: 15th FC'],['20','15th FC v 16th FC'],['21','16th FC Review'],['22','Water Federalism'],['23','Governor'],['24','NITI Aayog'],['25','GST'],['26','Models of Federalism'],['27','Example Matrix'],['28','Ladakh'],['29','Panchayats'],['30','Municipalities']]],
+  ['Comparative Constitutions', [['31','Separation of Powers'],['32','Judicial Review'],['33','Ministers'],['34','Emergency'],['35','President'],['36','Presidential v Parliamentary'],['37','Forms of Government'],['38','Federalism'],['39','Separation of Powers II'],['40','Judiciary']]],
+  ['Parliament', [['41','Role of a Parliamentarian'],['42','Anti-Defection Law'],['43','Immunities & Privileges'],['44','Office of Profit'],['45','Presiding Officers'],['46','Bicameralism & Rajya Sabha'],['47','Whips'],['48','Parliamentary Committees']]],
+  ['Union Executive', [['49',"President's Role"],['50','Ordinances'],['51','Pardons'],['52','Vice President'],['53','Ministers'],['54','Delegated Legislation']]],
+  ['Judiciary', [['55','Judicial Pendency'],['56','Independence & Accountability'],['57','Higher Judicial Appointments'],['58','Subordinate Appointments'],['59','Judicial Review'],['60','Activism & Restraint'],['61','Suo Motu & Complete Justice'],['62','Recent Case Law'],['63','Attorney General']]],
+  ['ADR, Tribunals & Tech', [['64','Arbitration & Conciliation'],['65','Mediation Act'],['66','Arbitration: Reform'],['67','Commercial Courts'],['68','Tribunals'],['69','National Green Tribunal'],['70','Gram Nyayalayas'],['71','AI and the Judiciary']]],
+  ['Access to Justice', [['72','Public Interest Litigation'],['73','Judicial Legislation'],['74','Legal Aid'],['75','Lok Adalats'],['76','Pressure Groups']]],
+  ['Elections & Representation', [['77','RoPA, 1951'],['78','Delimitation'],['79','ECI'],['80','SIR'],['81','Women Reservation'],['82','Political Parties'],['83','National & Regional Parties']]],
+  ['Constitutional Ideas & Bodies', [['84','CAG'],['85','42nd CA, 1976'],['86','Transformative Constitutionalism'],['87','Constitutional Morality']]]
+];
+const AVAILABLE = ['01','02','03','04','05','06','07','08','09','10','11','12','13','14','15','16','17','18','19','20','21','22','23','24','25','26','27','28','29','30','31','32','33','34','35','36','37','38','39','40','41','42','43','44','45','46','47','48','49','50','51','52','53','54','55','56','57','58','59','60','61','62','63','64','65','66','67','68','69','70','71','72','73','74','75','76','77','78','79','80','81','82','83','84','85','86','87'];
+const ACCENTS = [
+  { id:'steel', name:'Steel (default)', swatch:'#5980a6', vars:null },
+  { id:'moss', name:'Moss', swatch:'oklch(0.58 0.055 160)', h:160, c:0.055 },
+  { id:'rust', name:'Rust', swatch:'oklch(0.58 0.085 45)', h:45, c:0.085 },
+  { id:'plum', name:'Plum', swatch:'oklch(0.58 0.065 330)', h:330, c:0.065 },
+  { id:'graphite', name:'Graphite', swatch:'oklch(0.55 0.012 260)', h:260, c:0.012 }
+];
+const FONTS = [
+  { id:'industry', name:'Industry', sub:'Barlow Condensed + Barlow', head:"'Barlow Condensed', sans-serif", body:"'Barlow', sans-serif" },
+  { id:'archivo', name:'Archivo', sub:'Grotesque, single family', head:"'Archivo', sans-serif", body:"'Archivo', sans-serif" },
+  { id:'serif', name:'Source Serif', sub:'Serif headings + Sans body', head:"'Source Serif 4', serif", body:"'Source Sans 3', sans-serif" }
+];
+const RAMP_L = {100:0.955,200:0.91,300:0.83,400:0.73,500:0.62,600:0.545,700:0.465,800:0.375,900:0.285};
+const RAMP_C = {100:0.35,200:0.55,300:0.8,400:0.95,500:1,600:1,700:0.95,800:0.85,900:0.7};
+const DEFAULTS = { accent:'steel', font:'industry', size:15 };
+
+class Component extends DCLogic {
+  state = { noteId:null, note:null, loading:true, panel:false, recall:false, nav:false, settings:{...DEFAULTS} };
+  constructor(props) { super(props); this.mainRef = React.createRef(); }
+  componentDidMount() {
+    try { const s = JSON.parse(localStorage.getItem('mcn2-settings')); if (s && s.accent) this.setState({ settings:{...DEFAULTS, ...s} }); } catch(e) {}
+    const last = localStorage.getItem('mcn2-note');
+    this.openNote(AVAILABLE.includes(last) ? last : AVAILABLE[0]);
+    this._click = (e) => {
+      if (document.body.dataset.recall === '1') {
+        const t = e.target.closest('[data-hl]');
+        if (t) { t.dataset.revealed = t.dataset.revealed === '1' ? '0' : '1'; return; }
+      }
+      if (this.state.panel && !e.target.closest('[data-panel]') && !e.target.closest('[data-panel-btn]')) this.setState({ panel:false });
+    };
+    document.addEventListener('click', this._click);
+  }
+  componentWillUnmount() {
+    document.removeEventListener('click', this._click);
+    if ('recall' in document.body.dataset) delete document.body.dataset.recall;
+    if ('nav' in document.body.dataset) delete document.body.dataset.nav;
+  }
+  setNav(on) {
+    const v = on ? '1' : '0';
+    if (document.body.dataset.nav !== v) document.body.dataset.nav = v;
+    this.setState({ nav:on });
+  }
+  rt(s) {
+    if (s == null) return null;
+    const parts = String(s).split(/(==[^=]+==|\[\[[^\]]+\]\])/g);
+    return parts.map((p, i) => {
+      if (p.startsWith('==') && p.endsWith('==')) return React.createElement('span', { key:i, 'data-hl':'kw', style:{ background:'var(--color-accent-200)', color:'var(--color-accent-900)', padding:'1px 3px', fontWeight:500 } }, p.slice(2,-2));
+      if (p.startsWith('[[') && p.endsWith(']]')) return React.createElement('span', { key:i, 'data-hl':'case', style:{ fontFamily:'var(--font-heading)', fontWeight:600, color:'var(--color-accent-700)', borderBottom:'2px solid var(--color-accent-500)' } }, p.slice(2,-2));
+      return p;
+    });
+  }
+  prep(raw) {
+    const pad = (n) => String(n).padStart(2,'0');
+    const sections = (raw.sections || []).map((s, si) => ({
+      title: s.title, kicker: pad(si+1),
+      blocks: (s.blocks || []).map(b => {
+        const o = { isTable:false, isCards:false, isStats:false, isSteps:false, isQuote:false, isCallout:false, isBullets:false };
+        o['is' + b.type.charAt(0).toUpperCase() + b.type.slice(1)] = true;
+        if (b.type === 'table') { o.headCells = b.head.map(h => ({ label:h })); o.rows = b.rows.map(r => ({ cells: r.map(c => ({ rich:this.rt(c) })) })); }
+        if (b.type === 'cards') { o.gridCols = 'repeat(auto-fit,minmax(min(' + (b.wide ? '400px' : '290px') + ',100%),1fr))'; o.items = b.items.map(it => ({ title:it.title, kicker:it.kicker, hasKicker:!!it.kicker, bullets:(it.bullets||[]).map(x => ({ rich:this.rt(x) })) })); }
+        if (b.type === 'stats') o.items = b.items.map(st => ({ value:st.value, labelRich:this.rt(st.label) }));
+        if (b.type === 'steps') o.items = b.items.map((x, i) => ({ n:String(i+1), rich:this.rt(x) }));
+        if (b.type === 'bullets') o.items = b.items.map(x => ({ rich:this.rt(x) }));
+        if (b.type === 'quote') { o.rich = this.rt(b.text); o.by = b.by; o.hasBy = !!b.by; }
+        if (b.type === 'callout') o.rich = this.rt(b.text);
+        return o;
+      })
+    }));
+    return { num:raw.num, title:raw.title, theme:raw.theme, leadRich:raw.lead ? this.rt(raw.lead) : null, hasLead:!!raw.lead, introQuotes:(raw.intro||[]).map(q => ({ rich:this.rt(q) })), sections };
+  }
+  openNote(id) {
+    if (!AVAILABLE.includes(id)) return;
+    this.setState({ loading:true, panel:false });
+    this.setNav(false);
+    fetch('notes/mcn' + id + '.json').then(r => r.json()).then(raw => {
+      localStorage.setItem('mcn2-note', id);
+      this.setState({ noteId:id, note:this.prep(raw), loading:false });
+      if (this.mainRef.current) this.mainRef.current.scrollTo(0, 0);
+    }).catch(() => this.setState({ loading:false }));
+  }
+  saveSettings(s) { this.setState({ settings:s }); localStorage.setItem('mcn2-settings', JSON.stringify(s)); }
+  setRecall(on) {
+    const v = on ? '1' : '0';
+    if (document.body.dataset.recall !== v) document.body.dataset.recall = v;
+    document.querySelectorAll('[data-hl][data-revealed]').forEach(n => { n.dataset.revealed = '0'; });
+    this.setState({ recall:on });
+  }
+  accentVars(a) {
+    if (!a || !a.h) return {};
+    const v = {};
+    for (const k of Object.keys(RAMP_L)) v['--color-accent-' + k] = 'oklch(' + RAMP_L[k] + ' ' + (a.c * RAMP_C[k]).toFixed(4) + ' ' + a.h + ')';
+    v['--color-accent'] = v['--color-accent-500'];
+    return v;
+  }
+  renderVals() {
+    const { settings, note, noteId, loading, panel, recall } = this.state;
+    const accent = ACCENTS.find(a => a.id === settings.accent) || ACCENTS[0];
+    const font = FONTS.find(f => f.id === settings.font) || FONTS[0];
+    const fontVars = font.id === 'industry' ? {} : { '--font-heading':font.head, '--font-body':font.body };
+    const flat = []; NOTE_GROUPS.forEach(([g, ns]) => ns.forEach(([id]) => flat.push(id)));
+    const avail = flat.filter(id => AVAILABLE.includes(id));
+    const idx = avail.indexOf(noteId);
+    const prevId = idx > 0 ? avail[idx-1] : null, nextId = idx >= 0 && idx < avail.length-1 ? avail[idx+1] : null;
+    return {
+      rootStyle: { display:'flex', height:'100vh', overflow:'hidden', background:'var(--color-bg)', color:'var(--color-text)', fontFamily:'var(--font-body)', fontSize:settings.size + 'px', ...this.accentVars(accent), ...fontVars },
+      mainRef: this.mainRef,
+      groups: NOTE_GROUPS.map(([name, ns]) => ({ name, notes: ns.map(([id, short]) => {
+        const on = AVAILABLE.includes(id), active = id === noteId;
+        return { num:id, short, title:'MCN ' + id + ' — ' + short, soon:!on, open:() => this.openNote(id), cursor:on ? 'pointer' : 'default', bg:active ? 'var(--color-accent-200)' : 'transparent', fg:active ? 'var(--color-accent-900)' : 'var(--color-text)', numFg:active ? 'var(--color-accent-800)' : 'var(--color-accent-700)', op:on ? '1' : '0.45' };
+      })})),
+      loading, ready: !loading && !!note,
+      noteNum: note ? note.num : '', noteTitle: note ? note.title : '', noteTheme: note ? note.theme : '',
+      hasLead: !!(note && note.hasLead), leadRich: note ? note.leadRich : null,
+      introQuotes: note ? note.introQuotes : [], sections: note ? note.sections : [],
+      toggleRecall: () => this.setRecall(!recall),
+      recallLabel: recall ? '● Recall on' : 'Recall',
+      recallBg: recall ? 'var(--color-accent)' : 'transparent',
+      recallFg: recall ? 'var(--color-bg)' : 'var(--color-accent-700)',
+      togglePanel: () => this.setState({ panel:!panel }),
+      navOpen: this.state.nav,
+      toggleNav: () => this.setNav(!this.state.nav),
+      closeNav: () => this.setNav(false),
+      panelOpen: panel, panelBg: panel ? 'var(--color-neutral-200)' : 'transparent',
+      accentOpts: ACCENTS.map(a => ({ name:a.name, swatch:a.swatch, pick:() => this.saveSettings({ ...settings, accent:a.id }), outline: a.id === settings.accent ? '2px solid var(--color-accent-700)' : 'none' })),
+      fontOpts: FONTS.map(f => ({ name:f.name, sub:f.sub, headFam:f.head, bodyFam:f.body, pick:() => this.saveSettings({ ...settings, font:f.id }), border: f.id === settings.font ? 'var(--color-accent)' : 'var(--color-neutral-300)', bg: f.id === settings.font ? 'var(--color-accent-100)' : 'transparent' })),
+      sizeVal: settings.size,
+      onSize: (e) => this.saveSettings({ ...settings, size:parseFloat(e.target.value) }),
+      resetSettings: () => this.saveSettings({ ...DEFAULTS }),
+      hasPrev: !!prevId, noPrev: !prevId, hasNext: !!nextId, noNext: !nextId,
+      prevLabel: prevId ? 'MCN ' + prevId : '', nextLabel: nextId ? 'MCN ' + nextId : '',
+      goPrev: () => prevId && this.openNote(prevId),
+      goNext: () => nextId && this.openNote(nextId)
+    };
+  }
+}
+</script>
+</body>
+</html>

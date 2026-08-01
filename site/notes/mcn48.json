@@ -1,0 +1,42 @@
+{
+"num":"48","title":"Parliamentary Committees","theme":"Parliament",
+"lead":"==‘Congress in session is Congress on public exhibition, whilst Congress in committee rooms is Congress at work’== — Woodrow Wilson. Standing committees (==DRSCs, financial, others==) and ad-hoc committees (bill- and issue-based) are where scrutiny actually happens.",
+"sections":[
+{"title":"Why Committees Matter","blocks":[
+{"type":"cards","wide":true,"items":[
+{"title":"Importance","bullets":["==Detailed scrutiny== beyond what the floor allows","==Specialisation== — defence, health, finance","==Depoliticised==, consensus-driven, away from public glare","Deep oversight of ==spending and implementation==","==Expert engagement== — witnesses, stakeholders, evidence"]},
+{"title":"Triggers","bullets":["==Post-1991 legislative burden== — technical, voluminous law-making","==Erosion of floor debates== — disruptions, Zero Hour pandemonium","Proliferating schemes (PMAY, Ayushman Bharat, JJM) needing ==budget & performance review==","Weak Opposition — committees as ==alternate scrutiny channels=="]}
+]}]},
+{"title":"The Numbers","blocks":[
+{"type":"stats","items":[
+{"value":"16%","label":"of Bills referred to committees in the 17th LS — down sharply; only 14 Bills so far"},
+{"value":"~49%","label":"average DRSC attendance (2009–14)"},
+{"value":"1 year","label":"DRSC tenure — limiting continuity and specialisation"},
+{"value":"~180/yr","label":"PAC recommendations — ~80% accepted"},
+{"value":"115 days","label":"median time for 50% of bill reports in the 17th LS"},
+{"value":"78","label":"meetings of the Joint Committee on the Personal Data Protection Bill (2+ years)"}
+]},
+{"type":"callout","text":"The ==Constitutional Amendment Bill on Simultaneous Elections== was referred to a ==Joint Parliamentary Committee (2025)==."}
+]},
+{"title":"General Issues","blocks":[
+{"type":"bullets","items":[
+"==Low referral rate== of Bills; ==absenteeism (~50%)==; ==one-year DRSC tenure==.",
+"MPs may lack technical expertise; ==partisan behaviour== inside committees.",
+"==Non-binding recommendations==; inadequate research staff and resources."
+]}]},
+{"title":"DRSCs, PAC & Estimates Committee","blocks":[
+{"type":"cards","wide":true,"items":[
+{"title":"DRSCs","bullets":["In-depth scrutiny of ministry policies, budgets, Bills — ==sectoral expertise==","Reduce the burden on the full House; make officials ==justify decisions==","Way forward: close ==pre-budget scrutiny of Demands for Grants==; performance monitoring; ==automatic bill referral==; review of law implementation; ==leadership training ground== for backbenchers"]},
+{"title":"PAC & Estimates Committee","bullets":["==PAC==: examines ==CAG audit reports==; checks irregularities and compliance","==EC==: scrutinises budget estimates — are expenditures justified and aligned with priorities?","Case studies: PAC exposed ==CWG 2010== irregularities and defence-land misuse (==₹838 crore== lease recovery); EC flagged imported-uranium over-dependence","Committee wins: ==Motor Vehicles (Amendment) Bill 2016== reforms; Doklam preparedness flagged by External Affairs Committee; Railways dividend waiver (2015→2016)"]}
+]}]},
+{"title":"Reform Agenda","blocks":[
+{"type":"steps","items":[
+"==Institutional==: mandatory bill referral (UK); codified report-reading time before budget votes; a ==Constitution Committee== for CA review; merge overlapping committees (PAC/COPU with DRSCs)",
+"==Functional==: train MPs in budget literacy; professionalise staff; ==performance metrics== (reports per sitting, recommendation quality)",
+"==Procedural==: floor discussion of major reports; a committee calendar (==3-day Parliament, 2-day committee== model)",
+"==Technological==: real-time dashboards integrated with CAG reports; ==live citizen feedback== on pending Bills"
+]},
+{"type":"callout","text":"OECD: countries with strong committee systems show ==better governance indicators, lower budgetary leakages and more informed legislation==. ‘Maximum Governance’ requires ==Maximum Accountability==."},
+{"type":"quote","text":"Reforming the committee system is not an option; it is a democratic imperative. For in the invisible rooms of committee deliberation lies the real defence of our visible democracy."}
+]}
+]}

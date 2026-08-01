@@ -1,0 +1,46 @@
+{
+"num":"18","title":"Emergency","theme":"Federalism & Local Government",
+"lead":"Inspired mainly by the ==Weimar Constitution==, the US and Australia. ==‘In times of crisis, the Constitution dons its armour — but does it risk losing its soul?’== — Justice H. R. Khanna.",
+"sections":[
+{"title":"The Three Emergencies at a Glance","blocks":[
+{"type":"stats","items":[
+{"value":"3","label":"National Emergencies — 1962 (China), 1971 (Pakistan), 1975 (internal disturbance)"},
+{"value":"~100","label":"President's Rule impositions — first in Punjab (1951); frequent in the 1970s–90s"},
+{"value":"0","label":"Financial Emergencies — never proclaimed"}
+]}]},
+{"title":"National Emergency — Art 352","blocks":[
+{"type":"cards","wide":true,"items":[
+{"title":"Grounds, Approval, Duration","bullets":["Grounds: ==external aggression or armed rebellion== (‘internal disturbance’ replaced by ==44th CA, 1978==)","==Union Cabinet must recommend in writing== (44th CA); proclamation valid 6 months","Approval: LS & RS with ==Special Majority II within 30 days==; extension ==indefinitely, 6 months at a time==","Revocation: by President; or ==LS simple majority== — 1/10th of members can requisition a special sitting ==within 14 days==","Can be imposed ==before, during or after== aggression/rebellion"]},
+{"title":"Impact","bullets":["Union executive can ==direct any State== in the emergency area; Parliament legislates on the ==State List==","President can ==alter revenue distribution== to states (orders placed before Parliament)","LS and SLAs extendable ==1 year at a time== (max 6 months after emergency ends)","==Art 19 automatically suspended== only for external aggression (44th CA); ==Arts 20 & 21 can never be suspended== (44th CA)","Makes India ==unitary== — but state legislatures/executives are NOT dissolved"]}
+]},
+{"type":"cards","wide":true,"items":[
+{"title":"Issues & Cases","bullets":["==Concentration of power==; suspension of the federal structure; extension of legislative tenures","[[ADM Jabalpur (1976)]] (Habeas Corpus case): life & liberty suspendable — ==effectively overturned by the 44th CA==","[[Minerva Mills (1980)]]: proclamation is ==subject to judicial review== (on constitutional limits, not adequacy of reasons)"]},
+{"title":"Global Practice & Reform","bullets":["Germany/US: ==judicial or legislative oversight== of declarations; time-bound proclamations with periodic approval","Germany's Basic Law protects ==core rights even in emergency==","Reforms: parliamentary review, robust judicial review, ==clear objective criteria==, transparency and public debate"]}
+]}]},
+{"title":"President's Rule — Art 356","blocks":[
+{"type":"cards","wide":true,"items":[
+{"title":"Grounds, Approval, Duration","bullets":["Ground: ==failure of the state's constitutional machinery== (read with Art 355 duty of the Union)","Governor may recommend — but ==can be imposed without it==","Approval: both Houses, ==simple majority within 60 days==; extension ==up to 3 years==, 6 months at a time","Beyond 1 year only if ==National Emergency is in force== or ==ECI certifies== elections can't be held","==SLA can't be dissolved before Parliament approves== ([[SR Bommai (1994)]])"]},
+{"title":"Impact","bullets":["President may assume ==state executive functions== and Governor's powers","State legislature's powers exercised ==by or under Parliament's authority==","==HC powers cannot be subsumed=="]}
+]},
+{"type":"table","head":["Proper grounds","Improper grounds"],"rows":[
+["==Hung assembly==; corruption/maladministration","Improper Governor action amid ==political instability=="],
+["Acting ==contrary to the Constitution== or Union directives","==Overwhelming defeat in LS elections=="],
+["Failure to meet an extraordinary situation; security concerns","Power used ‘merely for achieving good government’; mere ==‘internal disturbance’=="]
+]},
+{"type":"table","head":["Case","Holding"],"rows":[
+["[[State of Rajasthan v. UoI (1977)]]","President's satisfaction reviewable if ==mala fide or on irrelevant grounds==."],
+["[[S.R. Bommai v. UoI (1994)]]","Art 356 used ==sparingly==; ==floor test== determines majority; proclamations judicially reviewable; no dissolution before parliamentary approval; courts can ==restore dismissed governments==."],
+["[[Rameshwar Prasad (2006)]]","Dissolving a fresh assembly on ==anticipated horse-trading== is unconstitutional."]
+]},
+{"type":"callout","text":"==Sarkaria's way forward==: exhaust all state-level alternatives first; Governor's report as a ==‘speaking document’==; strict parliamentary review; robust judicial oversight; vigilant media and civil society."}
+]},
+{"title":"Financial Emergency — Art 360","blocks":[
+{"type":"bullets","items":[
+"Ground: threat to ==India's financial stability or credit==; President must be satisfied.",
+"Approval: both Houses, ==simple majority within 60 days==; duration ==indefinite==; revoked by President.",
+"Impact: Union can direct states on ==financial propriety== — including ==reducing salaries== of state employees; President can similarly cut Union employees' and ==SC/HC judges'== salaries."
+]}]},
+{"title":"Conclusion","blocks":[
+{"type":"quote","text":"Emergency provisions test the resilience of a democracy — not by how swiftly power is centralised in crisis, but by how quickly it is relinquished once the crisis is over. India's constitutional architects envisioned emergency powers as a necessary evil — to protect the nation, not to dominate its people."}
+]}
+]}

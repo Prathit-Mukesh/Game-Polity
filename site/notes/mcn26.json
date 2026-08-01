@@ -1,0 +1,30 @@
+{
+"num":"26","title":"Models of Federalism","theme":"Federalism & Local Government",
+"lead":"Three modes of Centre–State relations — ==cooperative==, ==competitive== and ==confrontational== — layered over a Constitution with a deliberately ==strong unitary spine==.",
+"sections":[
+{"title":"Cooperative vs Competitive vs Confrontational","blocks":[
+{"type":"table","head":["Aspect","Cooperative","Competitive","Confrontational"],"rows":[
+["Definition","Collaborative Centre–State relationship for ==common goals==.","Centre, states and states inter se ==compete for resources, investment, reforms==.","Adversarial relationship — often from ==central overstepping== into state domains."],
+["Nature","==Horizontal partnership== — joint decisions, shared responsibility.","Vertical AND horizontal ==rivalry for development==.","Vertical — central dominance breeds disputes and resistance."],
+["Basis","Implied: ==Inter-State Council, GST Council, NITI Aayog==.","Decentralisation, fiscal federalism, ==post-liberalisation reforms==.","Disputes over constitutional boundaries, misuse of concurrent powers."],
+["Examples","GST Council · NITI Aayog · COVID-19 response · Ayushman Bharat","==EoDB rankings== · Vibrant Gujarat · state schemes (KALIA, Rythu Bandhu) · FDI races","==Art 370 revocation== · farm laws · Governor's role in TN · ==GST compensation disputes=="],
+["Benefits","Balanced regional development; resource sharing.","==Policy innovation==; efficiency; better services.","Can highlight state rights; judicial clarification of powers."],
+["Challenges","Coordination delays; power imbalance.","Regional inequality; ==‘race to the bottom’==.","Erodes trust; ==constitutional crises==."]
+]}]},
+{"title":"India's Unitary Features","blocks":[
+{"type":"table","head":["Feature","Basis","Example"],"rows":[
+["==Strong Centre==","Arts 245–246, VII Schedule","Defence, foreign relations, currency exclusively Union."],
+["==Residuary powers==","Art 248; Entry 97","Cyber law, digital taxation."],
+["Single Constitution & citizenship","Arts 5–11","Same citizenship rights everywhere."],
+["==Parliament alters state boundaries==","Art 3","Telangana 2014; J&K reorganisation 2019."],
+["Emergency provisions","Arts 352, 356, 360","Parliament legislates on State subjects; state executive taken over."],
+["==Governor as Centre's nominee==","Arts 153–161","Reservation of state bills for the President."],
+["==All India Services==","Art 312","Collectors and SPs belong to AIS."],
+["Parliament on State List","Arts 249, 250, 252, 253","National interest, emergency, consent, treaties."],
+["Concurrent supremacy","Art 254","Criminal law, education, forests, labour."],
+["==Financial dependence==","Arts 268–281, 270–271","CSS funding + guidelines; ==cesses outside the divisible pool==."],
+["Integrated machinery","Arts 324, 148–151","ECI conducts state elections; ==CAG audits states==."],
+["Uniform justice system","BNS/BNSS/BSA","Parliament's criminal codes apply nationwide."],
+["Centre's directions & GST","Arts 256–257, 279A","Union directions to states; GST Council recommends rates."]
+]}]}
+]}

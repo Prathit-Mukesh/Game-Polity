@@ -1,0 +1,43 @@
+{
+"num":"46","title":"Bicameralism & Rajya Sabha","theme":"Parliament",
+"lead":"The ==Council of States== signifies federal bicameralism (Arts 79–80). Envisaged under the ==GoI Act 1919== (Montagu–Chelmsford); the 1935 vision of a continuous second house never materialised — the Constituent Assembly had ==little prior guidance==.",
+"sections":[
+{"title":"Justification & Role","blocks":[
+{"type":"cards","items":[
+{"title":"Why a Second Chamber","bullets":["Check on ==hasty, ill-conceived legislation==","Shares the Lower House's burden","Enables greater ==executive accountability==","Debates wide public issues otherwise unheard","==Guardian of state interests== in a federal polity"]},
+{"title":"Roles","bullets":["==Revision==: Income Tax (Amendment) Bill 1961, POTA 2002, Delimitation Bill 2002","==Federal==: members elected by state MLAs; All India Services (Art 312); Art 249; approving Emergency when LS is dissolved","==Deliberative==: 12 nominated members (literature, science, art, social service); slower composition change","==Continuity==: never dissolves; ==1/3 retire every 2 years==; pending RS bills don't lapse","No role in ==government formation==; effectively small (250 vs 550)","==Accountability==: 8 of 24 DRSCs; ministers from the RS; all restrictive motions available"]}
+]},
+{"type":"stats","items":[
+{"value":"238 + 12","label":"maximum: state/UT representatives (indirectly elected) + presidential nominees"},
+{"value":"245","label":"present sanctioned strength (233 elected)"},
+{"value":"30 yrs","label":"minimum age; elector anywhere in India ([[Kuldip Nayar (2006)]])"}
+]}]},
+{"title":"Issues with the House","blocks":[
+{"type":"bullets","items":[
+"==Disruptions==: 2016 — Finance and Appropriation Bills delayed by protests; 2025 uproar over an Opposition leader's remarks.",
+"==Unequal state representation== — population-based allocation (UP dominates).",
+"==Limited powers==: no no-confidence motions; ==Money Bill route circumvents== the RS.",
+"Thin research staff and time.",
+"==Solutions==: reinstate domicile; more equal state representation; local-body representation (==Punchhi==); free votes via ADL reform; amend ==Art 110== to allow Money Bill review."
+]}]},
+{"title":"RS Elections — Cross-Voting & the Open Ballot","blocks":[
+{"type":"callout","text":"Elections in 10+ states saw ==cross-voting, resort politics, strategic ballot invalidation and inducement allegations== — tension between ==proportional party representation, legislator autonomy and electoral purity==. [[Kuldip Nayar (2006)]] upheld the ==open ballot== and removal of domicile; [[Shailesh Manubhai Parmar (2018)]] struck down ==NOTA== in RS elections."},
+{"type":"cards","wide":true,"items":[
+{"title":"The Problems","bullets":["==Cross-voting persists==: Himachal 2024 (34–34 tie, ==won by lot==); March 2026 (Bihar, Odisha, Haryana objections); Jharkhand June 2026","==Open ballot dilemma==: transparency to the party ≠ transparency to the public; enables ==surveillance and retaliation==","==Tenth Schedule gap==: an RS-election cross-vote is ==not an Assembly proceeding== → no automatic disqualification","==Money power==: small electoral college gives individual MLAs ==disproportionate bargaining power==; resorts, abstentions, delayed probes","==High-command nominations==: financiers, celebrities, coalition currency — little internal democracy","==‘Parachute candidates’== post-domicile-removal dilute the Council-of-States character; frequent ==unopposed returns==; STV complexity → decisive ==invalid ballots==; opaque presidential nominations"]},
+{"title":"Improvements","bullets":["==Preserve PR-STV== — FPTP would let a state's ruling party monopolise seats","==Restricted open ballot==: disclosure only to the party agent; no photography; ECI observers; videographic records; ==expedited review of ballot disputes==","==Democratise nominations==: disclose process, consultation, and the candidate's ==state connection==","==‘State Representation Statement’== instead of a rigid domicile bar","Transparent presidential nominations via a ==non-partisan search committee==","Long-term: ==degressive proportionality== — guaranteed minimum per state, slower growth for the largest","Scrutiny for unopposed returns: affidavits, objections window, public statement of priorities"]}
+]},
+{"type":"quote","text":"Rajya Sabha elections will serve federal democracy only when party nominations become democratic, State representation becomes meaningful and bribery becomes swift, certain and politically costly."}
+]},
+{"title":"RS · House of Lords · US Senate","blocks":[
+{"type":"table","head":["Feature","Rajya Sabha","House of Lords","US Senate"],"rows":[
+["Nature","==Federal upper house== — states + review","Revising & deliberative chamber","Federal, ==co-equal legislature=="],
+["Strength & selection","250 max (245): ==indirect STV by MLAs + 12 nominated==","~800+: life peers, ==92 hereditary==, 26 bishops","==100 (2 per state)==, directly elected (17th Amendment, 1913)"],
+["Representation","Proportional to population","None","==Equal per state=="],
+["Tenure","6 years; 1/3 biennially; permanent house","Life (mostly); permanent","6 years; 1/3 biennially; permanent"],
+["Money bills","Recommendations only; ==14-day return==","Delay ==1 month== only","==Equal powers== on taxation"],
+["Executive accountability","CoM responsible ==only to LS==; no no-confidence","Government accountable to Commons","Strong checks; ==impeachment trials==; confirms judges, ambassadors, Cabinet; ratifies treaties (2/3)"],
+["Special powers","==Art 249==, Art 312, VP removal; judges' removal; President's impeachment","Revision and expert debate (highest court role ==abolished 2009==)","Sole court for impeachment"]
+]},
+{"type":"quote","text":"The Rajya Sabha is not a speed breaker — it is a constitutional conscience: a chamber of second thought where law is refined, not rushed; and diversity is represented, not diluted."}
+]}
+]}

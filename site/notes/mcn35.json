@@ -1,0 +1,32 @@
+{
+"num":"35","title":"Comparative: President","theme":"Comparative Constitutions",
+"lead":"India's President: ==nominal executive==, indirectly elected with ==weighted, proportional voting==. The US President: ==real executive== with a direct popular mandate via the Electoral College.",
+"sections":[
+{"title":"Election Compared","blocks":[
+{"type":"table","head":["Aspect","President of India","President of the US"],"rows":[
+["System","Indirect — ==proportional representation by single transferable vote==, secret ballot.","Indirect via popular vote + Electoral College; ==winner-takes-all== in most states."],
+["Electoral college","Elected MPs + ==elected MLAs of states/UTs with legislatures== (nominated members excluded).","==538 electors== = 435 Representatives + 100 Senators + 3 (DC); ==270 to win==."],
+["Vote value","==Weighted==: MLA = (state population ÷ MLAs) × 1/1000; MP = total MLA value ÷ MPs.","One elector, one vote — no weighting."],
+["Nomination","==50 proposers + 50 seconders== (electors).","Primaries and party conventions."],
+["Disputes","==Supreme Court (Art 71)==.","Congress; SC in extraordinary cases."],
+["Re-election","==No term bar==.","==Two terms max== (22nd Amendment)."],
+["Campaigning","No debates or direct campaigns.","Nationwide campaigns and debates are central."],
+["Basis","==Arts 54–59== + Presidential Elections Act 1952; e.g. ==Droupadi Murmu, 15th President (2022)==.","Article II §1 + 12th & 22nd Amendments; state laws."]
+]},
+{"type":"callout","text":"India's election reflects ==federal balance and proportionality== through weighted legislator voting; the US system prioritises citizen participation — but can ==diverge from the popular vote== due to winner-takes-all."}
+]},
+{"title":"Powers & Position Compared","blocks":[
+{"type":"table","head":["Aspect","President of India","President of the US"],"rows":[
+["Role","==Nominal executive== (parliamentary system) — real power with PM & CoM.","==Real executive== — head of state AND government."],
+["Term","5 years, ==re-electable indefinitely==.","4 years, max 2 terms."],
+["Eligibility","Citizen, 35+, LS-qualified, no office of profit.","==Natural-born citizen==, 35+, 14 years' residence."],
+["Removal","Impeachment (==Art 61==).","Impeachment: House charges + ==Senate trial==."],
+["Executive powers","On ==aid & advice of CoM (Art 74)==; appoints PM, Governors, judges; ceremonial ==Supreme Commander==.","Full executive power; appoints Cabinet/judges (Senate confirmation); ==real Commander-in-Chief==."],
+["Legislative powers","Summons/prorogues, dissolves LS, assent; ==suspensive veto== + unlimited ==pocket veto==; addresses joint sessions.","Signs/vetoes bills; ==pocket veto (10-day rule)==; no line-item veto; State of the Union."],
+["Judicial powers","Pardons etc. under ==Art 72== (incl. death sentences).","Pardons for federal offences (==except impeachment==)."],
+["==Ordinance power==","Art 123 — when Parliament is not in session.","None — only Congress legislates; executive orders reviewable."],
+["Emergency powers","==Arts 352, 356, 360==.","Statutory (National Emergencies Act)."],
+["Discretion","Very limited (e.g. ==hung Parliament==).","Broad — especially foreign policy and military."],
+["Mandate","Indirect, ==no popular mandate== — symbolic figurehead.","==Direct popular mandate==; accountable to people and Congress."]
+]}]}
+]}

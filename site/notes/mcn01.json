@@ -1,0 +1,46 @@
+{
+"num":"01","title":"Govt of India Act, 1935","theme":"Historical Underpinnings",
+"intro":["“The Government of India Act, 1935 was India's constitutional rehearsal without sovereignty.”","“Designed to perpetuate imperial control, the Government of India Act, 1935 instead became the blueprint for India's constitutional democracy.”"],
+"sections":[
+{"title":"Features of the Act","blocks":[
+{"type":"table","head":["Feature","Explanation","Significance"],"rows":[
+["==All-India Federation==","Proposed a Federation of India of British Indian provinces and princely states — to come into being only after sufficient princely states acceded, which never happened.","First formal attempt to give India a ==federal constitutional structure==."],
+["==Three-fold division of powers==","Legislative subjects divided into ==Federal, Provincial and Concurrent Lists==; federal law prevailed on repugnancy in the concurrent field.","Direct ancestor of the ==Union, State and Concurrent Lists== of the Constitution."],
+["Provincial autonomy","Dyarchy abolished in provinces; elected ministries could function in provincial subjects.","Real experience of running governments before independence — especially after the ==1937 provincial elections==."],
+["Dyarchy at the Centre","Provincial dyarchy ended, but dyarchy was introduced at the Centre; ==defence and external affairs== stayed under the Governor-General's direct control.","Showed the Act's contradiction: autonomy below, imperial control above."],
+["Bicameralism","A federal legislature with two chambers was contemplated; some provinces also had bicameral legislatures.","Influenced bicameralism in Parliament and some State legislatures."],
+["==Federal Court==","Original jurisdiction over disputes between the Federation, provinces and federated states; appellate jurisdiction on interpretation of the Act.","Institutional predecessor of the ==Supreme Court of India==."],
+["Public Service Commissions","Provided for a Federal PSC and Provincial PSCs.","Framework influenced ==Articles 315–323== of the Constitution."],
+["Expanded franchise","Electorate expanded from about ==3% to about 14%== of the population.","Widened political participation, though far from universal adult suffrage."],
+["Separate electorates","Continued for Muslims, Sikhs and others; communal representation reflected in provincial legislature composition.","Deepened communal political identities; criticised by nationalists."],
+["Emergency & reserve powers","Governors and the Governor-General retained special responsibilities, discretionary powers and emergency authority.","Responsible government remained heavily controlled by colonial officials."],
+["Ordinance power","The Governor-General could promulgate ordinances when the legislature was not in session.","Colonial antecedent of ==ordinance-making power== in independent India."],
+["Reserve Bank of India context","==RBI began operations on 1 April 1935== under the RBI Act, 1934; the framework recognised modern financial governance needs.","Strengthened centralised monetary and fiscal administration."]
+]}]},
+{"title":"Colonial Act, 1935 vs Constitution, 1950","blocks":[
+{"type":"table","head":["Colonial Act, 1935","Constitution of India, 1950"],"rows":[
+["Sovereignty vested in the ==British Crown==.","Sovereignty vested in ==“We, the People of India”==."],
+["Limited franchise.","==Universal adult suffrage==."],
+["Communal electorates.","Common electoral roll, with affirmative representation through reservations."],
+["Governor-General/Governors had real discretionary colonial power.","President/Governors are generally constitutional heads."],
+["No justiciable Fundamental Rights.","==Fundamental Rights enforceable by courts==."],
+["Federation subject to princely accession and imperial control.","Union of India based on constitutional integration."],
+["Police-state orientation.","==Welfare-state orientation== through Fundamental Rights and Directive Principles."]
+]},
+{"type":"callout","text":"The Constitution did not simply “copy” the 1935 Act — it ==democratised, nationalised and moralised== it."}
+]},
+{"title":"Impact on India's Federal Structure","blocks":[
+{"type":"steps","items":[
+"Introduction to ==federal constitutional language==",
+"Three lists became the foundation of Indian legislative federalism",
+"==Strong Centre bias== was inherited and strengthened",
+"Provincial autonomy was the seed of State governments",
+"The Federal Court became the model for a ==federal constitutional umpire==",
+"Emergency centralisation entered Indian federal imagination",
+"Asymmetrical and negotiated federalism",
+"==Federalism without democracy was rejected=="
+]}]},
+{"title":"Conclusion","blocks":[
+{"type":"quote","text":"The Government of India Act, 1935 gave India the grammar of constitutional government, but not the soul of constitutional democracy."}
+]}
+]}

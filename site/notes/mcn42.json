@@ -1,0 +1,56 @@
+{
+"num":"42","title":"Anti-Defection Law","theme":"Parliament",
+"lead":"Inserted as the ==Tenth Schedule via the 52nd CA, 1985==; recalibrated by the ==91st CA, 2003==. ==CJI B.R. Gavai==: the SC, as guardian of the Constitution, is not powerless if a Speaker sits on anti-defection pleas.",
+"sections":[
+{"title":"Grounds & Exemptions","blocks":[
+{"type":"cards","wide":true,"items":[
+{"title":"Ground 1 — Voluntarily Giving Up Membership","bullets":["==Wide meaning, not defined==","[[Ravi Naik v. UoI (1994)]]: ==conduct is enough== — formal resignation unnecessary","==Halim Committee (1994)==: ‘political party’ and ‘voluntarily giving up’ should be properly defined"]},
+{"title":"Ground 2 — Voting Contrary to Party Direction","bullets":["==Includes abstentions==","Forced obedience compromises free speech — but [[Kihoto Hollohan (1992)]]: a ==qualified freedom==, not in conflict with Art 19 or Arts 105/194","==170th Law Commission==: limit whips to ==confidence votes, money bills, motion of thanks=="]},
+{"title":"Exemption — Merger (91st CA, 2003)","bullets":["==2/3rds merger== allowed; leftover can function as a distinct unit","Based on ==numbers, not the reason== behind defection","ECI: ==pre-poll alliances== should also count as a political unit"]}
+]}]},
+{"title":"The Deciding Authority — the Speaker Problem","blocks":[
+{"type":"table","head":["Case / body","Position"],"rows":[
+["[[Kihoto Hollohan (1992)]]","Speaker's decision ==subject to judicial review== (post-decision); courts stay out of procedure."],
+["[[Rajendra Singh Rana v. Swami Prasad Maurya (2007)]]","Review lies when the Speaker ==fails to act==, accepts splits/mergers without findings, or ignores the Tenth Schedule — ignoring a petition ==violates constitutional duty==. Speaker has ==no independent power== to recognise a split or merger."],
+["[[Keisham Meghachandra Singh (2020)]]","Suggested a ==3-month timeframe==; recommended an ==independent tribunal== headed by a retired SC judge via constitutional amendment."],
+["==Dinesh Goswami Committee (1990)== & ECI","President/Governor should decide ==on binding ECI advice==."],
+["[[Subhash Desai (2023)]]","A mere ==‘split’ is no longer a defence==; the ==organisational party > legislative party== in dictating leadership."],
+["[[Padi Kaushik Reddy v. Telangana (2025)]]","Speaker ==cannot indefinitely sit== on anti-defection petitions."]
+]},
+{"type":"callout","text":"==Outcome weakness==: disqualification carries no further penalty — not deterrent enough. Halim Committee: expelled members should be ==barred from consequential offices== and from joining other parties."}
+]},
+{"title":"Impact","blocks":[
+{"type":"cards","items":[
+{"title":"On Legislators","bullets":["Undermines ==independent judgement== (public interest + constituency + party)","Deters MPs from ==holding the government accountable==","May debate and dissent — but must ==vote per the whip=="]},
+{"title":"On Parliament","bullets":["Decisions taken by ==a few party leaders==, not the House","Whips issued on almost everything — ==whoever controls the party controls all votes==","Winning a motion needs only ==consultation with party leaders=="]},
+{"title":"On Voters","bullets":["==Breaks the chain of accountability== between representative and voter","MPs absolve themselves: ==‘the whip compelled me’=="]}
+]},
+{"type":"callout","text":"==Global rarity==: only six countries mandate voting per party diktat (India, Pakistan, Bangladesh, Guyana, Sierra Leone, Zimbabwe). ==US==: internal party sanctions only — [[Bond v. Floyd (1966)]]: legislators are ==obliged to take stands==. ==UK==: internal party rules, no law."}
+]},
+{"title":"The Case File","blocks":[
+{"type":"table","head":["Episode","What happened"],"rows":[
+["Arunachal Pradesh (2018)","==43 Congress MLAs== led by CM Pema Khandu defected to PPA, then BJP."],
+["Karnataka (2019)","Mass resignations → government collapse."],
+["Manipur (2020)","SC upheld disqualification of nine MLAs."],
+["Rajasthan (2021)","Sachin Pilot camp challenged the law in the HC."],
+["Maharashtra (2022)","==Shinde faction (30+ MLAs)== split the MVA — claimed to be the ‘real’ party."],
+["Telangana (2024–25)","==10 BRS MLAs== crossed to Congress — Speaker delays in proceedings."],
+["AAP Rajya Sabha (2026)","==7 of 10 RS MPs== defected en masse, merging with BJP — organisational vs legislative party."],
+["Tamil Nadu (2026)","==25 AIADMK rebels== voted against the whip in a confidence vote."]
+]}]},
+{"title":"Should the ADL Apply to the Rajya Sabha?","blocks":[
+{"type":"cards","wide":true,"items":[
+{"title":"For Continuing It","bullets":["Party mandate extends to both Houses — RS MPs elected ==by MLAs on party lines==","==Legislative stability== — crucial Bills need RS approval","Prevents ==horse-trading== on amendments, impeachments, committees","Preserves responsible party government (cabinet, collective responsibility, manifesto)","Nominated members' ==6-month rule== shows Parliament intended the regime to reach the RS"]},
+{"title":"Against Applying It","bullets":["RS is a ==deliberative chamber== — scrutiny, revision, expert debate; whips make voting mechanical","==Government survival is not at stake== — the original evil can't occur in the RS","Weakens ==federalism== — members represent States, not national party positions","==Defeats bicameralism== — no genuine second thought","Curtails free speech (Art 105); wastes the ==expertise of nominated members=="]}
+]},
+{"type":"callout","text":"ADL does ==NOT apply during RS elections== by MLAs (not proceedings of the Assembly) — parties may discipline, but no Tenth Schedule disqualification. Once elected, RS MPs are ==fully governed== by it."},
+{"type":"steps","items":[
+"Retain disqualification for ==voluntarily giving up membership==",
+"Restrict binding whips to ==confidence matters, Money Bills, core constitutional amendments==",
+"Permit ==free voting on ordinary legislation== in the RS",
+"==Statutory time limit== for the Chair/Speaker to decide petitions",
+"Strengthen ==inner-party democracy=="
+]},
+{"type":"quote","text":"The anti-defection law was meant to protect the mandate, not imprison the conscience of representatives. A Parliament that only counts numbers cannot become a House of wisdom."}
+]}
+]}

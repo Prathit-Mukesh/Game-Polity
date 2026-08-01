@@ -1,0 +1,43 @@
+{
+"num":"72","title":"Public Interest Litigation","theme":"Access to Justice",
+"lead":"==‘PIL is a constitutional instrument to make justice accessible and governance accountable’ — Justice P.N. Bhagwati, S.P. Gupta (1982).== PIL was first used by the SC in [[Fertilizer Corp. Kamgar Union v. UoI]].",
+"sections":[
+{"title":"Features of PIL","blocks":[
+{"type":"table","head":["Feature","Details"],"rows":[
+["==Liberalisation of locus standi==","Anyone can file for others' rights — [[S.P. Gupta v. UoI (1982)]]."],
+["==Epistolary jurisdiction==","Letters or postcards treated as writ petitions ([[Sunil Batra]], [[Bandhua Mukti Morcha]]) — but the SC in ==[[Balwant Singh (2010)]]== restricted it to specific categories: bonded labour, children, environment, tribe & caste issues, women, police brutality."],
+["==Non-adversarial nature==","Cooperative rather than combative — seeks ==social justice, not personal victory== ([[PUDR v. UoI, 1982]])."],
+["Appointment of commissions","Courts may appoint ==expert commissions for fact-finding== ([[Sheela Barse v. State of MH]])."],
+["==Judicial creativity==","New rights read into existing FRs — ==right to livelihood under Art 21== ([[Olga Tellis, 1985]])."],
+["Flexibility in procedure","No rigid format — letters, telegrams, even emails accepted."],
+["==Focus on group rights==","From individual grievances to ==community and environmental justice==."]
+]}]},
+{"title":"Advantages vs Misuse","blocks":[
+{"type":"table","head":["Advantages","Disadvantages / Misuse"],"rows":[
+["==Access to justice for marginalised sections==","==Frivolous PILs== for publicity or political motives ([[Subhash Kumar v. State of Bihar, 1991]])"],
+["Strengthens rule of law and participatory democracy","==Judicial overreach== into the policy domain ([[SCBA v. UoI, 1998]])"],
+["==Fills legislative or executive vacuum== (Vishaka Guidelines)","==Resource and time drain== — delays genuine cases"],
+["Encourages transparency, good governance, accountability","Used as a tool for ==blackmail or settling personal scores== ([[Ashok Kumar Pandey v. State of WB, 2004]])"],
+["Promotes social change — women's rights, environment, education","==Middle-class capture== — shifting focus from the poor to civic and lifestyle issues"]
+]}]},
+{"title":"Impact of PILs","blocks":[
+{"type":"cards","items":[
+{"title":"On Democracy","bullets":["Strengthened judicial accountability and ==citizen participation in governance==","[[Vineet Narain v. UoI (1997)]] — led to ==CBI autonomy==","[[Common Cause v. UoI (2018)]] — transparency in governance and resource allocation"]},
+{"title":"On Rights","bullets":["==Expanded Art 21==: education — [[Unnikrishnan v. State of AP (1993)]]","Clean environment — [[M.C. Mehta v. UoI (1986)]]","==Privacy== — [[Puttaswamy (2017)]]","Shelter, food, health — [[PUCL v. UoI (Right to Food, 2001)]]"]},
+{"title":"On the Power of Courts","bullets":["Judiciary as ==policy enforcer and guardian of governance ethics==","==Judicial review of administrative inaction== (Vineet Narain)","Created ==green benches, vigilance commissions==, and guidelines absent legislation (Vishaka, 1997)"]}
+]},
+{"type":"callout","text":"==Prof. Upendra Baxi's distinction==: US PIL represents ==‘interests without groups’== (like consumerism); Indian ==Social Action Litigation (SAL)== represents ==‘interests within groups’== — focused on marginalised classes."}
+]},
+{"title":"Way Forward","blocks":[
+{"type":"steps","items":[
+"==Ensure bona fide intent== — genuine public causes, not private interest",
+"==Focus on implementation== — monitor compliance via committees or ==amicus curiae==",
+"==Encourage institutional remedies== — use PILs to strengthen NHRC, NGT etc.",
+"==Develop community litigation== — legal literacy and paralegal training",
+"==Follow SC guidelines== — the 1988 and 2010 circulars on eligible categories",
+"==Digital PILs== — the SC's post-2021 e-Filing and PIL Portal",
+"==Collaborations== between civil society, media and judiciary for sustainable follow-up"
+]},
+{"type":"quote","text":"Public Interest Litigation has been India's moral revolution in law, transforming the judiciary from a passive arbiter to an active guardian of rights. Yet its legitimacy rests on judicial restraint, procedural discipline and civic sincerity."}
+]}
+]}

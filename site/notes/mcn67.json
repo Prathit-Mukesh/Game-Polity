@@ -1,0 +1,28 @@
+{
+"num":"67","title":"Commercial Courts","theme":"ADR, Tribunals & Tech",
+"lead":"Before 2015, commercial disputes went to regular civil courts with all their backlogs. The ==Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015== built specialised judicial infrastructure — ==institutionalising speed, specialisation and structure==.",
+"sections":[
+{"title":"Objectives & Structure","blocks":[
+{"type":"cards","wide":true,"items":[
+{"title":"Objectives","bullets":["==Speedy disposal== of high-value commercial disputes","Improve ==ease of doing business== by strengthening ==contract enforcement==","Create ==specialised judicial infrastructure== for commercial matters"]},
+{"title":"Institutional Tiers","bullets":["==District level — Commercial Courts==: for areas where High Courts have ==ordinary original civil jurisdiction (OOCJ)== — Delhi, Bombay, Madras, Calcutta","==High Court level — Commercial Division==: bench for cases above the specified value","==Commercial Appellate Division==: hears appeals from both Commercial Courts and Commercial Divisions"]}
+]}]},
+{"title":"Scope & Definitions","blocks":[
+{"type":"bullets","items":[
+"==Commercial disputes (s.2(1)(c))==: ordinary transactions of merchants, bankers, financiers and traders; partnership agreements; ==intellectual property (trademarks, patents, copyrights)==; insurance, construction contracts, joint ventures; sale of goods; immovable property ==used exclusively in trade or commerce==.",
+"==Specified value==: initially ==₹1 crore (s.2(1)(i))==; reduced by the ==2018 Amendment to ₹3 lakh== to widen access.",
+"The ==2018 Amendment== also empowered State Governments to constitute Commercial Courts ==at district judge level== in OOCJ areas."
+]}]},
+{"title":"Timelines, Procedure & Features","blocks":[
+{"type":"cards","wide":true,"items":[
+{"title":"Timelines","bullets":["==Written statement within 120 days== of service — else ==forfeiture of the right to defend== (s.16)","==Case Management Hearings (s.15A)== — judges schedule filings, framing of issues, evidence","==Judgment within 90 days== of conclusion of arguments","==Appeals: filed within 60 days, disposed within 6 months=="]},
+{"title":"Features","bullets":["==Specialised judges== with commercial-dispute experience","==Mandatory e-filing== of documents and affidavits; digital case management","==Costs regime== — actual costs awarded to discourage frivolous litigation","==Summary judgments (s.16)== where no real triable issue exists"]}
+]}]},
+{"title":"Issues & Way Forward","blocks":[
+{"type":"cards","wide":true,"items":[
+{"title":"Issues","bullets":["==Infrastructure gaps==","==Capacity constraints==","==Compliance with timelines==","==Limited awareness==","==Appeal backlog=="]},
+{"title":"Way Forward","bullets":["==Capacity building== — specialised training for judges and staff","==Expansion== — commercial courts in every district","==Digital integration== — e-filing, virtual hearings, case tracking","==ADR strengthening== — institutionalise pre-litigation mediation through private centres","==Periodic review== — regular audits of disposal efficiency"]}
+]},
+{"type":"quote","text":"By institutionalizing speed, specialization and structure, the Commercial Courts Act bridges the gap between legal certainty and economic growth."}
+]}
+]}

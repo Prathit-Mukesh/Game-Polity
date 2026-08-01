@@ -1,0 +1,41 @@
+{
+"num":"05","title":"Basic Structure: Timeline","theme":"Amendments & Basic Structure",
+"lead":"The tug-of-war between Parliament and the Supreme Court — land reforms, nationalisation and privy purses on one side; Fundamental Rights and judicial review on the other.",
+"sections":[
+{"title":"The Early Battles (1948–1965) — PM Nehru, Shastri","blocks":[
+{"type":"table","head":["Milestone","What it did"],"rows":[
+["1948 · Madras caste-based reservations","Madras introduced caste-based reservations in education; early 1950s: Bihar, UP, MP pass ==agrarian land reform laws== restricting ownership."],
+["[[State of Madras v. Champakam Dorairajan (1951)]]","Madras 1948 law struck down — ==FR > DPSP==."],
+["==1st CA, 1951==","==Art 15(4)==: provisions for SEBC/SC/ST advancement (nullified Champakam) · ==Art 19(2)==: added public order, foreign relations, incitement grounds (countering [[Romesh Thappar (1950)]]) · ==Art 19(6)(ii)==: State trade monopolies · ==Art 31A==: property acquisition immune from Art 14, 19, 31 · ==Art 31B==: inserted the ==IX Schedule== — listed laws immune from FR challenge."],
+["[[Shankari Prasad v. UoI (1951)]]","Constitutional amendments are ==not 'law' under Art 13(2)==. Two law-making powers: ==constituent== (Art 368) and ==ordinary== (Sch VII). Parliament has unlimited constituent power."],
+["17th CA, 1964","Added ==44 laws== to the IX Schedule."],
+["[[Sajjan Singh v. State of RJ (1965)]]","Reaffirmed CA is not law under Art 13(2) (contention: 17th CA cut HC powers and needed state ratification)."]
+]}]},
+{"title":"Golak Nath to Kesavananda (1967–1973) — PM I. Gandhi","blocks":[
+{"type":"table","head":["Milestone","What it did"],"rows":[
+["[[Golak Nath v. State of PB (1967)]]","FRs have a ==‘transcendental’ position==; CAs ==are 'law'== under Art 13(2) (overruled Shankari Prasad, Sajjan Singh); Parliament cannot amend Part III from now on (==doctrine of prospective overruling==)."],
+["[[RC Cooper v. UoI (1970)]]","Struck down ==bank nationalisation== — inadequate compensation, violation of property rights under Art 31."],
+["[[Madhavrao Scindia v. UoI (1971)]]","Struck down abolition of ==privy purses== (assured under Art 291, 362)."],
+["==24th CA, 1971==","==Art 13(4)== + ==Art 368(3)==: Art 13 won't apply to CAs (negatived Golak Nath) · Art 368(1): Parliament has constituent power to amend ==any provision== · Art 368(2): President ==must assent== to CA Bills."],
+["25th CA, 1971","Art 31: inadequate compensation can't be challenged · ==Art 31C==: laws implementing ==Art 39(b)(c) > Art 14, 19, 31== and can't be challenged."],
+["26th & 29th CA, 1971","26th: removed Art 291, 362; inserted Art 363A ==abolishing privy purses== · 29th: Kerala land reform Acts added to IX Schedule."],
+["[[Kesavananda Bharati v. State of Kerala (1973)]]","CA is not 'law' under Art 13 (upheld 24th CA, overruled Golak Nath) — but Parliament can amend anything ==subject to the Basic Structure== · Art 31C upheld partially: 39(b)(c) primacy stands ==BUT judicially reviewable==."]
+]}]},
+{"title":"Emergency & Aftermath (1975–1980) — PM I. Gandhi, M. Desai","blocks":[
+{"type":"table","head":["Milestone","What it did"],"rows":[
+["39th CA, 1975","President, VP, PM and LS Speaker elections made ==not judicially reviewable==."],
+["[[Indira Gandhi v. Raj Narain (1975)]]","Struck down the 39th CA — ==judicial review and free & fair elections are basic structure==. ==First application== of the doctrine."],
+["==42nd CA, 1976== (the ‘mini-Constitution’)","Preamble: added ==‘socialist’, ‘secular’, integrity== · Art 31C: ==all DPSPs > Art 14, 19, 31== · curbs on Art 32, 131, 226 (undone by 43rd CA, 1977) · ==Art 368(4)==: CAs unchallengeable in court · ==Art 368(5)==: no limit on constituent power — nullifying Kesavananda; changed 54 provisions."],
+["==44th CA, 1978==","Removed ==property as an FR== (Art 19(1)(f), Art 31); inserted ==Art 300A== (constitutional/legal right for all persons); Art 31A–C retained; Art 31C: all DPSP > 14, 19."],
+["[[Minerva Mills v. UoI (1980)]]","Struck down ==Art 368(4) and 368(5)== · Art 31C restored to pre-42nd position — 39(b)(c) > 14, 19 with judicial review · ==FRs and DPSPs must be read harmoniously==."]
+]}]},
+{"title":"Consolidation (1981–2024)","blocks":[
+{"type":"table","head":["Milestone","What it did"],"rows":[
+["[[Waman Rao v. UoI (1981)]]","IX Schedule laws added ==after Kesavananda (24 April 1973)== can be challenged on basic structure; laws added before cannot (prospective overruling)."],
+["[[I.R. Coelho v. State of TN (2007)]]","Post-Kesavananda IX Schedule laws can be challenged on basic structure ==and on Arts 14, 15, 19, 21 specifically== (essential features)."],
+["[[Madras Bar Association v. UoI (2015)]]","Not just CAs — ==ordinary laws== also can't violate the basic structure."],
+["[[SC AoR Assn. v. UoI (2015)]] (4th Judges Case)","==99th CA (NJAC) struck down== — independence of the judiciary is basic structure."],
+["[[Anjum Qadri v. UoI (2024)]] (UP Madrassa)","Must be ==specifically shown== how an ordinary law violates the basic structure."],
+["[[Property Owners Association v. State of MH (2024)]]","Art 31C's position per Minerva Mills and Kesavananda ==remains valid== · not all property is ==‘material resources’ under Art 39(b)== — limits government acquisition."]
+]}]}
+]}

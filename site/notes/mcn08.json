@@ -1,0 +1,36 @@
+{
+"num":"08","title":"Preamble","theme":"Preamble & Fundamental Rights",
+"lead":"==‘Identity Card’ (N. Palkhivala)==, ==‘Political Horoscope’ (K. M. Munshi)==. First to be moved in the Constituent Assembly as the Objectives Resolution, last to be added to the final draft — the Preamble witnessed evolution even before it was born.",
+"intro":["Though it has no independent legal status of its own, the Preamble has been used to derive constitutional intent in seminal cases — Property Owners, Electoral Bonds, EWS Reservation, Sabarimala, Privacy."],
+"sections":[
+{"title":"State-Centric Terms","blocks":[
+{"type":"cards","items":[
+{"title":"Sovereign","kicker":"Non-interference · national interest","bullets":["==Op. Sindoor==, surgical strikes, Galwan Valley, development of nuclear power, Rohingya resettlement","India's position on ==Russia–Ukraine== and ==Israel–Palestine==","==Doctrine of Parens Patriae== — State as parent","Parliament can make ==extra-territorially applicable laws== (Art 245/246)"]},
+{"title":"Socialist","kicker":"State-led → participative","bullets":["FYPs, Planning Commission → ==NITI Aayog==","IPR 1950s → nationalisation → ==LPG reforms==","FDI, PLI, MGNREGA, Lakhpati Didi, food security, housing, RTE, PM-JAY, ONDC","==Regulatory governance==, CSR"]},
+{"title":"Secular","kicker":"Liberty · equality · neutrality","bullets":["==Essential Practices Doctrine==","Triple talaq, Waqf, ==Sabarimala==, conversions, management of temples/shrines","Government funding for major religious events"]},
+{"title":"Democratic","kicker":"Representation & responsible govt","bullets":["MCC, voter inclusivity, ==ONOE==, ==Electoral Bonds==, RTI","==Local self-government=="]},
+{"title":"Republic","kicker":"Elected head of state","bullets":["President constitutionally bound by ==CoM advice (Art 75)==","==Governor's veto powers== timelines"]}
+]}]},
+{"title":"Citizen-Centric Terms","blocks":[
+{"type":"cards","items":[
+{"title":"Justice","kicker":"Root causes of inequality","bullets":["==Social== — affirmative action, reservation in education & employment, SC/ST atrocities","==Economic== — DPSPs, subsidies, interest subvention","==Political== — legislative reservation for women, SC, ST"]},
+{"title":"Liberty","kicker":"Self-development, minimal restraint","bullets":["Expansion of ==Art 19 and Art 21==","Protecting ==inter-faith marriages=="]},
+{"title":"Equality","kicker":"Non-discriminatory & distributive","bullets":["==EBL + EPL== (equality before law + equal protection of laws)","==Equal pay for equal work=="]},
+{"title":"Fraternity","kicker":"Collective belonging","bullets":["Untouchability, ==human exploitation=="]},
+{"title":"Individual Dignity","bullets":["Strict ==anti-lynching provisions== in the new BNS","Protection of ==LGBTQ+ rights=="]}
+]}]},
+{"title":"Status of the Preamble","blocks":[
+{"type":"table","head":["Case","Part of the Constitution?","Source of power?"],"rows":[
+["[[Re: Berubari Union (1960)]]","✗ — not part of the Constitution","✗"],
+["[[Kesavananda Bharati (1973)]]","✓ — ==integral part== of the Constitution","✗"]
+]},
+{"type":"callout","text":"The Basic Structure case ==sourced most ingredients of the doctrine from the Preamble's objectives== — the Preamble can be amended, but not in a manner that violates those objectives (basic structure)."}
+]},
+{"title":"Utility — the ‘Key to the Makers' Minds’","blocks":[
+{"type":"quote","text":"The Preamble is the key to open the mind of the makers of this beautiful Constitution.","by":"Justice Gajendragadkar, Re: Berubari Union"},
+{"type":"cards","items":[
+{"title":"Constitutional Interpretation","bullets":["[[Property Owners Assn v. State of MH (2024)]] — not all privately owned property is a ==‘material resource of the community’==."]},
+{"title":"Statutory Interpretation","bullets":["[[ADR v. UoI (2024)]] — ==Electoral Bonds== struck down; democracy as the touchstone."]},
+{"title":"International Ratification","bullets":["[[Vishaka v. State of RJ (1997)]] — ==CEDAW== used to frame workplace harassment guidelines."]}
+]}]}
+]}

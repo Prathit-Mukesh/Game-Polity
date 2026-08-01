@@ -1,0 +1,57 @@
+{
+"num":"41","title":"Role of a Parliamentarian","theme":"Parliament",
+"intro":["“Parliament is not a rubber stamp for the executive; it is a mirror of the people's will, and the Member of Parliament is its most vital reflecting surface.”"],
+"sections":[
+{"title":"The Seven Roles","blocks":[
+{"type":"cards","items":[
+{"title":"Legislative","kicker":"Role 1","bullets":["Introducing, debating, voting on Bills — Government and ==Private Member's Bills==","Scrutinising ==delegated legislation==","Select/Joint Committees: clause-by-clause examination"]},
+{"title":"Representative","kicker":"Role 2","bullets":["Voices constituency, regional and social-group concerns in the national forum","Link between ==citizens and the state== — grievances, scheme access"]},
+{"title":"Deliberative","kicker":"Role 3","bullets":["Debates policy, budgets, public importance — ==Zero Hour==, Short Duration Discussions, Calling Attention Motions","==‘Safety valve’== for public opinion and dissent"]},
+{"title":"Oversight / Accountability","kicker":"Role 4","bullets":["==Question Hour==, No-Confidence & Adjournment Motions","Committee scrutiny: ==DRSCs, PAC, Estimates, PUC==; CAG reports via PAC"]},
+{"title":"Financial Control","kicker":"Role 5","bullets":["Approves Budget, Demands for Grants, Money Bills — ==‘power of the purse’==","Ancestry: Commons' ==‘no taxation without representation’=="]},
+{"title":"Constituency Development","kicker":"Role 6","bullets":["==MPLADS — ₹5 crore p.a. per MP== for local infrastructure","Grievance redressal via ministries; privilege to raise local issues"]},
+{"title":"Quasi-Judicial / Disciplinary","kicker":"Role 7","bullets":["Impeachment of judges/President; privilege matters","Disqualification under the ==Tenth Schedule=="]}
+]}]},
+{"title":"Data Snapshot — 18th Lok Sabha","blocks":[
+{"type":"stats","items":[
+{"value":"52%","label":"of newly-elected MPs are first-timers"},
+{"value":"56 yrs","label":"average age of MPs"},
+{"value":"74 (14%)","label":"women MPs"},
+{"value":"78%","label":"have at least undergraduate education"},
+{"value":"31% / 29%","label":"MPs / MLAs with serious criminal charges declared"},
+{"value":"~16%","label":"Bills referred to DRSCs in 17th LS (was 60–70% in 14th–15th)"},
+{"value":"~49%","label":"average DRSC meeting attendance (2009–14)"},
+{"value":"~80%","label":"PAC recommendations accepted by government"}
+]},
+{"type":"callout","text":"Most common professions among MPs: ==agriculture and social work==."}
+]},
+{"title":"Issues in Fulfilling the Role (A–H)","blocks":[
+{"type":"cards","wide":true,"items":[
+{"title":"A · Declining Productivity & Scrutiny","bullets":["Sitting days: ==~127/yr in the 1950s → under 60–70== now","Committee referral collapsed: ==~16% in 17th LS vs 60%+ earlier==","Rushed passage: the three ==farm laws (2020, repealed)== — minimal debate, no committee reference"]},
+{"title":"B · Disruptions & Lost Time","bullets":["Disruption as routine opposition tool; sessions at ==<50% of scheduled time==","2016: RS couldn't take up Finance & Appropriation Bills amid protests","==Question Hour washouts== erode oversight itself"]},
+{"title":"C · Anti-Defection & the Whip","bullets":["==Tenth Schedule (52nd CA, 1985)==: MPs vote per party diktat — legislators become party instruments","Undermines executive accountability, deliberation, and MP–voter accountability (‘blame the whip’)","Engineering persists: ==Karnataka 2019, Maharashtra 2022, TN AIADMK 2026, Telangana BRS→INC 2024–25=="]},
+{"title":"D · Weak Committee System","bullets":["DRSC attendance ~49–50%; ==one-year tenure== blocks expertise","PAC recommendations non-binding (though ~80% accepted)","Thin research staff vs the US Congress"]},
+{"title":"E · Criminalisation of Politics","bullets":["==ADR (2019 LS): ~43% of MPs with criminal cases, ~29% serious==","Erodes deliberative quality and public trust"]},
+{"title":"F · Office of Profit","bullets":["Ambiguity in ==Arts 102(1)(a), 191(1)(a)==","==20 Delhi MLAs disqualified (2018)== — Parliamentary Secretary posts"]},
+{"title":"G · Constituency Overload","bullets":["Electoral incentives reward visible ==MPLADS delivery== over legislative scrutiny","Structural tension: representative vs deliberative functions"]},
+{"title":"H · Privileges: Ambiguity & Misuse","bullets":["Privileges uncodified → uncertainty","[[Sita Soren v. UoI (2024)]] overturned [[P.V. Narasimha Rao (1998)]]: ==no immunity from bribery prosecution== for a vote/speech"]}
+]}]},
+{"title":"Global Comparison","blocks":[
+{"type":"table","head":["Country","Practice","Relevance for India"],"rows":[
+["United Kingdom","MPs may break a ==three-line whip on conscience issues==; cross-party select committees, often opposition-chaired","Calibrated whip: confidence votes vs ordinary legislation"],
+["United States","==Permanent committees with large expert staff==; deep specialisation from long tenures","Longer DRSC tenures + dedicated research staff"],
+["Australia","==‘Conscience votes’== officially recognised on moral/ethical issues","Template for limited free votes"],
+["Germany","Bundestag ==‘rapporteurs’== track bills through passage","MP specialisation & continuity"],
+["New Zealand","Codified select-committee rules; ==mandatory public bill referrals==","Mandatory committee-referral norms"],
+["Canada","==Deputy Speaker roles rotate across parties==","More consensual committee chairpersonship"]
+]}]},
+{"title":"Reforms — Four Buckets","blocks":[
+{"type":"cards","items":[
+{"title":"Structural","bullets":["==Mandatory committee referral== of non-urgent Bills (UK)","Extend DRSC tenure beyond one year (US)","Codify privileges — ==Privileges Committee, LS (2008)=="]},
+{"title":"Behavioural / Political","bullets":["Confine whips to confidence/money matters — ==170th Law Commission (1999); NCRWC (2002)==","Intra-party democracy — ==II ARC (2007)==","Time-bound anti-defection adjudication — [[Keisham Meghachandra Singh v. Speaker (2020)]]"]},
+{"title":"Institutional Capacity","bullets":["Expert committee staff — ==US Congressional Research Service== model","Public ==MP performance dashboards== (spirit of PRS MP Track)","Research support per MP — UK ==House of Commons Library=="]},
+{"title":"Electoral / Accountability","bullets":["Reward deliberative performance, not just MPLADS visibility","==Fast-track criminal cases== against sitting legislators (SC directions)"]}
+]},
+{"type":"quote","text":"The parliamentarian is simultaneously a legislator, a representative, a watchdog, and a constituency servant — a role demanding both national vision and local responsiveness."}
+]}
+]}

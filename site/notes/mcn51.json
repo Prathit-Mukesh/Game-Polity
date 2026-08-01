@@ -1,0 +1,38 @@
+{
+"num":"51","title":"Pardons","theme":"Union Executive",
+"lead":"The power to pardon under ==Arts 72 and 161== is one of the Republic's most potent symbols of humanism — where justice is not merely cold and legalistic but tempered with compassion. It embodies a paradox: it allows an ==unelected figurehead to override solemn judicial verdicts==.",
+"sections":[
+{"title":"Rationale & Issues","blocks":[
+{"type":"cards","wide":true,"items":[
+{"title":"Rationale","bullets":["==Correcting judicial errors==","A ==justice-enhancing and justice-neutral== measure","Policy and compassion","==Democratic accountability==","Mercy as a ==sovereign function==","Moral authority; historical precedent"]},
+{"title":"Issues","bullets":["==Lack of transparency==","==Political influence==","==Delay in disposal==","Separation-of-powers friction","==No review mechanism==","Limits of judicial review"]}
+]}]},
+{"title":"Judgments","blocks":[
+{"type":"table","head":["Case","Holding"],"rows":[
+["[[Mohinder Singh v. Punjab (1977)]]","Pardon power ==cannot override due process==; must be reasoned."],
+["[[Maru Ram v. UoI (1981)]]","==Not personal discretion== — President/Governor must act on ==CoM advice==."],
+["[[Kehar Singh v. UoI (1989)]]","Power is broad, includes ==revisiting the merits==; not judicial in nature but subject to ==limited review==."],
+["[[Satpal v. State of Haryana (2000)]]","Must consider ==post-conviction behaviour==; its absence can invalidate the pardon."],
+["[[Shatrughan Chauhan v. UoI (2014)]]","==Undue delay== in deciding mercy petitions can ground ==commutation of a death sentence==."]
+]}]},
+{"title":"International Practice","blocks":[
+{"type":"table","head":["Country","Framework"],"rows":[
+["==USA==","Art II, Sec 2 — pardons except in impeachment; limited judicial review ([[Hoffa v. Saxbe]])."],
+["==UK==","Mercy by the Crown on the ==Home Secretary's advice==; review limited ([[R v. Secretary of State, ex parte Bentley]])."],
+["Pakistan","Art 45 — ==unfettered== presidential power; not subject to judicial review."],
+["Bangladesh","Art 49 — vests in the President, exercised only on ==PM's advice==."]
+]}]},
+{"title":"Solutions","blocks":[
+{"type":"steps","items":[
+"==Judicial review with self-restraint==",
+"==Guidelines and transparency== in decision-making",
+"Executive self-restraint",
+"==Timely decisions== on mercy petitions",
+"Public accountability",
+"An ==independent Clemency Board==",
+"Legislative oversight",
+"Constitutional amendment where needed"
+]},
+{"type":"quote","text":"The challenge lies not in curtailing the power, but in disciplining its exercise — with procedural fairness, timely action, and judicious restraint. For in a nation where the rule of law reigns supreme, even mercy must march to the rhythm of reason."}
+]}
+]}

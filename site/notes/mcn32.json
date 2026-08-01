@@ -1,0 +1,22 @@
+{
+"num":"32","title":"Comparative: Judicial Review","theme":"Comparative Constitutions",
+"lead":"Three models: India's ==constitutional supremacy + basic structure + PIL==; America's ==Marbury-style strong-form review==; Britain's ==parliamentary sovereignty with administrative legality review==.",
+"sections":[
+{"title":"India · US · UK","blocks":[
+{"type":"table","head":["Basis","India","United States","United Kingdom"],"rows":[
+["Constitutional model","Written; ==Constitution supreme==; review protects rights and federalism.","Written; Constitution supreme.","==Uncodified; Parliament legally sovereign== — courts can't overrule primary Acts."],
+["Source of review","==Arts 13, 32, 226, 136, 141, 142== + basic structure.","Not express — developed via [[Marbury v. Madison (1803)]]; Article III.","Common law, ==Human Rights Act 1998==, devolution statutes."],
+["Foundational case","[[Kesavananda Bharati (1973)]] — review is ==part of basic structure==.","[[Marbury v. Madison (1803)]].","[[CCSU v. Minister for Civil Service (1985)]] — ==illegality, irrationality, procedural impropriety==."],
+["Ordinary legislation","SC/HCs can ==strike down laws== violating FRs or federal limits.","Courts can invalidate unconstitutional laws.","Courts ==cannot strike down Acts==; interpret compatibly where possible."],
+["==Constitutional amendments==","Reviewable — ==Art 368 limited by basic structure==.","Once ratified under Article V, ==not substantively reviewable==.","No formal amendment process — ordinary legislation."],
+["Executive action","Strong — Arts 32/226; arbitrariness, mala fides, ==proportionality==.","Strong — subject to ==standing, ripeness, political question==.","Strong — legality, fairness, rationality, ==legitimate expectation==."],
+["Delegated legislation","Struck down if ==ultra vires==, unconstitutional, excessive delegation.","Reviewed for statutory excess, arbitrariness.","Quashed if ultra vires or rights-incompatible."],
+["Rights protection","Strong — Part III + ==substantive due process under Art 21==, privacy, dignity.","Strong — Bill of Rights, ==tiered scrutiny==.","Weaker against Parliament; stronger against public authorities."],
+["Federalism review","Central — Union–State competence, emergencies.","Central — commerce power, supremacy clause.","Limited — ==devolution competence== (Scotland Act: outside competence = ‘not law’)."],
+["Standing / access","==Liberal — PIL==, representative litigation.","Restrictive — concrete injury, causation, redressability.","‘Sufficient interest’ — flexible but not PIL-oriented."],
+["Remedies","==Five writs==, invalidity, compensation, ==continuing mandamus==, guidelines.","Injunctions, declarations, invalidation, limited damages.","Quashing/prohibiting/mandatory orders; ==JR and Courts Act 2022== adds suspended quashing orders."],
+["Strength","==Very strong== — laws, executive action AND amendments.","Strong — but no advisory opinions.","Moderate constitutionally, ==strong administratively==."],
+["Democracy relation","Counter-majoritarian — justified by ==basic structure==.","Counter-majoritarian — constitutional supremacy.","==Dialogic== — Parliament retains final authority."],
+["Major limits","Restraint, political question, presumption of constitutionality.","Standing, mootness, ==political question doctrine==, appointments ideology.","==Parliamentary sovereignty==, ouster clauses, permission stage."]
+]}]}
+]}

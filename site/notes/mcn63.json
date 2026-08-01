@@ -1,0 +1,22 @@
+{
+"num":"63","title":"Attorney General","theme":"Judiciary",
+"lead":"==Article 76== provides for the Attorney General of India as the ==highest law officer of the Union== — a constitutional office, not a government servant, and a ==bridge institution across all three organs== of the State: advisor to the Executive, officer of the Court, participant in the Legislature.",
+"sections":[
+{"title":"Nature, Appointment & Functions","blocks":[
+{"type":"cards","items":[
+{"title":"Appointment & Tenure","bullets":["By the ==President on the advice of the Government== (PM/Law Minister)","Must be ==qualified to be a Supreme Court judge==; citizen of India","Holds office ==during the pleasure of the President==; ==no fixed tenure==","Usually resigns when a new government takes office","Remuneration set by the Government — ==not charged on the CFI=="]},
+{"title":"Advisory Functions","bullets":["Advises the Government of India on legal matters","Gives opinions when referred by the President (==Art 143 references go to the SC, not the AG==)"]},
+{"title":"Legal Representation","bullets":["Represents the Union in the ==SC, High Courts and tribunals==","Handles major constitutional cases — Aadhaar, Sabarimala, Art 370 challenges"]},
+{"title":"Legislative & Other Roles","bullets":["May ==participate in Parliament proceedings== and give legal clarifications on the floor","Supervises the ==Solicitor General and Additional Solicitors General==","Represents India in ==international legal matters=="]}
+]}]},
+{"title":"Limitations & Importance","blocks":[
+{"type":"cards","wide":true,"items":[
+{"title":"Limitations","bullets":["==Not a government employee==; cannot be sued for advice rendered","==Cannot practise against the Government of India==","Cannot defend the accused in criminal cases without government consent","Cannot appear where the Government is an ==adverse party==","==Private practice permitted== → potential conflict between public duty and private clients"]},
+{"title":"Importance","bullets":["==Guardian of constitutional values== — expected to uphold constitutional morality in advising the Executive","==Legal cohesion== — uniform litigation strategy across ministries","==Voice of the Union in court== — symbolically represents sovereignty","==Institutional memory== — continuity amid changing political leadership"]}
+]}]},
+{"title":"Issues & Reforms","blocks":[
+{"type":"cards","wide":true,"items":[
+{"title":"Issues & Criticisms","bullets":["==Lack of independence== — office held ‘during pleasure’; criticised for defending government decisions over constitutional correctness (e.g. ==defence of the Aadhaar Act as a Money Bill, 2016==)","==No fixed tenure== — removable anytime","==Conflict of interest== from private clients","==No statutory duties or code of conduct== — unlike the UK's Ministerial Code","==Heavy litigation load== — the Government is the largest litigant","==Limited parliamentary accountability== — participates but does not vote or face rigorous oversight"]},
+{"title":"Reforms Needed","bullets":["==Fixed tenure== — e.g. a 3-year term","==Statutory framework== defining duties, conflict-of-interest rules, ethical obligations","==Full-time position== — bar private practice, compensate accordingly","==Strengthen the law officers' cadre== — a professional legal service for government litigation","==Transparency in appointment== — a collegium-like consultative mechanism (PM, CJI, LoP)","==Parliamentary oversight== — regular reports to Standing Committees","==Reduce government litigation== via the National Litigation Policy"]}
+]}]}
+]}

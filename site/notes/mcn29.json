@@ -1,0 +1,32 @@
+{
+"num":"29","title":"Panchayats","theme":"Federalism & Local Government",
+"lead":"The ==73rd & 74th CAs (1993)== constitutionalised the Gandhian dream of democratic decentralisation. Panchayats are the frontline of India's democracy — yet they often function as ==agents of the state rather than representatives of the people==. Ironically, the British neglected sabhas and samitis while propelling municipalities — ==Lord Ripon== is called the father of self-government in India.",
+"sections":[
+{"title":"Contemporary Markers","blocks":[
+{"type":"stats","items":[
+{"value":"2025","label":"Panchayat Advancement Index (MoPR) — multi-domain assessment of panchayat performance"},
+{"value":"KA #1","label":"Devolution Index 2024 (Feb 2025) — UP and Bihar show big improvement"},
+{"value":"42%","label":"resource-vs-expenditure gap in ULBs across 18 states (CAG)"},
+{"value":"49.5%","label":"elected women representatives — MoPR panel (post-2023 SC judgment) urges penalties for proxy sarpanches"}
+]}]},
+{"title":"Framework — Are Constitutional Basics Followed?","blocks":[
+{"type":"cards","wide":true,"items":[
+{"title":"Issues","bullets":["All states have conformity laws and elections; ==~14 lakh women== hold elected posts — but proxy posts persist","==<20% of states== have fully devolved all ==29 Eleventh-Schedule subjects== de jure AND de facto","==DPCs== often non-operational; many ==SFCs== defunct or ignored","Timely elections and delimitation inconsistent (Jharkhand, Maharashtra)"]},
+{"title":"Solutions","bullets":["==Compliance audits== by NITI Aayog or a designated body","==Performance-linked FC grants== as incentive (15th FC)","Digitally monitor DPC meetings via ==e-GramSwaraj=="]}
+]}]},
+{"title":"Functions — Governance or Last-Mile Delivery?","blocks":[
+{"type":"cards","wide":true,"items":[
+{"title":"Issues","bullets":["Function ==overlaps with line departments==; limited autonomy","Panchayats used for ==scheme delivery, not governance==","Kerala/Karnataka show convergence; NE and BIMARU states restrict real autonomy","Strong on MGNREGA/ICDS/SBM implementation, weak on infrastructure"]},
+{"title":"Solutions & Cases","bullets":["==Scheme convergence== (MGNREGA + agri extension, SHG enterprises)","==Activity mapping== across tiers; a statutory ==exclusive services list==","SDG-localisation via ==GPDPs== with benchmarks","==Galibeedu (KA)==: 100% pension coverage, universal PDS, near-complete sanitation · ==Perumpudappa (KL)==: targeted agri/dairy subsidies to 3,000 families"]}
+]}]},
+{"title":"Finances","blocks":[
+{"type":"cards","wide":true,"items":[
+{"title":"Issues","bullets":["Untied grants fell ==from 85% (13th FC) to 60% (15th FC — ₹2.36 lakh crore)==","==95%+ of panchayat funds== are central/state grants","Only ==47% of SFC recommendations== implemented","2023-24: many states disbursed ==<25% of FC obligations==","CSS funds are ==tied==, reducing autonomy"]},
+{"title":"Solutions & Cases","bullets":["==Consolidated Fund for Local Governments== (Upendra Baxi)","Legislated ==disbursal timelines==; digitised tax collection with e-GramSwaraj","==TN==: Panchayat ERP lifted OSR by 18% · ==Odisha==: SFC-led revenue sharing · ==Sikkim==: full grant utilisation · ==Kerala==: participatory budgeting"]}
+]}]},
+{"title":"Functionaries & Participation","blocks":[
+{"type":"cards","wide":true,"items":[
+{"title":"Issues","bullets":["Educational/digital literacy barriers; ==proxy leadership== where training is weak","==~42% average vacancy== in panchayat technical staff (2024); Bihar/UP/MP <20% staffed","Honorary/contractual staffing; infrastructure deficits in ==up to 60%== of GPs","==Gram Sabhas poorly attended== — only 15 states met quorum in >75% of villages; audits without action; low awareness of entitlements"]},
+{"title":"Solutions & Cases","bullets":["Training ==mandatory for honoraria==; mobile vernacular e-learning","Peer exchanges modelled on ==SAGY and National Panchayat Awards==","==Social audit units== (MGNREGA-style); minimum Gram Sabha frequency + agenda disclosure; uniform ==Citizen Charter== for rural services","==Odisha SIRD==: cascade training + e-learning for ==38,618 participants/year=="]}
+]}]}
+]}

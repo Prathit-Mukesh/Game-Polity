@@ -1,0 +1,41 @@
+{
+"num":"64","title":"Arbitration & Conciliation Act","theme":"ADR, Tribunals & Tech",
+"lead":"The ==Arbitration and Conciliation Act, 1996== was envisioned as a bold escape route — offering speed, flexibility and finality. Yet as arbitration increasingly mirrors litigation in cost and complexity, has it remained a true alternative, or ==merely a parallel courtroom cloaked in private robes==? In [[Gayatri Balasamy v. ISG Novasoft (2025)]] the SC upheld a court's power to ==modify== an arbitral award under ss.34 and 37.",
+"sections":[
+{"title":"Rationale Behind the 1996 Act","blocks":[
+{"type":"steps","items":[
+"==Minimise judicial intervention== — limit courts' supervisory role, expedite resolution",
+"==Promote efficiency and finality== — awards final, binding, enforceable ==as a decree==",
+"==Align with international standards== — based on the ==UNCITRAL Model Law==",
+"==Encourage ADR== as an alternative to slow, expensive, rigid litigation",
+"==Support economic liberalisation== — attract foreign investment with reliable dispute resolution"
+]}]},
+{"title":"Structure of the Act","blocks":[
+{"type":"cards","wide":true,"items":[
+{"title":"Part I — Arbitration","kicker":"Domestic + international commercial arbitration seated in India","bullets":["==Arbitration agreement must be in writing== — a clause or a separate agreement","==Appointment==: parties agree the procedure; failing which the ==court appoints==","==Jurisdiction==: tribunal rules on its own jurisdiction — ==Kompetenz-Kompetenz==","==Conduct==: not bound by CPC or Evidence Act — flexible, party-driven","Interim relief available from ==both tribunal and courts==","==Award== must be in writing, reasoned and signed — final and binding","==Setting aside== on limited grounds: invalid agreement, lack of notice, ==violation of public policy==","==Enforcement== as a decree of the court"]},
+{"title":"Parts II–IV","bullets":["==Part II — Foreign Awards==: enforcement under the ==New York and Geneva Conventions==; a ‘foreign award’ is one made in a ==reciprocating territory== under a written agreement — enforceable subject to limited grounds of refusal","==Part III — Conciliation==: voluntary, confidential, resulting in a ==binding settlement agreement==","==Part IV — Supplementary==: miscellaneous, including ==rule-making powers for High Courts=="]},
+{"title":"Key Sections","bullets":["==s.5==: limits judicial intervention","==s.7==: defines the arbitration agreement","==ss.8 & 11==: mandate referral to arbitration; empower courts to appoint arbitrators","==s.16==: Kompetenz-Kompetenz","==s.34==: grounds for setting aside (public policy, procedural irregularity)","==s.36==: awards enforceable as court decrees","==ss.44–52==: foreign awards under the New York Convention"]}
+]}]},
+{"title":"Key Amendments","blocks":[
+{"type":"cards","wide":true,"items":[
+{"title":"2015 Amendment","bullets":["==Timelines==: 12 months, extendable by 6","==Fast-track procedure==","==Narrowed ‘public policy’== as a ground for setting aside","Strengthened ==confidentiality==","Indian courts may grant ==interim relief for foreign-seated arbitrations==","Incorporated ==IBA Guidelines on Conflicts of Interest== as schedules"]},
+{"title":"2019 Amendment & Beyond","bullets":["==Arbitration Council of India (ACI)== to promote institutional arbitration and set standards","==Qualification and accreditation== criteria for arbitrators — criticised for ==excluding foreign-qualified arbitrators==","Streamlined procedures — but ==ACI not fully implemented==","==Commercial Courts Act, 2015== for specialised commercial benches","==NDIAC Act, 2019== — a flagship institution for international and domestic arbitration"]}
+]}]},
+{"title":"Key Judgments","blocks":[
+{"type":"table","head":["Case","Holding"],"rows":[
+["[[BALCO v. Kaiser Aluminium (2012)]]","==Part I applies only to India-seated arbitrations==; Indian courts have no jurisdiction over foreign-seated arbitration."],
+["[[S.B.P. & Co. v. Patel Engineering (2006)]]","The Chief Justice's power under s.11 is ==judicial, not administrative==."],
+["[[ONGC v. Saw Pipes (2003)]]","Expanded ‘public policy’ to include ==‘patent illegality’== — increasing judicial intervention."],
+["[[Shri Lal Mahal v. Progetto Grano Spa (2013)]]","‘Public policy’ in ==enforcement is narrower== than in setting-aside proceedings."],
+["[[Gayatri Balasamy v. ISG Novasoft (2025)]]","Clarified the ==limited circumstances== for modifying awards: severability, clerical/computational errors, post-award interest."]
+]},
+{"type":"callout","text":"==Impact of Gayatri Balasamy==: courts have a ==limited power to modify== under ss.34/37 — ==severability== of invalid parts, correction of ==clerical/computational errors==, and ==post-award interest== not complying with the Act. ==No general power to modify== — but ==Art 142 can still be used==."}
+]},
+{"title":"Issues & Solutions","blocks":[
+{"type":"cards","wide":true,"items":[
+{"title":"Issues","bullets":["==Judicial intervention==; delays; ==costs==","==Lack of precedent==; confidentiality issues","==Bias and repeat appointments==","Limited judicial review; unfamiliarity with ADR","==Statutory vs contractual arbitration== confusion"]},
+{"title":"Solutions","bullets":["==Strict adherence to timelines==; judicial training","==Promotion of institutional arbitration==","Legislative clarity and reform","Awareness campaigns; ==confidentiality safeguards==","==Arbitrator accreditation=="]}
+]},
+{"type":"quote","text":"The promise of ADR lies not just in statutes, but in reimagining justice itself."}
+]}
+]}

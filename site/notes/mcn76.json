@@ -1,0 +1,71 @@
+{
+"num":"76","title":"Pressure Groups","theme":"Access to Justice",
+"lead":"Organised groups seeking to influence public policy ==without aspiring to formal political power or electoral office== — the ==silent sentinels of democracy==: powerful not because they hold office, but because they hold influence.",
+"sections":[
+{"title":"Formal v Informal Associations","blocks":[
+{"type":"table","head":["Feature","Formal associations","Informal associations"],"rows":[
+["Structure","Registered bodies, defined leadership, constitution/bye-laws","==Loose, kinship/community-based==, no fixed structure"],
+["Examples","==FICCI, CII, AITUC, IMA==, Bar Council associations","==Caste panchayats, khap bodies==, kinship networks, spontaneous protest collectives"],
+["Continuity","Long-term, institutionalised","==Episodic, issue-triggered==, dissolve after the issue fades"],
+["Resources","Better funded, professional staff","Resource-constrained, ==voluntary mobilisation=="],
+["Accountability","Subject to ==Societies Registration Act, Companies Act s.8, FCRA==","==Largely unregulated==, harder to hold accountable"]
+]}]},
+{"title":"Typology","blocks":[
+{"type":"table","head":["Type","Basis","Examples"],"rows":[
+["==Institutional==","Professionals embedded within the state machinery","IAS/IPS Associations, Civil Services Associations, judicial officers' associations"],
+["==Associational==","Formal organisations for limited, specific goals","FICCI, CII, ASSOCHAM, AITUC, INTUC, BMS, ==IMA==, Bar Associations"],
+["==Non-associational==","Informal — kinship, caste, ethnicity, religion","Harijan Sevak Sangh, Tamil Sangh, Lingayat organisations, ==Gorkha Janmukti Morcha=="],
+["==Anomic==","Spontaneous, often ==unconventional or violent== means","Naxalite movements, JKLF-type separatist mobilisation"],
+["Issue-based / social movement","Single-issue or cause-driven","==Narmada Bachao Andolan==, Chipko Movement, ==Mazdoor Kisan Shakti Sangathan=="],
+["Agrarian","Farmer interests","==Bharatiya Kisan Union==, All India Kisan Sabha, Shetkari Sanghatana"],
+["Religious/caste-based","Community identity","RSS, VHP, ==Dalit Panthers==, AIMPLB, Jat Mahasabha"],
+["Student and youth","Campus/generational interests","NSUI, ABVP, SFI"]
+]}]},
+{"title":"Functional Role in Indian Democracy","blocks":[
+{"type":"steps","items":[
+"==Representation and voice== — sectional and marginalised interests (AIKS for farmers, AIMPLB on community law)",
+"==Policy influence and technical expertise== — CII/FICCI on economic policy, BKU on agriculture",
+"==Accountability and watchdog function== — PUCL on human rights, Greenpeace India on environmental compliance",
+"==Public opinion mobilisation== — India Against Corruption (2011), #MeToo India (2018)",
+"==Bridging state and citizen== — MKSS's campaign was instrumental in the ==RTI Act, 2005==",
+"==Enhancing political participation== — student bodies drawing youth into political discourse",
+"==Promoting pluralism== — representation of diverse community interests",
+"==Deepening deliberative democracy== — the ==‘4 Ds’: Debate, Discussion, Deliberation, Dissent==",
+"==Counterweight to concentration of power=="
+]}]},
+{"title":"Group-Wise Policy Matrix","blocks":[
+{"type":"table","head":["Type","Formulation","Implementation & evaluation","Successes","Limitations","Way forward"],"rows":[
+["==Business== — FICCI, CII, ASSOCHAM","Inputs on FDI, GST, industrial policy","Partner in PPP schemes; feedback on EoDB and taxation","==GST rationalisation==, economic reforms","==Elite interests==, opacity in lobbying","==Transparent lobbying laws==, MSME inclusion"],
+["==Labour== — INTUC, AITUC, BMS","Influence on labour codes, social security","Monitor wage law implementation; PILs on labour welfare","Minimum Wage Act, EPFO, Bonus Act reforms","==Declining unionisation==, political co-option","Support for ==gig workers==, depoliticisation"],
+["==Farmers== — BKU, KRRS, Shetkari Sanghatana","Pressure for MSPs, subsidies","Blockade against farm law roll-out; evaluate PM-KISAN","==Repeal of the three farm laws (2021)==","Localised mobilisation; ==intra-group caste/class divides==","National coordination; crop diversification advocacy"],
+["==Professional== — IMA, Bar Associations, Teachers' Federations","Policy drafts for medical, legal, educational reform","Implementation standards (NEET, MCI norms); ethics and academic councils","==NEP 2020 inputs==, judicial appointments activism","==Urban-centric==, low outreach","Decentralised voices; engage rural practitioners"],
+["==Religious/caste== — RSS, Dalit Panthers, Jat Mahasabha","Reservation, SC/ST and minority rights","Mobilise for/against policy; challenge biased implementation","==Mandal Commission implementation==, temple entry reforms","==Identity polarisation==, communalism risk","Social justice via inclusive engagement"],
+["==Student & youth== — NSUI, ABVP, SFI","Input on education bills, employment schemes","Protests ensure scheme implementation; academic and budget audits","Rollback of hostel fee hikes, exam reforms","Politicised; ==lacks longevity==","Issue-based student coalitions"],
+["==Social movements== — NBA, MKSS, IAC, NAPM","Force public debate on ignored issues","Social audits; PILs; ==Jan Sunwais==","==RTI Act 2005==, Forest Rights Act, food security","==Lack institutional permanence==","Institutionalise through formal structures"],
+["==Institutional== — Civil Services Associations, judicial forums","Administrative/legal reform suggestions","Implement schemes; influence pay commissions","Judicial activism, pay hikes, cadre rules","==Conflict of interest==, bureaucratic inertia","Internal ethics and accountability mechanisms"],
+["==Non-associational== — caste, ethnic, kinship bodies","Regional autonomy or cultural rights","Demand OBC-list inclusion, language status; protests and petitions","==Gorkhaland visibility==, caste quota expansions","Informal, ==emotional appeals==","Formalise participation; ensure peaceful advocacy"]
+]},
+{"type":"callout","text":"Many pressure groups succeed by strategically combining ==PILs, media advocacy and public mobilisation==."}
+]},
+{"title":"Impact — Positive & Negative","blocks":[
+{"type":"cards","wide":true,"items":[
+{"title":"Positive","bullets":["==Democratises policymaking beyond the electoral cycle== — influence between elections, not just at the ballot box","Brings ==specialised/technical knowledge== into generalist bureaucratic decision-making","Landmark outcomes: ==RTI Act (2005), Forest Rights Act (2006), repeal of the farm laws (2021)==","Strengthens civil society's ==watchdog function== over state AND market"]},
+{"title":"Negative / Structural","bullets":["==‘Demosclerosis’== — proliferating competing groups clog governance","==Elite capture== — business groups shape economic policy disproportionately vs labour or informal sector","==Opacity in lobbying== — India has ==no dedicated lobbying disclosure law==, unlike many OECD democracies","==Politicisation and co-option== — AITUC–CPI, INTUC–Congress, diluting independence","==Communal/identity polarisation== risk","==Resource asymmetry== — grassroots and informal groups chronically underfunded","==FCRA tightening== has reduced NGO numbers and disrupted projects — a transparency vs civil-society-space tension","==Unconstitutional means== — bandhs, blockades and violence undermine legitimacy"]}
+]}]},
+{"title":"Structural Challenges & Reform","blocks":[
+{"type":"bullets","items":[
+"==Challenges==: factionalism within sectors (competing farmer unions); ==financial instability== of grassroots groups; ==party co-option==; no lobbying transparency law; FCRA-driven constraints; ==caste/communal polarisation==; urban-centric bias; no institutional permanence for anomic groups once the issue fades."
+]},
+{"type":"callout","text":"==Key comparative lesson==: mature democracies (US, UK, EU) have moved to ==statutory lobbying registers and disclosure requirements==, converting an opaque practice into a transparent, regulated one. India has ==no equivalent central lobbying law== — pressure-group activity is governed only indirectly through registration and funding statutes."},
+{"type":"steps","items":[
+"==Enact a lobbying transparency law== — on the lines of the ==US Lobbying Disclosure Act== or the ==EU Transparency Register==",
+"==Institutionalise consultation== — mandatory public comment periods and ==Regulatory Impact Assessments== before major policy changes",
+"==Rationalise FCRA implementation== — transparency without blanket restriction of civil-society space",
+"==Formalise informal/non-associational groups== where feasible — peaceful, accountable, traceable channels",
+"==Strengthen internal democracy and depoliticise== trade unions and associational bodies",
+"==MSME and informal-sector inclusion== in business-group consultations",
+"==National coordination== among fragmented farmer/labour groups",
+"==Leverage digital platforms== for transparent, traceable donations and stakeholder engagement"
+]}
+]}
+]}

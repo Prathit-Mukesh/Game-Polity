@@ -1,0 +1,109 @@
+{
+"num":"12","title":"Life & Liberty","theme":"Preamble & Fundamental Rights",
+"lead":"==Art 21==: life and personal liberty — from ‘procedure established by law’ to ==due process==, dignity and privacy. The ==golden triangle== of Arts 14, 19 and 21 after [[Maneka Gandhi v. UoI (1978)]].",
+"sections":[
+{"title":"The Golden Triangle","blocks":[
+{"type":"cards","items":[
+{"title":"Art 14 — Equality","bullets":["Equality before law + equal protection of laws","==Reasonable classification==: intelligible differentia + rational nexus","==Anti-arbitrariness== doctrine"]},
+{"title":"Art 19 — Freedoms","bullets":["Six freedoms","==Reasonable restrictions== & test of reasonableness"]},
+{"title":"Art 21 — Life & Liberty","bullets":["Life: ==dignity==; Personal liberty: ==privacy==","Procedure established by law → ==due process of law==","==Principles of natural justice=="]}
+]},
+{"type":"callout","text":"[[Maneka Gandhi (1978)]]: issues concerning both 19 & 21 → ==Arts 14, 19 and 21== must all be satisfied; issues concerning only 21 → Arts 14 and 21 must be satisfied."}
+]},
+{"title":"The Expanding Universe of Art 21","blocks":[
+{"type":"cards","items":[
+{"title":"Life & Death","bullets":["Passive euthanasia: [[Aruna Shanbaug (2011)]], [[Harish Rana (2026)]]","Living will: [[Common Cause v. UoI (2018)]]"]},
+{"title":"Criminal Justice","bullets":["Free legal aid: [[Hoskot v. MH (1978)]]","Speedy trial: [[Hussainara Khatoon (1979)]]","Anti-handcuffing: [[Prem Shankar v. Delhi Admin (1980)]]","No delay in death-sentence execution: [[T.V. Vatheeswaran (1981)]]","Free & fair trial: [[DLF v. Central Coalfields (2009)]]"]},
+{"title":"Socio-Economic","bullets":["Minimum wages: [[PUDR v. UoI (1982)]]","Dignity sans exploitation: [[Bandhua Mukti Morcha (1984)]]","Livelihood: [[Olga Tellis v. BMC (1985)]]","Education: [[Mohini Jain (1991)]] · Health: [[CERC v. UoI (1995)]] · Shelter: [[Chameli Singh (1996)]]","Workplace harassment: [[Vishaka (1997)]] · Food: [[PUCL (2003)]] · Water: [[Susetha (2006)]]","Right to sleep: [[Ramlila Maidan (2012)]] · Third gender: [[NALSA (2014)]]","Accessibility: [[Rajive Raturi (2024)]]"]},
+{"title":"Dignity & Autonomy","bullets":["Right to marry: [[Ajay Hasia (1981)]]","Homosexuality decriminalised: [[Navtej Singh Johar (2018)]]","Adultery decriminalised: [[Joseph Shine (2018)]]"]},
+{"title":"Environment","bullets":["Clean environment: [[MC Mehta (1986)]] · Pollution-free air: [[Subhash Kumar v. BH (1991)]]","Healthy environment: [[Research Foundation (2005)]] · Protection: [[Animal & Env Legal Defence Fund (1997)]]","==Climate change==: [[M.K. Ranjitsinh v. UoI (2024)]]"]},
+{"title":"New Interpretations (2026)","bullets":["Safely walk on footpaths: [[Maniyar v. Ayyapan]]","Safely travel on highways: [[Phalodi Accident v. NHAI]]","Menstrual health: [[Jaya Thakur v. GoI]]","Maternity leave for adoptive mothers: [[Hamsaanandini Nanduri v. UoI]]"]}
+]}]},
+{"title":"Privacy & Data Protection","blocks":[
+{"type":"steps","items":[
+"[[AK Gopalan (1950)]], [[Satish Chandra (1954)]], [[Kharak Singh (1962)]]: privacy ==not== recognised",
+"[[Justice K.S. Puttaswamy v. UoI (2017)]]: privacy is an FR under ==Art 21 + 19== with a ==proportionality test==",
+"==Justice Srikrishna Report (2018)== → digital privacy framework",
+"==Digital Personal Data Protection Act, 2023==, operationalised by ==DPDP Rules, 2025=="
+]},
+{"type":"cards","items":[
+{"title":"Facets & Challenges","bullets":["==Data/informational privacy== — surveillance","==Physical privacy== — ambush journalism","==Decisional privacy== — LGBTQIA+ rights","==Proprietary privacy== — identity theft"]},
+{"title":"Implications","bullets":["Digital: ==right to be forgotten==, deemed consent, first-originator (IT Rules), personality rights","Governance: ==RTI exclusion==, right to know","Welfare: UWin, Aarogya Setu, ==Aadhaar–voter linkage==","Security: facial recognition, 2024 Interception Rules, Sanchar Setu (2026)"]}
+]},
+{"type":"quote","text":"In a democracy like India — diverse, vocal, and increasingly digitised — the right to privacy is not merely a legal shield but a philosophical cornerstone, demanding a new social contract grounded in trust, transparency, and respect for individuality."}
+]},
+{"title":"DPDP Act, 2023 — Key Features","blocks":[
+{"type":"cards","items":[
+{"title":"Scope & Consent","bullets":["Digital personal data in India + ==extraterritorial reach== (GDPR-like)","Consent: ==free, specific, informed, unconditional, unambiguous==; ==deemed consent== for state functions, employment, emergencies","Simple itemised notices"]},
+{"title":"Actors","bullets":["==Data Principals== (access, correction, erasure, grievance, nomination)","==Data Fiduciaries== (tiered duties), Processors, ==Consent Managers==","==Data Protection Board== — fully digital, 4-member; appeals to ==TDSAT=="]},
+{"title":"Significant Data Fiduciaries","bullets":["Notified by volume/sensitivity/risk","Annual ==DPIA== + independent audit + ==DPO== + algorithmic due diligence","Possible ==data-localisation== restrictions"]},
+{"title":"Breach, Children, Transfers, Penalties","bullets":["Breach: intimation ‘without delay’ + detailed report ==within 72 hours==","Children: ==verifiable parental consent== (ed-tech/health exemptions)","Cross-border: ==negative-list== approach (‘no-fly list’, not whitelist)","Penalties up to ==₹250 crore== (security safeguards), ₹200 cr (breach/child), ₹150 cr (SDF)"]}
+]}]},
+{"title":"DPDP — Issues & Way Forward","blocks":[
+{"type":"cards","wide":true,"items":[
+{"title":"Key Issues","bullets":["==Wide state exemptions (s.17)== — no independent oversight; surveillance concerns post-Puttaswamy","==Weakened RTI==: amendment to s.8(1)(j) removes the public-interest balancing test","==Board independence==: members appointed and conditioned by the Centre — risk of executive capture","==MSME burden==: consent overhaul; 70%+ small advertisers must re-engineer ad-consent flows","Ambiguous cross-border ‘restricted list’; ==deemed consent's breadth== dilutes consent-first design","==Long runway==: core duties only from May 2027; limited to digital personal data — ==non-personal data unregulated=="]},
+{"title":"Way Forward","bullets":["==Board independence==: fixed tenure, broad-based appointments, financial autonomy (SEBI/TRAI model)","Notify pending rules early; ==calibrated MSME support== (templates, sandboxes)","==Restore the RTI balance== on s.8(1)(j)","==Judicial/parliamentary oversight== of state processing per Puttaswamy proportionality","Interoperable ==Consent Manager ecosystem== (DigiLocker-like); multi-stakeholder review (==SARAL== intent); DPB capacity-building"]}
+]},
+{"type":"table","head":["Jurisdiction","Distinguishing feature","Lesson for India"],"rows":[
+["==EU — GDPR (2018)==","Independent supervisory authorities; ==turnover-linked fines (4%)==; strong data-subject rights","Strengthen DPB autonomy; proportionate, deterrent penalties"],
+["EU — Right to be Forgotten","Judicially evolved erasure ([[Google Spain (2014)]]) balanced against free expression","Calibrate erasure with journalistic/historical exceptions"],
+["==California — CCPA/CPRA==","==Opt-out== model for data sale; dedicated privacy agency","Sector-specific consent thresholds; specialised enforcement"],
+["==Singapore — PDPA==","Co-regulatory model; ==Trustmark certification==","Certification/self-regulation to ease MSME compliance"]
+]}]},
+{"title":"Right to a Healthy Environment","blocks":[
+{"type":"callout","text":"Delhi's winter smog — recurring GRAP curbs, school closures — reflects a deeper gap: India has ==no explicit constitutional right to a clean environment==; courts read it into existing provisions, making enforcement ==contingent and reactive==."},
+{"type":"bullets","items":[
+"==Constitutional foundations==: Art 21 (judicially expanded); ==Arts 48A & 51A(g)== (42nd CA, 1976) — DPSP + Fundamental Duty in tandem; Arts 32 & 226 (PIL); Art 14 (arbitrary clearances); ==Art 253== (treaty legislation, e.g. Stockholm 1972)."
+]},
+{"type":"table","head":["Case","Ruling"],"rows":[
+["[[Maneka Gandhi (1978)]]","Widened Art 21 — foundation for the environmental reading of ‘life’."],
+["[[RLEK v. State of UP (1985)]]","First recognised right to healthy environment (==Doon Valley mining==)."],
+["[[MC Mehta v. UoI (1986)]]","Pollution-free environment as FR; spawned the ‘Mehta cases’."],
+["[[Subhash Kumar v. Bihar (1991)]]","Read Arts 48A & 51A(g) with Art 21 — state obliged to protect environmental quality of life."],
+["[[Vellore Citizens' Forum (1996)]]","Introduced ==Precautionary Principle & Polluter Pays==; sustainable development."],
+["[[MC Mehta v. Kamal Nath (1997)]]","==Public Trust Doctrine== — state holds natural resources in trust."],
+["[[T.N. Godavarman (1996)]]","==Continuing mandamus== expanding forest protection."],
+["[[A.P. PCB v. M.V. Nayudu (1999)]]","Scientific expertise & public participation in decisions."],
+["[[Narmada Bachao Andolan (2000)]]","Balanced dam development against environment & rehabilitation."],
+["[[M.K. Ranjitsinh (2024)]]","==Distinct right against adverse effects of climate change== — Arts 21 + 14."]
+]},
+{"type":"cards","items":[
+{"title":"Core Legal Principles","bullets":["==Sustainable development== (Vellore)","==Precautionary principle== — act without full scientific certainty","==Polluter pays== — remediation costs on the polluter","==Public trust doctrine== — state as trustee (Kamal Nath)","==Absolute liability== — post-==Oleum Gas Leak==; stricter than English strict liability, no exceptions","==Intergenerational equity=="]},
+{"title":"Key Statutes","bullets":["==Environment (Protection) Act, 1986== — umbrella law","Water Act 1974 / Air Act 1981 — SPCB/CPCB powers","Wildlife (Protection) Act 1972; Forest (Conservation) Act 1980","Forest Rights Act 2006; Biological Diversity Act 2002"]},
+{"title":"Persistent Challenges","bullets":["==Weak enforcement==: under-resourced SPCBs, pressure dilutes compliance","==Overlapping jurisdiction== — MoEFCC/CPCB/SPCBs/local bodies","==EIA erosion==: long timelines, self-reported compliance","==Judicial dependency==: every claim must anchor to another Part III right","Implementation gap: orders outrun administrative capacity"]},
+{"title":"Best Practices Forward","bullets":["==Codify the right== in Part III","Strengthen and widen ==NGT==; fund CPCB/SPCBs","==Real-time IoT/satellite monitoring== — predictive, not reactive","Genuine public participation in EIA; community conservation (FRA model)","Enforce Polluter Pays/EPR; align with ==Glasgow, Kunming-Montreal 30-by-30=="]}
+]}]},
+{"title":"Euthanasia & the Right to Die with Dignity","blocks":[
+{"type":"table","head":["","Active euthanasia","Passive euthanasia"],"rows":[
+["Nature","An ==act== — directly causing death (lethal injection)","An ==omission== — withholding/withdrawing life-sustaining treatment"],
+["Legal status in India","==Illegal== — culpable homicide / abetment of suicide","==Legal== subject to Common Cause / Harish Rana safeguards"],
+["Constitutional basis","Not protected — no ‘right to be killed’","Part of the ==right to die with dignity== under Art 21"]
+]},
+{"type":"table","head":["Case","Ruling"],"rows":[
+["[[Gian Kaur v. Punjab (1996)]]","Art 21 does ==NOT include the right to die== — but distinguished euthanasia from suicide, opening the door."],
+["[[Aruna Shanbaug (2011)]]","==First recognition of passive euthanasia==; interim procedure — HC approval via 3-doctor committee."],
+["[[Common Cause (2018)]]","==Right to die with dignity is a facet of Art 21==; validated ==Advance Medical Directives (living wills)==; two medical boards + magistrate oversight."],
+["[[Common Cause (Review) (2023)]]","Simplified: ==notarised/gazetted attestation==; hospital + secondary board (5 yrs' experience); magistrate only informed."],
+["[[Harish Rana v. UoI (2026)]]","==First-ever order implementing passive euthanasia== — withdrawal of CANH for a 32-year-old in a 13-year vegetative state; CANH is ‘medical treatment’; ==30-day cooling-off waived==; AIIMS palliative plan; Parliament urged to legislate."]
+]},
+{"type":"bullets","items":[
+"==Legal framework==: BNS abetment liability for active euthanasia; ==s.115 Mental Healthcare Act 2017== effectively decriminalises suicide attempts; ==no standalone euthanasia statute== — only SC guidelines (2023) and non-binding draft Health Ministry guidelines (2024).",
+"==Practical issues==: multi-layered process slow outside metros — Harish Rana needed an ==extraordinary Art 32 petition==; shortage of qualified doctors for boards; families act informally, exposing doctors to legal risk.",
+"==Ethical risks==: ==coercion== of the elderly/disabled amid costly care and weak palliative infrastructure — ‘disguised abandonment’; under-specified ==best-interests test== for incompetent patients.",
+"==Institutional gap==: continuing legislative vacuum; weak state ombudsman mechanisms."
+]},
+{"type":"table","head":["Jurisdiction","Model & key features"],"rows":[
+["==Netherlands (2002)==","First to codify ==active euthanasia==; 6 ‘due care’ criteria; post-facto regional committee review."],
+["==UK — End of Life Bill==","Passed Commons (2024); physician-assisted dying for adults with <6-month prognosis; awaiting Lords."],
+["==USA (14 states + DC)==","‘Medical aid in dying’ (==Oregon model==): doctor prescribes, patient self-administers; terminal illness only."],
+["==Australia (all 6 states)==","Voluntary assisted dying legalised 2019–22; terminal diagnosis, residency, ==≥2 physicians==."]
+]},
+{"type":"bullets","items":[
+"==Way forward==: a dedicated ==End-of-Life Care Act==; ==digital living-will registry== (Aadhaar-linked); ==Hospital Ethics Committees== authorising withdrawal within ~48 hours; tech-enabled oversight dashboards; short cooling-off + mandatory counselling; end-of-life ethics in medical curricula and expanded ==palliative care==."
+]},
+{"type":"quote","text":"India need not import an active-euthanasia model to honour its constitutional promise of dignity in life and dying. Refining the existing passive-euthanasia protocol can make end-of-life decisions accessible and humane, consistent with India's context, while guarding against misuse."}
+]},
+{"title":"Conclusion","blocks":[
+{"type":"quote","text":"The true test of a just society is not how it protects the powerful, but how fiercely it guards the life and liberty of each person — especially against the might of the State."}
+]}
+]}

@@ -1,0 +1,19 @@
+{
+"num":"16","title":"Legislative Relations & Doctrines","theme":"Federalism & Local Government",
+"lead":"The judicially crafted toolkit for reconciling Union and State legislative power — plenary powers, ==harmonious construction==, ==pith and substance== and ==colourable legislation==.",
+"sections":[
+{"title":"Plenary Power of Legislatures","blocks":[
+{"type":"bullets","items":[
+"Autonomy to Centre and States over their legislative fields — [[Javed v. State of Haryana (2003)]].",
+"Entries should ==not be read narrowly== — [[State of WB v. UoI (1963)]].",
+"Legislatures can make ==retrospective and prospective== laws — [[Rai Ramkrishna v. Bihar (1963)]].",
+"But ==no power to undo an individual court decision== affecting parties' rights — [[I.N. Saksena v. MP (1976)]]."
+]}]},
+{"title":"The Doctrines","blocks":[
+{"type":"cards","wide":true,"items":[
+{"title":"Liberal & Harmonious Construction","bullets":["No watertight division — courts ==reconcile conflicting entries==","[[ITC Ltd v. APMC (2002)]]: entries are ==‘fields of legislation’, not powers== — competency traces to the Constitution; read entries together; preserve federalism ==while upholding central supremacy==","[[GJ University v. KR Mudholkar (1963)]]: Gujarat couldn't prescribe medium of instruction — interfered with Union's power over ==standards in higher education=="]},
+{"title":"Ancillary / Incidental Powers","bullets":["Power over a topic includes ==reasonably included ancillary matters== — [[United Provinces v. Atiqa Begum (1941)]] (land → mortgages of land)","Punitive measures enforcing social legislation are ancillary — [[Joshi v. Mills (1977)]]","Limits: power to ==levy tax does NOT include power to confiscate== goods"]},
+{"title":"Pith & Substance","bullets":["When a law on one list ==touches a subject in another list==","[[Prafulla Kumar v. Bank of Commerce (1947)]]: consider ==object, scope, effect==; extent of invasion goes to characterisation, not validity; ==List I > II & III; List III > II==","[[M Ismail Faruqui v. UoI (1995)]]: pith and substance was ==acquisition of property==, not public order — Act valid"]},
+{"title":"Colourable Legislation","bullets":["==‘You cannot do indirectly what you cannot do directly’== — disguised, covert transgression","[[KC Gajapati Deo v. Orissa (1953)]]: about ==competency, not intent== (bona fides irrelevant)","[[State of Bihar v. Kameshwar Singh (1952)]]: Bihar Land Reforms Act ==struck down==","[[Naga People's Movement v. UoI]]: ==AFSPA upheld=="]}
+]}]}
+]}

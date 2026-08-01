@@ -1,0 +1,43 @@
+{
+"num":"78","title":"Delimitation","theme":"Elections & Representation",
+"lead":"Fixing or redrawing constituency boundaries based on the latest census — aiming at ==‘one person, one vote, one value’==. The ==Delimitation Bills of 2026== (Constitution (131st Amendment) Bill, Delimitation Bill, and UT Laws (Amendment) Bill) were recently ==negatived==.",
+"sections":[
+{"title":"Rationale","blocks":[
+{"type":"steps","items":[
+"==Fair representation== — each vote carries equal weight; prevents over- or under-representation",
+"==Equity== — equitable seat distribution reflecting demographic shifts",
+"==Reserved seats== — allocation for ==SC and ST== communities",
+"==Federal balance== — distribution of political power among states",
+"==Level playing field== — fair geographical division so no party gains undue advantage"
+]}]},
+{"title":"Issues","blocks":[
+{"type":"cards","items":[
+{"title":"Population vs Federalism","bullets":["States with ==higher population growth gain seats==, reducing the influence of states with ==better population control=="]},
+{"title":"Political Advantage","bullets":["Redrawing boundaries can advantage certain parties — ==gerrymandering== concerns"]},
+{"title":"Reservation Policies","bullets":["==SC/ST reserved seat allocation== becomes contentious when boundaries change"]},
+{"title":"Implementation Delays","bullets":["A time-consuming process — ==up to five years=="]},
+{"title":"Smaller States & UTs","bullets":["Ensuring ==adequate representation== for smaller states and union territories remains a challenge"]}
+]}]},
+{"title":"Global Best Practices","blocks":[
+{"type":"table","head":["Country","Model"],"rows":[
+["==Canada==","Independent ==Boundary Commissions=="],
+["==United Kingdom==","==Automatic and periodic reviews=="],
+["Australia","==Public consultations=="],
+["United States","==Judicial oversight== + independent models in states"],
+["==New Zealand==","==Māori representation guarantee=="]
+]}]},
+{"title":"Way Forward","blocks":[
+{"type":"steps","items":[
+"==Balanced criteria== — beyond raw population",
+"==Consensus building== across states",
+"==Gradual implementation==",
+"==Independent oversight==",
+"==Weighted voting in the Rajya Sabha==",
+"==Dual representation principle==",
+"==Incentivise population control==",
+"==Constitutional safeguards==",
+"==Strengthen Inter-State Councils=="
+]},
+{"type":"quote","text":"Delimitation is not just an arithmetic exercise of drawing lines on a map — it is a political act that redraws the contours of power, voice and equality. Should representation be a reward for growth or governance? If we mistake numerical majority for moral authority, we risk turning federalism into a formality and democracy into demography."}
+]}
+]}

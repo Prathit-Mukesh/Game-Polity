@@ -1,0 +1,20 @@
+{
+"num":"25","title":"GST","theme":"Federalism & Local Government",
+"lead":"Implemented in ==2017== — India's boldest step towards ==‘one nation, one tax, one market’==. The PAC's ==19th report== is scathing about how the regime has delivered on simplification and compliance.",
+"sections":[
+{"title":"Next-Gen GST — Rates from 22 Sept 2025","blocks":[
+{"type":"stats","items":[
+{"value":"5%","label":"essentials — household goods, packed food, clothing, shoes, pharma"},
+{"value":"18%","label":"new standard rate for most goods, services, electronics — replacing 28%"},
+{"value":"40%","label":"luxury/sin — luxury cars, high-end motorcycles, pan masala, tobacco, aerated drinks"},
+{"value":"0%","label":"health and life insurance premiums — now exempt"}
+]}]},
+{"title":"Advantages vs Issues","blocks":[
+{"type":"cards","wide":true,"items":[
+{"title":"Advantages","bullets":["==Common national market== — easier interstate commerce","==No cascading== + input tax credit → lower tax burden","==Broader tax base==, digital-first compliance, formalisation","Self-policing structure makes ==evasion harder==","Streamlined supply chains, ==lower logistics costs=="]},
+{"title":"Issues","bullets":["==Tech and compliance hurdles== for SMEs with limited digital literacy","PAC: ==~2 percentage-point drop== in indirect tax revenue between FY18 and FY20 (pre-COVID)","==Complexity==: frequent rate changes, multiple filings","==Centralising tendencies==: destination-based levy hurts ==manufacturing-heavy states==; fiscal autonomy concerns","==Compensation delays== — the promised 14% annual growth (2017–22, FY16 base) often arrived late or not at all","==Exclusions==: alcohol and select petroleum products remain outside GST"]}
+]}]},
+{"title":"Conclusion","blocks":[
+{"type":"quote","text":"GST was envisioned as a unifying force for India's fragmented tax landscape — but unity without equity breeds friction. The real test of GST lies not in its design, but in its delivery. For GST to truly succeed, it must balance efficiency with empathy, and harmonisation with federal trust."}
+]}
+]}

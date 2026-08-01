@@ -1,0 +1,42 @@
+{
+"num":"79","title":"Election Commission of India","theme":"Elections & Representation",
+"lead":"Parliamentary proceedings to ==remove the CEC== were initiated — unsuccessfully — for the ==first time in Indian history==. The Government replaced the ==CJI with a Union Cabinet Minister== on the collegium earmarked by the SC in [[Anoop Baranwal v. UoI (2023)]], via the ==CEC and Other ECs Act, 2023== — now challenged in [[Jaya Thakur v. UoI]].",
+"sections":[
+{"title":"Role & Functions","blocks":[
+{"type":"cards","wide":true,"items":[
+{"title":"Core Electoral Functions","bullets":["==Superintendence and conduct== of elections to Parliament, State Legislatures and the offices of President & Vice-President","==Preparation and periodic revision of electoral rolls==","==Election scheduling== — poll dates, scrutiny of nominations, announcement of results","==Monitoring election expenditure== of candidates and parties","==Countermanding or cancelling polls== in cases of mass rigging","Conduct of ==by-elections== and delimitation assistance"]},
+{"title":"Party & Advisory Functions","bullets":["==Registration of political parties== under ==s.29A RoPA==","==Recognition== as national or state parties and ==allotment of symbols==","==Advisory role== to President/Governors on ==disqualification of MPs/MLAs==","Appointment of officers to inquire into electoral disputes; ==requesting staff== from President/Governors","==Enforcing the Model Code of Conduct==","==Electoral reforms== and ==voter awareness campaigns=="]}
+]}]},
+{"title":"Issues & Solutions","blocks":[
+{"type":"cards","wide":true,"items":[
+{"title":"Issues","bullets":["==Lack of transparency in appointments==","==Perceived partisanship== due to executive control over appointments","==Limited control over election machinery== — dependent on state staff","==Weak enforcement of MCC== — not legally binding","==Delayed disqualification== proceedings due to legal loopholes","==Political pressure== — reluctance to act strongly against ruling parties","Weak action against ==hate speech and communal campaigning==","==Under-regulated party funding==, opacity in donations","Slow judicial process in ==election petitions==","==Non-auditable EVMs== — partially addressed by VVPATs"]},
+{"title":"Solutions","bullets":["==Transparent appointment process== — involve the CJI in the committee","==Codify the MCC== into law with enhanced penalties","==Financial transparency== — full donation disclosure and party audits","==Decriminalisation== — strict disqualification for serious criminal charges","==Technology and innovation== in registration, polling, results","==Public awareness== and voter education","==Judicial oversight== of electoral disputes","==Empower the ECI== with control over election staff and resources"]}
+]},
+{"type":"table","head":["Case","Holding"],"rows":[
+["[[T.N. Seshan v. UoI (1995)]]","CEC is ==‘first among equals’==."],
+["[[UoI v. ADR (2002)]]","Voters have a ==fundamental right under Art 19(1)(a)== to know candidates' antecedents."],
+["[[PUCL v. UoI (2003)]]","Introduced the ==right to a negative vote==."],
+["[[Jan Chaukidar v. UoI (2013)]]","A person in ==lawful custody (even unconvicted)== is barred from voting and thus from contesting under RoPA."]
+]}]},
+{"title":"Model Code of Conduct","blocks":[
+{"type":"cards","wide":true,"items":[
+{"title":"Nature & Provisions","bullets":["ECI guidelines regulating parties and candidates — ==no statutory backing==, operating under ==plenary powers under Art 324==","==No new schemes, grants or construction promises== during elections","No use of ==government transport/resources== for campaigning","==No appeals to caste or communal sentiment==","Ministers must not combine ==official visits with electioneering==","Prohibits ==hate speech, bribery, intimidation=="]},
+{"title":"Issues & Solutions","bullets":["==Non-enforceability== due to lack of legal backing","==Violation by ruling parties== through populist announcements","==Delayed action== reducing MCC to mere advisories; ==weak penalties==","==Hate speech and fake news== not effectively tackled","==Solutions==: grant ==statutory status==; ==graded penalties== (fines, bans); ==real-time tracking and citizen reporting==; collaboration with social media and MeitY; ==greater suo motu powers== for the ECI"]}
+]}]},
+{"title":"Electoral Reforms","blocks":[
+{"type":"cards","wide":true,"items":[
+{"title":"Undertaken","bullets":["==Voting age lowered to 18== (61st CA)","==EVMs and later VVPATs==","==EPICs== (Electoral Photo ID Cards)","==Expenditure limits== and mandatory criminal-background affidavits","==NOTA== since 2013"]},
+{"title":"Proposed","bullets":["==Simultaneous elections== (Union & State)","==Decriminalisation of politics== — pending legislative action","==State funding of elections==","Regulation of ==inner-party democracy and party funding==","Greater transparency in ==financial declarations==","==Reform of FPTP== — proposed ==two-round voting== in tight contests","==Ban on contesting from multiple seats=="]}
+]}]},
+{"title":"Electoral Finance","blocks":[
+{"type":"bullets","items":[
+"==Pre-2017==: individual donations (₹2,000 anonymous cap), corporate contributions (==7.5% of average net profits==), indirect state subsidies (free airtime); RoPA required ==disclosure above ₹20,000==.",
+"==Finance Act, 2016==: amended ==FCRA== to permit ==foreign-owned Indian companies== to donate.",
+"==Finance Act, 2017==: ==removed corporate donation caps and disclosure requirements==, enabling unlimited anonymous funding; introduced ==Electoral Bonds== via RBI Act, IT Act and Companies Act amendments; exempted parties from disclosing EB donations.",
+"==Electoral Bond Scheme (2018–2024)==: interest-free, tax-exempt instruments sold via SBI up to ==₹1 crore==; purchaser anonymity guaranteed. ==73% of Congress's 2024 donations and 43% of BJP's== came via EBs. ==Struck down (Feb 2024)== for violating ==Art 19(1)(a)== and enabling ==corporate quid pro quo==."
+]},
+{"type":"cards","wide":true,"items":[
+{"title":"Corporate, Trust & Individual Donations","bullets":["==Post-2017 surge==: corporate donations were ==88.9% of national parties' funding in 2023–24==; BJP received ==₹2,064.5 crore — 9× more than all others combined==","==Prudent Electoral Trust==: ₹723.6 cr to BJP, ₹156.4 cr to Congress; ==Triumph Electoral Trust==: ₹127.5 cr exclusively to BJP","==Concern==: unlimited corporate funding risks ==crony capitalism==","==Individual==: disclosure mandatory above ₹20,000, but ==72% of BJP's 2023–24 funds came from unknown sources=="]},
+{"title":"State Funding & Solutions","bullets":["==Indirect support==: free airtime on Doordarshan/AIR, tax exemptions, subsidised utilities","==Indrajit Gupta Committee (1998)==: ==partial state funding== to level the playing field","==Law Commission (1999)==: ==full state funding contingent on internal party democracy==","==Bring political parties under RTI==","==Reintroduce caps on corporate donations== and disclose recipient parties","==Amend s.77 RoPA== to include ==all third-party expenses=="]}
+]}]}
+]}

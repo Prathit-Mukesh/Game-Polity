@@ -1,0 +1,49 @@
+{
+"num":"81","title":"Women's Reservation in Legislatures","theme":"Elections & Representation",
+"lead":"The demand dates to the Constituent Assembly, but only the ==106th CA Act, 2023 — the Nari Shakti Vandan Adhiniyam== — enacted one-third reservation in the Lok Sabha and State Assemblies. Local body reservation under ==Arts 243D and 243T== has been in force since 1993; legislature-level reservation remains, as of mid-2026, ==enacted in law but not yet operational==.",
+"sections":[
+{"title":"The 106th Constitutional Amendment Act, 2023","blocks":[
+{"type":"table","head":["Article","Provision"],"rows":[
+["==Article 330A== (new)","Reserves ==not less than one-third== of Lok Sabha seats for women, including a ==sub-reservation for women within SC/ST seats==."],
+["==Article 332A== (new)","Mirrors the above for ==State Legislative Assemblies==, with an SC/ST women sub-quota."],
+["Article 239AA amendment","Extends the one-third reservation to the ==Delhi Legislative Assembly==."],
+["==Article 334A== (new)","Operationalising/sunset clause: reservation takes effect ==only after delimitation based on the first Census after commencement==; reserved seats ==rotated after each delimitation==; reservation ==ceases after 15 years== unless extended by Parliament."]
+]},
+{"type":"callout","text":"==The delimitation bottleneck==: Art 334A ties implementation to delimitation after the first post-Amendment Census. Since the ongoing Census (reference date ==1 March 2027==) hadn't concluded, and delimitation is itself multi-year, analysts calculated reservation ==would not take effect before the 2034 general election== — a decade-long gap between enactment and operation."}
+]},
+{"title":"The 2026 Legislative Package and Its Defeat","blocks":[
+{"type":"bullets","items":[
+"==Constitution (131st Amendment) Bill, 2026== — sought to delete the ==Art 82 proviso== requiring the next delimitation to follow the first Census after 2026, permitting delimitation on ==2011 Census data==.",
+"==Delimitation Bill, 2026== — would have repealed the Delimitation Act, 2002 and empowered a new Commission chaired by a sitting or former SC judge; reportedly proposed expanding Lok Sabha strength ==from 550 to 850 seats==.",
+"==Union Territories Laws (Amendment) Bill, 2026== — equivalent changes for Delhi, Puducherry and J&K.",
+"==Stated intent==: trigger the quota in time for the ==2029 general election==, including the mandatory SC/ST women's sub-quota. But the ==131st Amendment Bill failed to secure the special majority== in the Lok Sabha amid strong opposition from southern and other states.",
+"==The objection==: decoupling delimitation from future Census data — after seat shares were ==frozen since 1971 for exactly this reason== — would ==penalise states that achieved faster demographic transition== while rewarding higher-fertility states. This re-opened India's ==long-standing federal fault line== over population-based representation, with women's reservation caught in the middle."
+]},
+{"type":"callout","text":"==Where things stand (July 2026)==: the 106th Amendment is ==in force as law but not operative== in any election. The 2026 fast-track attempt was defeated, leaving the ==original Art 334A timeline intact==. ==2029 is no longer assured==; several analysts cite ==2034== as the likelier horizon. A ==PIL is pending in the SC== arguing an enacted constitutional guarantee cannot be held in abeyance indefinitely — ==notice issued to the Centre==, matter sub judice."}
+]},
+{"title":"Issues & Challenges","blocks":[
+{"type":"cards","wide":true,"items":[
+{"title":"Implementation & Design","bullets":["==Delimitation deadlock== deferring reservation by a decade — undermining a guarantee that had near-unanimous support in 2023","==Federal tension== — expediting delimitation reopens the population-versus-representation debate (defeat of the 131st Amendment Bill)","==Rotation of reserved constituencies== may discourage sustained constituency-building by women MPs/MLAs","==15-year sunset clause== — is one delimitation cycle enough to institutionalise change?","==No sub-quota for OBC women== — a long-standing demand and a major reason earlier Bills (1996–2010) repeatedly failed"]},
+{"title":"Structural & Political","bullets":["==Party ticket distribution== — in 2024 most major parties gave women ==well under 20%== of tickets","==Proxy representation risk== — the Panchayat-level ==‘sarpanch pati’/‘pradhan pati’== dynamic could repeat at state and national level","==Intra-party glass ceiling== — low presence in Cabinet, key ministries and party leadership","==Resource and campaign disadvantages== — financial constraints, less access to party machinery, safety barriers","==Intersectionality== — gender-only reservation may still under-represent women from religious minorities, disability groups and other margins"]}
+]}]},
+{"title":"Global Comparison","blocks":[
+{"type":"table","head":["Country/region","Mechanism"],"rows":[
+["==Rwanda==","Constitutionally mandates a ==minimum 30% women== in decision-making bodies; combined with party-list PR and post-conflict political will."],
+["==Nordic countries==","==No binding national legal quota== — achieved through ==voluntary party quotas==, PR electoral systems and a gender-equal political culture."],
+["==France==","==‘Parity law’ (2000)== requiring parties to field near-equal numbers of male and female candidates in list elections, with ==financial penalties== for non-compliance."],
+["Nepal","Constitution mandates ==at least 33% women== in the federal parliament via a mixed FPTP + PR system with a gender-balanced party-list requirement."]
+]}]},
+{"title":"Way Forward","blocks":[
+{"type":"steps","items":[
+"==Delink implementation from delimitation, or set a firm timeline== — amend Art 334A to allow reservation on the ==existing seat structure==",
+"==Build federal consensus on delimitation separately== — an independent commission, demographic-transition incentives, or a formula partially decoupling seats from raw population growth, so delimitation reform stops being ==the graveyard of women's reservation==",
+"==Introduce an OBC women sub-quota== mirroring the SC/ST sub-quota",
+"==Strengthen safeguards against proxy representation== — capacity building, leadership training, requiring elected women to ==personally exercise statutory functions==",
+"==Encourage voluntary party quotas in the interim== — internal party constitutions or ECI-facilitated voluntary codes ahead of 2029",
+"==Review rotation and sunset design== — longer, predictable cycles and a transparent, criteria-based extension process",
+"==Complementary reforms== — campaign finance support, safety provisions, mentorship pipelines, civic education",
+"==Institutional monitoring== — NCW and ECI jointly tracking and publicly reporting women's candidacy"
+]},
+{"type":"quote","text":"Women's reservation in Parliament is not merely about increasing numbers; it is about correcting a historical imbalance in who speaks, decides, and shapes the nation's priorities."}
+]}
+]}

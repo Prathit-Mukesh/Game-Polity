@@ -1,0 +1,22 @@
+{
+"num":"66","title":"Arbitration v Conciliation v Mediation","theme":"ADR, Tribunals & Tech",
+"lead":"One comparison chart across ==thirteen dimensions== — governing law, initiation, procedure, outcome, enforceability, cost, appeal and flexibility. The single most examinable table in the ADR block.",
+"sections":[
+{"title":"The Comparison Chart","blocks":[
+{"type":"table","head":["Aspect","Arbitration","Conciliation","Mediation"],"rows":[
+["Governing law","==Arbitration and Conciliation Act, 1996==","A&C Act, 1996 (==Part III==); Mediation Act, 2023","==Mediation Act, 2023==; CPC s.89; SC Mediation Rules"],
+["Initiation","==Written arbitration agreement or clause==; notice of arbitration","Mutual consent; ==written invitation to conciliate==; appointment of conciliator","Mutual consent; ==court referral==; pre-litigation mediation under the 2023 Act"],
+["Neutral party","==Arbitrator(s)== appointed by parties or court — impartial and independent","==Conciliator(s)== appointed by parties — 1 to 3","==Mediator== chosen by parties or appointed — must be ==certified== under the 2023 Act"],
+["Procedure","==Formal hearings==; pleadings and evidence; ==cross-examination allowed==","Less formal; joint and separate meetings; ==may suggest settlement terms==","Informal; ==facilitates dialogue==; joint and private sessions; ==no power to impose=="],
+["Outcome","==Binding arbitral award== — final, enforceable like a court decree","==Non-binding settlement==, binding once signed by parties","==Non-binding mediated settlement==, made binding by court order"],
+["Enforceability","Domestic awards under ==s.36==","Under ==s.73== of the A&C Act","Under ==s.28== of the Mediation Act; ==challengeable within 90 days=="],
+["Confidentiality","Confidential proceedings; ==award may be public== unless agreed otherwise","==Highly confidential== — s.75 bars disclosure","Confidential under ==s.21==; exceptions for implementation/enforcement"],
+["Applicable disputes","Commercial, civil; some excluded (criminal, matrimonial)","Commercial, civil, family; ==not non-compoundable offences==","==All civil, commercial, family==; exceptions in the First Schedule"],
+["Court intervention","Limited to appointment, interim measures, enforcement/setting aside","==Minimal== — court may appoint if parties fail to agree","Court can ==refer== cases and ==enforce== settlements"],
+["Time frame","==12 months== from completion of pleadings, +6 (s.29A)","==No specific limit== — parties agree","==120 days==, extendable to 180 with consent"],
+["Cost","==Generally higher== — arbitrator fees, venue, legal representation","Moderate — conciliator fees, administration","==Usually lowest== — mediator fees, possible enforcement court fees"],
+["Appeal","Limited grounds under ==s.34==; 3-month limit","==No appeal== — treated as an arbitral award","Limited challenge under ==s.29== of the Mediation Act"],
+["Role of neutral","==Adjudicatory== — binding decision on evidence and law","==Advisory== — actively proposes solutions","==Facilitative== — helps parties find their own solution"],
+["Flexibility","Less flexible — agreed or institutional rules","Moderately flexible","==Highly flexible== — parties control process and outcome"]
+]}]}
+]}

@@ -1,0 +1,20 @@
+{
+"num":"40","title":"Comparative: Judiciary","theme":"Comparative Constitutions",
+"lead":"India's ==integrated single pyramid== vs America's ==dual federal-state courts==, Britain's ==unified but subordinate== judiciary, and France's ==split ordinary–administrative–constitutional== system.",
+"sections":[
+{"title":"India · US · UK · France","blocks":[
+{"type":"table","head":["Aspect","India","United States","United Kingdom","France"],"rows":[
+["Structure","==Integrated, unified==.","==Dual==: federal + state courts.","Unified, decentralised magistrates.","==Triple==: ordinary + administrative + constitutional."],
+["Apex court","Supreme Court — ==34 judges==.","US Supreme Court — ==9 justices==.","UK Supreme Court (est. ==2009==) — 12.","==Constitutional Council (9)== + Cour de Cassation + Conseil d'État."],
+["Appointments","==Collegium==, formally by the President.","President nominates, ==Senate confirms==.","Monarch on PM's/commissions' advice.","President, Speakers etc. appoint."],
+["Tenure","SC to ==65==, HC to 62; impeachment removal.","==Life tenure== (good behaviour).","To age 75.","Fixed terms — ==9 years== (Council)."],
+["Judicial review","Explicit; extends to ==amendments (basic structure)==.","Strong, entrenched — Marbury.","Limited — ==Parliament sovereign==.","==A priori and a posteriori== constitutional review."],
+["Binding force","==Art 141== — SC binds all courts.","Final and binding; stare decisis.","Precedent respected, ==not binding on Parliament==.","Council rulings binding."],
+["==PIL==","Actively used; ==liberal standing pioneered==.","Limited — strict standing.","Rare, restricted.","Weak; strict standing."],
+["Activism","Prominent — socio-economic rights, environment, elections.","Era-dependent (==Warren Court==).","Minimal — deferential.","Conservative; law–policy separation."],
+["Role","==Guardian of Constitution==, federalism and rights.","Co-equal branch checking Congress & President.","Subordinate to Parliament.","Shared guardianship — Council + courts."],
+["Specialised courts","Tribunals — tax, environment, company law.","Federal specialty courts.","Administrative tribunals.","==Conseil d'État==, Cour des Comptes."],
+["Jury","==Not anymore==.","Constitutionally guaranteed (criminal).","Serious criminal trials.","Some serious criminal trials."],
+["Recent trends","Overreach concerns; digitisation; ==live-streaming (2023)==.","==Politicised appointments==; culture wars.","Post-Brexit expansion; devolution disputes.","Council increasingly assertive vs presidential power."]
+]}]}
+]}

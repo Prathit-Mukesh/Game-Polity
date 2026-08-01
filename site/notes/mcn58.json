@@ -1,0 +1,40 @@
+{
+"num":"58","title":"Subordinate Judicial Appointments","theme":"Judiciary",
+"lead":"The subordinate judiciary — the ==‘first line of defence’== — suffers ==23% vacancies== and accounts for ==87% of India's total pendency==.",
+"sections":[
+{"title":"Framework & Process","blocks":[
+{"type":"cards","wide":true,"items":[
+{"title":"Constitutional Framework","bullets":["==Art 233==: District Judges appointed by the ==Governor in consultation with the HC==","==Art 234==: subordinate judiciary by the Governor in consultation with ==HC and SPSC==","==Art 235==: ==control over the subordinate judiciary rests with the High Court==","==Art 312==: AIJS by Parliament — ==not implemented=="]},
+{"title":"How Recruitment Works","bullets":["Each State has its ==own judicial service==; HC judges mostly come from it and from the State HC Bar","Split between the ==regular judicial service== and the ==higher judicial service==","District & Sessions Judges in the senior cadre; civil judges and magistrates in the lower","==Competitive exam by SPSC== in consultation with the HC — a ==3-year prior practice requirement== has recently been made mandatory","Bar members can enter the senior cadre directly with ==7+ years' practice== — District Judges need ==7 years== and are appointed by the Governor on the HC's recommendation"]}
+]}]},
+{"title":"Case Law & Committee Recommendations","blocks":[
+{"type":"table","head":["Case","Importance"],"rows":[
+["[[All India Judges Association v. UoI (1992, 2002)]]","Norms for ==service conditions, fixed tenure, training==."],
+["[[All India Judges Association v. UoI (2002)]]","Directed establishment of ==State Judicial Academies==."],
+["[[Malik Mazhar Sultan v. UP PSC (2006–2017)]]","==Fixed calendar deadlines== for recruitment of judges."],
+["[[Centre for PIL v. UoI (2019)]]","==Delay in appointments violates access to justice==."]
+]},
+{"type":"table","head":["Body","Recommendation"],"rows":[
+["==Law Commission, 116th Report (1986)==","Creation of an ==All India Judicial Service (AIJS)==."],
+["==Malimath Committee (2003)==","Fast-track courts, AIJS, improved conditions for judicial officers."],
+["Justice M. Jagannadha Rao Committee","A ==common judicial service exam== and judicial academies."],
+["==21st Law Commission==","Urgent steps to implement AIJS ==with consultation==."]
+]}]},
+{"title":"Key Issues","blocks":[
+{"type":"bullets","items":[
+"==Inconsistencies across States== in exams, syllabi and selection standards; no uniformity in eligibility and recruitment rules.",
+"==Delays in filling vacancies== — ~==20–30% of sanctioned posts vacant== in many states.",
+"==Political and executive interference== in some states.",
+"==Poor service conditions, infrastructure and training==; no institutionalised judicial academy training across states.",
+"==Training gaps== — newly recruited judges often under-prepared."
+]}]},
+{"title":"The AIJS Debate","blocks":[
+{"type":"table","head":["For AIJS","Against AIJS"],"rows":[
+["==Ensures uniformity, merit, all-India mobility==","==Infringes state rights under Arts 233–234=="],
+["Solves vacancies and the talent crunch","==Language and local-law challenges=="],
+["Better career pipeline","==Undermines the High Court's oversight role=="],
+["Common training and evaluation","Centre encroaching on ==judicial federalism=="]
+]},
+{"type":"quote","text":"A judiciary that fails at its lowest rung fractures the promise of justice at every level. Until appointments to the subordinate courts are made timely, transparently and uniformly, the lofty ideals of constitutional justice will remain paper-deep."}
+]}
+]}

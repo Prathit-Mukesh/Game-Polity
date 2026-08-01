@@ -1,0 +1,30 @@
+{
+"num":"20","title":"15th FC v 16th FC","theme":"Federalism & Local Government",
+"lead":"Similar in ==vertical devolution (41%)== but sharply different in ==horizontal formula, grant design==, and the philosophy of ==‘equity vs performance’==.",
+"sections":[
+{"title":"The Two Commissions","blocks":[
+{"type":"table","head":["Feature","15th FC","16th FC"],"rows":[
+["Chairperson","==N. K. Singh==","==Arvind Panagariya=="],
+["Award period","2021-22 to 2025-26 (+2020-21)","==2026-27 to 2030-31=="],
+["Constitutional basis","Article 280","Article 280"]
+]}]},
+{"title":"Vertical Devolution","blocks":[
+{"type":"bullets","items":[
+"Both give states ==41% of the divisible pool== — the 16th FC imparts a ==‘semi-permanence’== to the figure.",
+"Divisible pool = gross central taxes ==minus collection costs, cesses and surcharges== — the 16th FC grapples more explicitly with the ==shrinking effective pool==.",
+"==‘Grand bargain’ (16th FC)==: states accept a smaller percentage in return for a ==larger pool== if the Centre merges cesses/surcharges into shareable taxes.",
+"16th FC ==discontinues revenue deficit, sector-specific and state-specific grants== — replaced by ==rule-based, performance-linked instruments==."
+]}]},
+{"title":"Horizontal Formula — Criteria & Weights","blocks":[
+{"type":"table","head":["Criterion","15th FC","16th FC","Implication"],"rows":[
+["==Income distance==","45%","==42.5%==","Slight dilution of pure equity; still the dominant redistributive factor."],
+["Population (2011)","15%","==17.5%==","More weight to population-linked expenditure needs."],
+["Demographic performance","12.5%","==10%==","Population-control incentive continues, less emphatic."],
+["Area","15%","==10%==","Reduced advantage for large-area states."],
+["Forest & ecology","10%","10%","Continuity in rewarding ecological services."],
+["Tax & fiscal effort","2.5%","==dropped==","16th FC drops the explicit effort criterion."],
+["==Contribution to GDP==","—","==10% (new)==","New efficiency / growth-oriented parameter."]
+]},
+{"type":"callout","text":"Net effect: a ==rebalancing of equity and efficiency== — equity retained through income distance, efficiency added through the GDP-contribution criterion."}
+]}
+]}

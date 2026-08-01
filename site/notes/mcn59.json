@@ -1,0 +1,34 @@
+{
+"num":"59","title":"Judicial Review","theme":"Judiciary",
+"lead":"Judicial Review is ==sine qua non== for a federal parliamentary democracy assuring one of the world's most exhaustive sets of rights. In [[L. Chandra Kumar v. UoI (1997)]] the SC declared ==Arts 32 and 226 part of the basic structure== — though ‘judicial review’ is ==not itself mentioned== in the Constitution.",
+"sections":[
+{"title":"Foundations","blocks":[
+{"type":"cards","items":[
+{"title":"Essentials for JR","bullets":["==Rule of law==; constitutionalism","==Written Constitution==","Rights & liberties; democracy","==Separation of powers==","==Independence of the judiciary=="]},
+{"title":"Constitutional Sources","bullets":["==Art 13==: laws can't violate FRs","==Art 32== (SC) / ==Art 226== (HC) writs","==Art 131==: Centre–State / State–State disputes (SC only)","==Arts 132–136==: civil, criminal, special leave appeals","==Art 142==: ‘complete justice’ (SC only)","==Art 143==: President's Reference (SC only)","==Art 246==: division of powers","==Art 228==: HC transfer of specific cases"]},
+{"title":"Doctrines Enhancing JR","bullets":["==Basic Structure==; Eclipse; Severability; Waiver","==Colourable Legislation==; ==Pith & Substance==","==Proportionality==; Legitimate Expectation","==Harmonious Construction==","==Due process of law==; principles of natural justice"]},
+{"title":"Impact of JR","bullets":["Rule of law; constitutionalism","Rights & liberties","==Parliamentary democracy==; checks & balances","Federalism; ==judicial activism=="]}
+]},
+{"type":"callout","text":"==SC and HCs do NOT have identical JR powers.== The SC can review its own judgments via ==Review Petitions (Art 137)== and ==Curative Petitions ([[Rupa Ashok Hurra]], 2002 guidelines)==, which HCs cannot. Not all appeals are judicial review (e.g. bail-denial appeals aren't). The Constitution ==doesn't explicitly mention HC appellate jurisdiction== as it does for the SC."}
+]},
+{"title":"Impact on Parliamentary Democracy & Separation of Powers","blocks":[
+{"type":"table","head":["Positive","Negative"],"rows":[
+["==Constitutional safeguard== — Basic Structure Doctrine","==Democratic deficit== — NJAC judgment (2015)"],
+["==Executive accountability== — [[Maneka Gandhi (1978)]] due process","==Policy disruption== — [[P. Chidambaram v. ED (2019)]], bail policy under scrutiny"],
+["==Electoral fairness== — ADR (Electoral Bonds), [[Lily Thomas]]","==Judicial overreach== — Collegium; ECI appointments ([[Anoop Baranwal]])"],
+["==Minority protection== — [[Navtej Singh Johar (2018)]]","==Delayed reforms== — staying the farm laws (2021)"],
+["Protection of FRs — [[Romesh Thappar (1950)]]","==Operational delays== — environmental clearances"],
+["==Empowers citizens== — Arts 32/226","==Judicial encroachment== — Vishaka Guidelines"],
+["Protecting federal interests — [[S.R. Bommai (1994)]]",""],
+["Balanced governance — [[Minerva Mills]]",""],
+["Checks executive arbitrariness — [[Krishna Kumar (2017)]] on ordinances",""]
+]}]},
+{"title":"Limitations of Judicial Review","blocks":[
+{"type":"bullets","items":[
+"==Express exclusions==: CoM advice to the President/Governor (Arts 74, 163); ==legislative proceedings (Arts 122, 212)==; ==delimitation orders (Arts 329, 243O, 243ZG)==; adaptation of pre-Constitution laws by Presidential order (Art 372); ==laws added to the Ninth Schedule before 24 April 1973== (Kesavananda).",
+"==Constitutional immunities==: ==Art 361== presidential/gubernatorial immunity for official acts; judicial immunity (Arts 124(4), 218). On the ==Ninth Schedule==, [[I.R. Coelho v. State of TN (2007)]] held laws added ==after 24 April 1973 ARE reviewable== if they violate FRs or basic structure.",
+"==Separation of powers==: courts avoid ==‘political questions’== and the wisdom of ==policy decisions== within constitutional bounds.",
+"==Procedural constraints==: ==locus standi==, time limitations, ==res judicata==.",
+"==Judicial self-restraint== — e.g. the [[Supriyo]] same-sex marriage case; ==deference to expertise== of specialised bodies; ==presumption of constitutionality== with the burden on the challenger."
+]}]}
+]}

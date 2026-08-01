@@ -1,0 +1,58 @@
+{
+"num":"77","title":"RoPA, 1951","theme":"Elections & Representation",
+"lead":"Are our election laws resilient enough to defend the ==spirit of democracy, not just its ritual==? The answer lies not only in how we enforce the law, but in how we reform it — transforming it from a ==reactive mechanism into a proactive bulwark== of democratic ethics.",
+"sections":[
+{"title":"Disqualification Provisions","blocks":[
+{"type":"cards","wide":true,"items":[
+{"title":"s.8 — Conviction-Based","kicker":"6-year ban · court + automatic","bullets":["==If only fined==: from date of conviction; ==if jailed==: from release","==Irrespective of punishment== — Civil Rights Act 1955, Customs Act 1962, ==UAPA 1967==, NDPS 1985, Religious Institutions 1988, ==Places of Worship Act 1991==, National Honour Act 1971, Sati (Prevention) Act 1988, ==Corruption Act 1988==; some BNS offences (promoting enmity, bribery, rape, cruelty); some ==electoral offences== (booth capturing, ballot tampering)","==Minimum 6 months' jail== — hoarding/profiteering/adulteration of food or drugs; ==Dowry Prohibition Act, 1961==","==Any other law: minimum 2 years' jail=="]},
+{"title":"ss.8A–10A — Other Grounds","bullets":["==s.8A==: convicted for ==‘corrupt practices’ under s.123== (bribery, undue influence, coercion) — President decides on ECI advice based on a court finding; order presented ==within 3 months==; ==max 6-year ban==","==s.9==: ==5-year== disqualification if dismissed for ==disloyalty or corruption== (ECI → President/Governor)","==s.9A==: disqualified ==so long as== the member holds ==commercial contracts with the Union/State==","==s.10==: disqualified while a ==Manager or Agent of a company 25% owned by Union/State== (except cooperative societies)","==s.10A==: ==3-year== disqualification for ==improperly filed election expenses=="]}
+]}]},
+{"title":"Corrupt Practices v Electoral Offences","blocks":[
+{"type":"table","head":["Aspect","Corrupt practices","Electoral offences"],"rows":[
+["Defined in","==s.123, RoPA 1951==","==Chapter III, ss.125–136=="],
+["Nature","==Civil wrongs== but with severe consequences","==Criminal offences== under law"],
+["Examples","Bribery, undue influence","Booth capturing, false affidavit"],
+["Punishment","==Disqualification up to 6 years (s.8A)==","Imprisonment/fine under criminal law"],
+["Trial forum","==High Court== during an election petition","Criminal court"],
+["Disqualification trigger","==Yes (s.8A)==","Only if specifically mentioned in s.8"]
+]}]},
+{"title":"Remedies & Judgments","blocks":[
+{"type":"bullets","items":[
+"==Appeal on conviction== available to higher courts — but ==no automatic stay==: disqualification applies even while appeal is pending ([[Lily Thomas v. UoI, 2013]]).",
+"==Presidential disqualification (s.8A)==: no appeal, but a ==writ under Art 226 or 32== is possible.",
+"==Against ECI decisions==: writ under Arts 226/32. The ==ECI can remove or reduce== the disqualification period on certain grounds (==s.11==).",
+"==No bar to re-election== after the disqualification period."
+]},
+{"type":"table","head":["Case","Holding"],"rows":[
+["[[Dev Raj v. Bhagwan Das (1971)]]","Requires a ==nexus between gifts and voting inducement==, even via circumstantial evidence."],
+["[[Pratap Singh v. Jagdev Singh (1965)]]","An appeal to vote based on the ==candidate's language== is a corrupt practice."],
+["[[Pritpal Singh v. Ranjit Rai (1984)]]","Promoting hatred ==against the government is not== a corrupt practice — only against ==classes of citizens== it is."],
+["[[Lily Thomas v. UoI (2013)]]","Struck down ==s.8(4)== — disqualification is ==immediate upon conviction==, even if appealed."],
+["[[ECI v. Saka Venkata Rao (1953)]]","Clarified jurisdiction in election disputes."],
+["[[Lok Prahari v. UoI (2018)]]","Disqualification applies for ==failure to disclose assets==."]
+]}]},
+{"title":"Issues, Best Practice & Way Forward","blocks":[
+{"type":"cards","wide":true,"items":[
+{"title":"Issues","bullets":["==No uniform standard of moral turpitude== under s.8 → selective application","==Delay in Presidential decisions== under s.8A — political bias possible","==Judicial review limitation== — courts review the outcome, not the procedure, in anti-defection cases","==Criminalisation of politics== — candidates contest until appeals are exhausted","==Politicisation== — disqualification weaponised for political gain"]},
+{"title":"Global Best Practice","bullets":["==UK==: disqualification for those serving ==>1 year== in prison — ==no political discretion==","==Australia==: ==automatic disqualification== for offences with imprisonment >1 year; High Court supervises electoral disputes","==Philippines==: the electoral body has ==binding power to disqualify== candidates; clear timelines enforced"]},
+{"title":"Way Forward","bullets":["==Time-bound decisions== — a fixed 3-month limit for Speaker and President","==Independent tribunal== for disqualification cases","==Automatic disqualification== for heinous offences without waiting for the political process","==Pre-screening of candidates== before nomination","==Greater ECI autonomy and binding powers=="]}
+]}]},
+{"title":"Election Petitions","blocks":[
+{"type":"cards","wide":true,"items":[
+{"title":"Grounds — s.100","bullets":["==Corrupt practices== by candidate or agent","==Improper acceptance of nomination==","Improper use of ==official machinery==","Non-compliance with RoPA or Conduct Rules","Bribery, undue influence, ==booth capturing==, impersonation","==Result materially affected== by non-compliance or error"]},
+{"title":"Procedure","bullets":["Any ==elector or candidate== of the constituency may file","==Within 45 days== of result declaration (==s.81==)","Filed before the ==High Court== having jurisdiction (==s.80A==)","HC decision appealable to the ==SC (s.116A)=="]},
+{"title":"Issues","bullets":["==Delays== — cases stretch for years, rendering them ==infructuous==","==High cost and complexity==","==No special benches or dedicated courts==","Political pressure on petitioners","==No fast-track mechanism=="]}
+]},
+{"type":"table","head":["Case","Holding"],"rows":[
+["[[N.P. Ponnuswami v. Returning Officer (1952)]]","Courts ==cannot interfere at intermediary stages== of the election process — only election petitions can challenge results."],
+["[[Azhar Hussain v. Rajiv Gandhi (1986)]]","==Strict compliance== with procedural requirements in election petitions."],
+["[[Indira Gandhi v. Raj Narain (1975)]]","Precedent for ==judicial review of election matters==; struck down the 39th Amendment."],
+["[[Rajbala v. State of Haryana (2015)]]","The right to contest elections is ==not a fundamental right==."]
+]},
+{"type":"bullets","items":[
+"==Best practices==: ==UK== — petitions decided by the High Court with a strict ==21-day filing deadline==; ==Kenya== — a ==constitutionally mandated 6-month limit== to decide election petitions.",
+"==Way forward==: ==public hearings== for transparency; reasonable costs to encourage genuine petitions; ==Election Tribunals== (II ARC, Ethics in Governance); a ==publicly available petition database==; ==penalty for frivolous petitions==."
+]},
+{"type":"quote","text":"The true test of a democratic state is not how elections are celebrated, but how transparently, fairly and swiftly they are regulated."}
+]}
+]}

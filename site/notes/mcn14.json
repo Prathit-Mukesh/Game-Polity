@@ -1,0 +1,33 @@
+{
+"num":"14","title":"Fundamental Duties","theme":"Preamble & Fundamental Rights",
+"lead":"==Part IVA, Art 51A== — eleven duties, added on the ==Swaran Singh Committee's== recommendation. Non-justiciable, yet increasingly cited by courts. The SC in [[Durga Dutt v. UoI]] is hearing whether they can be made ==legally enforceable==.",
+"sections":[
+{"title":"Key Cases","blocks":[
+{"type":"table","head":["Case","Relevance to Fundamental Duties"],"rows":[
+["[[Balaji Raghavan v. UoI (1995)]]","Connected ==national awards== to Art 51A(j) — striving for excellence."],
+["[[M.C. Mehta v. Kamal Nath II (2000)]]","Environmental harm by hotel developers — relied on ==Art 51A(g)== read with Art 48A and Art 21."],
+["[[Javed v. State of Haryana (2003)]]","FRs must be read ==with DPSPs and Fundamental Duties== — rights cannot be viewed in isolation from duties."],
+["[[Ranganath Mishra v. UoI (2003)]]","Directed the Centre to implement the ==Justice J.S. Verma Committee== recommendations on duty awareness."]
+]}]},
+{"title":"Issues","blocks":[
+{"type":"cards","items":[
+{"title":"Non-Justiciable","bullets":["Not legally enforceable — ==moral obligations== with no legal compulsion."]},
+{"title":"Vague","bullets":["Broad phrasing (‘strive towards excellence’) is ==hard to interpret and implement==."]},
+{"title":"Limited Scope","bullets":["Omit civic essentials like ==paying taxes and voting== — recommended by Swaran Singh but not included."]},
+{"title":"Overlap & Redundancy","bullets":["Several duties duplicate existing laws and policies."]},
+{"title":"Placement","bullets":["Sit after the DPSPs (Part IVA) — ==perceived as less significant== than Fundamental Rights."]}
+]}]},
+{"title":"Should Duties Be Enforceable?","blocks":[
+{"type":"bullets","items":[
+"==Courts' stance==: duties ==guide==, they don't create directly enforceable obligations ([[AIIMS Students' Union]]). Making them punishable risks ==over-criminalisation== and conflicts with FRs.",
+"==Better route — translate select duties into law==: Art 51A(g) → Environment (Protection) Act regime, noise rules and fireworks time bands ([[In Re: Noise Pollution (2005)]]), environmental-education orders ([[M.C. Mehta (1991)]]).",
+"Use duties to justify ==proportionate restrictions== on FRs: [[Naveen Jindal (2004)]] balanced flag dignity with free expression.",
+"==Justice J.S. Verma Committee (1999)==: curricula, public campaigns — about ==civic culture, not criminal liability== (also mooted duties to vote, participate, pay taxes)."
+]},
+{"type":"cards","items":[
+{"title":"Possible Additions","bullets":["Duty to ==pay taxes==","Duty to ==vote==","Family planning","Duties regarding ==science and technology=="]}
+]}]},
+{"title":"Conclusion","blocks":[
+{"type":"quote","text":"Rights give us freedom, but duties give that freedom meaning."}
+]}
+]}

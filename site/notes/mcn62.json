@@ -1,0 +1,33 @@
+{
+"num":"62","title":"Recent Case Law Examples","theme":"Judiciary",
+"lead":"The 2025–2026 docket — ==rights, social justice, environmental governance==, and a fresh crop of ==Art 142, suo motu and judicial-review== questions. Use these as your current-affairs case bank.",
+"sections":[
+{"title":"Rights, Social Justice & Environment (2025–26)","blocks":[
+{"type":"table","head":["#","Theme","Case","Key holding"],"rows":[
+["1","Menstrual health","[[Dr. Jaya Thakur v. UoI]]","==Menstrual health/dignity under Arts 21, 21A, 14==; directed infrastructure, education, gender-sensitised curricula. Separately (==Shailendra Mani Tripathi== PIL) declined to mandate uniform ==paid menstrual leave== fearing hiring bias — referred design to MWCD."],
+["2","Artificial nutrition & passive euthanasia","[[Harish Rana v. UoI (M.A. 2238/2025)]]","==First actual application of Common Cause (2018)==; ==CANH/PEG-tube feeding is ‘medical treatment’== that can be withdrawn under the ==best-interest test== when it only prolongs dying."],
+["3","Safe passage on highways","[[In Re: Phalodi Accident]] (after [[Gyan Prakash v. UoI, 2025]])","==‘Right to safe passage on roads’ part of Art 21==; positive duty on NHAI/MoRTH to remove encroachments and blackspots. ==Suo motu after 34 deaths==; ==13 guidelines== issued."],
+["4","Freedom from animal attacks","[[In Re: City Hounded by Strays]]","Dignity includes ==freedom from stray dog/cattle attacks==; fencing of schools/hospitals, sterilisation-relocation, ==personal liability for defaulting officials==."],
+["5","Trafficking victims' rehabilitation","[[Prajwala v. UoI]]","First recognised a ==constitutional right to rehabilitation== under Arts 21 & 23; a ==Victim Protection Plan==; rehabilitation ==cannot be forced==; distinguished trafficking from voluntary adult sex work."],
+["6","Right to walk on footpaths","[[Maniyar Iliyaz v. P. Ayyappan]]","Walking on safe, demarcated footpaths is a ==fundamental right under Art 19(1)(d)== with an Art 21 dimension, ==taking priority over vehicular movement==."],
+["7","Chambal sand mining","[[In Re: Illegal Sand Mining in National Chambal Sanctuary]]","Suo motu on mining destroying ==Gharial habitat==; ==stayed denotification of 732 hectares==; GPS/CCTV monitoring; officials potentially ==vicariously liable==."],
+["8","NCERT textbook","[[In Re: NCERT Class 8 Textbook]]","Suo motu on a chapter referencing judicial corruption/backlog — ==blanket ban==, seizure and digital takedown, show-cause notices; textbook later withdrawn."],
+["9","Maternity leave for adoptive mothers","[[Hamsaanandini Nanduri v. UoI]]","Struck down ==s.60(4), Code on Social Security 2020== (3-month child age cap) under Arts 14 & 21 — ==12 weeks' leave irrespective of the child's age==; Centre urged to legislate ==paternity leave==."],
+["10","Aravalli hills / mining","[[In Re: Definition of Aravalli Hills and Ranges]]","Accepted a ==100m height + 500m buffer== definition and an MPSM; after protests ==stayed its own order== and constituted a fresh ==High-Powered Expert Committee== — interim mining freeze continues."],
+["11","CSR includes environment","[[M.K. Ranjitsinh v. UoI]] (Great Indian Bustard)","CSR inherently includes ==Corporate Environmental Responsibility== — a ==constitutional obligation under Art 51A(g)== and s.166(2) Companies Act, not voluntary charity; banned solar >2MW and overhead lines in GIB habitat."],
+["12","Narco tests","[[Amlesh Kumar v. State of Bihar]]","Reaffirmed [[Selvi (2010)]] — ==forced narco tests violate Arts 20(3) & 21==; voluntary tests need ==magistrate-recorded consent== and have ==no standalone evidentiary value==."],
+["13","Ex post facto environmental clearances","[[Vanashakti v. UoI]] → [[CREDAI v. Vanashakti]] (review)","Originally struck down the 2017 Notification/2021 OM permitting ==retrospective ECs== as unconstitutional; on review a ==2:1 bench recalled== the ruling — criticised in dissent as ==retrogression from the precautionary principle==."]
+]}]},
+{"title":"Judicial Review, Activism, Suo Motu & Art 142","blocks":[
+{"type":"table","head":["#","Theme","Case","Key holding"],"rows":[
+["14","Interim stay standard","[[In re: Waqf (Amendment) Act, 2025]] (Owaisi v. UoI)","Refused a blanket stay (==presumption of constitutionality==) but ==partially stayed specific provisions== — a ==calibrated, restrained model== of reviewing a full statute."],
+["15","Suo motu + Art 142 (road safety)","[[In Re: Phalodi Accident v. NHAI]]","Suo motu after 34 deaths; invoked ==Art 142 for nationwide interim directions== — reviving debate on the scope of ‘complete justice’."],
+["16","Art 142 — institutional deadlock","[[All India Judges Assn. v. UoI]]","A 5-judge bench used Art 142 to lay down ==mandatory, judicially-created seniority (roster) rules== for the Higher Judicial Service — ==filling an administrative vacuum==."],
+["17","Bulldozer justice / right to shelter","[[In Re: Directions in the Matter of Demolition of Structures]]","==Punitive demolitions ‘wholly unconstitutional’== — due process, separation of powers, right to shelter (Arts 19 & 21); ==pan-India guidelines== (show-cause, 15 days, videography); ==₹10 lakh compensation== ordered in March 2025 — ==continuing mandamus in action==."],
+["18","Reviewing the ECI's plenary power","[[ADR v. ECI]] (Bihar SIR case)","==Upheld the Special Intensive Revision== as within ==Art 324 / s.21(3) RPA==, but had used interim directions (Aadhaar/ration card as ID, online claims for excluded voters) to soften it — ==deference plus rights-protective tailoring==."],
+["19","Suo motu on institutional dignity","[[In Re: NCERT Class 8 Textbook]]","Suo motu with ==no petitioner== → ban, seizure, contempt threat — debated as the judiciary acting as ==both protector and prosecutor of its own reputation==."],
+["20","Judicial self-correction","[[CREDAI v. Vanashakti]]","The SC ==reviewed and recalled its own May 2025 judgment== — a rare self-reversal, raising questions of ==judicial consistency== (strong dissent by Bhuyan, J.)."],
+["21","Continuing mandamus — public safety","[[In Re: City Hounded by Strays]]","A ==multi-stage suo motu proceeding== with escalating directions — classic continuing supervision over municipal failure."],
+["22","Continuing mandamus — ecology","[[In Re: Illegal Sand Mining in National Chambal Sanctuary]]","==Art 142 invoked== for detailed, evolving directions to three states and central agencies."]
+]}]}
+]}

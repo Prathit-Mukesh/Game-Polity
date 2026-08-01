@@ -1,0 +1,44 @@
+{
+"num":"43","title":"Immunities & Privileges","theme":"Parliament",
+"lead":"Privileges are enjoyed by the House collectively, its committees and members individually — without which they cannot discharge their functions. In [[Sita Soren v. UoI (2024)]], a ==7-judge bench unanimously overruled [[P.V. Narasimha Rao (1998)]]==: Arts 105(2)/194(2) give ==no immunity for bribery==.",
+"sections":[
+{"title":"Rationale","blocks":[
+{"type":"bullets","items":[
+"Protect lawmakers from ==interference== in discharging essential functions.",
+"Differential treatment justified by their duties as a ==particular class of public officials==.",
+"Speaking and voting ==without fear of intimidation== is intrinsic to representation.",
+"A breach of privilege is also ==contempt of the House== — the reverse is not true."
+]}]},
+{"title":"Key Judgments","blocks":[
+{"type":"table","head":["Case","Holding"],"rows":[
+["[[M.S.M. Sharma v. Sri Krishna Sinha (1959)]] (Searchlight)","==Art 194(3) > Art 19(1)(a)== — special protection prevails over the general right."],
+["[[Dr Jatish Chandra Ghosh v. Hari Sadhan (1961)]]","Acting in a ==private capacity== does not invoke Art 194."],
+["[[Keshav Singh Case (1964)]]","Privileges are ==not absolute== — subject to judicial review; cannot violate fundamental rights."],
+["[[Raja Ram Pal v. Speaker (2007)]]","Punishment does ==not include future disqualification==."],
+["[[Sita Soren (2024)]]","==Two-fold test==: the act must relate to the ==collective functions of the House== AND bear a ==‘functional relationship’== to the legislator's duty — bribery fails both."]
+]}]},
+{"title":"Issues & Solutions","blocks":[
+{"type":"cards","wide":true,"items":[
+{"title":"Issues","bullets":["==No codification==","Conflict with ==free speech and other FRs==","Limits judicial review; ==parliamentary overreach==","Politicisation and ==excessive usage==","Separation-of-powers friction"]},
+{"title":"Solutions","bullets":["==Parliamentary Privileges Commission==; codification","Training and sensitisation of legislators","Judicial involvement; ==stronger committees==","Cross-party dialogue; respect for rights and procedure","==Rule 380==: Speaker may expunge unparliamentary words — but ==only the offending word==, not sentences or paragraphs"]}
+]}]},
+{"title":"Principled Dissent v. Bribery","blocks":[
+{"type":"table","head":["Conduct","Appropriate consequence"],"rows":[
+["Open, publicly explained ==dissent==","Political or party disciplinary consequence."],
+["Deliberate invalidation/abstention ==without inducement==","Party accountability; ordinarily ==not loss of seat==."],
+["==Vote exchanged for money, office or benefit==","Criminal prosecution, electoral disqualification, possible ==annulment of election==."],
+["Coordinated defection showing abandonment of membership","‘==Voluntarily giving up membership==’ proceedings, with due process."]
+]},
+{"type":"callout","text":"==Cross-voting should not automatically be equated with corruption.=="}
+]},
+{"title":"Way Forward — an Election-Integrity Framework","blocks":[
+{"type":"steps","items":[
+"==Time-bound investigation== of alleged bribery in elections",
+"Special prosecutorial teams where ==prima facie evidence== exists",
+"==Whistle-blower protection== for MLAs; mandatory reporting of attempted inducements",
+"Fast-track courts; ==interim preservation== of electronic, financial and travel records",
+"Disqualification on conviction; explicit ==ECI power to countermand== a materially compromised poll, subject to prompt judicial review"
+]},
+{"type":"quote","text":"Parliamentary privileges are not ornamental relics of a bygone constitutional era — they are not individual entitlements but institutional guarantees. In a constitutional democracy governed by the rule of law, privileges must serve democracy, not dominate it."}
+]}
+]}

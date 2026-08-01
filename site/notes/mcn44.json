@@ -1,0 +1,25 @@
+{
+"num":"44","title":"Office of Profit","theme":"Parliament",
+"lead":"The concept lies at the confluence of ==constitutional morality, political ethics and separation of powers== — yet the law ==does not define== what constitutes an office of profit; courts have built it case by case.",
+"sections":[
+{"title":"Rationale & Flashpoints","blocks":[
+{"type":"bullets","items":[
+"==Separation of power== between legislature and executive; preventing a ==conflict between duty and interest== in a person who is both legislator and executive.",
+"==2018==: on ECI recommendation, the President disqualified ==20 Delhi MLAs== for holding Parliamentary Secretary posts.",
+"Parliamentary secretaries appointed in ==~20 states== — courts struck down several such appointments."
+]}]},
+{"title":"The Judicial Construction","blocks":[
+{"type":"table","head":["Element","Case","Principle"],"rows":[
+["==Three essentials==","[[S. Umrao Singh v. Darbara Singh (1968)]]","(1) holds an office, (2) it is an office ==of profit==, (3) it is ==under the Government==."],
+["Nature of control","[[Ashok Kumar Bhattacharya (1985)]] · [[Dobrey v. Dobrey (1984)]]","Extent of ==government control== over the office is pivotal."],
+["Pecuniary advantage","[[Hedge v. Karnataka (1993)]]","==Profit is necessary== — mere prestige is insufficient."],
+["Regularity of income","[[Hotilal v. Bahadur (1958)]]","Income need ==not be regular==."],
+["Sui juris","[[Ghulam Chand v. Thakur Singh (1953)]]","Holder must be ==legally capable== of holding the office."]
+]},
+{"type":"cards","wide":true,"items":[
+{"title":"The Four Tests — Swapan Roy v. Pradyut Bordoloi (2001)","bullets":["==Government appointment==: power to appoint and remove ([[Guru Govinda Basu (1964)]])","==Government payment== of remuneration","==Government control== over the office's functions","==Conflict of interest== — the crucial factor"]},
+{"title":"Second ARC Recommendations","bullets":["Purely ==advisory bodies== ≠ office of profit, regardless of remuneration","==Executive decision-making power + control over public funds== = office of profit","Offices requiring ==close CoM coordination== essential to government functioning should NOT be treated as offices of profit"]}
+]},
+{"type":"quote","text":"A practical view, not a pedantic basket of tests, should guide in arriving at a sensible conclusion.","by":"Prof. P.D.T. Achary, Practice and Procedure of Parliament"}
+]}
+]}

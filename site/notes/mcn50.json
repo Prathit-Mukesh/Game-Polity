@@ -1,0 +1,55 @@
+{
+"num":"50","title":"Ordinances","theme":"Union Executive",
+"lead":"Conceived from the ==GoI Act, 1935==; only ==India, Pakistan and Bangladesh== permit ordinance-making in parliamentary democracies. Recently the SC's strength was raised to ==37 via an Ordinance== right before the summer vacation — raising questions on urgency and necessity.",
+"intro":["For in the quiet expansion of ordinance-making lies the loud warning of democratic decay. The future of India's constitutional order depends on restoring law-making to the chamber of elected debate, not the corridors of executive decree."],
+"sections":[
+{"title":"Constitutional Scheme","blocks":[
+{"type":"steps","items":[
+"Only when ==either House is not in session==",
+"Only on the respective ==ordinary legislative powers== of Parliament / State Legislatures",
+"==Constitutional Amendments cannot be Ordinances==",
+"Must be passed ==within the first 6 weeks== of the House reassembling",
+"==Judicially reviewable== — Art 13(2) and legislative competence",
+"President/Governor can ==return or reject== Central/State Ordinances",
+"Governor ==can't promulgate== on something that should have been ==reserved for the President=="
+]},
+{"type":"cards","items":[
+{"title":"Rationale","bullets":["==Emergency legislative need==","==Continuity of governance==","An ==exceptional tool==, not a routine one"]},
+{"title":"Data","bullets":["Peaks: ==1990–99 (196)== and ==1970–79 (133)== — political instability and coalitions","==Only 42 central ordinances== ever reissued","States re-promulgate heavily — ==Kerala reissued 140 of 144 ordinances in 2021=="]},
+{"title":"Post-Lapse Prognosis","bullets":["==Re-promulgation not permitted==","Actions under the ordinance may remain valid — ==doctrine of past operation==","Rights conferred or taken away ==may be lost== unless expressly saved or re-enacted"]}
+]}]},
+{"title":"Issues","blocks":[
+{"type":"cards","wide":true,"items":[
+{"title":"Against Parliamentary Democracy","bullets":["==Undermines legislative supremacy==","==Weakens deliberation==","==Disrupts the committee system==","Dilution of the public mandate","Strains collective responsibility"]},
+{"title":"Against Separation of Powers","bullets":["==Legislative power usurped by the executive==","Judicial overload","==Constitutional disequilibrium==","Federalism strain"]}
+]},
+{"type":"bullets","items":[
+"Six recurring problems: ==misuse for political expediency, re-promulgation, lack of scrutiny, no cap, post-lapse impact, bypassing committees==.",
+"==Jurisprudence gaps==: mixed signals, evolving review, need for stronger standards, and a persistent ==implementation gap==."
+]}]},
+{"title":"Jurisprudence","blocks":[
+{"type":"table","head":["Case","Holding"],"rows":[
+["[[A.K. Roy v. UoI (1982)]]","==Urgency is essential== — ordinances are not a substitute for regular lawmaking."],
+["[[D.C. Wadhwa v. State of Bihar (1987)]]","Re-promulgation is a ==‘fraud on the Constitution’==."],
+["[[Krishna Kumar Singh v. State of Bihar (2017)]]","Ordinance ==must be laid before the legislature==; re-promulgation unconstitutional."]
+]}]},
+{"title":"Good Use of the Ordinance Route","blocks":[
+{"type":"table","head":["Example","Why justified"],"rows":[
+["==Epidemic Diseases (Amendment) Ordinance, 2020==","Sudden COVID emergency — prohibited violence against healthcare personnel; later enacted by Parliament."],
+["IBC amendment during COVID-19, 2020","Temporary insolvency changes as ==emergency economic relief==."],
+["IIITDM Kancheepuram Ordinance, 2011","Urgent statutory recognition so graduating students could lawfully receive degrees — a ==classic temporary legal gap==."],
+["Criminal Law Amendment Ordinance, 2013","Post-2012 Delhi gang rape — extraordinary public-safety concern; but a Bill and committee process were already underway, so a ==qualified== example."]
+]}]},
+{"title":"Misuse of the Ordinance Route","blocks":[
+{"type":"table","head":["Example","Why it represents misuse"],"rows":[
+["Repeated Bihar Ordinances — [[Krishna Kumar Singh]]","Repeated re-promulgation on takeover of Sanskrit schools ==without legislative approval==."],
+["==Land Acquisition Amendment Ordinances, 2014–15==","Re-promulgated thrice while replacement legislation was under parliamentary examination."],
+["Enemy Property Amendment Ordinances, 2016","Same policy continued through successive Ordinances while legislation stayed pending."],
+["==Tribunals Reforms Ordinance, 2021==","Structural reform via ordinance — avoiding deliberative scrutiny, not a sudden emergency."],
+["Bank nationalisation Ordinance, 1969","Scale and permanence raised the question of using urgency to ==avoid prior debate==."],
+["Ordinances issued right after a session ends","Waiting for adjournment then promulgating on a ==foreseeable matter== makes urgency doubtful."],
+["Ordinances reproducing stalled Bills","==Political difficulty is not the ‘necessity’== contemplated by Art 123."]
+]},
+{"type":"quote","text":"An Ordinance should bridge a legislative vacuum, not manufacture parliamentary consent."}
+]}
+]}

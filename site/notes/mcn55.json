@@ -1,0 +1,55 @@
+{
+"num":"55","title":"Judicial Pendency","theme":"Judiciary",
+"lead":"With over ==5.5 crore cases pending==, delay has become the single largest structural threat to the credibility of India's justice-delivery system — and to the constitutional promise of ==Article 21==.",
+"sections":[
+{"title":"The Backlog by Tier","blocks":[
+{"type":"table","head":["Court tier","Pending (2026)","Share","Key indicator"],"rows":[
+["Supreme Court","==~93,000== (31 Mar 2026)","~0.2%","Sanctioned strength raised ==34 → 38== (2026 Ordinance/Bill)"],
+["High Courts (25)","==~63 lakh==","~11–13%","Working strength well below sanctioned in most HCs"],
+["District & Subordinate","==~4.5–4.9 crore==","==~85–87%==","Over ==1.8 crore== cases stuck at appearance/service alone"],
+["Total (all tiers)","==5.5+ crore==","100%","==180,000+== cases pending over 30 years"]
+]},
+{"type":"table","head":["Level","Sanctioned","Working (2026)","Vacancies"],"rows":[
+["Supreme Court","38 (post-2026; earlier 34)","~32–34","2–4 amid retirements through 2026"],
+["High Courts (all 25)","~1,122","~750–770","==About 350+=="],
+["District & Subordinate","~25,800","~20,500–21,100","==Approximately 5,000+== (2024–26)"]
+]},
+{"type":"callout","text":"India's ==judge-to-population ratio was ~21 per million== (2022) — far below the ==50-per-million benchmark== of the Law Commission and the ==Justice V.S. Malimath Committee==. Source: NJDG; PRS Vital Stats."}
+]},
+{"title":"Composition & Nature of the Backlog","blocks":[
+{"type":"bullets","items":[
+"==Civil–criminal split==: at subordinate level ~==77% criminal, 23% civil==; the reverse in the SC (==79% civil, 21% criminal==).",
+"==Government as litigant==: the State is a party in ==about 50% of all pending cases== — the single largest litigant.",
+"==Land and property disputes==: ~==20% of all pending cases== and ==66% of pending civil cases==; about a quarter of matters decided by the SC.",
+"==Age of pendency==: growth averaged ~2.8%/year (2010–2020); clearing the existing backlog with no new filings would take ~1.3 years (SC) and ~3 years each (HCs, subordinate courts) — an unrealistic counterfactual.",
+"==Undertrial prisoners==: a large share of the prison population awaits trial — many ==beyond the maximum sentence== for the alleged offence (NCRB Prison Statistics)."
+]}]},
+{"title":"Structural Causes","blocks":[
+{"type":"cards","wide":true,"items":[
+{"title":"Higher Judiciary","bullets":["==Constitution Bench backlog== — 5/7/9-judge matters wait years while regular benches are consumed by SLPs; subordinate courts stay proceedings awaiting authoritative rulings","==Litigation explosion via Art 136 SLPs== — special leave has expanded far beyond an exceptional remedy, turning the SC into a routine court of appeal","==Chronic HC vacancies== — protracted file movement between collegium, state and Union governments","==Adjournment culture== — weak enforcement of CPC limits, want of firm case management","==Fragmented case law and forum-shopping== — divergent HC rulings encourage repeat litigation"]},
+{"title":"Lower Judiciary","bullets":["==Over 85% of all pendency== sits here — the true epicentre, and where citizens actually meet the system","==Infrastructure deficit== — courtroom space, understaffed registries, poor digitisation, shortages of court managers, translators, forensic support","==Investigation and prosecution delays== — late chargesheets, poor investigation quality, forensic backlogs, hostile witnesses","==Service of summons== — ==over 1.8 crore cases stuck merely at appearance/service==: a problem of process, not adjudication","==Multiplicity of proceedings== — parallel civil and criminal proceedings on the same facts","==Government litigation== — departments fail to decide timely on settlement, appeal or withdrawal"]}
+]}]},
+{"title":"Recent Measures","blocks":[
+{"type":"cards","items":[
+{"title":"Strength & Appointments","bullets":["Sanctioned strength ==34 → 38== judges — first increase since 2019","Steady collegium recommendations through 2026 — but many pending with the Centre; ==7 of 25 HCs under Acting Chief Justices== (July 2026)","==Advance-transfer policy (Feb 2026)== — CJ-designate transferred ~2 months before the vacancy"]},
+{"title":"Technology & Administration","bullets":["Reconstituted ==AI Committee (Dec 2025)==, chaired by Justice P.S. Narasimha","==Unified digital case-status platform (Jan 2026)== linking all three tiers in real time","==Four Special Division Benches (13 July 2026)== for the oldest matters — ~==800 legacy cases== for time-bound disposal","Continued emphasis on ==mediation and Lok Adalats== as the greatest immediate potential"]},
+{"title":"Budget & Infrastructure","bullets":["Union Budget 2026–27: ==₹2,010 crore== — ₹810 cr district/subordinate infrastructure + ==₹1,200 cr e-Courts Phase III==","==775 Fast Track Special Courts== incl. ==398 exclusive POCSO courts== — extended to September 2026"]},
+{"title":"Proposals","bullets":["==‘Sahmati Samadhan Nyaya Mission’== — a national mission for negotiated justice, mainstreaming plea bargaining and pre-trial settlement (a policy proposal, not an announced scheme)"]}
+]}]},
+{"title":"Global Comparison","blocks":[
+{"type":"table","head":["Country","Key mechanism","Design feature India can draw on"],"rows":[
+["==Singapore==","Judicial case management & e-Litigation","Judges ==fix trial timelines at the first hearing==; scheduling software and cause-list discipline"],
+["==United States==","ADR mandates","==Court-annexed mediation/arbitration== built into civil procedure before trial is permitted"],
+["Germany","Specialised, well-staffed judiciary","High judge ratio (~24+ per 100,000); ==written procedure== to shorten hearings"],
+["Rwanda / South Korea","Time-bound disposal targets","==Statutory deadlines== for categories of cases, centrally monitored"]
+]}]},
+{"title":"Way Forward","blocks":[
+{"type":"cards","wide":true,"items":[
+{"title":"Strength & Appointments","bullets":["==Binding 3–6 month timeline== between collegium recommendation and notification, via a revised MoP","Move toward ==50 judges per million==, calibrated to each state's filing trends","Revive the ==All-India Judicial Service== with safeguards for state autonomy and reservation","==Strengthen the district cadre== — fast-track promotions, better service conditions"]},
+{"title":"Court & Case Management","bullets":["==Differentiated case-flow management== — fast-track / standard / complex at filing (Australia)","==Enforce the CPC three-adjournment limit== with costs","==Extend special legacy benches== to HCs and district courts","==Restrain expansive Art 136 SLPs== — reserve the docket for genuine constitutional importance","==National uniform case-management rules=="]},
+{"title":"ADR & Negotiated Justice","bullets":["==Mainstream plea bargaining== — from sub-1% usage toward the ==15–30%== of continental Europe, with anti-coercion safeguards","==Scale Lok Adalats and pre-litigation mediation== (matrimonial, MACT, cheque-bounce, commercial)","==Extend the Commercial Courts Act's mandatory pre-institution mediation== to wider civil and family disputes","==Reform lawyer remuneration== so settlement isn't penalised"]},
+{"title":"Technology & Infrastructure","bullets":["Deliver ==e-Courts Phase III== (₹7,210 crore, 2023–27) — paperless courts, virtual capacity, nationwide e-filing","==Responsible AI== for allocation, cause lists, translation, research — technology as ==‘a servant of justice, not its substitute’==","==Fix the summons bottleneck== — electronic, tracked service","Sustain ==district-court infrastructure funding=="]},
+{"title":"Government Litigation & Criminal Justice","bullets":["Implement the ==National Litigation Policy== — empower departments to withdraw frivolous appeals; ==litigation audits==","==Strengthen investigation quality== — forensics, trained IOs, time-bound chargesheets","==Undertrial Review Committees== and DLSAs active under ==s.479 BNSS== (old s.436A CrPC)","Make ==FTSC/POCSO courts permanent== and adequately funded"]},
+{"title":"Institutional Measures","bullets":["A statutory ==National Judicial Infrastructure Authority==","==Data-driven monitoring== — NJDG as a management tool with accountability for pendency targets","==Legislative correction of appeal-heavy laws== (taxation, land acquisition) to build finality earlier"]}
+]}]}
+]}
