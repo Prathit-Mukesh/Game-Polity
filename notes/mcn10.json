@@ -1,0 +1,73 @@
+{
+"num":"10","title":"Article 19","theme":"Preamble & Fundamental Rights",
+"lead":"The longest set of rights and restrictions, heavily derived by the courts with several US and UK tests. Despite its broad coverage, Art 19 evolved chiefly as a ==pro-democracy, press, dissent and speech right==.",
+"intro":["“Freedom of opinion and freedom of association are the two lungs that are absolutely necessary for a man to breathe the oxygen of liberty.” — Gandhi, 36th Congress Session (1921)"],
+"sections":[
+{"title":"The Freedom Ledger","blocks":[
+{"type":"stats","items":[
+{"value":"151/180","label":"India's rank, World Press Freedom Index 2024/25"},
+{"value":"96/yr","label":"internet shutdowns — lowest since 2020"},
+{"value":"6","label":"freedoms under Art 19(1): speech, assembly, association, movement, residence, profession"},
+{"value":"8","label":"grounds of restriction on speech under Art 19(2)"}
+]}]},
+{"title":"Speech & Expression — Art 19(1)(a)","blocks":[
+{"type":"callout","text":"==Restrictions (Art 19(2))==: sovereignty & integrity · security · friendly foreign relations · public order · decency/morality · contempt of court · defamation · incitement to an offence."},
+{"type":"cards","items":[
+{"title":"Speech (Dissent)","bullets":["==Protest==: ‘Heckler's Veto’ US test (1966); [[Re: Ramlila Maidan (2012)]] — implied FR; [[Amit Sahni v. Delhi Police (2020)]] (Shaheen Bagh) — right upheld but ==no right to protest indefinitely==","==Strike==: [[T.K. Rangarajan v. TN (2003)]] — not a fundamental or statutory right","==Hate speech==: not specifically defined — s.196 BNS","==Sedition==: BNS drops the term but ==enhances its scope=="]},
+{"title":"Expression (Censorship)","bullets":["==Press==: [[Romesh Thappar (1950)]] freedom to publish · [[Sakal Papers (1962)]] freedom to propagate · [[Bennett Coleman (1972)]] qualitative and quantitative","==Print==: [[Tata Press v. MTNL (1995)]] — includes ==commercial speech==","==Films==: [[Ranjit D. Udeshi (1964)]] narrow UK ==Hicklin test== · [[K.A. Abbas (1971)]] films treated separately · [[Aveek Sarkar (2014)]] US Roth ==community standards test==","==Broadcasting==: [[MIB v. Cricket Assn of WB (1995)]] — airwaves are public property","==Digital==: [[Shreya Singhal (2015)]] — struck down ==s.66A IT Act=="]},
+{"title":"Derived Rights","bullets":["==Right to know / RTI==: [[State of UP v. Raj Narain (1975)]]","==Right to silence==: [[Re: Noise Pollution (2005)]]; [[Bijoe Emmanuel (1986)]] (national anthem)","==Flying the national flag==: [[UoI v. Naveen Jindal (2004)]]","==Travel abroad==: [[Maneka Gandhi (1978)]]","==Against arbitrary internet shutdowns==: [[Anuradha Bhasin (2020)]]","==Against non-state actors==: [[Kaushal Kishore v. UP (2023)]]"]},
+{"title":"Restrictions Jurisprudence","bullets":["[[State of Madras v. V.G. Row (1952)]]: test of ==specific reasonableness==","==Phone tapping==: [[PUCL v. UoI (1997)]]","==Contempt==: Contempt of Courts Act, 1971","==Defamation==: [[Subramanian Swamy (2016)]] upheld criminalisation","==Privileges==: Searchlight Case — MP/MLA FoE > citizen FoE"]}
+]},
+{"type":"callout","text":"==Contemporary developments==: Ashoka University professor's post on Op. Sindoor · Wikimedia Foundation case · India's Got Latent (vulgarity/obscenity) · Vikatan cartoon · SC quashed case against an MP for a poem · Bombay HC struck down the ==Fact Check Unit== (IT Rules) · Samsung TN workers' right to unionise · US revoking overseas student visas."}
+]},
+{"title":"The Other Five Freedoms","blocks":[
+{"type":"table","head":["Freedom","Restrictions","Key jurisprudence"],"rows":[
+["==Peaceful assembly without arms== — 19(1)(b)","Sovereignty & integrity; public order","[[Babulal Parate (1961)]] processions subject to Magistrate's directions · [[Himat Lal K. Shah (1973)]] may regulate, ==cannot prohibit all== · [[MKSS v. UoI (2018)]] right to peaceful protest · [[Natasha Narwal (2023)]] protest ≠ terror act under UAPA · Police Act 1861, ==s.163 BNSS (old s.144 CrPC)==, AFSPA 1958"],
+["==Associations, unions, co-ops== — 19(1)(c)","Sovereignty & integrity; public order; morality","[[Tika Ramji (1955)]] right ==not to join== · [[Zoroastrian Coop Housing (2005)]] no FR to be a member · [[Raghubir Dayal (1968)]] no right to fulfil objectives"],
+["==Movement== — 19(1)(d) & ==Reside/settle== — 19(1)(e)","General public interest; ==protection of STs==","[[AK Gopalan (1950)]] no effect on preventive detention · [[Kaushailiya (1963)]] sex workers' movement restrictable · [[Kharak Singh (1963)]] psychological inhibition counts · [[Rajneesh Kapoor (2007)]] helmet rule is no restriction · ILP, Epidemic Diseases Act, DM Act, Goonda Acts"],
+["==Profession, trade, business== — 19(1)(g)","General public interest; qualifications; nationalisation","[[RMD Chamarbaugwalla (1957)]] ==crime cannot be a business== · [[Sodan Singh (1989)]] hawkers subject to laws · [[Khoday Distilleries (1995)]] no right to trade in liquor (Art 47 DPSP) · [[TMA Pai (2002)]] education is charitable occupation"]
+]}]},
+{"title":"Digital Media Regulation","blocks":[
+{"type":"callout","text":"India is the ==5th most digitised country== (State of India's Digital Economy 2026) — ==2nd largest mobile connections (1.14 bn)==, 2nd largest 5G market. The ==IT Act, 2000 + IT Rules, 2021== form the legal architecture for online content."},
+{"type":"cards","wide":true,"items":[
+{"title":"S.69A — Blocking of Online Content","bullets":["Centre can direct intermediaries to ==block public access== on sovereignty, security, foreign relations, public order grounds","Upheld in [[Shreya Singhal (2015)]] ==only with safeguards== — reasoned order, hearing, review committee (Blocking Rules 2009)","Issues: ==secrecy (Rule 16)== blocks scrutiny (Tanul Thakur 2022; X Corp's 2025 ==Sahyog portal== challenge); no post-decisional hearing; vague grounds; executive-only review; ==chilling effect==; emergency blocking as routine"]},
+{"title":"S.79(3)(b) — Safe Harbour","bullets":["Conditional immunity for intermediaries as ==passive conduits== with due diligence; lost on failing to act on ==‘actual knowledge’==","Shreya Singhal: actual knowledge = ==court/government order== — yet informal takedown pressure persists","Issues: ==‘expeditiously’ undefined==; privatised censorship (over-removal); ==traceability (Rule 4(2)) vs end-to-end encryption== (WhatsApp's Delhi HC challenge); no judicial-determination requirement; intermediaries as quasi-judges"]},
+{"title":"IT Rules, 2021 — Broader Issues","bullets":["Due diligence + ==36-hour takedown== + three-tier grievance mechanism + Code of Ethics for digital news/OTT; extra duties for SSMIs","==Fact Check Unit== makes govt sole arbiter of ‘fake’ content about itself — challenged in [[Kunal Kamra v. UoI]]","==Ultra vires concerns==: subordinate rules imposing substantive speech restrictions; executive as final appellate authority over digital news","Traceability vs [[Puttaswamy (2017)]] privacy; overlaps with DPDP Act 2023; ad-hoc amendments (deepfake/AI-labelling 2025) breed unpredictability"]},
+{"title":"Way Forward","bullets":["A principle-based ==Digital India Act== replacing the 2000-era IT Act, with narrow definitions and judicial safeguards","Mandatory ==reasoned orders + post-decisional hearing + independent review== under s.69A","Codify ‘actual knowledge’ and timelines under 79(3)(b)","==Independent multi-stakeholder fact-checking== body; risk-based graded due diligence; ==protect end-to-end encryption==; institutionalise pre-legislative consultation"]}
+]}]},
+{"title":"Hate Speech vs Sedition","blocks":[
+{"type":"table","head":["Hate speech","Sedition"],"rows":[
+["Speech demeaning/inciting discrimination or violence against a ==person/group== on religion, race, caste, sex etc.","Speech/acts inciting hatred or ==disaffection against the State==, encouraging secession/armed rebellion."],
+["Target: ==dignity & equality of groups== — citizen vs citizen (horizontal).","Target: ==sovereignty, unity & security== — citizen vs State (vertical)."],
+["No standalone definition — pieced from ==BNS ss.196, 197, 299==.","Word ‘sedition’ dropped from BNS 2023 — ==substantively replaced & widened by s.152==."],
+["Art 19(2) grounds: public order, decency/morality, incitement.","Art 19(2) grounds: security of the State, sovereignty & integrity, public order."]
+]},
+{"type":"table","head":["Law","Provision","Gist"],"rows":[
+["==BNS, 2023==","==s.152==","Acts endangering sovereignty/unity — secession, armed rebellion, subversive activities; ==life or up to 7 yrs== (replaces s.124A IPC; widens to electronic/financial means)."],
+["BNS, 2023","s.196/197","Promoting enmity between groups (up to 3 yrs); imputations against national integration (old s.153A/153B IPC)."],
+["BNS, 2023","s.299/302","Deliberate malicious acts wounding religious feelings — up to 3 yrs (old s.295A/298 IPC)."],
+["IT Act, 2000","s.66A (struck), 69A, 79","s.66A struck down (2015); s.69A blocking power; s.79 conditional safe harbour."],
+["IT Rules, 2021","Rule 3","Due diligence & 24/36-hr takedown duty for unlawful/hateful content."],
+["RPA 1951 / UAPA 1967","s.8, 123(3A) / s.13","Election disqualification for communal enmity; UAPA 'unlawful activities' — often clubbed with BNS s.152."]
+]},
+{"type":"table","head":["Case","Year","Holding"],"rows":[
+["[[Kedar Nath Singh v. State of Bihar]]","1962","Upheld s.124A but narrowed: only ==incitement to violence== or tendency to public disorder is seditious — mere criticism is not."],
+["[[S. Rangarajan v. P. Jagjivan Ram]]","1989","Restriction needs ==proximate/direct nexus== to public disorder, not speculative apprehension."],
+["[[Balwant Singh v. State of Punjab]]","1995","Isolated sloganeering without incitement ==is not sedition==."],
+["[[Shreya Singhal v. UoI]]","2015","Struck down s.66A as ==vague & overbroad==; upheld s.69A with safeguards; drew the ==advocacy vs incitement== line."],
+["[[Patricia Mukhim v. State of Meghalaya]]","2021","Criticism of ethnic favouritism ==without intent to incite== is protected speech."],
+["[[S.G. Vombatkere v. UoI]]","2022","==s.124A kept in abeyance== — fresh sedition prosecutions halted until BNS replaced it."]
+]},
+{"type":"stats","items":[
+{"value":"~1,804","label":"hate-speech cases (old s.153A) registered in 2020 (NCRB); conviction rate <20%"},
+{"value":"70+","label":"sedition cases by 2019-20, up from single digits pre-2014; conviction ~3%"},
+{"value":"151/180","label":"Press Freedom Index 2024/25 — speech cases against journalists cited"}
+]},
+{"type":"cards","wide":true,"items":[
+{"title":"Issues","bullets":["No standalone, precise definition of hate speech — vague terms (‘disaffection’, ‘enmity’) ==enable misuse against dissent==","==Low conviction, high registration== → chilling effect","Digital amplification (social media, deepfakes) outpaces enforcement"]},
+{"title":"Way Forward","bullets":["==Law Commission 267th Report==: codify a narrow hate-speech provision; embed the ==Kedar Nath incitement test== statutorily","Prior screening before FIR in speech offences; police sensitisation","AI-based detection, faster intermediary accountability, periodic IT Rules review"]}
+]}]},
+{"title":"Conclusion","blocks":[
+{"type":"quote","text":"The true test of a democracy is not in how it grants rights, but in how it restrains power. The balance must not be mechanical, but moral and constitutional — one that ensures liberty does not descend into license, nor order into oppression. Only then can Article 19 be what it was always meant to be: the lifeblood of Indian democracy."}
+]}
+]}

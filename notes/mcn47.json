@@ -1,0 +1,29 @@
+{
+"num":"47","title":"Whips","theme":"Parliament",
+"lead":"The term comes from England's hunting fields — the ==‘whipper-in’== kept stray hounds within the pack; ==Edmund Burke== first used it politically. ==‘Important for parliamentary democracy as parties see voting on some matters as how their politics is perceived’== — former Secretary-General P.D.T. Achary.",
+"sections":[
+{"title":"Status in India","blocks":[
+{"type":"bullets","items":[
+"The ==Anti-Defection Law (1985)== legally enforces whip compliance — party coherence over opportunistic side-switching.",
+"==Minister & MoS for Parliamentary Affairs== are the Government Chief Whips in LS and RS; Opposition parties have their own whips."
+]}]},
+{"title":"The Whip's Eight Roles","blocks":[
+{"type":"steps","items":[
+"==Party discipline== — directing votes on the party line",
+"==Attendance== — quorum and shows of strength",
+"==Counting votes== — surveying members, predicting outcomes",
+"==Communication link== — leadership ↔ members, policy and feedback",
+"==Managing business== — who speaks on which bill",
+"==Monitoring discontent== — early warning of rebellion",
+"==Enforcing consequences== — a ==three-line whip== violation can mean disqualification or expulsion",
+"==Crisis management== — stabiliser during dissent, floor-crossing threats, coalition instability"
+]}]},
+{"title":"Issues, Best Practice, Solutions","blocks":[
+{"type":"cards","items":[
+{"title":"Issues","bullets":["==Restriction of MPs' freedom==; undemocratic nature","==Abuse of power==; factionalism","Lack of transparency; ==over-centralisation=="]},
+{"title":"Best Practices","bullets":["==UK==: breaking a three-line whip makes an MP independent — not disqualified","==US==: informal, mostly legislative strategy","==Australia==: ==conscience votes== officially recognised"]},
+{"title":"Solutions","bullets":["==Codify the scope of whips== — 170th Law Commission (1999)","Differentiate legislative issues — ==NCRWC (2002)==","Internal party democracy — ==II ARC (2007)==","Whip transparency — PRS (2022)","Revise the ADL — former VP ==Hamid Ansari=="]}
+]},
+{"type":"quote","text":"Perhaps it is time to reimagine the Whip — not as a symbol of control, but as a tool of coordination; not as an enforcer of silence, but as an enabler of responsible freedom. When discipline aligns with dialogue, democracy does not fracture — it flourishes."}
+]}
+]}

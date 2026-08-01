@@ -1,0 +1,35 @@
+{
+"num":"68","title":"Tribunals","theme":"ADR, Tribunals & Tech",
+"lead":"==‘Tribunals are judicial or quasi-judicial institutions established by law intended to provide specialised and faster adjudication of certain subject matters’ — Law Commission, 2017.== ==Arts 323A and 323B== were inserted by the ==42nd CA, 1976==.",
+"sections":[
+{"title":"Pendency Data","blocks":[
+{"type":"stats","items":[
+{"value":"7,312","label":"pending cases — central government industrial tribunals-cum-labour courts (15 Mar 2021)"},
+{"value":"18,829","label":"pending cases — Armed Forces Tribunal (28 Feb 2021)"},
+{"value":"91,643","label":"pending cases — Income-tax Appellate Tribunal (1 Jan 2018)"}
+]},
+{"type":"callout","text":"Source: ==Parliamentary Standing Committee==. The numbers make the point: tribunals created to be faster than courts now carry court-like backlogs."}
+]},
+{"title":"Issues","blocks":[
+{"type":"steps","items":[
+"==Lack of independence== — executive influence in appointments and service conditions",
+"==Inconsistent functioning== across tribunals",
+"==Infrastructure and resource== deficits",
+"==Judicial oversight and appeals== — unsettled layering",
+"==Multiplicity and overlap== of tribunals",
+"==Short tenure and reappointment== — undermining autonomy"
+]}]},
+{"title":"Judgments","blocks":[
+{"type":"table","head":["Case","Holding"],"rows":[
+["[[L. Chandra Kumar v. UoI (1997)]]","Tribunal decisions are ==subject to judicial review by High Courts== under Arts 226/227."],
+["[[Madras Bar Association v. UoI (2021)]]","Struck down provisions of the ==Tribunals Reforms Ordinance, 2021== on service conditions."],
+["[[Municipal Corporation of Greater Mumbai v. Ankita Sinha (2021)]]","Recognised the ==suo motu powers of the NGT==."]
+]}]},
+{"title":"Solutions & Global Best Practice","blocks":[
+{"type":"cards","wide":true,"items":[
+{"title":"Solutions","bullets":["==Strengthening independence== — transparent, merit-based appointments","==Uniform procedures== across tribunals","==Adequate resources== — funding, staffing, infrastructure","==Capacity building== for members and staff","==Technology integration== — digitised filing, hearings, case management","==Judicial oversight== retained, with clear guidelines to prevent excessive litigation","==Consolidation== under a single umbrella body"]},
+{"title":"World Bank Best Practices","bullets":["==Data-driven specialisation==","==Streamlined processes==","Adequate infrastructure and ==IT support==","==Specialised judicial selection==","==Performance monitoring==","Public awareness","==Alternative dispute resolution=="]}
+]},
+{"type":"quote","text":"Tribunals were created to deliver swift and specialised justice — but when they start mimicking courts in delay and dependence, they lose their very purpose. Without true autonomy and reform, tribunals risk becoming just another clogged cog in the judicial machine."}
+]}
+]}

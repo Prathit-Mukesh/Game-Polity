@@ -1,0 +1,42 @@
+{
+"num":"31","title":"Separation of Powers","theme":"Comparative Constitutions",
+"lead":"Coined by ==Montesquieu== in ==L'Esprit des Lois (1748)==. ==Art 50== directs the State to separate the judiciary from the executive. India has a ==separation of functions more than powers==.",
+"sections":[
+{"title":"Why Separate Powers?","blocks":[
+{"type":"steps","items":[
+"==Preventing tyranny== — no single group accumulates arbitrary power",
+"==Protecting individual liberty== — barriers to overreach",
+"==Efficiency & specialisation== — each organ masters its core function",
+"==Checks and balances== between organs",
+"==Accountability== — clear roles, easy attribution",
+"==Rule of law== — impartial, independent interpretation"
+]}]},
+{"title":"Why It's Different in a Parliamentary Democracy","blocks":[
+{"type":"cards","items":[
+{"title":"Fusion, Not Separation","bullets":["CoM are ==members of Parliament== (Arts 74/75, 163/164), surviving on the House's confidence — unlike the wholly separate US President and Congress"]},
+{"title":"Judiciary as the Rigid Check","bullets":["With political organs overlapping, ==judicial review (Arts 13, 32, 226/227)== is the primary guarantor","[[Ram Jawaya v. Punjab (1955)]]: no ==absolute rigidity==, but functions are sufficiently differentiated"]},
+{"title":"Accountability Replaces Separation","bullets":["==Question Hour==, no-confidence motions, committees, debates, ==budgetary control==, censure motions"]},
+{"title":"Cooperation Is Built In","bullets":["Government introduces bills → Parliament debates and passes → executive implements","India: ==separation with checks and balances==, boundaries drawn by the Constitution"]}
+]}]},
+{"title":"Separation & Overlap, Organ by Organ","blocks":[
+{"type":"table","head":["Organ","Separation","Overlap / checks"],"rows":[
+["==Executive==","Pres/Gov as heads (Arts 52/153); executive power (Arts 73/162); conduct of business (Arts 77/166); can't be legislators (Arts 59/158); SC consultation (Art 143); services (Arts 309–310)","==Legislature==: part of it (Arts 79/168); RS nominations; summon/prorogue/dissolve (Arts 85/174); addresses & messages (Arts 86–87/175–176); ==assent to bills (Arts 111, 200)==; budget (Arts 112/202); ==ordinances (Arts 123/213)==; Art 356–357. ==Judiciary==: pardons (Arts 72/161); immunity (Art 361); ==judicial appointments (Arts 124/217)=="],
+["==Legislature==","Composition (Arts 79/168); legislative powers (Arts 245–248); own procedure (Arts 118/208)","==Executive==: elects President (Art 54); impeachment (Art 61); CoM aid & advice (Arts 74/163). ==Judiciary==: courts can't probe proceedings (Arts 122/212) — but [[Kihoto Hollohan (1992)]], [[Nabam Rebia (2016)]]; privileges bounded by [[Sita Soren (2024)]]; water disputes exclude SC (Art 262); ==contempt power== is quasi-judicial"],
+["==Judiciary==","Own procedure (Arts 145/227); HC supervises lower courts; ==collegium== (2nd & 3rd Judges cases)","==Judicial review== (Arts 13, 32, 226); ordinances — [[DC Wadhwa (1987)]]; pardons — [[Shatrughan Chauhan (2014)]]; assent timelines — TN Governor case 2025; anti-defection — Kihoto; privileges — Sita Soren"]
+]}]},
+{"title":"Key Judgments on the Balance","blocks":[
+{"type":"table","head":["Case","What it settled"],"rows":[
+["[[Ram Jawaya v. Punjab (1955)]]","No ==absolute rigidity==; organs sufficiently differentiated — one organ cannot assume another's essential functions."],
+["[[Kesavananda Bharati (1973)]]","==Separation of powers is basic structure==; constituent power coextensive with, not superior to, the people's will."],
+["[[Indira Gandhi v. Raj Narain (1975)]]","Struck the 39th CA — ==first application of basic structure==; free elections and judicial review upheld."],
+["[[Minerva Mills (1980)]]","==Judicial review is basic structure== — check on self-aggrandising amendments."],
+["[[Kihoto Hollohan (1992)]]","Speaker's anti-defection decisions ==subject to judicial review==."],
+["[[Naz Foundation (2009)]] · [[Navtej Johar (2018)]]","==Constitutional morality== over popular morality — judiciary as ==counter-majoritarian check==."],
+["[[Sabarimala (2018)]]","Constitutional morality overrides customary morality — and showed the ==limits of intervention== amid social resistance."],
+["[[Puttaswamy (2017)]] · [[Joseph Shine (2018)]]","Privacy and autonomy grounded in ==dignity over legislative/social morality==."],
+["[[NJAC Case (2015)]]","99th CA struck down for ==judicial independence== — criticised as the judiciary protecting its own turf."],
+["[[SR Bommai (1994)]]","==Art 356 subject to judicial review== — restraining executive overreach into the federal structure."]
+]},
+{"type":"quote","text":"Separation of powers is not a wall — it is a living system of constitutional restraint and dialogue. Without it, the Constitution is just ink; with it, it becomes justice."}
+]}
+]}

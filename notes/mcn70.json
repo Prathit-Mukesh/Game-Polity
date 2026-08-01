@@ -1,0 +1,37 @@
+{
+"num":"70","title":"Gram Nyayalayas","theme":"ADR, Tribunals & Tech",
+"lead":"Village-level courts under the ==Gram Nyayalayas Act, 2008== — meant to bring ==affordable, accessible and speedy justice to rural citizens at their doorstep==.",
+"sections":[
+{"title":"Framework","blocks":[
+{"type":"steps","items":[
+"==Establishment==: State governments, ==in consultation with the High Court==, for every intermediate panchayat or group of contiguous panchayats",
+"==Appointment==: the presiding officer — ==Nyayadhikari== — appointed by the state government in consultation with the HC; must qualify as a ==Judicial Magistrate First Class==",
+"==Jurisdiction==: both civil and criminal, per the First and Second Schedules — property and labour disputes; ==criminal offences punishable up to 2 years==",
+"==Procedure==: simplified; ==not bound by the Evidence Act== (now Bharatiya Sakshya Adhiniyam), guided by ==natural justice== and HC rules",
+"==Conciliation==: civil disputes must ==first be attempted through conciliation==",
+"==Appeals==: criminal to the Court of Session, civil to the District Court — ==strict 6-month disposal timeline=="
+]}]},
+{"title":"Performance","blocks":[
+{"type":"stats","items":[
+{"value":"331 / 4,887","label":"operational vs notified Gram Nyayalayas"},
+{"value":"0","label":"operational in states like Andhra Pradesh and Telangana"},
+{"value":"2,96,634","label":"of 4,20,129 cases received since 2020 disposed of to date"}
+]}]},
+{"title":"Issues & Global Practice","blocks":[
+{"type":"cards","wide":true,"items":[
+{"title":"Issues","bullets":["==Low case resolution==","==Infrastructure and staffing== deficits","==Jurisdictional ambiguity==","==Inaccessible locations==","Limited awareness; ==procedural shortcomings==","==Resistance from states==; inadequate funding"]},
+{"title":"Global Best Practices","bullets":["==Gacaca courts in Rwanda== and African informal justice systems — ==community participation and reconciliation==","==UK and Canada== — simplified procedures for ==small claims and minor offences==","==South Africa and Indonesia== — community-based systems ==integrated with the formal judiciary== for oversight and rights protection"]}
+]}]},
+{"title":"Solutions","blocks":[
+{"type":"steps","items":[
+"==A regular cadre of Nyayadhikaris== — continuity and professionalism",
+"==Local language and simplified procedures==",
+"==Awareness campaigns== — seminars, press releases, outreach",
+"==Permanent infrastructure== with adequate staff and resources",
+"==Clear jurisdiction== to avoid overlap with other forums",
+"==State budgetary support==",
+"==Monitoring and third-party evaluation=="
+]},
+{"type":"quote","text":"Gram Nyayalayas were meant to bring justice to the doorstep — but without proper funding, staffing and awareness, they remain courts in name, not in reach."}
+]}
+]}

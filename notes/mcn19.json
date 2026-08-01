@@ -1,0 +1,49 @@
+{
+"num":"19","title":"Fiscal Federalism & the 15th FC","theme":"Federalism & Local Government",
+"lead":"The core objective: ==match resources with responsibilities==, promote equity, and maintain macroeconomic stability. In a nation as diverse as India, fiscal federalism is the ==economic glue== binding regions to a collective national vision.",
+"sections":[
+{"title":"Challenges to Centre–State Financial Relations (Punchhi)","blocks":[
+{"type":"cards","wide":true,"items":[
+{"title":"Challenges","bullets":["==Vertical imbalance==: states spend big but tax little → dependence on transfers","==Horizontal imbalance==: wide fiscal-capacity disparities among states","==CSS proliferation== encroaches on state subjects and rigidifies spending","==Rising cess & surcharges== — not shareable — shrink the divisible pool","Compliance costs of central laws; ==central approval for borrowing==","Inconsistent fiscal data across states"]},
+{"title":"Solutions","bullets":["==Rationalise CSS== — fewer schemes, more untied transfers","==Expand the divisible pool== — limit cesses or compensate states","Strengthen state revenue base; share buoyant taxes down to local level","Strengthen ==SFCs==; independent ==fiscal councils==; better data","Align borrowing limits with sustainability; flexibility for productive investment","==Outcome-based transfers== balanced with equity"]}
+]}]},
+{"title":"15th Finance Commission — Key Numbers","blocks":[
+{"type":"callout","text":"States' share of central taxes: ==41% for 2021–26== (down from 42% to account for J&K and Ladakh becoming UTs)."},
+{"type":"stats","items":[
+{"value":"45%","label":"income distance — dominant horizontal criterion"},
+{"value":"15% + 15%","label":"area + population (2011 Census)"},
+{"value":"12.5%","label":"demographic performance — rewarding population control"},
+{"value":"10% + 2.5%","label":"forest & ecology + tax and fiscal effort"}
+]},
+{"type":"table","head":["Grant","Amount"],"rows":[
+["==Revenue deficit grants==","₹2.9 lakh crore to ==17 states=="],
+["Sector-specific grants","₹1.3 lakh crore — health, education, agriculture, judiciary, aspirational districts, roads"],
+["State-specific grants","₹49,599 crore — social needs, governance, water, culture, tourism"],
+["==Local bodies==","₹4.36 lakh crore incl. performance-linked and health grants"],
+["Disaster management","₹1.6 lakh crore corpus for SDMFs"]
+]},
+{"type":"bullets","items":[
+"==Fiscal roadmap==: Centre's fiscal deficit to ==4% of GDP by 2025-26==; states to ==3% of GSDP by 2023-26==; extra ==0.5% GSDP borrowing== for power-sector reforms; GST rationalisation, stronger property tax, fiscal transparency."
+]}]},
+{"title":"Critical Analysis of the 15th FC","blocks":[
+{"type":"cards","wide":true,"items":[
+{"title":"Strengths","bullets":["==Objective devolution criteria== balancing equity (income distance, demographic performance) and efficiency (tax effort)","Sector- and state-specific grants for unique challenges","Fiscal discipline, transparency, GST/property-tax rationalisation","Strengthened ==local bodies and disaster funding=="]},
+{"title":"Criticisms","bullets":["==Shrinking divisible pool== — cesses/surcharges erode states' effective share","==2011 Census + demographic criteria== discontented southern states that controlled population","==Scope creep== in ToR (performance incentives, defence funding) diluted focus","==Conditional local-body grants== limit flexibility","Limited progress on CSS rationalisation and ==state fiscal autonomy=="]}
+]}]},
+{"title":"Before the 16th FC: States' Fiscal Health","blocks":[
+{"type":"bullets","items":[
+"==Challenges ahead==: persistent vertical/horizontal imbalances; shrinking divisible pool; widening regional disparities; weak ==urban local government finance== post-GST; climate mandates; poor data standardisation.",
+"==Health determinants==: revenue mobilisation vs GSDP; quality (developmental/capital share) of expenditure; deficit ratios; ==debt-to-GSDP and interest burden==; expenditure efficiency; transparency; institutional strength (SFCs, FRLs).",
+"==Reforms undertaken by states==: FRLs, medium-term fiscal statements, DBT, GST adoption, pension reforms, tax-administration modernisation, market borrowings, expenditure rationalisation."
+]},
+{"type":"steps","items":[
+"==Enhance revenue mobilisation== — broaden base, property tax, digital compliance",
+"==Improve expenditure efficiency== — outcome & climate budgeting, rationalise subsidies",
+"==Fiscal transparency== — publish off-budget borrowings and contingent liabilities",
+"==Strengthen local bodies== — autonomy, timely transfers, capacity",
+"==Debt management== — time-bound consolidation plans",
+"==Innovative financing== — green bonds, blended finance, PPPs",
+"==Performance monitoring== — fiscal councils, SFCs, benchmarking",
+"==Cooperative federalism== — regular Centre–State fiscal consultation"
+]}]}
+]}

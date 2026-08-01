@@ -1,0 +1,25 @@
+{
+"num":"15","title":"Federalism: Essentials & Core Relations","theme":"Federalism & Local Government",
+"lead":"==Federalism is basic structure== — [[Kesavananda Bharati (1973)]], [[SR Bommai (1994)]]. ==K. C. Wheare== famously called India ==‘quasi-federal’==; C. H. Alexandrowicz asked whether India should be called a federation at all. The ==end of one-party rule in 1967== was the turning point in federal aspirations.",
+"intro":["SC in 2024: States can collect royalty AND tax major minerals, and can regulate industrial alcohol — opening a significant revenue source for states."],
+"sections":[
+{"title":"Legislative Relations — the Framework","blocks":[
+{"type":"cards","items":[
+{"title":"Art 245 — Territory","bullets":["Parliament: laws for ==whole/part of the territory of India==","States: laws for their own territory","Parliament can make ==extra-territorial laws== (effect abroad)"]},
+{"title":"Art 246 — Three Lists","bullets":["==Union List== → Parliament; ==State List== → States; ==Concurrent== → both (Parl > States)","For UTs without legislatures, ==Parliament legislates=="]},
+{"title":"Art 248 — Residuary","bullets":["Subjects in no list → ==only Parliament== (supported by ==Entry 97, List I==)"]},
+{"title":"Art 254 — Repugnancy","bullets":["Inconsistency between Union & State laws on the Concurrent List → ==Union law prevails=="]}
+]},
+{"type":"stats","items":[
+{"value":"97","label":"Union List subjects — national importance, uniform laws"},
+{"value":"66","label":"State List subjects — local importance, exclusive state power"},
+{"value":"47","label":"Concurrent List subjects — both legislate, Parliament prevails"}
+]}]},
+{"title":"Doctrine of Territorial Nexus","blocks":[
+{"type":"table","head":["Case","Holding"],"rows":[
+["[[State of Bombay v. RMDC (1957)]]","The connection must be ==real, not illusory==, and the liability imposed must be ==pertinent to that connection==."],
+["[[Tata Steel v. State of Bihar (1958)]]","Nexus theory doesn't impose a tax — it indicates the circumstances in which a tax ==may be enforced==."],
+["[[State of Bihar v. Charusila Das (1959)]]","State can legislate on trusts ==within its territory== even if some trust property lies in another State."],
+["[[Electronics Corp. v. CIT (1989)]]","Extra-territorial laws must have a ==nexus with something in India==."]
+]}]}
+]}

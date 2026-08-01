@@ -1,0 +1,43 @@
+{
+"num":"23","title":"Governor","theme":"Federalism & Local Government",
+"lead":"Enshrined in ==Arts 153–167==, the Governor symbolises the link between Centre and States in India's quasi-federal structure. SC set assent timelines in [[State of TN v. Governor (2025)]] — later reversed via a ==Presidential Reference==.",
+"sections":[
+{"title":"Assent Timelines — the 2025 Saga","blocks":[
+{"type":"bullets","items":[
+"Background: growing ==delays by Governors== in granting assent to Bills — sometimes causing ==legislative paralysis==.",
+"==SC ruling (April 2025)== set explicit timelines under Art 200: ==1 month== to grant/withhold assent; ==3 months== if reserving for the President; ==1 month== for reconsidered Bills; and — for the first time — the ==President must decide referred Bills within 3 months==.",
+"The SC ==reversed these timelines== later in 2025 while answering a ==Presidential Reference==."
+]}]},
+{"title":"Appointment, Eligibility, Removal, Discretion","blocks":[
+{"type":"table","head":["Aspect","Position","Issues","Reform recommendations"],"rows":[
+["==Appointment==","By the President (==Art 155==), effectively on Union advice.","Central dominance; ==reward for loyalty==; no consultation with states.","==Sarkaria==: eminent outsider, detached from politics; consult the CM · ==Punchhi==: fixed tenure, transparent panel-based selection · ==Rajamannar==: not the Centre's agent."],
+["==Eligibility==","Citizen, ==35+ years== (Art 157).","Minimal criteria; no bar on recent politicians or conflicts of interest.","Sarkaria & Punchhi: ==eminent persons only==, not active politicians; conventions: from outside the state."],
+["==Removal==","==Pleasure of the President== (Art 156(1)) — no fixed term or reasons.","Arbitrary removal; politicisation and instability.","[[B.P. Singhal (2010)]]: removal cannot be arbitrary — needs ==valid, compelling reasons== · Punchhi: impeachment-like process · Rajamannar: state legislature involvement."],
+["==Discretionary powers==","CM appointment in hung assemblies, ==reserving bills==, recommending Art 356.","Vague scope; misuse; frequent controversy.","Sarkaria: use ==sparingly==, judicial review · Punchhi: ==six-month timeline for assent== · II ARC: Inter-State Council guidelines."]
+]},
+{"type":"cards","wide":true,"items":[
+{"title":"Retain the Office?","kicker":"For","bullets":["==Constitutional check== upholding the federal structure","Stability in crises — hung assemblies, breakdowns","Ensures states act ==within the constitutional framework==","Centre–State communication channel"]},
+{"title":"Reform It","kicker":"Against / reform","bullets":["==Misused for political purposes==, undermining state autonomy","Assent delays and discretionary interventions → ==legislative deadlock==","Rajamannar, Sarkaria, Punchhi all urge limits on central interference","Expert bodies recommend ==reform, not abolition==: fixed tenure, clear eligibility, transparent removal, limited discretion"]}
+]}]},
+{"title":"The Address to the Legislature — Arts 175 & 176","blocks":[
+{"type":"bullets","items":[
+"==Core issue==: Governors skipping the annual address, refusing the cabinet-approved text, or ==omitting portions== — acute in Opposition-ruled states (Kerala, Karnataka).",
+"==Art 176 uses ‘shall’== — the special address is a ==constitutional duty==, not a choice; Art 163 binds the Governor to ==aid and advice== except where discretion is expressly given.",
+"[[Shamsher Singh v. Punjab]]: President and Governor act on ministerial advice outside specified discretionary areas.",
+"[[Nabam Rebia]]: Art 175 dropped the 1935 Act's ==‘in his discretion’== phrase — messages must follow ministerial advice; the Governor cannot be a ==‘conscience keeper’== of the Assembly.",
+"The Governor is a ==constitutional reader==, not an editor, of the government's policy statement — omitting Union-critical portions distorts ==responsible government==.",
+"==Way forward==: prior consultation with the CM for genuine concerns; full cabinet-approved text laid on the table as ==official record==; codify the convention — refusal to deliver = serious breach of duty."
+]}]},
+{"title":"Hung Assemblies & Government Formation","blocks":[
+{"type":"bullets","items":[
+"==Art 164==: Governor appoints the CM; discretion in a hung house is a ==temporary mechanism== to find who can face the House — not personal preference.",
+"==Sarkaria–Punchhi order of invitation==: (1) ==pre-poll alliance==; (2) largest single party with support; (3) post-electoral coalition, all partners in government; (4) post-electoral alliance with outside support.",
+"==Floor test is decisive==: [[SR Bommai (1994)]] — the Assembly, not Raj Bhavan arithmetic; [[Rameshwar Prasad (2006)]] — dissolution on feared horse-trading is anathema; [[Subhash Desai (2023)]] — the Governor's discretion to call a floor test is ==not unfettered==.",
+"==Concerns==: inconsistent yardsticks (Goa, Manipur, Karnataka, Maharashtra); timing — ordinarily prove majority ==within 30 days==.",
+"==TN-type issue==: the Governor may seek support letters as ==prima facie evidence== but cannot demand ==signed letters of an absolute majority before the oath== — minority governments are possible; ==Art 189== decides questions by majority of those present and voting.",
+"==Guiding principle==: ‘Raj Bhavan may identify the claimant, but ==the Assembly alone certifies the majority==.’"
+]}]},
+{"title":"Conclusion","blocks":[
+{"type":"quote","text":"The Governor was meant to be a sentinel of the Constitution, not a shadow of the Centre. When discretion turns into disruption, the balance of federalism falters. Restoring dignity to this office is not just a legal need — it is a democratic imperative."}
+]}
+]}

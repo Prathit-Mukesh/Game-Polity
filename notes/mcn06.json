@@ -1,0 +1,41 @@
+{
+"num":"06","title":"Inclusions & Components","theme":"Amendments & Basic Structure",
+"lead":"What the Supreme Court has recognised — and refused to recognise — as part of the basic structure, with the constituent cases.",
+"sections":[
+{"title":"Constitution & Governance","blocks":[
+{"type":"table","head":["Principle","Cases"],"rows":[
+["==Supremacy of the Constitution==","[[Kesavananda Bharati v. State of Kerala (1973)]] · [[SR Bommai v. UoI (1994)]]"],
+["==Rule of Law==","[[Indira Gandhi v. Raj Narain (1975)]] · [[Indra Sawhney v. UoI (1993)]] · [[IR Coelho v. State of TN (2007)]]"],
+["==Separation of Powers==","[[Kesavananda Bharati (1973)]] · [[SR Bommai (1994)]] · [[IR Coelho (2007)]]"],
+["==Federalism==","[[Kesavananda Bharati (1973)]] · [[SR Bommai (1994)]]"],
+["==Limitations on amending power== under Art 368","[[Minerva Mills v. UoI (1980)]]"]
+]}]},
+{"title":"Rights & Justice","blocks":[
+{"type":"table","head":["Principle","Cases"],"rows":[
+["==Principles behind Fundamental Rights==","[[Kesavananda Bharati (1973)]] · [[IR Coelho (2007)]]"],
+["==Secularism==","[[Kesavananda Bharati (1973)]] · [[SR Bommai (1994)]] · [[Sri Adi Vishveshwara of Kashi Vishwanath Temple v. State of UP (1997)]]"],
+["==Balance between FRs and DPSPs==","[[Minerva Mills (1980)]]"],
+["==Social & economic justice==, DPSP in toto","[[Kesavananda Bharati (1973)]] · [[Bhim Singhji v. UoI (1981)]]"],
+["==Objectives specified in the Preamble==","[[Kesavananda Bharati (1973)]]"]
+]}]},
+{"title":"Democracy & Elections","blocks":[
+{"type":"table","head":["Principle","Cases"],"rows":[
+["==Parliamentary system of government==","[[Kesavananda Bharati (1973)]]"],
+["==Free and fair elections==","[[Kihoto Hollohan v. Zachillhu (1993)]]"],
+["==Parliamentary democracy & multi-party system==","[[Kuldip Nayar v. UoI (2006)]]"]
+]}]},
+{"title":"Judiciary","blocks":[
+{"type":"table","head":["Principle","Cases"],"rows":[
+["==Independent & efficient judicial system==","[[Registrar (Admin) v. Sisir Kant Satapathy (1999)]]"],
+["==SC powers under Arts 32, 136, 141, 142==","[[Delhi Judicial Service Assn v. State of Gujarat (1991)]]"],
+["==Effective access to justice==","[[Central Coal Fields v. Jaiswal Coal Co. (1980)]]"],
+["==Judicial review== — Art 32, Art 226/227","[[Kesavananda Bharati (1973)]] · [[Indira Gandhi v. Raj Narain (1975)]] · [[Minerva Mills (1980)]] · [[SP Sampat Kumar v. UoI (1987)]] · [[L Chandra Kumar v. UoI (1997)]]"],
+["==Independence of the judiciary==","[[SC AoR Assn. v. UoI (1994)]]"]
+]}]},
+{"title":"Exclusions — Not Basic Structure","blocks":[
+{"type":"table","head":["Matter","Position"],"rows":[
+["==Fifth Schedule== and its amendment","Temporary provision — CA under Art 368 ==not required== to amend it. [[SC AoR Assn. v. UoI (1994)]]"],
+["==Art 323A (Tribunals)== via 42nd CA, 1976","Takes service-matters jurisdiction from HCs and civil courts — upheld. [[SP Sampat Kumar (1987)]] · [[L Chandra Kumar (1997)]]"],
+["Amendment ==taking away a Fundamental Right==","Permissible per [[Shankari Prasad Singh Deo v. UoI (1951)]]."]
+]}]}
+]}

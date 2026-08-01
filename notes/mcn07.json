@@ -1,0 +1,87 @@
+{
+"num":"07","title":"Applications & Analysis","theme":"Amendments & Basic Structure",
+"lead":"How the Basic Structure Doctrine is tested, applied and debated — from the width and identity tests to the Ninth Schedule and constitutional morality.",
+"sections":[
+{"title":"Tests for Basic Structure","blocks":[
+{"type":"cards","wide":true,"items":[
+{"title":"The Identity Test","kicker":"Kesavananda","bullets":["Does the amendment change the identity of the Constitution so fundamentally that ==the document that emerges is not the same Constitution==? If yes, the amendment is void.","[[L Chandra Kumar (1997)]]: examine the feature's ==place in the constitutional scheme==, its object and purpose, and the consequences of denying it.","[[M Nagaraj (2006)]] distinguished ==constitutional axioms== (secularism, federalism) from ordinary legal rules (catch-up rule, consequential seniority) — altering the latter does not destroy the basic structure."]},
+{"title":"The Width Test","kicker":"M Nagaraj v. UoI, 2006","bullets":["What is the ==true breadth of the amendment's impact== — does its reach transgress the basic structure?","Nagaraj upheld amendments to ==Art 16(4A)/(4B)== (reservation in promotions) but imposed BSD-derived conditions: ==quantifiable data on backwardness, inadequacy of representation, administrative efficiency==.","[[Jarnail Singh v. Lachhmi Narain Gupta (2018)]] removed the ==backwardness condition== for SCs/STs, retaining the other two."]},
+{"title":"Abrogation vs Abridgment","kicker":"Kesavananda","bullets":["An amendment may ==curtail or regulate== a feature (permissible abridgement) but cannot ==destroy or abrogate== it.","The SC looks at ==degree of damage==: modified → survives; essence eliminated → falls."]},
+{"title":"The Rights Scrutiny Test","kicker":"IR Coelho","bullets":["If the ==essence of Arts 14, 19 or 21== is destroyed, a law cannot be saved merely by placement in the ==Ninth Schedule==.","A concrete ==rights-impact analysis==, not just an abstract BSD inquiry."]}
+]},
+{"type":"callout","text":"==Modification v. Damage==: not every amendment affecting a basic feature is invalid — it must ==damage, destroy, abrogate or emasculate== the basic structure. The width test is about ==scope of power used==; the identity test is about ==qualitative transformation== of the constitutional order."}
+]},
+{"title":"Where the Doctrine Has Been Applied","blocks":[
+{"type":"cards","items":[
+{"title":"Judicial Review","bullets":["[[Minerva Mills (1980)]] struck down 42nd CA clauses excluding court review of amendments.","[[L Chandra Kumar (1997)]]: review under ==Arts 226/227 and 32== is basic structure — tribunals supplement, ==never replace==, constitutional courts."]},
+{"title":"Democracy & Elections","bullets":["[[Kihoto Hollohan (1993)]]: democracy, rule of law, ==free & fair elections== are basic features.","[[Indira Gandhi v. Raj Narain (1975)]]: election of high offices cannot be placed ==beyond judicial scrutiny==."]},
+{"title":"Ninth Schedule","bullets":["[[Waman Rao (1981)]] and [[Bhim Singhji (1981)]]: even redistributive legislation cannot annihilate basic structure via ==blanket immunisation==.","[[IR Coelho (2007)]]: post-1973 IX Schedule laws tested against FRs that are themselves basic structure — especially where ==‘rights-destroying’== rather than merely rights-limiting."]},
+{"title":"FRs & DPSPs in Harmony","bullets":["[[Minerva Mills (1980)]]: FRs protect ==liberty and dignity==; DPSPs promote ==social and economic justice== — their ==harmony and balance== is itself basic structure."]},
+{"title":"Secularism & Federalism","bullets":["[[SR Bommai (1994)]]: both are basic features; anti-secular state governments can be dismissed but ==Presidential Proclamations under Art 356 need material== — judicial check over a previously non-justiciable domain."]},
+{"title":"Independence of the Judiciary","bullets":["[[Madras Bar Association (2015)]] (tribunals) and the [[NJAC Case (2015)]] (appointments): judicial independence and separation of powers used to strike down changes threatening ==court autonomy==."]},
+{"title":"Socialism & Property","bullets":["[[Property Owners Association v. State of MH (2024)]]: Art 31C stands as settled by Kesavananda/Minerva; ==not all private property is ‘material resources of the community’== under Art 39(b) — protecting property rights without reinstating Art 31."]}
+]}]},
+{"title":"Impact on Judicial Review","blocks":[
+{"type":"cards","wide":true,"items":[
+{"title":"Affirmative Impacts","kicker":"For","bullets":["==Judicial review constitutionalised==: Arts 32 and 226 declared inviolable basic structure — [[L Chandra Kumar (1997)]] — self-perpetuating as an institution.","==Two-tier review==: ordinary Art 13 review of legislation + ==BSD meta-review== of amendments themselves — a doctrinal leap.","==First application==, [[Indira Gandhi (1975)]]: even the most consequential political decisions can be undone.","==Rights trinity==: [[Maneka Gandhi (1978)]] interlocked Arts 14, 19, 21 — procedure affecting life & liberty must be ==fair, just and reasonable==.","==Electoral integrity==: [[Kihoto Hollohan (1993)]] upheld the Tenth Schedule but preserved judicial review."]},
+{"title":"Critical Impacts","kicker":"Against","bullets":["==NJAC controversy==: a near-unanimous amendment ratified by states was invalidated by an unelected court — the ==counter-majoritarian difficulty== at its starkest.","==Vagueness==: undefined scope of ‘basic features’ breeds discretion and perpetual uncertainty.","==Judicial encroachment==: [[Vishaka (1997)]] guidelines show courts drifting into legislative territory.","==Policy disruption==: BSD-adjacent interventions have stalled infrastructure clearances, the ==farm laws (stay, 2021)== and reorganisations."]}
+]},
+{"type":"callout","text":"Normatively, basic structure transforms judicial review from mere legality control into ==‘constitutional guardianship’== — with all the attendant tension between ==democracy and juristocracy==."}
+]},
+{"title":"BSD as Democracy's Bulwark — and Its Challenges","blocks":[
+{"type":"cards","wide":true,"items":[
+{"title":"Bulwark","kicker":"Defence of democracy","bullets":["==The Emergency test==: Kesavananda is credited with keeping India a democracy in the 1970s; [[Minerva Mills (1980)]] striking down Arts 368(4)/(5) was the ==constitutional immune response== to self-entrenchment.","==Free & fair elections== as structural guarantee → built on by [[ADR v. UoI (2002)]] (candidate disclosure), [[Lily Thomas (2013)]] (disqualification of convicted legislators), [[Electoral Bonds Case (2024)]].","==Secularism & pluralism==: [[SR Bommai (1994)]] — a check on sectarian governance.","==Federalism== as democratic decentralisation — the Centre cannot amend India into a unitary state.","==Multi-party democracy==: [[Kuldip Nayar (2006)]] protects political pluralism from majoritarian entrenchment."]},
+{"title":"Challenges","kicker":"Democratic cost","bullets":["==Counter-majoritarianism institutionalised== — unelected judges striking down amendments of elected majorities.","==Constitutional freezing==: the collegium — itself judge-made — rendered effectively unamendable (NJAC).","==Ambiguity as a power tool==: an expanding portfolio of judicial veto points; the ==‘abstraction problem’== risks constitutionalising personal views.","==Comparative view==: Germany's eternity clauses (==Art 79(3) Grundgesetz==) are textual; South Africa's amendments are tiered; India's BSD is ==entirely judge-made== — flexible but exposed to charges of self-empowerment."]}
+]},
+{"type":"callout","text":"BSD can be defended as ==‘militant constitutionalism’== necessary amid weak party constraints and majoritarian excess — but it demands ==judicial self-restraint== and clear reasoning to remain democratically defensible."}
+]},
+{"title":"The First Amendment & the Ninth Schedule","blocks":[
+{"type":"bullets","items":[
+"The ==First Amendment (1951)== is a classic case of Parliament recalibrating rights for socio-economic reform — and the later BSD ==retroactively disciplining== that attempt. Triggered by [[Champakam Dorairajan (1951)]], [[Romesh Thappar (1950)]] and [[Motilal (1951)]].",
+"==Art 19 changes==: narrowed free speech by adding ‘reasonable restrictions’ (public order, foreign relations) — responding to Romesh Thappar and [[Brij Bhushan]] which had robustly protected press freedom.",
+"==Arts 31A & 31B + IX Schedule==: validated 13 state land-reform laws retrospectively — even statutes already held unconstitutional would be deemed valid once listed.",
+"==Democratic legitimacy issue==: passed by the ==Provisional Parliament== elected on a limited franchise.",
+"The Schedule began as a ==social revolution device== (protecting land reform) but became a ==constitutional immunity device== — corrected through Waman Rao's ==24 April 1973 cut-off== and Coelho's rights scrutiny."
+]},
+{"type":"table","head":["Stage","Position of IX Schedule laws"],"rows":[
+["Post-==1st CA (1951)==","All Ninth Schedule laws ==immune== from FR challenge."],
+["Post-[[Kesavananda Bharati (1973)]]","Immunity questioned but not definitively resolved."],
+["[[Waman Rao v. UoI (1981)]]","Laws added ==before 24 April 1973== immune; those added after open to BSD challenge."],
+["[[I.R. Coelho v. State of TN (2007)]]","Post-24 April 1973 laws challengeable on basic structure ==AND on Arts 14, 15, 19, 21 specifically==."]
+]},
+{"type":"callout","text":"The Ninth Schedule is ==not a constitutional black hole== — it is protected only so long as it does not become a device to ==destroy constitutional identity==."}
+]},
+{"title":"The Post-Kesavananda Trinity","blocks":[
+{"type":"cards","items":[
+{"title":"Minerva Mills (1980)","kicker":"Defeating the counter-revolution","bullets":["The ==42nd CA (1976)== — a ‘mini Constitution’ amending 54 provisions during the Emergency — sought to reverse Kesavananda.","Struck down ==Arts 368(4) and 368(5)==; ==limited amending power is itself a basic feature==.","Art 31C restored to pre-42nd position; ==FR–DPSP harmony== affirmed. Justice Bhagwati's dissent stressed DPSPs' socio-economic importance."]},
+{"title":"Waman Rao (1981)","kicker":"The temporal bright line","bullets":["Set the ==24 April 1973 cut-off== (date of Kesavananda): earlier IX Schedule laws protected; later ones open to challenge.","A pragmatic balance: avoiding ==retroactive chaos== in settled land reforms while denying permanent immunisation."]},
+{"title":"I.R. Coelho (2007)","kicker":"Final resolution","bullets":["==9-judge bench== confirmed Waman Rao's line.","Post-1973 IX Schedule laws challengeable on BSD ==and Arts 14, 15, 19, 21== — only ==‘fictional immunity’== remains in Art 31B.","Reaffirmed ==rule of law and separation of powers== as basic features."]}
+]},
+{"type":"callout","text":"The trilogy is the ==jurisprudential maturation== of the BSD: creation (Kesavananda) → defence against reversal (Minerva Mills) → temporal calibration (Waman Rao) → comprehensive final form (Coelho)."}
+]},
+{"title":"BSD & Ordinary Legislation","blocks":[
+{"type":"bullets","items":[
+"==Classic position==: Kesavananda directed the doctrine exclusively at the ==amending power== under Art 368.",
+"[[Madras Bar Association v. UoI (2015)]]: ==ordinary laws too== cannot violate the basic structure — a doctrinal leap.",
+"[[Anjum Qadri v. UoI (2024)]] (UP Madrassa): the test is ==rigorous== — one must specifically demonstrate how an ordinary law violates the basic structure; vague invocation fails."
+]},
+{"type":"table","head":["Constitutional amendment","Ordinary legislation"],"rows":[
+["Tested under ==Art 368 and the basic structure doctrine==.","Tested mainly for ==legislative competence==, Fundamental Rights and other constitutional limitations."],
+["Parliament acts in ==constituent capacity==.","Parliament/State legislature acts in ordinary ==legislative capacity==."],
+["Can amend the constitutional text.","==Cannot override== the Constitution."]
+]},
+{"type":"steps","items":[
+"==Constitutional text== — Parliament can amend, subject to BSD",
+"==Basic structure== — constrains both constituent and ordinary legislative power",
+"==Ordinary laws== — must conform to Part III (Art 13) and must not damage basic structural features"
+]}]},
+{"title":"Constitutional Morality & the Basic Structure","blocks":[
+{"type":"bullets","items":[
+"BSD is the ==juridical operationalisation of constitutional morality== — the doctrine provides the mechanism; morality provides the normative content of what counts as ‘basic’.",
+"Amendments are ==solemn moral choices== about the kind of polity India wishes to be — when they conflict with the Constitution's moral architecture (42nd CA, 39th CA), BSD corrects them.",
+"==The Preamble as moral source==: from not part of the Constitution ([[Berubari Union (1960)]]) to its integral source ([[Kesavananda (1973)]]) — its text can be amended, but its objectives, having acquired BSD status, ==cannot be destroyed==.",
+"==Transformative constitutionalism==: the judiciary drove social revolution through BSD and PIL — but faces growing criticism of ==overreach== into legislative and executive domains."
+]},
+{"type":"quote","text":"Its ultimate value lies in the assurance it gives every citizen that the Constitution's promise of justice, liberty, equality, and fraternity — written into the Preamble with profound deliberation — cannot be erased by any arithmetic of political majority, however large."}
+]}
+]}

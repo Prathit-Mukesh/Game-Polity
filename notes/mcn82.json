@@ -1,0 +1,49 @@
+{
+"num":"82","title":"Political Parties","theme":"Elections & Representation",
+"lead":"==If elections are the heartbeat of democracy, political parties are its nervous system== — they aggregate interests, structure political choices, and connect citizens to the state.",
+"sections":[
+{"title":"Evolution of India's Party System","blocks":[
+{"type":"cards","items":[
+{"title":"Pre-Independence Roots","bullets":["==INC (1885)== and the ==All India Muslim League (1906)== began as elite associations and massified into proto-parties negotiating with the colonial state","==Non-Cooperation and Civil Disobedience== showed a party mobilising peasants, workers, students and the middle class","==Lahore Session (1929)== — the demand for ==Poorna Swaraj== as a coherent national agenda"]},
+{"title":"Phase I — The ‘Congress System’","kicker":"1952–1967","bullets":["Multi-party in law, ==Congress-dominant in practice== across the first four general elections","Congress as an ==umbrella party== representing coalitions and factions ==internally==","==1957: INC won ~75% of LS seats==; opposition fragmented and regionally limited","==Global parallel==: Japan's LDP dominance"]},
+{"title":"Phase II — Fragmentation","kicker":"1967–1989","bullets":["==1967 broke Congress's invincibility==; state coalitions emerged; regional parties (==DMK, Akali Dal==) gained prominence","==Emergency (1975–77)== and the ==Janata Party experiment== showed the potential and fragility of anti-Congress coalitions","==1977==: Congress swept out of North India; ==first non-Congress Union government=="]},
+{"title":"Phase III — Coalition Era","kicker":"1989–2014","bullets":["Unstable minority governments; broad coalitions (==United Front, NDA, UPA==)","==Federalisation== — state parties (DMK, TDP, JD(U), Shiv Sena, TMC) became ==king-makers in Delhi==","==UPA-I== relied on outside Left Front support, which shaped the ==Indo-US nuclear deal=="]},
+{"title":"Phase IV — A New Dominant Pattern","kicker":"2014–present","bullets":["==BJP as the new dominant party== — clear majorities in 2014 and 2019, single largest in 2024","Best described as ==‘multi-party, asymmetrically competitive’==","==2024==: six national parties together secured ==over 63% of total votes=="]}
+]}]},
+{"title":"Structural & Legal Framework","blocks":[
+{"type":"bullets","items":[
+"==Constitutional position==: the original Constitution ==does not explicitly mention political parties==, but ==Art 19(1)(c)== and the whole design of parliamentary democracy presuppose them; the ==Tenth Schedule (52nd CA, 1985)== does mention them.",
+"==Statutory governance==: ==RoPA 1951== — registration (==s.29A==), funding (ss.29B & 29C); ==Election Symbols (Reservation and Allotment) Order, 1968== — recognition criteria.",
+"==ECI's power==: in [[INC (I) v. Institute of Social Welfare (2002)]] the SC held the ECI can register parties but ==de-register only on limited grounds== (fraud, illegal purposes) — ==not for mere inactivity==.",
+"==Anti-defection==: the Tenth Schedule disqualifies members who voluntarily give up membership or defy the whip; [[Kihoto Hollohan (1992)]] upheld it while subjecting ==Speakers' decisions to judicial review==.",
+"==Funding==: membership fees, donations, corporate contributions (Companies Act, 2013) and electoral trusts; ==100% tax exemption under s.13A IT Act== only if the party ==files returns, maintains audited accounts and discloses contributions==. The ==Electoral Bonds Scheme (2017)== permitted anonymous donations; struck down in [[ADR v. UoI (2024)]] for violating voters' ==right to information== and upsetting the level playing field.",
+"==Transparency==: the ==CIC (June 2013)== ruled six national parties (INC, BJP, CPI, CPI(M), BSP, NCP) are ==‘public authorities’ under RTI== — ==none have complied==. Parties must annually report donations ==above ₹20,000== to the ECI."
+]}]},
+{"title":"Key Issues","blocks":[
+{"type":"cards","items":[
+{"title":"Weak Internal Democracy","bullets":["Few regular, competitive internal elections; candidate selection ==centralised, opaque, family-controlled==","==Law Commission (170th Report)== and ECI consultations (incl. 2025) repeatedly flagged ==intra-party democracy and financial transparency==","==Global contrast==: Germany's ==Basic Law Art 21== mandates democratic internal organisation and public accounting of funds"]},
+{"title":"Criminalisation","bullets":["ADR: candidates with criminal cases had ==3–4× higher win rates== in Lok Sabha 2024","==151 sitting MPs/MLAs== with declared cases relating to ==crimes against women== (2024)","==66% of Bihar's MLAs== have pending criminal cases","[[Lily Thomas (2013)]] struck down s.8(4); [[Public Interest Foundation v. UoI (2018)]] directed publicity of candidates' cases but ==declined to create new disqualification grounds=="]},
+{"title":"Money Power & Opaque Funding","bullets":["High share of ==crorepati candidates== — e.g. ~41% in one Bihar phase","==Electoral Bonds worsened opacity==; striking them down exposed ==concentrated corporate flows to ruling parties==","==UK==: PPERA 2000 requires quarterly publication of donations and loans","==Canada==: ==only individuals may donate==, with strict caps, tax credits for small donations and ==public reimbursement of election expenses=="]},
+{"title":"Representation Deficits","bullets":["==18th Lok Sabha (2024): 74 women MPs (~13.6–14%)== — slightly lower than 2019, far below the 33% target","==PIB (2025)==: women are ==~46% of elected PRI representatives== but only ==~14–17%== in Parliament and assemblies","The 106th Amendment is passed but ==tied to delimitation and census==; a PIL has led the SC to seek the Centre's response"]},
+{"title":"Dynasty & Personality Cults","bullets":["==ADR: ~21% of sitting MPs/MLAs/MLCs== are from political families — ==31% in the Lok Sabha==","Personality-centric campaigns ==weaken organisational depth== and ideologically driven politics"]},
+{"title":"Identity Politics","bullets":["Mobilisation along caste, religion, language, region — sometimes beyond legal limits","[[Abhiram Singh v. C.D. Commachen (2017)]]: ==s.123(3) RoPA read broadly== to bar appeals to ==any== candidate's or voter's religion, race, caste, community or language"]},
+{"title":"Misuse of RUPPs","bullets":["Thousands of ==Registered Unrecognised Political Parties== never contest — suspected ==shells for money-laundering==","==ECI delisted 42 RUPPs in Tamil Nadu (2025)== for long inactivity","==Maharashtra SEC== now requires contesting ==at least five seats== per five-year cycle to retain registration"]}
+]}]},
+{"title":"Global Best Practices","blocks":[
+{"type":"cards","wide":true,"items":[
+{"title":"Constitutionalising Parties","bullets":["==Germany==: Art 21 Basic Law recognises parties as central to forming the ==‘political will of the people’==, mandates ==internal democracy==, requires ==public accounting==, and permits banning parties threatening the free democratic order (==militant democracy==)","==Lesson for India==: treat parties as ==constitutional actors with public responsibilities==, not private clubs — justifying regulation of internal functioning, not just electoral behaviour"]},
+{"title":"Party Finance & Member Rights","bullets":["==UK==: the Electoral Commission enforces detailed reporting of donations and loans; permissible-source rules; campaign spending limits","==Canada==: individuals only, capped, heavily subsidised via tax credits, with ==expense reimbursement==","==Lesson==: combine ==donation caps + donor disclosure + spending limits + partial public funding==","==European democracies== legally require ==periodic internal elections, membership rolls, and fair candidate-selection procedures=="]}
+]}]},
+{"title":"Way Forward","blocks":[
+{"type":"steps","items":[
+"==Constitutional/legal recognition of parties as public institutions== — a new Part/Article or major RoPA amendment imposing obligations of internal democracy, transparency and non-discrimination with independent oversight",
+"==Strengthen intra-party democracy== — mandatory ECI-audited internal elections for office-bearers and selection panels; transparent membership registers; ==link recognition and symbol to compliance==",
+"==Debarment law== for those charged with heinous offences after charges are framed (per Public Interest Foundation), with safeguards against motivated cases",
+"==Fast-track courts== for MP/MLA cases, scaled up per the SC's 2017–18 directions",
+"==Party-level sanctions== — deny tax benefits and recognition perks to parties fielding many candidates with serious cases",
+"==Post-Electoral-Bonds finance reform== — ==real-time online disclosure above ₹10,000==; ==annual donor caps==; consider banning or profit-linking corporate donations; ==partial public funding== via tax credits and expense reimbursement conditional on clean-candidate norms",
+"==Independent audits and enforcement== — a ==Political Finance Regulator== on the UK Electoral Commission model",
+"==Time-bound implementation of Women's Reservation==; ==party-level quotas and zipper lists== with penalties; ==leadership pipelines== for women and youth",
+"==Minimum contest requirement== for registration (Maharashtra SEC rule), ==costed manifestos== vetted independently, ==official performance dashboards==, and strict enforcement against ==hate speech== using s.123(3) and Abhiram Singh"
+]}]}
+]}

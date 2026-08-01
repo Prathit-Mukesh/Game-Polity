@@ -1,0 +1,63 @@
+{
+"num":"56","title":"Judicial Independence & Accountability","theme":"Judiciary",
+"lead":"The SC recognised ==Independence of the Judiciary as basic structure== in [[SC AoR Assn v. UoI (1994)]] — but ==judicial accountability== remains a delicate balance between parliamentary democracy and public trust. ==8,630 complaints against judges between 2016–2025== (Law Minister's reply to a parliamentary question).",
+"sections":[
+{"title":"Components of Judicial Independence","blocks":[
+{"type":"cards","items":[
+{"title":"Structural / Institutional","bullets":["==Separation of powers== — judges outside legislature/executive (==Art 50==)","==Security of tenure== — removal only by impeachment (Arts 124(4), 217)","==Financial autonomy== — salaries on the Consolidated Fund, not variable to a judge's disadvantage (Arts 125, 221)","==Collegium primacy== in appointments and transfers (2nd & 3rd Judges cases)","Fixed service conditions"]},
+{"title":"Functional","bullets":["==No interference in judicial functions== (Art 141)","Control over procedure, contempt, listing","==Arts 121 & 211== bar discussion of a judge's conduct in legislatures except on impeachment; ==Judges (Inquiry) Act, 1968==","Parliament may ==add to but not curtail== SC powers","==Contempt power== (Arts 129/215)"]},
+{"title":"Internal","bullets":["Freedom from influence ==within== the judiciary — including pressure from Chief Justices"]},
+{"title":"Decisional","bullets":["Judges decide ==‘without fear or favour, affection or ill-will’== — Third Schedule oath"]}
+]}]},
+{"title":"Components of Judicial Accountability","blocks":[
+{"type":"cards","items":[
+{"title":"Constitutional","bullets":["==Impeachment== for ‘proved misbehaviour or incapacity’ — Arts 124(4), 217(1)(b)","==Judges (Inquiry) Act, 1968==: motion by ==100 LS or 50 RS== members, three-member committee, ==two-thirds majority== in both Houses","Declaration of assets — ==SC Resolution (1997)==, not binding","==Art 235==: HC control over the subordinate judiciary"]},
+{"title":"Institutional","bullets":["==In-House Procedure== for internal inquiry into complaints","[[K. Veeraswami v. UoI (1991)]]: ==prior CJI permission== needed to investigate judges","==Restatements of Judicial Values (1999)== — an ethical code"]},
+{"title":"Public","bullets":["==Reasoned judgments== as public documents, open to appeal and academic scrutiny","[[CPIO, SC v. Subhash Chandra Agarwal (2010)]] — RTI on a ==case-by-case basis==","==Contempt of court== — protects dignity, but excessive use can ==stifle legitimate criticism=="]},
+{"title":"Case Studies","bullets":["==Justice V. Ramaswami== — impeachment failed in 1993 due to political abstentions","==Justice Soumitra Sen== resigned before completion; ==Justice Dinakaran== resigned on the day of inquiry","==Justice Varma (Delhi HC)== currently in the news; ==Justice Gogoi== (conflict of interest)"]}
+]}]},
+{"title":"Key Issues","blocks":[
+{"type":"bullets","items":[
+"==High threshold for removal== — the 100/50-member motion, committee inquiry and two-thirds majority make removal ==extremely rare==.",
+"==Political influence and delay== — the process is susceptible to partisan derailment.",
+"==No intermediate sanctions== — no censure, suspension or lesser penalty: the process is ==all-or-nothing==.",
+"==In-house mechanism limits== — no statutory backing, no transparency, decisions not disclosed.",
+"==Resignation as a loophole== — judges resign to halt investigation and escape accountability.",
+"==Limited transparency== — no mandatory asset disclosure; no clear timelines."
+]}]},
+{"title":"Transparency: What and How Much","blocks":[
+{"type":"table","head":["Greater transparency justified in","Confidentiality may remain necessary in"],"rows":[
+["==Appointment criteria and procedures==","Internal judicial deliberations"],
+["Reasons for administrative decisions","==Draft judgments and discussions among judges=="],
+["==Case listing and bench allocation principles==","Sensitive personal information"],
+["==Judicial assets and conflicts of interest==","Information affecting fair trials or security"],
+["Final findings of misconduct","==Preliminary unverified complaints=="]
+]},
+{"type":"table","head":["Judicial independence protects","Judicial accountability prevents"],"rows":[
+["Impartial adjudication","Arbitrariness"],
+["Constitutional review","Misconduct"],
+["==Minority rights==","==Conflicts of interest=="],
+["Rule of law","Administrative opacity"],
+["Security from political retaliation","==Institutional complacency=="]
+]}]},
+{"title":"Recommendations for Reform","blocks":[
+{"type":"steps","items":[
+"==Independent judicial oversight body== — models: UK's ==Judicial Conduct Investigations Office==, European and Latin American judicial councils; revive and empower the lapsed ==Judicial Standards and Accountability Bill, 2010==",
+"==Introduce intermediate sanctions== — US ==Judicial Councils of the Circuits== issue reprimands, suspension or impeachment referral; amend the Judges (Inquiry) Act accordingly",
+"==Mandatory asset disclosure==",
+"==Statutory timelines== for each stage of removal, preventing evasion by delay",
+"==Close the resignation loophole== — investigations continue and findings are published even after resignation",
+"==Broaden and define ‘misbehaviour’== — corruption, ethical violations, conduct undermining integrity",
+"==Retain senior judges in disciplinary proceedings==, but include ==non-judicial members== for credibility"
+]}]},
+{"title":"The Relationship Between the Two","blocks":[
+{"type":"bullets","items":[
+"The Constitution does both: ==security of tenure and fixed salaries== (Arts 124, 125, 217, 221) for independence; ==strict removal procedures== (Arts 124(4), 217(1)(b), 1968 Act) for accountability.",
+"[[Kesavananda Bharati (1973)]] protects independence while ensuring ==constitutional accountability==; [[Indira Gandhi v. Raj Narain (1975)]] showed both at once.",
+"==Mutual necessity==: an independent judiciary must be accountable to remain legitimate — ==excessive insulation breeds opacity==. [[Sankalchand Sheth]] and [[S.P. Gupta]] reflect early concern for independence; the ==Second Judges Case== established judicial primacy.",
+"==Checks and balances==: independence guards against executive overreach; accountability prevents ==judicial tyranny==. The ==NJAC judgment (2015)== reasserted independence as basic structure but was criticised for ==avoiding structural accountability reforms==."
+]},
+{"type":"quote","text":"Constitutional morality rejects the false choice between independence and accountability. Independence without accountability may become judicial supremacy; accountability without independence may become political subordination."},
+{"type":"quote","text":"Judicial independence is not a privilege of judges — it is the right of every citizen to an impartial arbiter. Justice must not only be done, but must be seen to be answerable."}
+]}
+]}

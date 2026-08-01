@@ -1,0 +1,40 @@
+{
+"num":"85","title":"42nd Constitutional Amendment, 1976","theme":"Constitutional Ideas & Bodies",
+"lead":"The ==high-water mark of parliamentary sovereignty over constitutional supremacy== in India's history — and its subsequent partial reversal is equally central to understanding how the ==Basic Structure doctrine== was consolidated. The most consequential and most controversial amendment India has seen.",
+"sections":[
+{"title":"Core Changes Introduced","blocks":[
+{"type":"cards","items":[
+{"title":"Preamble & Ideology","bullets":["Inserted ==‘Socialist’, ‘Secular’ and ‘Integrity’==, changing ‘Sovereign Democratic Republic’ to ==‘Sovereign Socialist Secular Democratic Republic’=="]},
+{"title":"Fundamental Duties","bullets":["New ==Part IV-A (Art 51A)== prescribing ==ten Fundamental Duties== — respect for the Constitution, Flag and Anthem, environmental protection, scientific temper","Inspired by the erstwhile ==USSR's constitutional model=="]},
+{"title":"DPSPs vs Fundamental Rights","bullets":["Amended ==Art 31C== to give ==all of Part IV== (not just Arts 39(b)/(c)) primacy over ==Arts 14, 19 and 31==, and ==barred judicial review== of DPSP-implementing laws","Added ==Art 39A== (equal justice, free legal aid) and ==Art 43A== (workers' participation in management)"]},
+{"title":"Curtailment of Judicial Review","bullets":["==Art 32A==: barred the SC from examining ==state law validity== in Art 32 writs","==Art 131A==: gave the SC ==exclusive jurisdiction== over Central law validity, excluding HCs","==Art 144A==: required a minimum bench and ==two-thirds majority== to strike down a Central law","==Art 226A==: barred HCs from examining ==Central law validity==; ==Art 228A==: similar restriction on state laws","Diluted ==Arts 226/227== — narrowed writ grounds and curtailed HC superintendence"]},
+{"title":"Amending Power","bullets":["==Art 368(4)==: no constitutional amendment could be ==questioned in any court on any ground==","==Art 368(5)==: ==no limitation whatsoever== on Parliament's constituent power — a direct attempt to ==nullify Kesavananda's Basic Structure doctrine=="]},
+{"title":"Centre–State, Elections & Administration","bullets":["==Art 257A==: Union could deploy ==central armed forces without state consent==","Extended emergency powers and central legislative competence — ==tilting the federal balance==","==Lok Sabha and Assembly terms extended from 5 to 6 years==; the 1971-elected LS extended by a year, ==postponing the 1976 general election==","Moved ==Education, Forests, Weights and Measures, Protection of Wild Animals and Birds== from State to ==Concurrent List==","Enabled an ==All India Judicial Service==; added ==Arts 323A and 323B== for Administrative Tribunals (==this survived==, operationalised via the 1985 Act)","Made the President ==explicitly bound by CoM advice (Art 74(1))== — retained even after 1978"]}
+]}]},
+{"title":"Impact","blocks":[
+{"type":"table","head":["Dimension","Impact"],"rows":[
+["Executive–Judiciary balance","Sharply tilted power toward the executive by ==insulating amendments and DPSP-based laws from judicial review==."],
+["==Federalism==","==Centralised== legislative and administrative power by expanding the Concurrent List."],
+["Fundamental Rights","Diminished the primacy of ==Arts 14, 19 and 31== relative to Directive Principles."],
+["==Citizen responsibility==","Introduced, for the first time, a ==codified sense of civic obligation== — shifting discourse to include duties alongside rights."],
+["Democratic process","==Undermined electoral accountability== by postponing elections and extending tenure — among the most authoritarian features of the Emergency era."],
+["==Long-term jurisprudence==","Provoked the strongest judicial push-back in independent India's history ([[Minerva Mills, 1980]]), ==cementing the Basic Structure doctrine== as an entrenched limit on Parliament's amending power."]
+]}]},
+{"title":"What Was Reversed, and How","blocks":[
+{"type":"table","head":["Original 42nd CA change","Reversed by","Nature of reversal"],"rows":[
+["==Art 368(4)== — CAs immune from judicial review","[[Minerva Mills v. UoI (1980)]]","==Struck down==; judicial review over amendments restored as a facet of Basic Structure."],
+["==Art 368(5)== — no limitation on constituent power","[[Minerva Mills (1980)]]","Struck down; amending power ==limited by Basic Structure== (Kesavananda upheld)."],
+["==Art 31C== — all DPSPs given primacy over Arts 14, 19, 31","[[Minerva Mills (1980)]]","Extension to ‘all DPSPs’ struck down; only the ==pre-42nd position (Arts 39(b)/(c))== survived, and remains reviewable."],
+["Art 32A — SC barred on state laws","==43rd Amendment Act, 1977==","Omitted; ==SC's Art 32 writ jurisdiction fully restored==."],
+["Art 131A — exclusive SC jurisdiction on Central laws","43rd Amendment Act, 1977","Omitted; ==concurrent HC jurisdiction restored==."],
+["Art 144A — special quorum/majority","43rd Amendment Act, 1977","Omitted."],
+["Art 226A — HCs barred on Central laws","43rd Amendment Act, 1977","Omitted; ==Art 226 jurisdiction fully restored==."],
+["Art 228A — restriction on HCs re state laws","43rd Amendment Act, 1977","Omitted."],
+["Curtailment of Arts 226/227","43rd (1977) & ==44th (1978)== Amendments","Original scope ==substantially restored==."],
+["==6-year legislative tenure==","==44th Amendment Act, 1978==","Reverted to the original ==5-year term==."],
+["==Art 257A== — central forces without state consent","44th Amendment Act, 1978","==Omitted altogether==."],
+["Suspension of Arts 20 & 21 in Emergency (per [[ADM Jabalpur]])","44th Amendment Act, 1978","==Expressly barred== — Arts 20 and 21 can ==never be suspended==, even in a National Emergency."],
+["==‘Internal disturbance’== as an Emergency ground","44th Amendment Act, 1978","Replaced with the narrower, more objective ground of ==‘armed rebellion’==."],
+["Art 31C limits on reviewing DPSP laws","Minerva Mills (1980); reaffirmed in [[Waman Rao (1981)]] & [[I.R. Coelho (2007)]]","Judicial review restored; ==‘prospective overruling’== applied to Ninth Schedule insertions."]
+]}]}
+]}

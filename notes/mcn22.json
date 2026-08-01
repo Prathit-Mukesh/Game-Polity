@@ -1,0 +1,41 @@
+{
+"num":"22","title":"Water Federalism","theme":"Federalism & Local Government",
+"lead":"The division and coordination of powers between Centre and States for ==water governance==. Despite same-party governments, the ==Mahanadi dispute has been pending in its Tribunal since 2018==.",
+"sections":[
+{"title":"Constitutional & Legal Framework","blocks":[
+{"type":"cards","items":[
+{"title":"Constitutional Provisions","bullets":["==Entry 17, State List==: water supplies, irrigation, canals — primarily state subjects","==Entry 56, Union List==: Centre may regulate ==inter-state rivers== if Parliament declares it expedient in the public interest","==Art 262==: Parliament may provide for adjudication of inter-state water disputes AND ==bar SC/court jurisdiction==","Arts 252, 253: consent-based and treaty-implementing legislation"]},
+{"title":"Key Legislation","bullets":["==Inter-State River Water Disputes Act, 1956==: tribunals; bars court jurisdiction","==River Boards Act, 1956==: never effectively used","Environment (Protection) Act 1986; Water Act 1974 — water quality regulation"]}
+]}]},
+{"title":"The Tribunals","blocks":[
+{"type":"table","head":["Tribunal","States","Constituted","Status"],"rows":[
+["Godavari","MH, AP, KA…","1969","Decision ==July 1980=="],
+["Krishna-I","MH, AP, KA","1969","Decision May 1976"],
+["==Narmada==","RJ, MP, GJ, MH","1969","Decision Dec 1979; Narmada Control Authority"],
+["Ravi & Beas","PB, HR, RJ","1986","Decision 1987; ==further report pending=="],
+["==Cauvery==","KL, KA, TN…","1990","Decision ==2007==; SC modifications"],
+["Krishna-II","KA, AP, MH…","2004","Decision Dec 2010; further references"],
+["Vansadhara","AP, OD","2010","Decision Sept 2017"],
+["Mahadayi","GA, KA, MH","2010","Decision Aug 2018"],
+["==Mahanadi==","CG, OD","2018","==Under adjudication=="]
+]}]},
+{"title":"Issues","blocks":[
+{"type":"cards","items":[
+{"title":"Structural & Legal","bullets":["==Federal-jurisdictional ambiguity== between Centre and States","==Historico-geographical ambiguity==: boundaries changed, agreements outdated","==Institutional ambiguity==: tribunal vs SC roles overlap"]},
+{"title":"Operational & Political","bullets":["==Decades-long delays== and weak implementation","==Non-compliance== by states citing electoral pressure","==Data deficits== undermine trust","Politicisation — disputes as ==regional-identity tools=="]},
+{"title":"Technical & Ecological","bullets":["==Supply-augmentation bias== — dams over demand management","==Climate change== breaks old allocation models"]}
+]}]},
+{"title":"Global Best Practices","blocks":[
+{"type":"table","head":["Practice","Where","What"],"rows":[
+["==Integrated River Basin Management==","EU (Water Framework Directive), Australia (==Murray-Darling==)","Basin-level management integrating ecological, social, economic objectives."],
+["Basin authorities","Murray-Darling Basin Authority, LAWA (Germany)","Coordination, data sharing, consensus-building."],
+["==Water markets==","Australia, Chile","Flexible, efficient allocation in scarcity."],
+["Credible data institutions","==USGS (US)==","Transparent data supporting adaptive management."]
+]}]},
+{"title":"Solutions","blocks":[
+{"type":"cards","items":[
+{"title":"Institutional & Legal","bullets":["==Federal consensus== — water security as national agenda; empower the ==Inter-State Council==","==Redefine the Centre's role== under Entry 56 — facilitator, not just adjudicator","==Robust basin authorities== with genuine stakeholder participation","==Autonomous data institutions== with transparent protocols"]},
+{"title":"Policy & Fiscal","bullets":["==Performance-based fiscal transfers== incentivising reform","Shift from supply augmentation to ==demand management== and ecosystem restoration","Align ==water–agriculture–energy policies== (MSP, power subsidies) to break perverse incentives"]},
+{"title":"Participatory & Political","bullets":["Multidisciplinary decision bodies; public participation and transparency","==Depoliticise disputes== — discourse aimed at resolution, not identity","Confidence-building for durable agreements"]}
+]}]}
+]}

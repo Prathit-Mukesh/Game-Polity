@@ -1,0 +1,18 @@
+{
+"num":"37","title":"Comparative: Forms of Government","theme":"Comparative Constitutions",
+"lead":"Four templates: India's ==parliamentary quasi-federal republic==, America's ==presidential federal republic==, Britain's ==parliamentary monarchy==, and France's ==semi-presidential republic==.",
+"sections":[
+{"title":"India · US · UK · France","blocks":[
+{"type":"table","head":["Aspect","India","United States","United Kingdom","France"],"rows":[
+["Type","Parliamentary democracy; ==quasi-federal republic==.","Presidential democracy; federal republic.","==Parliamentary monarchy==; unitary.","==Semi-presidential==; unitary republic."],
+["Head of state / govt","President (indirect) / PM.","President (direct) — ==both roles==.","Monarch / PM.","President (direct) / PM."],
+["Constitution","Written; ==partly rigid, partly flexible==.","Written, rigid.","==Unwritten== — statutes, conventions, case law.","Written (1958), moderately rigid."],
+["Sovereignty","Constitution supreme.","Constitution supreme.","==Parliament sovereign==.","Constitution supreme."],
+["Executive control","Strong — CoM responsible to LS.","Limited — separation of powers.","Strong — Cabinet responsible to Commons.","Moderate — ==PM accountable, President not==."],
+["Party & electoral system","Multi-party, coalitions; ==FPTP== (LS).","Two-party; FPTP.","Two-party dominant; FPTP.","Multi-party; ==two-round system==."],
+["Judicial review","Explicit, active — basic structure.","Strong — Marbury.","Limited — can't strike Acts.","==A priori review== by the Constitutional Council."],
+["Emergency powers","Wide — ==Arts 352–360==.","Statutory (War Powers Act etc.).","==No constitutional provision==.","President — ==Article 16==."],
+["Decentralisation","Federal with ==strong central bias==; 3 tiers.","Federal with strong state rights.","==Devolution== (Scotland, Wales, NI) — not guaranteed.","Unitary with administrative regions."],
+["Recent traits","Coalition politics, federal tensions, judicial activism.","Partisan gridlock, assertive judiciary.","==Brexit debates==, regional nationalism.","Strong presidency, volatile coalitions."]
+]}]}
+]}

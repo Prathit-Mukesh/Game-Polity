@@ -1,0 +1,28 @@
+{
+"num":"30","title":"Municipalities","theme":"Federalism & Local Government",
+"lead":"The ==74th CA== promised empowered urban self-government — but ‘functions without finances’ persists: ==municipal revenues are just 1% of GDP== (vs 5–6% in Brazil/South Africa).",
+"sections":[
+{"title":"Framework","blocks":[
+{"type":"cards","wide":true,"items":[
+{"title":"Issues","bullets":["==DPCs/MPCs defunct or never formed== in most states","Only ==14 states== held regular municipal elections in the last 5 years","Political and administrative resistance sharper in cities","Functions exercised through ==parastatals and parallel bodies=="]},
+{"title":"Solutions","bullets":["==Constitutional accountability audits==","Use ==City Finance Rankings== and Smart Cities evaluations for compliance checks"]}
+]}]},
+{"title":"Functions","blocks":[
+{"type":"cards","wide":true,"items":[
+{"title":"Issues","bullets":["==Fragmented responsibilities== — Jal Boards report to states, not ULBs","Authority diluted by ==Smart City SPVs==, AMRUT etc.","Tier-II/III backlogs in waste, housing, water — underfunding + overlapping jurisdictions","==45%+ of ULBs miss service-level benchmarks== in water and waste"]},
+{"title":"Solutions & Cases","bullets":["Operationalise the ==18 Twelfth-Schedule functions== via exclusive activity maps","==Municipal Services Cadre== with urban planners and engineers","==Indore==: six consecutive Swachh Survekshan wins — door-to-door collection, bio-CNG"]}
+]}]},
+{"title":"Finances","blocks":[
+{"type":"cards","wide":true,"items":[
+{"title":"Issues","bullets":["High dependence on ==tied central/state grants==","==Municipal bonds legal but rare== — only 11 cities","==Post-GST loss of local taxes== cut fiscal autonomy","Property tax recovery ==0.2% of GDP== vs 1–2.5% globally"]},
+{"title":"Solutions & Cases","bullets":["==GIS-linked property records== and digital tax platforms","Institutional ==credit ratings + pooled bonds== for Tier-2/3 cities","==Pune & Ahmedabad==: municipal bonds funding infrastructure without aid delays"]}
+]}]},
+{"title":"Functionaries","blocks":[
+{"type":"cards","wide":true,"items":[
+{"title":"Issues","bullets":["==Understaffing & deputation model== weakens city management","==No trained town planners== — planning outsourced to consultants","Audit delays; weak compliance culture","No citizen audit or participatory budgeting in most cities; ==commissioner-led model== limits elected councils"]},
+{"title":"Solutions & Cases","bullets":["Hands-on training: procurement, finance, ==GIS, e-governance== (NIUA, IIPA, AMRUT modules)","Skill-milestone incentives in the ==City Finance Index==","==Ward Sabhas with statutory powers==; mandatory online disclosure of budgets, resolutions, social audits","==Surat & Pune==: real-time digital reporting · ==Odisha Urban Academy==: e-learning + site visits"]}
+]}]},
+{"title":"Conclusion","blocks":[
+{"type":"quote","text":"If India is to become truly self-governing, its Panchayats and Municipalities must be more than administrative shells — they must become engines of transformative change."}
+]}
+]}

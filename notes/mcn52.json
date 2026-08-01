@@ -1,0 +1,51 @@
+{
+"num":"52","title":"Vice President","theme":"Union Executive",
+"lead":"The office embodies the Constitution's vision of ==continuity, balance and neutrality== — ensuring that neither the Executive nor Parliament ever faces a vacuum in authority. ==Read with MCN 45.==",
+"sections":[
+{"title":"Role as Rajya Sabha Chair","blocks":[
+{"type":"cards","items":[
+{"title":"Presiding Over Proceedings","bullets":["Orderly conduct, regulating debate, discipline","==2018==: VP Naidu rejected the impeachment motion against ==CJI Dipak Misra== as ‘lacking merit’","==2023==: VP Dhankhar intervened to prevent disruptions during the ==women's reservation bill=="]},
+{"title":"Interpreting Rules","kicker":"Rule 266","bullets":["==2015==: Ansari permitted a calling-attention motion on rising intolerance despite government objection","==2023==: Dhankhar disallowed short-duration discussions citing ==Rule 267== — contested discretionary reach"]},
+{"title":"Admissibility of Motions","bullets":["==2012==: Ansari admitted the ==FDI in retail== discussion despite government hesitation","==2023==: Dhankhar refused the ==Pegasus== motion under Rule 267"]},
+{"title":"Casting Vote","bullets":["Like the US VP in the Senate — rare in India due to party dominance","==1972==: VP Pathak's tie-breaking vote on the ==Payment of Bonus Bill=="]},
+{"title":"Committee Powers","bullets":["Nominates members to parliamentary committees","==2004==: Shekhawat ensured cross-party inclusion in the ==Ethics Committee== during the cash-for-query scandal"]},
+{"title":"Decorum & Discipline","kicker":"Rule 256","bullets":["==2021==: Naidu suspended ==12 Opposition MPs== in the Winter Session — criticised as excessive"]},
+{"title":"Federal Balance","bullets":["==GST debate (2016)==: Ansari ensured TN and WB concerns were heard → ==compensation guarantees=="]},
+{"title":"Debate Beyond Polarisation","bullets":["Post ==26/11 (2008)==: Ansari promoted non-partisan national-security debate → consensus on revamping intelligence architecture"]},
+{"title":"Constitutional & Ethical Custodian","bullets":["==2023==: Dhankhar publicly criticised the SC's basic-structure remarks — controversy over ==expected neutrality=="]}
+]}]},
+{"title":"Analysis of the Role as Chair","blocks":[
+{"type":"table","head":["Role","Impact on Parliament","Strength","Weakness"],"rows":[
+["Presiding authority","Procedural efficiency","Non-partisan","Limited engagement with MPs"],
+["Rule interpretation","Ensures order","Protects institutional dignity","==Prone to charges of arbitrariness=="],
+["Motion admissibility","Filters meaningful debate","Prevents disruption","==Can suppress dissent=="],
+["Casting vote","Critical decision-making","Power balance","Rare usage"],
+["Committee oversight","Enhances deliberation","Facilitates expertise","Often symbolic"],
+["Discipline","Maintains order","Enforces standards","==Seen as partisan=="],
+["Federal voice","Accommodates states","Platform for regional issues","==Dominated by party whips=="]
+]}]},
+{"title":"Issues with the Office","blocks":[
+{"type":"table","head":["Issue","Explanation & impact"],"rows":[
+["==Lacks real powers==","Except when acting as President, no substantive executive or legislative authority."],
+["==Political partisanship==","Usually from the ruling party → RS neutrality may be compromised."],
+["Limited constitutional role","Heads no committee; no advisory or decision-making role in governance."],
+["Ceremonial & overlapping","RS can function under the Deputy Chairman; presidential succession is a rare contingency."],
+["==No link with States==","Unlike the President, not elected by states → ==weaker federal legitimacy==."],
+["Overshadowed by Leader of the House","Floor management sits elsewhere — VP's powers become ==procedural, not substantive==."]
+]}]},
+{"title":"Global Comparison","blocks":[
+{"type":"table","head":["Feature","India","USA","UK","France"],"rows":[
+["Election","==Electoral College of both Houses' MPs==","National popular vote via the presidential ticket","==No office of VP==","No permanent VP; succession via President of Senate"],
+["Role in legislature","==Chairman of the Rajya Sabha==","President of the Senate — ==tie-breaking vote==","Presiding by Speakers of Houses","President of Senate presides over joint sessions occasionally"],
+["Role in executive","==None unless acting President==","==Second-highest executive authority== — Cabinet and NSC","No equivalent; PM heads government","Rarely acts; PM is executive head"],
+["Succession","1st in line","1st in line","Monarch → PM","President → Senate President → PM"],
+["Political role","==Expected to be neutral==","Highly political — often a future presidential candidate","N/A","May be political, rarely executive"]
+]}]},
+{"title":"Suggestions to Strengthen the Office","blocks":[
+{"type":"cards","wide":true,"items":[
+{"title":"Neutrality & Legitimacy","bullets":["==Code of impartial conduct== for the Chair; suspend active party membership on assuming office (Speaker convention)","Consult Leader of the House and Leader of Opposition before disciplinary decisions","==Include State Legislatures in the electoral college== at lower weightage — makes the VP national, not merely parliamentary","Long-term: ==consensus candidate model== with pre-election all-party consultation"]},
+{"title":"Capacity & Function","bullets":["Ex-officio head/co-chair of ==Rules, Ethics and Privileges Committees==","Annual ==‘State of Rajya Sabha Report’== on productivity, disruptions, legislative quality","Defined ==advisory role== — a constitutional advisory council with President & PM; inter-House coordination during deadlocks","==Cooling-off suspensions== for repetitive disruption; accountability time before voting","A dedicated ==Parliamentary Research Cell== and structured training in procedure, comparative practice and conflict mediation"]}
+]},
+{"type":"quote","text":"The strength of the Vice-President's office lies not in its powers but in the neutrality with which it is exercised — and restoring that spirit amid rising political polarisation is vital to preserve the dignity of parliamentary democracy."}
+]}
+]}

@@ -1,0 +1,23 @@
+{
+"num":"27","title":"Federalism: Example Matrix","theme":"Federalism & Local Government",
+"lead":"One matrix, three lenses — the same policy area can be ==cooperative, competitive and combative== at once. Use these as ready examples in any federalism answer.",
+"sections":[
+{"title":"The Matrix","blocks":[
+{"type":"table","head":["Area","Cooperative","Competitive","Combative"],"rows":[
+["==Institutional platforms==","NITI Aayog Governing Council — ==‘Team India’==","NITI indices: Health, SDG, School Education Quality, Water, Innovation, Export Preparedness","==Boycotts of NITI meetings== alleging fiscal centralisation"],
+["==GST regime==","==GST Council (Art 279A)== — joint rate-setting; best example of fiscal cooperation","States compete on compliance and revenue mobilisation","Compensation disputes; [[Mohit Minerals]]: Council recommendations are ==persuasive, not binding=="],
+["Development planning","CSS — Jal Jeevan, PMAY, SBM, PMGSY, NHM cost-sharing","Speed and coverage competition among states","Objections to ==fund-sharing ratios, branding, conditionalities=="],
+["Aspirational Districts","Centre–state–district coordination for lagging districts","==Delta rankings== (Champions of Change)","Critique: central indicators ignore ==local priorities=="],
+["Ease of doing business","Centre frames reforms; states implement single-windows","==Investment summits==, industrial policies, reform rankings","Allegations of ==discriminatory project allocation=="],
+["Public health","COVID management, vaccination, Ayushman Bharat","Health indices, insurance coverage competition","COVID disputes: ==oxygen, lockdowns, vaccine procurement=="],
+["Education","NEP 2020, Samagra Shiksha, PM-SHRI","SEQI and Performance Grading Index","Resistance to NEP, entrance frameworks, ==language policy=="],
+["Welfare delivery","==One Nation One Ration Card==, DBT, Aadhaar integration","TN social welfare, Kerala HD model, Odisha disaster management","Naming, funding and ==duplication disputes=="],
+["Agriculture","e-NAM, PM-KISAN data sharing, crop insurance","Procurement, agri-marketing, millets, exports","==Farm laws (repealed)== — competence and consultation conflict"],
+["Environment & disaster","NDMA/SDMA, climate plans, CAMPA","Renewables capacity, EV policies, green investment","==Inter-state river disputes==: Cauvery, Krishna, SYL, Mahanadi"],
+["Governor–state relations","Ideally a constitutional link","—","==Assent delays==, floor-test controversies, reservation of bills"],
+["Delhi / asymmetric","==Art 239AA== power-sharing model","Delhi competes on health, education, transport","Repeated ==Delhi–LG–Union disputes== over services"],
+["Central agencies","Police–CBI–NIA–ED coordination for security","Policing reforms, conviction rates, cybercrime capacity","States ==withdrawing general consent to CBI==; alleged misuse"],
+["Finance & borrowing","FC devolution, grants-in-aid, disaster funds","Fiscal discipline, own-tax revenue, capex competition","==Cesses outside the divisible pool==, borrowing limits"],
+["Language & culture","Eighth Schedule, classical languages, cultural grants","Tourism, heritage, ==GI tags==","==Anti-Hindi-imposition movements==, cultural autonomy claims"]
+]}]}
+]}

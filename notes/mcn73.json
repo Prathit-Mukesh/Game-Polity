@@ -1,0 +1,39 @@
+{
+"num":"73","title":"Judicial Legislation","theme":"Access to Justice",
+"lead":"==‘When the State fails to perform its constitutional duties, the judiciary must intervene to ensure that the rule of law prevails’ — Justice P.N. Bhagwati.== Judicial legislation stands at the ==razor's edge between justice and jurisdiction==.",
+"sections":[
+{"title":"Landmark Cases","blocks":[
+{"type":"table","head":["Case","Year","Judicial creation / principle"],"rows":[
+["[[Kesavananda Bharati v. State of Kerala]]","1973","Propounded the ==Basic Structure Doctrine== — a new constitutional principle limiting Parliament's power."],
+["[[Vishaka v. State of Rajasthan]]","1997","==Vishaka Guidelines== on workplace sexual harassment — filled the vacuum until the ==2013 POSH Act==."],
+["[[Lakshmi Kant Pandey v. UoI]]","1984","Framed rules for ==inter-country adoption==."],
+["[[Prakash Singh v. UoI]]","2006","Directed ==State Police Commissions and fixed tenures== — a model police reform law."],
+["[[UoI v. ADR]]","2002","Mandated ==disclosure of criminal and financial background== of candidates — basis for electoral reform."],
+["[[Vineet Narain v. UoI]]","1997","Binding directions on ==CBI autonomy== and vigilance structure — led to the ==CVC Act (2003)==."],
+["[[Laxmi v. UoI]]","2014","Regulated ==acid sales== and rehabilitation schemes."],
+["[[Rajesh Sharma v. State of UP]]","2017","Created committees against misuse of ==s.498A IPC== — later modified by the SC itself."]
+]}]},
+{"title":"Justifications vs Concerns","blocks":[
+{"type":"table","head":["Aspect","Advantages / justifications","Criticisms / concerns"],"rows":[
+["Access to justice","Fills legal and administrative gaps — ==Vishaka Guidelines protected women before any statute existed==","Judicially crafted rules ==lack democratic legitimacy==, bypassing debate and scrutiny"],
+["Rule of law & accountability","Holds executive and legislature accountable (Vineet Narain)","Frequent intervention weakens executive responsibility — ==‘government by judiciary’=="],
+["==Protection of FRs==","Expands Art 21 — right to food, privacy, shelter","Courts overstep into ==policy domains needing legislative expertise=="],
+["Social & economic reform","Prakash Singh (police), Lakshmi Kant Pandey (adoption)","==Lacks institutional capacity== for long-term implementation"],
+["==Safeguard in legislative vacuum==","A ==constitutional safety valve== when Parliament delays ([[Shreya Singhal, 2015]])","Repeated use ==erodes separation of powers== and parliamentary sovereignty"],
+["Judicial creativity","Swift response to technology, environment, gender justice","==Overreach and arbitrariness== — subjective value judgments replace democratic process"],
+["Institutional trust","Judiciary seen as a ==neutral protector of rights==","==Overreliance dilutes public pressure== on legislature and executive"],
+["Temporary lawmaking","Directions operate ==‘until legislation is enacted’==","Legislatures delay codifying — ==temporary judicial law becomes de facto permanent=="],
+["Efficiency & speed","Quick remedies where legislative processes are gridlocked","Speed costs ==deliberation, research and inclusivity=="],
+["Moral leadership","Upholds ==constitutional morality== and human dignity","Tension between ==constitutional morality and political morality== — counter-majoritarian excess"]
+]}]},
+{"title":"Way Forward","blocks":[
+{"type":"steps","items":[
+"==Codify guidelines== — joint criteria on when judicial directions may substitute legislation",
+"==Sunset clauses== — judicial guidelines valid only until a law is enacted",
+"==Legislative responsiveness== — parliamentary committees acting promptly on judicial observations",
+"==Judicial restraint== — the principle of ==constitutional necessity, not convenience==",
+"==Public consultation== — amicus curiae and expert panels before framing policy-like directions"
+]},
+{"type":"quote","text":"When the legislature sleeps, the judiciary must awaken — but not dream in its place."}
+]}
+]}

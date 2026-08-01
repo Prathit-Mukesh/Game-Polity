@@ -1,0 +1,48 @@
+{
+"num":"57","title":"Higher Judicial Appointments","theme":"Judiciary",
+"lead":"==Arts 124/217==: the President appoints SC/HC judges ==in consultation with the CJI==. The ==Collegium System== is a judicial evolution supplemented by the ==Memorandum of Procedure==; the CJI is chosen ==by seniority, by convention==.",
+"sections":[
+{"title":"Evolution of the Framework","blocks":[
+{"type":"table","head":["Milestone","What it settled"],"rows":[
+["[[UoI v. Sankalchand Sheth (1977)]]","==‘Consultation’ is not concurrence==; limited court review if advice not followed."],
+["[[S.P. Gupta v. President of India (1981)]] — ==1st Judges Case==","Consultation ≠ concurrence; the ==court reduced its own power==; review only on ==mala fide== rejection."],
+["[[SC AoR Assn v. UoI (1993)]] — ==2nd Judges Case==","Introduced the ==Collegium System== with ==primacy to the CJI==; overruled earlier judgments."],
+["[[In Re: Presidential Reference (1999)]] — ==3rd Judges Case==","‘Consultation’ means ==plurality==: ==CJI + 4 senior SC judges== (SC); ==CJI + 2 senior HC judges== (HC)."],
+["==99th CA + NJAC==","CJI + 2 senior SC judges + Law Minister + 2 eminent jurists nominated by CJI, PM and LoP (one from SC/ST/OBC, religious minority or woman)."],
+["[[SC AoR Assn v. UoI (2015)]] — ==4th Judges Case==","==99th CA and NJAC struck down== — independence of the judiciary is basic structure."]
+]}]},
+{"title":"Issues","blocks":[
+{"type":"bullets","items":[
+"==Lack of transparency== — resolutions unpublished until 2017; even now they convey the decision without the ==comparative assessment== of candidates.",
+"==Executive influence== — the 99th CA route was struck down, leaving the tension unresolved.",
+"==Merit vs representation== — ==no publicly measurable, uniformly applied indicators== of ‘merit’ for elevation from the Bar.",
+"==Accountability== — post-NJAC the SC itself suggested a ==formal complaints mechanism== in the MoP.",
+"==Diversity deficit== — a ==2023 Parliamentary Standing Committee== report found only ~==3% SC and 1.5% ST== among HC judges appointed since 2018.",
+"==Informal lobbying and nepotism== — from May 2025 the SC began publishing whether recommended HC candidates are ==related to serving/retired judges==.",
+"==Delays== — as of 1 July 2026, ==1,122 sanctioned vs 781 working== HC judges: ==341 vacancies, ~30%==."
+]}]},
+{"title":"Recommendations & Global Practice","blocks":[
+{"type":"cards","wide":true,"items":[
+{"title":"Recommendations","bullets":["Publish ==fuller collegium details== (SC and now HC)","==214th Law Commission==: a ==National Judicial Service==","==At least one woman judge== in the collegium regardless of seniority","A ==detailed set of selection criteria==","==‘Eminent jurists’== to also be appointed to the SC","A ==formal nominations and application process==","A dedicated ==Office of Judicial Appointments== within the SC"]},
+{"title":"Global Best Practices","bullets":["==US==: President appoints with ==Senate consent==; candidates assessed by an ==American Bar Association committee==, reviewed by the Senate Judiciary Committee; ==no retirement age== — office held during good behaviour","==UK==: an independent ==Judicial Appointments Commission== of 15 — three judges, ==12 by open competition==","==South Africa==: a ==23-member Judicial Services Commission== advises the President"]}
+]},
+{"type":"quote","text":"In a constitutional democracy, the question is not merely who appoints the judges, but who guards the independence, integrity and legitimacy of those who guard the Constitution."}
+]},
+{"title":"Ad-hoc, Retired, Additional & Acting Judges","blocks":[
+{"type":"table","head":["Type","Supreme Court","High Court"],"rows":[
+["==Ad hoc==","==Art 127== — for shortage/quorum. Eligibility: sitting HC judge qualified for the SC. ==Same status as an SC judge==, temporary. Process: President's consent, consultation with the HC Chief Justice, ==CJI's written request==.","==Art 224A== (added by the ==15th CA, 1963==) — no reason specified in the Constitution. Eligibility: ==ex-HC judge==. Similar benefits, ==not deemed== an HC judge. Process: HC Chief Justice with President's consent."],
+["==Retired==","==Art 128== — no reason specified. Eligibility: ex-SC judge, or ex-HC judge qualified for the SC. Similar benefits, not deemed an SC judge. Process: ==CJI with President's consent==.","—"],
+["==Additional==","—","==Art 224(1)== — for increase/backlog. Qualified to be an HC judge; ==same status==. Period: ==2 years max or age 62==. Appointed by the President."],
+["==Acting==","—","==Art 224(2)== — sitting HC judge unavailable. Same status; until the sitting judge returns or age 62. Appointed by the President."]
+]},
+{"type":"table","head":["Original guidelines (Lok Prahari, 2021)","New / updated 2025 guidelines"],"rows":[
+["More than 20% vacancies in the HC","==Removed=="],
+["Specific types of cases pending > 5 years","Same"],
+["More than 10% of HC cases pending > 5 years","Same"],
+["Disposal rate < new filing rate","Same"],
+["—","==Ad hoc/retired judges < 10% of HC sanctioned strength== (new)"],
+["—","==Ad hoc/retired judges may only hear criminal appeals== (new)"]
+]},
+{"type":"quote","text":"When the process of appointing judges lacks transparency, the credibility of justice itself stands trial. A judiciary meant to be the guardian of the Constitution cannot draw its strength from shadows."}
+]}
+]}

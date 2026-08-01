@@ -1,0 +1,46 @@
+{
+"num":"02","title":"Constituent Assembly","theme":"Historical Underpinnings",
+"lead":"The Constituent Assembly was not simply a drafting body — it was a ==nation-building forum== that converted the freedom struggle into an enforceable constitutional architecture.",
+"sections":[
+{"title":"The Assembly in Numbers","blocks":[
+{"type":"stats","items":[
+{"value":"389","label":"members responsible for drafting India's Constitution"},
+{"value":"9 Dec 1946","label":"first sitting, under the Cabinet Mission Plan"},
+{"value":"11","label":"sessions over almost three years"},
+{"value":"165 days","label":"of meetings — 101 days discussing the constitutional text"},
+{"value":"~36 lakh","label":"words spoken during the debates (PRS)"},
+{"value":"2,473","label":"amendments dealt with, as noted by Ambedkar"},
+{"value":"114 days","label":"spent on consideration of the Draft Constitution"},
+{"value":"26 Nov 1949","label":"Constitution enacted; published as draft Feb 1948"}
+]}]},
+{"title":"Features of the Assembly","blocks":[
+{"type":"table","head":["Feature","Remarks"],"rows":[
+["Historical origin","Created under the ==Cabinet Mission Plan==, but became sovereign in spirit after Independence. First sat on ==9 December 1946==."],
+["Representative but indirectly elected","Not elected through universal adult franchise — members from British Indian provinces were ==indirectly elected by provincial legislative assemblies==; princely states nominated representatives."],
+["Committee-driven functioning","Rules of Procedure, Steering, Finance & Staff, Credentials, House, Order of Business Committees, and an Ad hoc Committee on the National Flag."],
+["Drafting Committee & Ambedkar's role","The Drafting Committee scrutinised the draft prepared by Constitutional Adviser ==B. N. Rau==; ==Dr. B. R. Ambedkar==, as Chairman, spoke the most in the Assembly."],
+["Stage-wise constitution-making","Preliminary stage, first, second and third readings; draft published Feb 1948, introduced Nov 1948, discussed ==clause by clause==, enacted 26 Nov 1949. (PRS)"],
+["==Objectives Resolution== as philosophical foundation","Introduced by ==Nehru on 13 December 1946==; laid down ideals of sovereignty, republicanism, democracy, justice and rights — later influenced the ==Preamble==."],
+["Public participation","Constitution-making was not confined to the Assembly — archives record petitions and feedback from groups, organisations and individuals."],
+["Dual role after Independence","After 15 August 1947, also functioned as the ==Dominion legislature== while continuing constitution-making."],
+["Diverse but eminent membership","Lawyers, women, political leaders, social reformers, professors, former civil servants, religious minorities — Nehru, Ambedkar, Patel, K.M. Munshi, Sarojini Naidu, Hansa Mehta, Frank Anthony, Gurmukh Singh Musafir."],
+["Encyclopaedic borrowing, indigenous vision","==UK== (parliamentary govt), ==US== (Fundamental Rights), ==Ireland== (DPSP), ==Canada== (residuary powers), ==Australia== (joint sitting), ==Germany== (emergency provisions), ==South Africa== (RS election)."]
+]}]},
+{"title":"Challenges Before the Assembly","blocks":[
+{"type":"table","head":["Challenge","Nature of the problem","How the Assembly responded"],"rows":[
+["Partition & communal violence","Worked amid displacement, massacres and insecurity.","Emphasised ==secular citizenship==, minority safeguards and constitutional order."],
+["Integration of princely states","British Indian provinces and princely states had to be unified in one framework.","Designed a Union capable of ==political integration== and administrative coherence."],
+["Democracy for a poor, illiterate society","Many doubted universal democracy could work in India.","Adopted ==adult franchise== and parliamentary democracy."],
+["Liberty vs social reform","Civil liberties needed alongside caste reform, land reform, affirmative action.","Combined ==Fundamental Rights with Directive Principles== and special provisions for disadvantaged groups."],
+["Federalism vs national unity","Partition created fear of Balkanisation.","Adopted ==federalism with a strong Centre==."],
+["Minority protection","Communal tensions made minority rights politically sensitive.","Religious freedom, cultural & educational rights, equality provisions."],
+["Language question","Linguistic diversity made national-language debates contentious.","Compromise: ==Hindi, English and regional languages== each with constitutional roles."],
+["Borrowing vs originality","Borrowing from global constitutions and colonial laws drew criticism of imitation.","Adapted borrowed institutions to Indian needs — a ==distinctive constitutional synthesis==."],
+["Administrative continuity","Sudden rupture from colonial governance could create chaos.","Preserved continuity while shifting legitimacy ==from empire to people==."],
+["Time pressure","Drafting amid crisis and transition.","Completed the Constitution in ==less than three years==."]
+]}]},
+{"title":"Conclusion","blocks":[
+{"type":"quote","text":"The Constituent Assembly did not merely write India's Constitution; it wrote India's method of disagreement."},
+{"type":"quote","text":"However good a Constitution may be, if those who are implementing it are not good, it will prove to be bad. However bad a Constitution may be, if those implementing it are good, it will prove to be good.","by":"Dr. B. R. Ambedkar"}
+]}
+]}

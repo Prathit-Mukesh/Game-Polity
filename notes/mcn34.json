@@ -1,0 +1,17 @@
+{
+"num":"34","title":"Comparative: Emergency","theme":"Comparative Constitutions",
+"lead":"India: a ==constitutionally codified, centralised== emergency system (Part XVIII). US: ==statute-driven, decentralised== — emergency power scattered across laws like the National Emergencies Act.",
+"sections":[
+{"title":"India v United States","blocks":[
+{"type":"table","head":["Basis","India","United States"],"rows":[
+["Design","==Express code — Arts 352–360== (Part XVIII).","No consolidated code; only ==habeas corpus suspension== (rebellion/invasion) is express; rest via ==NEA, Stafford Act, IEEPA==."],
+["Nature","==Constitutional emergency power== — temporary centralisation authorised by the text.","==Statutory-executive power== — President activates what Congress has granted."],
+["Model","Centralised: Union acquires authority over ==States, rights, finances==.","Decentralised: declaration doesn't transform federalism or suspend rights."],
+["Philosophy","Constitution ==anticipates breakdowns== — exceptional powers for national survival.","Constitution ==distrusts undefined executive power== — congressional authorisation required."],
+["Primary actor","President — but ==Union Cabinet's written recommendation== required (Art 352, 44th CA).","President declares under statutes; ==Congress creates, limits, terminates==."],
+["Legislative control","Parliament approves and ==periodically continues== proclamations (special majority for Art 352).","==National Emergencies Act==: congressional review; termination by joint resolution."],
+["Rights impact","==Art 358== suspends Art 19 (war/external aggression); ==Art 359== suspends enforcement of specified FRs — ==never Arts 20 & 21==.","Rights ==not automatically suspended==; only habeas corpus, in rebellion/invasion."],
+["Federal impact","Strong: unitary shift; ==President's Rule can replace state governments==; financial directions.","Limited: the federal government ==cannot dismiss state governments==."],
+["Judicial review","Available — [[SR Bommai (1994)]]: Art 356 proclamations reviewable.","Strong — [[Youngstown]]: presidential emergency claims limited without constitutional/congressional authority."]
+]}]}
+]}

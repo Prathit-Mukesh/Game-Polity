@@ -1,0 +1,38 @@
+{
+"num":"17","title":"Repugnancy & Legislative Dominance","theme":"Federalism & Local Government",
+"lead":"==Art 254==: when Union and State laws on the Concurrent List produce ==conflicting results on the same facts==, the Union law prevails — with one carefully guarded exception.",
+"sections":[
+{"title":"Art 254 — Repugnancy","blocks":[
+{"type":"bullets","items":[
+"Conflict between a Union and State law on the Concurrent List → ==Union law prevails== (Art 254(1)).",
+"==Exception — Art 254(2)==, per [[G.C. Kanungo v. Orissa (1995)]]: State law prevails in that State if (1) a Union law exists, (2) the State enacts a ==subsequent== law on a Concurrent subject, (3) it is ==reserved for and receives Presidential assent==.",
+"==Proviso==: Parliament may again ==supersede== such assented State legislation by a fresh law on the same matter."
+]},
+{"type":"cards","wide":true,"items":[
+{"title":"Tests for Repugnancy — Deep Chand v. UP (1959)","bullets":["==Direct conflict== — one says ‘do’, the other ‘don't’","==Occupied field== — no apparent conflict, but both cover the same field","==Intended occupation== — Parliament meant to lay down an ==exhaustive code== replacing the State Act"]},
+{"title":"Karunanidhi v. UoI (1979)","bullets":["Two statutes in one field that can ==operate without colliding== → no repugnancy","A statute creating ==distinct and separate offences== in the same field → no repugnancy"]}
+]}]},
+{"title":"Predominance of Union Law","blocks":[
+{"type":"steps","items":[
+"State List interpreted ==subject to Union and Concurrent Lists== (Art 246)",
+"Concurrent List: ==Union > State== (Art 254)",
+"Union List has the ==most subjects==",
+"==Residuary powers== with Parliament (Art 248)"
+]}]},
+{"title":"When Parliament Can Legislate on State List Subjects","blocks":[
+{"type":"table","head":["Route","Mechanism"],"rows":[
+["==Art 249 — RS resolution==","RS passes a resolution with ==special majority== in the national interest (incl. GST) — law valid for the resolution's life; resolution lasts ==1 year, extendable 1 year== at a time."],
+["==Art 250 — National Emergency==","Parliament can legislate on ==all lists== incl. State List and GST for whole/part of India."],
+["Art 251","State powers restricted ==only when Parliament actually makes== laws under 249/250 — resolutions alone don't restrict."],
+["==Art 252 — State consent==","2+ states pass resolutions (simple majority) authorising Parliament; others may adopt later; such a law is ==amendable only by Parliament==."],
+["==Art 253 — Treaties==","Parliament may legislate on State subjects to implement ==international treaties== — no special permission needed."],
+["Art 356","President can authorise Parliament to exercise the State legislature's powers during ==President's Rule==."],
+["Art 246 / 247","Parliament legislates for UTs without legislatures; can set up courts for ==better administration of Union laws==."],
+["Art 304(b)","State bill restricting trade & commerce needs ==prior Presidential recommendation==."]
+]}]},
+{"title":"Reservation of State Bills for the President","blocks":[
+{"type":"callout","text":"==Art 200==: the Governor can reserve any bill for the President — a ==constitutional discretion==, not bound by State CoM advice."},
+{"type":"bullets","items":[
+"Bills that ==should/must be reserved==: land acquisition/company mergers (==proviso to Art 31A==); bills implementing ==Art 39(b)(c)== (proviso to Art 31C); bills ==derogating from HC powers== (proviso to Art 200); Concurrent-List bills conflicting with existing central law (==Art 254(2)==); bills taxing ==water/electricity of a Parliament-created authority== (Art 288(2)); state money/financial bills during a ==Financial Emergency== if so directed (Art 360(4)(ii))."
+]}]}
+]}

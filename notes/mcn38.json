@@ -1,0 +1,19 @@
+{
+"num":"38","title":"Comparative: Federalism","theme":"Comparative Constitutions",
+"lead":"India: ==cooperative, asymmetric, centralising==. US: ==competitive, symmetric, entrenched==. UK: ==devolutionary and revocable==. France: ==unitary with administrative decentralisation==.",
+"sections":[
+{"title":"India · US · UK · France","blocks":[
+{"type":"table","head":["Aspect","India","United States","United Kingdom","France"],"rows":[
+["Form","==Quasi-federal== — federal features, unitary bias (Part XI, Arts 245–263).","==Classical federal==.","Unitary with ==devolution==.","Unitary (Fifth Republic, 1958)."],
+["Status of units","States ==not sovereign== — exist at Parliament's will (Art 3).","States ==sovereign in their own sphere==.","Devolved powers ==granted and revocable== by Westminster.","Administrative divisions with delegated powers."],
+["Source of power","States derive power ==from the Constitution== — not a compact.","Constitution as a ==compact among sovereign states==.","Parliament supreme.","Central constitution decentralises."],
+["Division of powers","==Three lists (VII Schedule)==; residuary with the ==Centre (Art 248)==.","Enumerated federal powers; ==residuary with states (10th Amendment)==.","No formal division.","No constitutional guarantee to regions."],
+["Amendment","==Art 368== — some need half the states' ratification; ==no state veto==.","Rigid — ==3/4 of states== must ratify.","Flexible — simple majority.","Parliament or referendum."],
+["Upper house","RS represents states — ==indirectly elected, unequal==.","Senate — ==2 per state, equal==.","Lords — not territorial.","Senate — not state-representative."],
+["Local government","==Constitutionally mandated (73rd/74th CAs)==.","State-recognised, not federally mandated.","Created by Parliament.","Created by national law."],
+["Judicial reading","==‘Quasi-federal’==; cooperative federalism emphasised.","==Dual federalism==; strong state rights historically.","Parliamentary sovereignty over devolution.","Unitary hierarchy."],
+["Emergency","==Unitary override (Arts 352, 356)==.","==No suspension of federalism==.","No federal override.","Temporary centralisation possible."],
+["Fiscal","==Finance Commission (Art 280), GST Council==; Centre collects the bulk.","Both tax independently — ==strong state fiscal power==.","Heavy central transfers.","Weak regional fiscal autonomy."],
+["Conflicts","CAA, GST compensation, farm laws.","Civil War; ==post-Roe abortion federalism==.","Brexit vs Scotland, NI Protocol.","Yellow Vest protests."]
+]}]}
+]}

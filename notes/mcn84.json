@@ -1,0 +1,69 @@
+{
+"num":"84","title":"CAG","theme":"Constitutional Ideas & Bodies",
+"lead":"Often called the ==‘Fourth Pillar’== of accountability alongside Legislature, Executive and Judiciary — and the ==‘friend, philosopher and guide’== to the Public Accounts Committee.",
+"sections":[
+{"title":"Constitutional Framework","blocks":[
+{"type":"bullets","items":[
+"==Art 148==: CAG appointed by the President, removable ==only like a Supreme Court judge== (impeachment for proved misbehaviour or incapacity) — ensuring independence from executive control.",
+"==Art 149==: Parliament prescribes duties and powers — currently the ==CAG's (Duties, Powers and Conditions of Service) Act, 1971==.",
+"==Art 150==: President prescribes ==accounting formats== for Union and States ==on CAG's advice==.",
+"==Art 151==: reports on Union accounts to the ==President== (laid before Parliament); on State accounts to the ==Governor== (laid before the State Legislature).",
+"==Art 279==: CAG ==certifies net proceeds of taxes== for Centre–State distribution.",
+"==Salary charged on the Consolidated Fund of India== — not subject to annual vote, safeguarding financial independence."
+]}]},
+{"title":"Types of Audit","blocks":[
+{"type":"table","head":["Type","Description"],"rows":[
+["==Financial (regularity) audit==","Verifies accuracy and fairness of financial statements; whether transactions conform to law, rules and authority."],
+["Compliance audit","Adherence to laws, rules, regulations and government orders."],
+["==Performance audit (VFM)==","Assesses ==economy, efficiency and effectiveness== — whether outcomes justify expenditure."],
+["Audit of autonomous bodies/PSUs","Government companies (==s.143, Companies Act 2013==) and statutory corporations."],
+["==Environmental/social audit==","Emerging area — environmental compliance and social-sector delivery (MGNREGA, Swachh Bharat)."],
+["IT/systems audit","Computerised government systems, e-governance platforms, cybersecurity of financial systems."]
+]}]},
+{"title":"Issues","blocks":[
+{"type":"bullets","items":[
+"==Post-facto nature== — audits occur after expenditure, limiting real-time correction.",
+"==Delayed tabling of reports== — months or years later, diluting relevance and public salience.",
+"==Limited follow-up== — ==no binding power to enforce recommendations==; depends on PAC and executive responsiveness.",
+"==Coverage gaps== — ==PPPs, autonomous societies and NGOs== receiving government funds often fall outside effective reach.",
+"==Capacity constraints== — shortage of trained personnel for defence procurement, IT systems, complex financial instruments.",
+"==Political weaponisation== — findings (2G, Coalgate) reduced to political slugfests rather than systemic correction.",
+"==Appointment opacity== — appointed solely by the executive, ==without a broad-based collegium==.",
+"==State-level neglect== — state reports receive far less scrutiny due to ==weaker state PACs==.",
+"==No pre-audit for major contracts== — India lacks strong ==ex-ante financial control== compared to some OECD SAIs."
+]}]},
+{"title":"Landmark Audits","blocks":[
+{"type":"table","head":["Audit","Outcome"],"rows":[
+["==2G Spectrum Scam (2010)==","Flagged arbitrary ==first-come-first-served== allocation without auction, estimating massive presumptive loss — led to ==SC cancellation of licences== and a shift to auction-based resource allocation."],
+["==Coal Block Allocation ‘Coalgate’ (2012)==","Highlighted opaque allocation without competitive bidding — SC ==cancelled over 200 allocations (2014)==."],
+["Commonwealth Games 2010","Uncovered ==cost overruns, procurement irregularities, inflated contracts== — fed into PAC investigations and prosecutions."],
+["==Rafale Deal Audit (2019)==","Examined defence pricing benchmarks — illustrating the CAG's ==expanding but contested== role in sensitive defence contracts."],
+["Ayushman Bharat / state scheme audits","Flagged ==beneficiary duplication, fund diversion== and implementation gaps."]
+]}]},
+{"title":"Supreme Court Judgments","blocks":[
+{"type":"table","head":["Case","Holding"],"rows":[
+["[[Association of Unified Telecom Service Providers v. UoI (2014)]]","Upheld the CAG's authority to ==audit private telecom providers== to the extent of their ==revenue-sharing arrangements== with the government."],
+["[[Centre for PIL v. UoI (2012)]] — 2G Spectrum","Relied heavily on CAG findings of arbitrary allocation and ==cancelled 122 telecom licences==."],
+["[[Manohar Lal Sharma v. UoI (2014)]] — Coal Blocks","Building on CAG findings, declared ==214 coal block allocations illegal and arbitrary==."],
+["[[S. Subramaniam Balaji v. Govt of TN (2013)]]","Referenced CAG-style financial scrutiny standards in discussing ==transparent state expenditure accounting==."]
+]}]},
+{"title":"Global Practice & Way Forward","blocks":[
+{"type":"table","head":["Country","Practice"],"rows":[
+["==UK — National Audit Office==","Value-for-money audits with ==mandatory government response within a fixed timeframe==; strong PAC linkage."],
+["==USA — GAO==","Reports ==directly to Congress==; publishes a ==‘High-Risk List’== tracking vulnerable programmes with continuous follow-up until resolved."],
+["==Germany — Bundesrechnungshof==","==Real-time and concurrent audit inputs into budget-making==, not just post-facto."],
+["Canada — Auditor General","Strong ==‘sunset review’== mechanism requiring audited departments to report corrective action within set deadlines."]
+]},
+{"type":"steps","items":[
+"==Institutionalise real-time/concurrent audit== for large infrastructure and defence contracts",
+"==Mandatory Action Taken Reports== with legally binding timelines — the ==GAO High-Risk List== follow-up model",
+"==Broaden the appointment process== — a collegium including the CJI and Leader of Opposition",
+"==Expand audit jurisdiction== to PPPs, large NGOs and autonomous bodies receiving substantial public funds",
+"==Strengthen technical capacity== — forensic accountants, IT auditors, defence procurement experts, not only generalist IAAS cadre",
+"==Depoliticise report handling== — structured, non-adversarial PAC hearings",
+"==Strengthen state-level PACs== through capacity-building and staffing",
+"==Leverage AI-driven anomaly detection== on large-scale financial data, as GAO and NAO increasingly do"
+]},
+{"type":"quote","text":"The CAG is not merely the government's accountant, but democracy's financial conscience — ensuring that every rupee raised in the people's name is spent with legality, prudence and public purpose."}
+]}
+]}

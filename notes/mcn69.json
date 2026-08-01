@@ -1,0 +1,29 @@
+{
+"num":"69","title":"National Green Tribunal","theme":"ADR, Tribunals & Tech",
+"lead":"Established under the ==NGT Act, 2010==. Recently in the news for directing the CPCB to frame ==pan-India silica mining guidelines==, strict action on the ==Ghazipur landfill==, and deaths in Assam despite the ban on ==rat-hole mining==.",
+"sections":[
+{"title":"Rationale","blocks":[
+{"type":"steps","items":[
+"==Expeditious disposal== of environmental, forest and natural-resource cases",
+"==Expertise== — multidisciplinary handling of complex disputes",
+"==Reducing judicial burden== on the higher courts",
+"==Accessibility== — a less formal, less expensive forum for environmental justice",
+"==Implementation of environmental laws== — pollution control, forest conservation, EIA"
+]}]},
+{"title":"Famous Decisions","blocks":[
+{"type":"table","head":["Case","Holding"],"rows":[
+["[[Betty C. Alvares v. State of Goa]]","==Non-citizens can file environmental cases== — environmental justice is universal."],
+["[[Almitra H. Patel v. UoI]]","Directed states to implement the ==Solid Waste Management Rules, 2016==; prohibited ==open burning of waste==."],
+["[[Srinagar Bandh Aapda Sangharsh Samiti v. Alaknanda Hydro Power]]","Power companies liable using the ==‘No Fault Liability’== principle."],
+["[[Samit Mehta v. UoI]]","Applied ==‘Polluter Pays’== — compensation for marine pollution."],
+["[[Save Mon Region Federation v. UoI]]","==Suspended environmental clearance== for a hydro project to protect endangered species."],
+["Other notable orders","Banned ==old diesel vehicles in Delhi==; cancelled Chhattisgarh coal-block clearances; restricted construction in eco-sensitive areas like the ==Sunderbans==."]
+]}]},
+{"title":"Issues & Solutions","blocks":[
+{"type":"cards","wide":true,"items":[
+{"title":"Issues","bullets":["==Resource constraints== — chronic understaffing; benches below mandated strength","==Jurisdictional limitations== — excludes the ==Wildlife Protection Act and Forest Rights Act==","==Enforcement gaps== — many orders remain unimplemented","==Lack of judicial oversight== — delegation to expert committees can bypass hearings, violating natural justice","==Credibility and transparency== — reliance on self-assessment reports; perceived bias against development","==Overreach allegations== — suo motu powers exceeding the statutory mandate"]},
+{"title":"Solutions","bullets":["==Increased funding and resources== — full staffing of all benches","==Expanded jurisdiction== to include all relevant environmental laws","==Improved enforcement mechanisms== for compliance with orders","==Judicial oversight and natural justice== — all parties heard; no undue delegation","==Capacity building== through training","==Transparency and accountability== to the public","==Technology integration== for case management and hearings"]}
+]},
+{"type":"quote","text":"The National Green Tribunal was born to be a green guardian, not a powerless observer. Unless its orders are enforced and its autonomy protected, environmental justice in India will remain more promise than practice."}
+]}
+]}

@@ -1,0 +1,25 @@
+{
+"num":"65","title":"Mediation Act","theme":"ADR, Tribunals & Tech",
+"lead":"==‘The Mediation Act was the first step in consolidating Gandhi's civilisational legacy’ — President Murmu.== India's Mediation Association and first mediation conference were launched in ==May 2025==.",
+"sections":[
+{"title":"Rationale","blocks":[
+{"type":"steps","items":[
+"==Judicial efficiency== — mandatory pre-litigation mediation for civil/commercial disputes (excluding urgent interim relief)",
+"==International alignment== — the ==Singapore Convention==; subsuming ‘conciliation’ under ‘mediation’; recognising online/community mediation",
+"==Economic growth== — positioning India as a ==hub for domestic and international mediation=="
+]}]},
+{"title":"Key Provisions","blocks":[
+{"type":"cards","items":[
+{"title":"Scope & Application","bullets":["==Mandatory pre-litigation mediation== for civil/commercial suits unless urgent interim relief is sought","==International mediation==: conducted in India with at least one ==foreign national/entity== party","==Exclusions==: minors, deities, criminal prosecutions, tax matters and others in the ==First Schedule=="]},
+{"title":"Process Framework","bullets":["==Time limit: 120 days==, extendable by 60","==Confidentiality==: all communications privileged, ==inadmissible== in courts/tribunals","==Enforcement==: mediated agreements enforceable ==as court decrees== under the CPC, 1908"]},
+{"title":"Institutional Mechanisms","bullets":["==Mediation Council of India (MCI)== — registration, accreditation, ethical standards","==Mediation Service Providers== — court-annexed centres, legal services authorities, notified bodies","==Online and community mediation== recognised"]},
+{"title":"Amendments to Existing Laws","bullets":["==Overrides conciliation provisions== of the Arbitration and Conciliation Act, 1996","Amends the ==Indian Contract Act, 1872== and ==CPC, 1908== to reference mediation"]}
+]}]},
+{"title":"Issues & Solutions","blocks":[
+{"type":"cards","wide":true,"items":[
+{"title":"Issues","bullets":["==Procedural ambiguities== — interim measures; mediator standards","==Implementation gaps== — voluntary vs mandatory; registration of settlements","==Exclusion of key disputes== — government entities; ==cross-border gaps=="]},
+{"title":"Solutions","bullets":["==Ratify the Singapore Convention==","==Clarifying rules==: define interim-relief powers, adopt ==conflict-of-interest guidelines==, mandate registration","==MCI capacity building== and ==digital infrastructure==","==Government flexibility== in participating; awareness campaigns"]}
+]},
+{"type":"quote","text":"Mediation offers resolution, not retaliation. But unless it's empowered with trust, structure and wider acceptance, it risks becoming the most underused tool in a system desperate for alternatives."}
+]}
+]}

@@ -1,0 +1,72 @@
+{
+"num":"71","title":"AI and the Judiciary","theme":"ADR, Tribunals & Tech",
+"lead":"In ==June 2026== the SC's AI Committee released draft ==‘Regulations for Use of Artificial Intelligence (AI) in Courts, 2026’== for public consultation — signalling that the judiciary itself now recognises ==AI governance as unfinished business== that must be settled ==before, not after==, deeper adoption.",
+"intro":["“Technology as an enabler of justice, not a substitute for judgement” — the guiding philosophy repeatedly invoked by the Government and the Supreme Court."],
+"sections":[
+{"title":"Why the Judiciary Cannot Ignore AI","blocks":[
+{"type":"bullets","items":[
+"==Access to justice== — backlogs, cost and language barriers keep the poor and rural population outside the practical reach of courts.",
+"==Capacity constraints== — with ==a fifth to a quarter of sanctioned posts vacant==, human resources alone cannot clear the backlog.",
+"==Administrative overload== — judges spend disproportionate time on scheduling, records and research: tasks that ==don't require judicial mind application== but consume judicial bandwidth.",
+"==Global competitiveness== — contract-enforcement rankings track dispute-resolution speed; AI efficiency has a ==direct economic dividend==.",
+"==Irreversibility of early choices== — the architecture decided now will be very hard to reverse once AI is embedded: ==a decisive constitutional moment==."
+]}]},
+{"title":"Current Applications","blocks":[
+{"type":"table","head":["Tool","Function","Status"],"rows":[
+["==SUPACE==","Precedent identification, factual-matrix analysis","Experimental / pilot"],
+["LegRAA","Legal research & reference extraction","Operational (assistive)"],
+["==SUVAS==","Judgment translation — ==18 languages==","Operational"],
+["ASR (Transcription)","Real-time transcription of oral arguments","Operational, expanding"],
+["==ASR-SHRUTI==","Voice-to-text dictation of orders/judgments","Operational"],
+["PANINI","Translation & linguistic structuring","Operational"],
+["e-Filing defect scrutiny (IIT Madras)","OCR/ML flagging of filing defects","Limited pilot (AoRs)"],
+["==Digital Courts 2.1 / CIS 4.0==","Integrated case-management dashboards","Operational, being scaled"]
+]}]},
+{"title":"Institutional & Legal Architecture","blocks":[
+{"type":"cards","wide":true,"items":[
+{"title":"Existing Bodies","bullets":["==SC e-Committee== — policy and strategy for court digitisation under e-Courts Phases I–III; HCs implement with local adaptation","==SC AI Committee== — chaired by a sitting SC judge; oversees translation, research assistance, process automation; ==authored the 2026 Draft Regulations==","Sub-committees of HC judges and technical experts on ==secure connectivity, authentication and protection of judicial data=="]},
+{"title":"Constitutional & Legal Anchors","bullets":["==Art 21== — speedy trial and access to justice justify efficiency-enhancing technology","==Arts 141 & 145== — binding decisions and rule-making power give the SC the basis to frame AI regulations","==DPDP Act, 2023== intersects wherever litigant/case data is processed — though courts largely sit outside its direct enforcement architecture","==Funding==: e-Courts Phase III outlay of ==₹7,210 crore== with a specific ==‘Future Technological Advancement’== component for AI, ML and blockchain"]}
+]},
+{"type":"table","head":["Body","Composition / role"],"rows":[
+["==Apex Body (SC level)==","Sitting SC and HC judges, a MeitY official, finance and cybersecurity experts, advocates — ==sets national standards, approves AI systems, publishes annual governance reports==."],
+["AI Committees (SC & each HC)","Framed under the Apex Body; oversee adoption within their jurisdiction."],
+["AI Secretariats","A ==District Judge-level officer== in each court for day-to-day operational governance."],
+["Five specialised committees","Judicial; Technical; Infrastructure & Finance; Case & Data Management; ==Cyber Security==."],
+["==CoRE-AI==","Centre of Research and Excellence on AI — a ==neutral research body==: evaluates tools, maintains a central registry and technical standards, advises the Apex Body, ==with no procurement stake==."]
+]}]},
+{"title":"Draft Regulations, 2026","blocks":[
+{"type":"cards","wide":true,"items":[
+{"title":"What Is Permitted","bullets":["Case management, ==transcription, translation, legal research, summarisation==, accessibility, court administration","Lawyers may use AI in drafting pleadings — subject to ==mandatory disclosure== of the AI-assisted character (==Regulation 43==)","Where AI ==‘materially assists’== a judge, courts must ==inform litigants and counsel== in a timely, accessible manner","Private vendors only with ==written approval== and mandatory contract terms on ==data ownership and IP=="]},
+{"title":"What Is Absolutely Prohibited","bullets":["==Risk-scoring for flight risk==","==Predicting recidivism==","==Evaluating bail eligibility== through AI","==Determining credibility== of witnesses, parties, accused or counsel","==Predicting, profiling or inferring future conduct== of any party","Submitting AI-generated output as ==independent evidence==, or without disclosure","==‘Black-box’ (unexplainable) systems== in matters affecting personal liberty"]}
+]}]},
+{"title":"Contested Issues","blocks":[
+{"type":"bullets","items":[
+"==Conflict of interest== — the Apex Body regulating AI in courts is appointed predominantly by sitting judges of the ==same judiciary it oversees==.",
+"==Fragmented standards== — no uniform mandatory technical benchmarks (error rates, explainability thresholds, training-data provenance), so ==each of 25 High Courts may set different approval standards== → inconsistent justice.",
+"==Disclosure burden== — ==SCAORA has opposed== the blanket AI-disclosure requirement (Reg 43) as unworkable against existing professional-conduct norms.",
+"==Capacity gap== — in-house audit duties and a bar on sharing source code presuppose technical capacity most courts don't have.",
+"==Interface with the national AI-governance framework== (MeitY guidelines) remains undefined."
+]}]},
+{"title":"Challenges & Concerns","blocks":[
+{"type":"cards","items":[
+{"title":"Structural & Institutional","bullets":["==Fragmented governance== — each wave of court technology spawned separate committees, fragmenting accountability","==No permanent execution body== — unlike ==NPCI for UPI== or ==UIDAI for Aadhaar==, the judiciary lacks a permanent, resourced institution with continuity"]},
+{"title":"Standards & Accountability","bullets":["==Absence of uniform technical standards== — what must be explained, to whom, and what error rate is tolerable in a bail matter vs scheduling","==Standard-setter/procurer overlap== — unless CoRE-AI is genuinely free of procurement interest","==Explainability and the ‘black box’ problem== — in tension with due process"]},
+{"title":"Bias, Fairness & Rights","bullets":["==Algorithmic bias== — historical data encodes caste, religion, gender and economic bias; illustrated by the ==COMPAS recidivism controversy== in the US","==Fair trial and natural justice== — outsourcing evidentiary, bail or sentencing logic to opaque algorithms dilutes ==audi alteram partem==","==Digital divide== — efficiency for e-filing and virtual hearings can disadvantage litigants without literacy, devices or connectivity"]},
+{"title":"Data, Security & Capacity","bullets":["Judicial data is ==highly sensitive== — ownership, retention, vendor access, cross-border flows; ==DPDPA interface unsettled==","==Cybersecurity risk== grows with every AI touchpoint in ICMIS/CIS","Wide variation in ==digital literacy== across 25 HCs and thousands of subordinate courts","==Vendor dependency== — IP claims over tools built on judicial data create ==lock-in==","==Overburdened existing bodies== with rotating memberships lack permanence"]}
+]}]},
+{"title":"Global Comparison","blocks":[
+{"type":"table","head":["Country / region","Initiative"],"rows":[
+["==China==","==Smart Courts== (since 2016); Shanghai's ‘206’ system; Hangzhou Internet Court's ==Xiao Zhi=="],
+["Brazil","==VICTOR== (Federal Supreme Court); SIGMA (drafting aid)"],
+["==Singapore==","AI-assisted ==Small Claims Tribunal== guidance"],
+["United Kingdom","Judicial guidance permitting AI for ==summarisation/administrative tasks only=="],
+["==Canada==","==2024 Guidelines for Use of AI in Canadian Courts== (Canadian Judicial Council)"]
+]}]},
+{"title":"Recommendations","blocks":[
+{"type":"cards","wide":true,"items":[
+{"title":"Institutional Reform","bullets":["==Consolidate the fragmented committee architecture== into a single, permanent, adequately staffed institution — on the ==UIDAI/NPCI== model","==Insulate CoRE-AI== from procurement and vendor relationships — the ==UPI-style separation== of standard-setter from market participant","Address conflict of interest by including ==independent technologists, civil society and bar representatives== in the Apex Body"]},
+{"title":"Standards & Safeguards","bullets":["==Notify uniform mandatory technical standards== — error rates by use-case, explainability requirements, training-data provenance","==Mandate algorithmic audits and bias-testing== disaggregated across caste, gender, religion and region, with ==published audit summaries==","==Retain and strengthen the non-derogable prohibitions== on bail, recidivism, witness-credibility and black-box liberty uses"]},
+{"title":"Access, Capacity & Inclusion","bullets":["==Scale multilingual and voice tools== (SUVAS, PANINI, ASR-SHRUTI) to ==district and taluka courts==, not just the SC and HCs","==Digital literacy training== for judges, staff and legal-aid lawyers — paired with continued ==offline access== (e-Seva Kendras, DLSAs)","Extend AI-assisted guidance (==Singapore Small Claims== model) to ==Lok Adalats, Gram Nyayalayas and consumer fora=="]},
+{"title":"Data, Law & Rollout","bullets":["A ==specific judicial-data protection protocol==","==Contractually bar vendors from IP claims== on models trained on judicial data; mandate ==data localisation and access logging==","Place core prohibitions and the Apex Body's mandate on a ==statutory footing== (legislation or Art 145 rules) for durability beyond one CJI's tenure","==Periodic parliamentary and public reporting== for democratic accountability","==Phased, evidence-based rollout== — pilots with transparent criteria and ==sunset/review clauses==","==Recurring consultation cycles== with litigants, the Bar and civil society"]}
+]}]}
+]}

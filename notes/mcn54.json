@@ -1,0 +1,31 @@
+{
+"num":"54","title":"Delegated Legislation","theme":"Union Executive",
+"lead":"Exercise of legislative power by an agent lower in rank or subordinate to the Legislature — ==‘an excuse for the Legislature, a shield for Executors, and a provocation to the Constitutional Jurist’ (Justice P.B. Mukherjee)==. The ==Draft UGC Regulations 2025== against state varsity laws have revived questions of both delegation and federalism.",
+"sections":[
+{"title":"Need for Delegated Legislation","blocks":[
+{"type":"steps","items":[
+"==Pressure on parliamentary time== — legislature sets policy, delegates detail",
+"==Technicality of subject matter== — science, defence, health need expert input",
+"==Flexibility== — timely response without lengthy amendment",
+"==Emergencies== — pandemics, war",
+"==Experimentation== — trial rules before full-scale implementation",
+"==Implementation efficiency== — local bodies understand regional issues"
+]}]},
+{"title":"Impact on Democracy & Separation of Powers","blocks":[
+{"type":"cards","wide":true,"items":[
+{"title":"Parliamentary Democracy","bullets":["==Positive==: lets Parliament focus on major policy; efficient, responsive governance","==Negative==: executive overreach; ==dilution of parliamentary sovereignty==; reduced scrutiny and debate","==Democratic deficit== — uncontrolled delegation becomes ==‘bureaucratic legislation’=="]},
+{"title":"Separation of Powers","bullets":["==Traditional view==: separation blurred as the executive legislates","==Modern reality==: complete separation impractical — delegation is a ==pragmatic necessity==","==Constitutional balance==: ==essential legislative functions (policy-making) must remain with the legislature==; courts ensure delegation isn't ==abdication=="]}
+]}]},
+{"title":"Jurisprudence & Comparison","blocks":[
+{"type":"table","head":["Case","Holding"],"rows":[
+["[[Re Delhi Laws Act, 1912]]","Delegated legislation is a ==necessity in modern governance==, but the legislature must ==retain ultimate control== and cannot delegate core law-making power."],
+["[[Dwarka Prasad Laxmi Narain v. State of UP (1954)]]","The executive ==cannot use delegated legislation to bypass== the legislature's essential functions."]
+]},
+{"type":"table","head":["Country","Practice"],"rows":[
+["==UK==","Extensive use; Parliament retains ultimate authority; ==‘Henry VIII clauses’== sometimes used."],
+["==US==","Permitted but limited by ==strict separation of powers==; agencies make regulations."],
+["Australia","Extensive use, similar to the UK — executive makes regulations under Acts."]
+]},
+{"type":"quote","text":"Its legitimacy lies not in convenience but in constitutional fidelity — to the rule of law, parliamentary oversight, and the citizen's right to be governed by accountable laws. The challenge is to wield delegation not as a shortcut, but as a carefully monitored tool that serves, rather than supplants, the legislature."}
+]}
+]}

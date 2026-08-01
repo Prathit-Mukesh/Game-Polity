@@ -1,0 +1,59 @@
+{
+"num":"75","title":"Lok Adalats","theme":"Access to Justice",
+"lead":"India's ==oldest and most widely used institutionalised ADR mechanism== — rooted in panchayat-style dispute settlement, formalised by statute to relieve the judiciary's chronic backlog. ==‘Justice delayed is justice denied, but justice hurried without fairness is justice buried.’==",
+"sections":[
+{"title":"Lok Adalat v Permanent Lok Adalat","blocks":[
+{"type":"table","head":["Feature","Lok Adalat (ss.19–22)","Permanent Lok Adalat (ss.22A–22E)"],"rows":[
+["Stage","Pre-litigation ==+ pending cases==","Primarily ==pre-litigation== (public utility services)"],
+["Nature","==Pure settlement forum==","==Conciliation + (if needed) decision on merits=="],
+["If no settlement","==Case goes back to court==","==PLA can proceed to decide== (except offence-related)"],
+["Award","Deemed decree; final; ==no appeal==","Deemed decree; final; ==no appeal=="]
+]},
+{"type":"callout","text":"Ordinary Lok Adalats have ==no independent adjudicatory jurisdiction== — they cannot impose a decision; their entire function is to facilitate a ==consent-based settlement==. ==Permanent Lok Adalats are the sole exception==, holding both conciliatory and binding decision-making powers over public utility disputes within prescribed pecuniary limits."}
+]},
+{"title":"Jurisdiction","blocks":[
+{"type":"cards","wide":true,"items":[
+{"title":"Matters Lok Adalats CAN Take Up","bullets":["Any ==pending case or pre-litigation matter== where parties agree, or the court finds it suitable","==Civil disputes== — property, partition suits, land acquisition compensation","Matrimonial and family disputes (==maintenance and mutual-consent== matters commonly settled)","==Motor Accident Claims Tribunal (MACT)== cases — one of the largest single categories nationally","Bank recovery, ==cheque bounce (s.138 NI Act)==, labour disputes","==Compoundable criminal offences== under the BNS/CrPC framework","==Public utility service disputes== — exclusively before Permanent Lok Adalats"]},
+{"title":"Matters EXCLUDED","bullets":["==Non-compoundable criminal offences== — murder, rape, serious offences against the State","Offences against ==women and children== where compromise is disallowed — dowry death, certain ==POCSO== matters","Disputes on ==title to property== in categories requiring adjudication rather than compromise"]}
+]}]},
+{"title":"Case Law & Global Practice","blocks":[
+{"type":"table","head":["Case","Key holding"],"rows":[
+["[[State of Punjab v. Jalour Singh (2008)]]","Lok Adalats can pass an award ==only on the basis of a compromise== — ==no power to adjudicate on merits==."],
+["[[P.T. Thomas v. Thomas Job (2005)]]","An award is ==as good as a civil court decree==, executable and binding, and ==cannot ordinarily be challenged== except by writ on limited grounds."]
+]},
+{"type":"table","head":["Country / model","Practice"],"rows":[
+["==Singapore== — State Courts Community Mediation Centre","Court-annexed mediation with ==trained professional mediators and strict timelines=="],
+["==USA== — Court-annexed ADR / Small Claims","Judges can ==mandate ADR referral==; strong small-claims infrastructure for low-value disputes"],
+["==South Africa== — Community Dispute Resolution","Localised, ==community-embedded resolution centres== integrated with formal courts"]
+]}]},
+{"title":"Issues & Challenges","blocks":[
+{"type":"bullets","items":[
+"==Quantity over quality — ‘assembly-line justice’==: pressure to clear crores of cases per National Lok Adalat raises concerns of rushed settlements with inadequate scrutiny of consent or fairness.",
+"==Coercion and unequal bargaining power==: weaker parties (claimants against insurers or banks) may accept lower amounts to avoid prolonged litigation — undermining voluntariness.",
+"==Limited awareness== among rural and marginalised litigants of eligibility and of the ==finality== of an award.",
+"==No appeal mechanism== — s.21's bar leaves only the narrow, expensive writ remedy, defeating the purpose of a quick, low-cost forum.",
+"==Repeat/recurring case types dominate== — undefended or semi-mechanical categories (cheque bounce, MACT, bank recovery) raise the question of ==bulk clearance vs substantive resolution==.",
+"==Resource and capacity constraints== — DLSAs and Taluk committees understaffed, dependent on retired judicial officers and volunteering advocates.",
+"==Permanent Lok Adalats under-utilised== — low awareness of the pre-litigation compulsory conciliation route.",
+"==Data and monitoring gaps== — little granular data on ==post-settlement compliance== (whether awarded amounts are actually paid)."
+]}]},
+{"title":"Indian Best Practices","blocks":[
+{"type":"bullets","items":[
+"==National Lok Adalats== on fixed dates across all court tiers since 2015, often ==themed by subject-matter== each month — improving predictability and outreach.",
+"==e-Lok Adalats / Virtual Lok Adalats== — video-conferencing access benefiting elderly, disabled and remote litigants; adopted at scale during the pandemic and retained.",
+"==Jharkhand's 99.95% disposal rate== in the first National Lok Adalat of 2025 — showing that strong SLSA coordination and ==pre-identification of settlement-ready cases== dramatically raise efficiency.",
+"==Legal Aid Defence Counsel System (LADCS)== — NALSA's scheme professionalising the panel and improving representation quality.",
+"==Mediation Act, 2023 synergy== — a layered ADR ecosystem with the ==Mediation Council of India== for standard-setting."
+]}]},
+{"title":"Solutions","blocks":[
+{"type":"steps","items":[
+"==Strengthen consent safeguards== — a cooling-off period or brief counsel review before finalising high-value or vulnerable-party settlements",
+"==Expand Permanent Lok Adalats== — awareness campaigns and periodic rationalisation of pecuniary limits",
+"==Institutionalise post-award monitoring== — a NALSA-led compliance tracker measuring ==real, not paper, resolution==",
+"==Deepen digital access== — vernacular e-Lok Adalats, assisted kiosks at Gram Nyayalayas/Panchayats, e-Courts integration",
+"==Capacity building== — funding and staffing for DLSAs/Taluk committees; more trained panel lawyers and PLVs",
+"==Targeted outreach== to rural, tribal and economically weaker populations",
+"==Data transparency== — publish ==case-category-wise== data, not just aggregate disposal figures",
+"==Harmonise with the Mediation Act, 2023== — clear referral pathways, avoiding forum confusion"
+]}]}
+]}

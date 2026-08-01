@@ -1,0 +1,43 @@
+{
+"num":"86","title":"Transformative Constitutionalism","theme":"Constitutional Ideas & Bodies",
+"lead":"The idea that a Constitution is ==not a static legal document but a dynamic instrument== meant to transform society by dismantling entrenched inequalities and hierarchies. Coined in ==South African constitutional discourse==, it gained prominence in Indian jurisprudence ==post-2010s== — the Constitution as a ==living document==.",
+"sections":[
+{"title":"Constitutional Foundations","blocks":[
+{"type":"table","head":["Provision","Transformative implication"],"rows":[
+["==Preamble==","Establishes ==justice, liberty, equality and fraternity== as core values aimed at transforming Indian society."],
+["==Part III — Fundamental Rights==","Empowers citizens and restrains state power — abolishes ==untouchability (Art 17)==, guarantees ==equality (14)==, ==freedom (19)==, ==life with dignity (21)==."],
+["Part IV — DPSPs","Articulates socio-economic goals — ==education, health, living wage== — directing the State toward justice and welfare."],
+["==Arts 32 & 226==","Judicial review and constitutional remedies ensure ==enforcement of rights and corrective interpretation==."]
+]}]},
+{"title":"Key Dimensions in India","blocks":[
+{"type":"cards","items":[
+{"title":"Social Transformation","bullets":["==Art 17== abolished untouchability","[[Sabarimala (2018)]]: exclusion of women based on menstruation violates ==Arts 14, 15 and 25==","[[Navtej Singh Johar (2018)]]: decriminalised homosexuality — ==dignity and identity of LGBTQ+ persons=="]},
+{"title":"Caste & Reservation","bullets":["[[Indra Sawhney (1992)]]: upheld OBC reservations with the ==creamy layer==","[[Jarnail Singh (2018)]]: creamy layer extended to ==SC/ST promotions==","[[State of Punjab v. Davinder Singh (2024)]]: states may ==sub-categorise=="]},
+{"title":"Gender Justice","bullets":["[[Vishaka (1997)]]: guidelines using ==international conventions== absent domestic law","[[Joseph Shine (2018)]]: decriminalised adultery as ==discriminatory against women=="]},
+{"title":"Environmental Justice","bullets":["==M.C. Mehta cases==: ==polluter pays==, environmental impact assessments, and the ==right to clean air and water== read into Art 21"]},
+{"title":"Economic & Labour Rights","bullets":["[[Olga Tellis (1985)]]: ==right to livelihood== intrinsic to Art 21","[[Workmen v. Meenakshi Mills (1992)]]: fair treatment and ==collective bargaining==","[[PUCL v. UoI (2001 onwards)]]: ==right to food==, leading to MGNREGA and midday meals"]},
+{"title":"Emerging & Intersectional Rights","bullets":["[[K.S. Puttaswamy (2017)]]: ==privacy as intrinsic to Art 21==","Foundation for ==data protection, bodily autonomy, sexual identity rights=="]}
+]}]},
+{"title":"Judicial Evolution","blocks":[
+{"type":"table","head":["Phase","Judicial approach","Example"],"rows":[
+["1950s–70s","==Conservative, literal== interpretation","[[A.K. Gopalan (1950)]] — narrow reading of ‘personal liberty’"],
+["Post-Kesavananda (1973)","==Structural and purposive== interpretation","[[Kesavananda Bharati]] — Basic Structure doctrine"],
+["1990s–2010s","==Judicial activism==, expansive reading","Vishaka, Olga Tellis, M.C. Mehta"],
+["==2010s–present==","==Transformative jurisprudence==","Puttaswamy, Navtej Johar, Sabarimala, Joseph Shine"]
+]}]},
+{"title":"Challenges","blocks":[
+{"type":"bullets","items":[
+"==Majoritarianism vs minority rights== — communal rhetoric and laws (anti-conversion laws) challenge secular, egalitarian aims; the ==CAA (2019)== criticised for violating Art 14.",
+"==Executive resistance and underenforcement== — judgments not effectively implemented (==manual scavenging persists== despite Art 17 and court orders); Centre–state disputes over welfare schemes.",
+"==Patriarchal social structures== — societal norms restrict actual transformation (==opposition to the Sabarimala verdict==).",
+"==Judicial overreach vs restraint== — critics argue courts exceed constitutional limits in pursuit of social justice, undermining democratic accountability.",
+"==Access to justice== — structural inequalities, low legal awareness and delays impede realisation for the marginalised."
+]}]},
+{"title":"Case Studies & Policy Translation","blocks":[
+{"type":"cards","wide":true,"items":[
+{"title":"Case Studies","bullets":["[[Navtej Singh Johar (2018)]] — transformative on LGBTQ+ rights; grounded in ==dignity, privacy, autonomy==","[[S.R. Bommai (1994)]] — ==secularism as basic structure==; limited misuse of Art 356, strengthening federalism","[[NALSA v. UoI (2014)]] — recognised transgender persons as the ==‘third gender’==; directed reservations, education and legal protection"]},
+{"title":"Policy Translation","bullets":["==Education==: ==RTE Act (2009)== under Art 21A — enhanced enrolment of disadvantaged children","==Health==: Ayushman Bharat, Janani Suraksha Yojana","==Food security==: ==National Food Security Act (2013)== — built on judicial recognition of the right to food","==Gender rights==: One Stop Centres, ==POSH Act=="]}
+]},
+{"type":"quote","text":"Transformative constitutionalism in India is not a destination but a continuous journey. While courts have played a pivotal role in expanding rights, real transformation requires a concerted effort from the legislature, executive and civil society to implement these ideals on the ground."}
+]}
+]}

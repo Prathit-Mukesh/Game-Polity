@@ -1,0 +1,66 @@
+{
+"num":"49","title":"President's Role in a Parliamentary Democracy","theme":"Union Executive",
+"lead":"The President of India, as constitutional Head of State under a parliamentary system, occupies a position that is at once ==symbolic and structurally indispensable== — conceived not as a rubber stamp but as a ==constitutional sentinel==.",
+"sections":[
+{"title":"Constitutional & Functional Dimensions","blocks":[
+{"type":"cards","items":[
+{"title":"Nominal Executive Head","kicker":"Arts 52–78","bullets":["All Union executive action taken ==in the President's name (Art 77)==","Appoints PM, Ministers, Governors, CAG, ECs, SC/HC judges, UPSC members","Bound by ==‘aid and advice’ (Art 74(1))== — binding post 42nd/44th CAs; ==one reconsideration== permitted"]},
+{"title":"Legislative Role","bullets":["Summons, prorogues, dissolves LS; addresses under ==Art 87==","Assent (==Art 111==): grant, withhold, or return (not Money Bills)","==No fixed timeline== → the ==‘pocket veto’==","Rejection of ==Art 200 reserved state bills== kills the bill"]},
+{"title":"Ordinance-Making","kicker":"Art 123","bullets":["Legislation when Parliament isn't in session; approval ==within 6 weeks== of reassembly","Borrowed from the ==GoI Act, 1935==; India, Pakistan, Bangladesh are ==rare global holdouts=="]},
+{"title":"Judicial — Pardoning","kicker":"Art 72","bullets":["Pardon, reprieve, respite, remission, commutation — incl. death sentences; ==broader than Art 161==","Exercised on CoM advice; ==limited judicial review== for arbitrariness, mala fides, delay"]},
+{"title":"Financial Role","bullets":["Money Bills need ==prior recommendation (Art 117)==","Budget laid in the President's name (==Art 112==)","==Contingency Fund (Art 267)== at the President's disposal"]},
+{"title":"Diplomatic & Military","bullets":["Treaties negotiated/ratified in the President's name","==Supreme Commander (Art 53(2))== — formal; real decisions with the ==Cabinet Committee on Security=="]},
+{"title":"Emergency Powers","kicker":"Arts 352, 356, 360","bullets":["The ==most consequential and most contested== dimension","Permits the Union Executive to ==override the federal division of power=="]},
+{"title":"Discretionary / Reserve Powers","bullets":["PM appointment in a ==hung Lok Sabha==, or sudden death/resignation","Dismissing a government that has ==demonstrably lost majority== but won't resign","One-time return of advice (proviso to Art 74(1))","Acting on advice of a ==caretaker Council=="]}
+]}]},
+{"title":"Issues in Fulfilling the Role","blocks":[
+{"type":"bullets","items":[
+"==Ambiguity of ‘aid and advice’ and reserve powers== — no exhaustive definition of genuine discretion; convention rather than codified rule, acute in coalition politics.",
+"==The pocket veto problem== — unlike the US (10-day limit), no deadline; the ==Postal Bill of 1986== was never signed by President Zail Singh.",
+"==Politicisation of hung-verdict choices== (1989, 1996, 1998, 2004) — no codified post-poll alliance protocol.",
+"==Delay on bills and mercy petitions== — decades-long clemency delays raise ==Art 21 ‘death row limbo’== concerns.",
+"==‘Ordinance Raj’== — frequent re-promulgation bypasses scrutiny (Delhi Services Ordinance 2023; repeated Commercial Courts ordinances).",
+"==Misuse of Art 356== — invoked ==~130 times since 1950==, curbed but not eliminated by [[S.R. Bommai (1994)]].",
+"==Erosion of perceived neutrality== — elected by a ruling-coalition-dominated college, often with a prior political career.",
+"==Weak accountability== — Art 61 impeachment so onerous it has ==never been used==.",
+"==Governor–President interface== — bills reserved as a delaying tactic (TN, Kerala, Punjab, WB) drag the office into Centre–state friction.",
+"==No real check on prime ministerial advice== — the 44th CA made reconsideration one-time and non-binding."
+]},
+{"type":"stats","items":[
+{"value":"~130","label":"Art 356 (President's Rule) invocations since 1950"},
+{"value":"196 / 133","label":"ordinance peaks — 1990s and 1970s, coinciding with political instability"},
+{"value":"Zero","label":"completed impeachment proceedings — Art 61 never successfully invoked"},
+{"value":"3","label":"parliamentary democracies retaining ordinance power: India, Pakistan, Bangladesh"}
+]}]},
+{"title":"Global Comparison","blocks":[
+{"type":"table","head":["Country","Head of state model","Reserve/discretionary powers","Distinguishing feature"],"rows":[
+["India","Indirectly elected President; nominal executive","PM appointment in hung Parliament, one-time reconsideration, mercy powers","==Ordinance power retained==; broad Art 356 emergency power"],
+["United Kingdom","Hereditary Monarch","Reserve powers by convention — inviting PM, royal assent","==No written constitution== — conventions, not codified rules"],
+["Germany","Federal President, elected by Federal Convention","May ==refuse to sign clearly unconstitutional laws==; nominates Chancellor","Strong norm of legal-formal review before signing"],
+["Israel","President, elected by the Knesset","Gives mandate to form government to a party leader","==Explicit codified post-election consultation process=="],
+["Ireland","President, directly elected","Can ==refer bills to the Supreme Court== for constitutionality (Art 26)","Unique ‘reference’ power — a genuine check absent in India"],
+["Italy","President, elected by Parliament + regional delegates","Dissolve Parliament, appoint PM after consultations, refuse unconstitutional decree-laws","Greater use of ==moral suasion== during coalition crises"]
+]}]},
+{"title":"Case Studies","blocks":[
+{"type":"table","head":["Episode","Significance"],"rows":[
+["==Zail Singh & the Postal Bill (1986)==","Neither signed nor rejected the Post Office (Amendment) Bill — the classic ==pocket veto==."],
+["==K.R. Narayanan & Bihar President's Rule (1998)==","Returned the Cabinet's Art 356 recommendation — a landmark assertive use of the ==Art 74(1) proviso==."],
+["==A.P.J. Abdul Kalam & Office of Profit Bill (2006)==","Sought reconsideration; bound to sign when returned unchanged — the ==limits of the suspensive veto==."],
+["[[S.R. Bommai (1994)]]","Constrained emergency powers: floor tests, reviewable ‘satisfaction’, no dissolution before parliamentary approval."],
+["[[State of TN v. Governor R.N. Ravi (2025)]]","First-ever assent timelines binding Governor and President — later ==reversed via an Art 143 Presidential Reference==."],
+["==Droupadi Murmu (2022– )==","India's first tribal woman President — a symbolic milestone and a test of ceremonial visibility vs institutional assertiveness."],
+["==Delhi office-of-profit disqualifications (2018)==","President Kovind disqualified ==20 Delhi MLAs== on ECI advice — a quasi-judicial function; later stayed by the Delhi HC."]
+]}]},
+{"title":"Way Forward","blocks":[
+{"type":"steps","items":[
+"==Codify timelines== for assent, ordinances and mercy petitions — end the pocket-veto ambiguity",
+"==Post-poll protocol for hung verdicts== — Germany/Israel-style structured consultation + floor test in a fixed period",
+"==Guide emergency powers== — Sarkaria/Punchhi: a reasoned ==speaking order== from the Governor before proclamation",
+"==Introduce a constitutional reference power== — Ireland-style pre-assent advisory reference (distinct from government-initiated Art 143)",
+"==Independent Clemency Review Body== with fixed timelines and transparent criteria",
+"==Transparency in ordinance use== — public urgency justification; cap re-promulgation",
+"==Insulate the office from political career pipelines== — UK Speaker-style visible detachment",
+"==Make inaction reviewable== — extend the mercy-delay logic to bill assent"
+]}
+]}
+]}

@@ -1,0 +1,48 @@
+{
+"num":"45","title":"Presiding Officers","theme":"Parliament",
+"lead":"==‘The Speaker's position should be free, honoured, and represented by men of outstanding ability and impartiality — it is the symbol of the nation's freedom and liberty’== — Nehru, March 1948. Yet there was ==no Deputy Speaker for the entire 17th LS==, and none elected ‘thus far’ in the 18th.",
+"sections":[
+{"title":"Roles & Functions","blocks":[
+{"type":"cards","items":[
+{"title":"All Presiding Officers","bullets":["==Casting vote== on equality of votes (Art 100); salary charged on the CFI","House commences only when the PO sits; adjournments, quorum suspension","Admissibility of ==motions and resolutions== (incl. no-confidence, cuts); selection of amendments; Panel of Chairs","Discipline: who speaks and for how long; ==points of order==; expunging; withdrawal of members","Executive accountability: order of business, ==regulating questions==, conducting debates","==Quasi-judicial==: anti-defection; prima facie contempt/privilege; committees for judges' removal (Judges Inquiry Act, 1968)","Rulings are ==precedents==; corrects patent errors on the floor"]},
+{"title":"LS Speaker (Extra)","bullets":["==Certifies Money Bills (Art 110)==","Presides over ==joint sittings==","Supreme control of parliamentary committees","Ex-officio President of the ==Indian Parliamentary Group==","Chairs Business Advisory, Rules, General Purposes Committees"]},
+{"title":"Deputy Speaker","bullets":["==Continuity of legislative work==; neutrality for important debates","Presides over House Budget & ==Private Member Bills== Committees","==No timeline== — Art 93 says only ‘as soon as’"]},
+{"title":"RS Chairman (VP)","bullets":["Nominates members to Press Council selection committee and to boards of ==BHU, JNU, JMI==, NCTE, Haj Committee etc.","Nominates RS members to ICCR, Central Social Welfare Board and more"]}
+]},
+{"type":"callout","text":"Rationale: ==constitutional necessity, institutional neutrality, democratic accountability==. ‘The role of the Speaker is to enable the House, not shut it’ — N. Sanjiva Reddy, 1968."}
+]},
+{"title":"Case Studies & Best Practices","blocks":[
+{"type":"cards","wide":true,"items":[
+{"title":"Case Studies","bullets":["==N. Sanjiva Reddy== resigned from his party in 1969 while contesting for President","WB & Punjab Speakers adjourned Houses for prolonged periods (1968-69) — vacuum","==Somnath Chatterjee== ignored party direction on the Nuclear Deal (14th LS)","==Sumitra Mahajan's Aadhaar-as-Money-Bill== certification remains contentious","Hamid Ansari's 2013 Zero Hour ruling improved decorum; K.R. Narayanan's digitisation won laurels","==No-confidence moved against Speaker Om Birla (Feb 2026)==; VP Dhankhar resigned late 2025"]},
+{"title":"Best Practices Abroad","bullets":["==UK==: Speaker cuts party ties and seeks re-election as an independent","==Australia==: Speaker's rulings open to discussion","==Canada==: Deputy Speakers rotate between parties","==New Zealand==: written codes of conduct; decisions reviewed"]}
+]}]},
+{"title":"Issues & Solutions","blocks":[
+{"type":"cards","wide":true,"items":[
+{"title":"Issues","bullets":["==Partisan behaviour== — perceived ruling-party bias","==Anti-defection delays== — no timeline weakens the law","==Money Bill certification misused== to bypass the RS","Limited judicial review of final decisions","Frequent ==disruptions==, weak control"]},
+{"title":"Solutions","bullets":["==Opposition-consensus election== (Halim Committee 1994; 170th Law Commission)","==Mandatory resignation from party== (UK model)","==3-month deadline== for anti-defection rulings ([[Keisham Meghachandra Singh (2020)]]); or an ==independent tribunal==","Rotation of chairing duties (Parliamentary Standing Committee, 2022)","Strengthen the Deputy Speaker — ==60-day appointment timeline==","Codify powers & procedures (Privileges Committee, LS 2008)"]}
+]}]},
+{"title":"Removing a Speaker — Art 94(c)","blocks":[
+{"type":"table","head":["Provision","Meaning"],"rows":[
+["Art 93","LS chooses a ==Speaker and Deputy Speaker==."],
+["==Art 94(c)==","Removal by resolution passed by a ==majority of all the then members==."],
+["Proviso","==14 days' notice== required."],
+["Art 96(1)","Speaker ==cannot preside== while his removal is considered."],
+["Art 96(2)","May speak and vote ==in the first instance== — but no casting vote."]
+]},
+{"type":"bullets","items":[
+"The ==2026 motion against Speaker Om Birla== was negatived by voice vote — constitutionally a ==removal resolution==, not a no-confidence motion.",
+"==Issues==: the absolute-majority threshold makes a majority-backed Speaker ==nearly irremovable==; the Speaker is judged by the very political House he controls; ==Rule 200A== admissibility can be a gatekeeping tool; the ==50-members-rising== requirement shuts out small parties; ==no independent fact-finding==; conflict with the Speaker's Tenth Schedule role — [[Nabam Rebia]]: a Speaker facing removal notice should not decide disqualifications (a rule itself open to tactical abuse); judicial review limited (Art 122, but [[Raja Ram Pal]] allows review for ==substantive illegality==); a vacant Deputy Speakership weakens neutral chairing.",
+"==Solutions==: time-bound Deputy Speaker election (30–60 days); preliminary all-party ==scrutiny committee==; objective drafting standards for Rule 200A; guaranteed listing after threshold support; ==recorded voting==, not voice vote; move anti-defection to an ==independent tribunal==; stronger convention of Speaker neutrality."
+]}]},
+{"title":"The Vice-President","blocks":[
+{"type":"callout","text":"India's second-highest office is a ==constitutional hinge==: its normal function is legislative (ex-officio ==RS Chairman==); its contingent function is executive (==substitute for the President==)."},
+{"type":"cards","wide":true,"items":[
+{"title":"Strengths","bullets":["==Constitutional continuity== — the Presidency never falls vacant","Stable leadership for a House that ==never dissolves==","No constituency — institutional distance from electoral politics","==Bicameral legitimacy== — elected by both Houses"]},
+{"title":"Weaknesses","bullets":["==Partisan election vs impartial office== — no de-partisanisation convention","==LS predominance== in the electoral college; ==states don't vote== though he chairs the Council of States","Vague removal standard; broad procedural discretion without reasoned orders","==Art 68==: casual vacancy election ‘as soon as possible’ — ==no outer limit=="]}
+]},
+{"type":"bullets","items":[
+"==Way forward==: visible impartiality; ==reasoned public rulings==; codified removal-notice procedure; time-bound quasi-judicial decisions; ==consensus candidatures==; an indicative statutory vacancy timeline."
+]},
+{"type":"quote","text":"As the impartial custodian of legislative integrity, the Presiding Officer embodies the rule of law, fair deliberation and institutional balance — ensuring that both power and restraint co-exist within the House."}
+]}
+]}

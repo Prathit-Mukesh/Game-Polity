@@ -1,0 +1,44 @@
+{
+"num":"60","title":"Judicial Activism & Restraint","theme":"Judiciary",
+"lead":"==‘Judicial activism on the theory of jurisprudence called Sociological Jurisprudence arms the judiciary with wide legislative and executive powers’ — Justice Katju.== From resetting spectrum auctions to setting timelines for Governors, judicial activism is India's judicial reality — sometimes necessary, sometimes an overkill.",
+"sections":[
+{"title":"What Activism Is","blocks":[
+{"type":"cards","wide":true,"items":[
+{"title":"The Constructive Face","bullets":["==Creative and innovative interpretation== of law","==Active implementation of the rule of law==","Preservation of a ==functional democracy=="]},
+{"title":"The Risk","bullets":["Judges allow their ==personal views== in","Crossing the line that separates judging from ==legislating or administering=="]}
+]}]},
+{"title":"Methods of Judicial Activism","blocks":[
+{"type":"table","head":["Method","Description","Basis","Example"],"rows":[
+["==Judicial Review==","Constitutionality of laws and executive action","Arts 13, 32, 136, 226","[[Kesavananda Bharati (1973)]]"],
+["==Complete Justice==","Relief or directions ==without reasoning==","==Art 142==","TN Governor case"],
+["==PIL==","Any public-spirited individual may approach for an oppressed class — ==relaxed locus standi==, non-adversarial","Judicially evolved","[[Hussainara Khatoon v. State of Bihar (1979)]]"],
+["Constitutional Interpretation","==Expansive, dynamic, purposive== reading","Inherent judicial power","[[Maneka Gandhi (1978)]]"],
+["International Statutes & Tests","Reference to conventions and treaties","==Art 51(c)==","[[Vishaka v. State of Rajasthan (1997)]]"],
+["Supervisory Powers","Oversight of lower courts; transfer; guidelines","Arts 227, 136","[[Prakash Singh v. UoI (2006)]]"],
+["==Suo Motu Cognisance==","Court takes up a matter on its own initiative","Arts 32, 226","Recent Abhaya case, Kolkata"]
+]},
+{"type":"callout","text":"These methods can shade into ==judicial legislation, judicial overreach and judicial adventurism==."}
+]},
+{"title":"Impact on Democracy & Separation of Powers","blocks":[
+{"type":"table","head":["Positive","Negative"],"rows":[
+["==Filling legislative gaps== — Vishaka guidelines on workplace harassment","==Accountability issues== — judges lack an electoral mandate"],
+["==Protecting vulnerable groups== — Right to Food litigation","==Institutional overlap== — courts assume administrative roles (Delhi Pollution Monitoring Committee, 2021)"],
+["==Executive accountability== — [[Vineet Narain v. UoI (1997)]] directing CBI autonomy","==Resource mismanagement== — courts lack policy-implementation expertise (Swachh Bharat directives)"],
+["==Innovative remedies== — continuing mandamus in environmental cases","==Judicial populism== — ban on liquor sale along highways"],
+["==Rights expansion== — privacy as a fundamental right (2017)","==Democratic erosion== — [[NCT of Delhi v. UoI (2018)]] redefining federal powers"],
+["","==Inconsistency== — ad hoc rulings create legal uncertainty (varying environmental-ban standards)"]
+]},
+{"type":"quote","text":"Judicial activism, when rooted in constitutional fidelity and public interest, serves as a vital corrective to executive inaction and legislative inertia. Yet when it blurs into judicial adventurism, it risks eroding democratic accountability and unsettling the separation of powers."}
+]},
+{"title":"Judicial Restraint","blocks":[
+{"type":"cards","wide":true,"items":[
+{"title":"Components","bullets":["==Respecting precedent== — upholding rather than overturning (Review Petitions)","==Deferring to legislative intent== — e.g. same-sex marriage","==Presumption of constitutionality== — Art 13(2)"]},
+{"title":"Rationale","bullets":["Only the judiciary decides the ==limits of other organs' jurisdiction== — so the power must be used with ==utmost humility and self-restraint==","Lower-court errors can be corrected above; ==there is no one above the Supreme Court== to correct its error"]}
+]}]},
+{"title":"Activism in Action","blocks":[
+{"type":"cards","items":[
+{"title":"Human Rights","bullets":["[[Sunil Batra v. Delhi Admn]] — against ==solitary confinement==","[[Nilabati Behera v. State of Orissa]] — against ==custodial violence==","[[D.K. Basu v. State of WB]] — ==rights of the arrested==","[[Vishaka v. State of Rajasthan]] — freedom from ==sexual harassment at work==","[[Bandhua Mukti Morcha]] — ==dignity free from exploitation=="]},
+{"title":"Environmental Protection","kicker":"Majorly through PILs","bullets":["[[Vellore Citizens Welfare Forum (1996)]] — tannery pollution","[[T.N. Godavarman (1997)]] — forest protection and conservation","[[M.C. Mehta (1987)]] — ==polluter pays==","[[AP Pollution Control Board v. M.V. Nayudu (1999)]] — ==burden of proof on the party seeking change=="]},
+{"title":"Judicial Legislation by Direction","bullets":["[[Gaurav Jain v. UoI (1990)]] — education of children of prostitutes","[[TMA Pai Foundation v. Karnataka]] — ==fee structure== in professional colleges","[[Vishaka v. Rajasthan (1997)]] — the guidelines themselves"]}
+]}]}
+]}

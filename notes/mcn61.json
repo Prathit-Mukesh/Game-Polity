@@ -1,0 +1,25 @@
+{
+"num":"61","title":"Suo Motu & Complete Justice","theme":"Judiciary",
+"lead":"==‘Paradoxically, the greatest danger to the administration of justice and constitutional interpretation arises from the genuine desire of Judges to do justice in each individual case’ — H.M. Seervai.== In 2024 the SC exercised ==suo motu jurisdiction in 12 cases — the highest ever==.",
+"sections":[
+{"title":"Article 142 — Complete Justice","blocks":[
+{"type":"cards","wide":true,"items":[
+{"title":"Rationale","bullets":["Relief to do ==‘complete justice’ beyond applicable statutory provisions==","Directions filling perceived ==legislative gaps==, operating as ==law of the land== until the legislature or executive steps in","==Do not hold precedent value=="]},
+{"title":"Judicial Framing","bullets":["[[SCBA v. UoI (1998)]]: ==‘a valuable weapon to prevent clogging of the stream of injustice’== — but Art 142 can ==‘supplement’ but not ‘supplant’== substantive law","[[Pravasi Bhalai Sangathan v. UoI (2014)]]: for a direction to be effective there must be an ==implementation mechanism==","==IIM-Ahmedabad (May 2024)==: of ==1,579 SC cases== invoking ‘Article 142’ or ‘complete justice’, usage was ==ambiguous in almost 40%=="]}
+]},
+{"type":"cards","wide":true,"items":[
+{"title":"Pros","bullets":["==Equitable justice== — Union Carbide compensation (1989) for Bhopal victims","==Systemic reforms== — [[Lakshmi Kant Pandey v. UoI (1984)]] regulating inter-country adoptions","==Ensures complete justice== — Perarivalan case (2022)","Protects public interest — [[SaveLIFE Foundation v. UoI (2016)]]"]},
+{"title":"Cons","bullets":["==Unchecked authority== — [[Reliance Natural Resources v. Reliance Industries (2010)]] effectively ==rewriting contracts==","==Legal uncertainty== — Coal Block allocation cancellations (2014) disrupting industries"]}
+]},
+{"type":"quote","text":"As long as there are intersections between law and public life, there will be a place for the Court's discretionary power under Article 142. And as long as the rule of law prevails, there will be calls to use it sparingly."}
+]},
+{"title":"Suo Motu Jurisdiction","blocks":[
+{"type":"cards","items":[
+{"title":"Methods","bullets":["Action against a person who shows ==contempt==","==Transfer a case== to itself or to lower courts on its own will","==Cognisance of pressing issues== affecting society"]},
+{"title":"Pros","bullets":["==Urgent intervention== — COVID-19 migrant crisis","==Public interest== — rights of deaf students, prisoners, marginalised groups otherwise unnoticed"]},
+{"title":"Cons","bullets":["==Selective justice== — depends on individual judges' priorities","==Procedural risks== — may lack proper notice and hearing; due-process concerns","==Judicial overreach== into executive/legislative domains"]},
+{"title":"Examples","bullets":["==Manipur violence==","Lokpal HC judge ambit","==Ganga cleanliness==","Sariska Tiger Reserve","==Kolkata hospital case=="]}
+]},
+{"type":"callout","text":"==Arts 32 and 226 and the growth of PILs== have widened the scope of suo motu matters heard by constitutional courts."}
+]}
+]}

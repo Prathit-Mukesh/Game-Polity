@@ -1,0 +1,18 @@
+{
+"num":"39","title":"Comparative: Separation of Powers","theme":"Comparative Constitutions",
+"lead":"Four flavours of the doctrine: India's ==flexible separation==, America's ==strict separation==, Britain's ==fused powers==, France's ==dual executive with shared powers==.",
+"sections":[
+{"title":"India · US · UK · France","blocks":[
+{"type":"table","head":["Aspect","India","United States","United Kingdom","France"],"rows":[
+["Doctrine type","==Flexible== separation.","==Strict== separation.","==Fused== powers.","Dual executive, ==shared powers==."],
+["Executive","PM-led Cabinet from the legislature; President nominal.","President separate from Congress — ==head of state & govt==.","PM heads govt; Monarch ceremonial.","==President + PM== — dual."],
+["Legis.–exec. separation","Partial — ministers are MPs (Art 75).","==Full== — Cabinet not in Congress.","None — executive drawn from Parliament.","Moderate — President independent, PM parliamentary."],
+["Removal of executive","No-confidence motion in LS.","Impeachment (rare).","Commons no-confidence.","Assembly censures PM; ==President can dissolve Assembly (Art 12)==."],
+["Judicial review","Explicit — Kesavananda.","[[Marbury v. Madison]].","No formal review — parliamentary supremacy.","==Constitutional Council== reviews pre-promulgation."],
+["Legislative control of executive","High — questions, motions, committees.","Limited — budget, confirmations, impeachment.","Complete — PM accountable to Parliament.","Moderate — censure of PM; ==President independent==."],
+["Executive control of legislature","President dissolves LS ==on advice==.","==Cannot dissolve Congress==.","PM advises dissolution.","President dissolves the National Assembly."],
+["Overlap","Yes — ministers legislate; judiciary quasi-legislative (==PIL==).","No overlap by design.","High overlap.","Moderate — PM answers to Parliament, President doesn't."],
+["Emergency impact","==Arts 352–360 override separation==.","Checks remain (War Powers Act).","Parliament stays supreme.","==Significant centralisation== under the President."],
+["In practice","==Functional interdependence== — cooperative model.","Rigid separation — competitive model.","Fusion — parliamentary supremacy.","Balanced hybrid — ==dual executive with overlapping roles==."]
+]}]}
+]}

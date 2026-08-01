@@ -1,0 +1,67 @@
+{
+"num":"74","title":"Legal Aid","theme":"Access to Justice",
+"lead":"India's legal aid system gives statutory teeth to ==Article 39A== through the ==Legal Services Authorities Act, 1987==, in force from ==9 November 1995== — now ==National Legal Services Day==.",
+"sections":[
+{"title":"Statutory Framework","blocks":[
+{"type":"bullets","items":[
+"==s.12==: eligibility criteria for free legal services.",
+"==ss.19–22==: organisation of ==Lok Adalats==; awards are ==deemed decrees of a civil court — final, binding, non-appealable==.",
+"==ss.22A–22E (2002 Amendment)==: ==Permanent Lok Adalats== for pre-litigation conciliation of ==public utility service== disputes (transport, postal, electricity, water, hospitals, insurance).",
+"==1994 & 2002 Amendments==: broadened legal aid, introduced Permanent Lok Adalats, refined the institutional hierarchy.",
+"==Allied instruments==: ==s.341 BNSS== (State pleader for an accused before a Court of Session); ==NALSA (Free and Competent Legal Services) Regulations, 2010==; State Model Rules; ==Tele-Law (2017)== and ==Nyaya Bandhu== pro bono programme."
+]}]},
+{"title":"Who Is Entitled — s.12","blocks":[
+{"type":"cards","items":[
+{"title":"Identity-Based","bullets":["Members of a ==Scheduled Caste or Scheduled Tribe==","==Women and children== (incl. women victims of crime, child victims/witnesses)","==Persons with disabilities=="]},
+{"title":"Circumstance-Based","bullets":["Victims of ==trafficking or begar== (Art 23)","==Undeserved want== — mass disaster, ethnic violence, caste atrocity, flood, drought, earthquake, industrial disaster","==Persons in custody== — protective home, juvenile home, psychiatric hospital or nursing home"]},
+{"title":"Income & Forum-Based","bullets":["Annual income below the ==State-prescribed limit== — currently roughly ==₹3–5 lakh p.a.==, varying by State","==Industrial workmen==","Cases before a ==Labour Court, Industrial Tribunal== or labour authority","Litigants in ==Lok Adalat or mediation== proceedings"]}
+]}]},
+{"title":"Institutions Offering Legal Aid","blocks":[
+{"type":"table","head":["Institution","Level","Composition / leadership"],"rows":[
+["==NALSA==","National","Patron-in-Chief: ==Chief Justice of India==; Executive Chairman: a sitting or retired SC Judge nominated by the President"],
+["==SLSA==","State","Patron-in-Chief: ==Chief Justice of the High Court==; Executive Chairman: a sitting or retired HC Judge"],
+["==DLSA==","District","Chaired by the ==District Judge==; runs Legal Aid Clinics at the grassroots"],
+["Taluk Legal Services Committee","Sub-district","Headed by a ==senior Civil Judge=="],
+["SC & HC Legal Services Committees","Apex / State judiciary","Legal aid in matters before the SC and respective HCs"]
+]},
+{"type":"cards","wide":true,"items":[
+{"title":"Dispute Resolution Arms","bullets":["==Lok Adalats== — conciliatory settlement of pending and pre-litigation cases; awards have decree force with ==no appeal==; ==court fees refunded==","==Permanent Lok Adalats== — standing bodies with ==adjudicatory (not merely conciliatory)== powers for public utility disputes up to a pecuniary limit","==Mediation and Family Court linkages== — court-attached mediation centres to decongest dockets"]},
+{"title":"Grassroots & Digital Delivery","bullets":["==Legal Aid Clinics== — law-school and village-level clinics with students and ==Para-Legal Volunteers (PLVs)==","==PLVs== — community paralegals trained by DLSAs; the ==first point of contact== in villages and slums","==Front Offices== in courts and jails for on-the-spot applications, incl. undertrials","==Tele-Law== — video/telephone advice via Common Service Centres","==Nyaya Bandhu== app connecting citizens with volunteering advocates","==Victim Compensation Schemes== via DLSAs; NGOs and Bar Associations (e.g. Human Rights Law Network)"]}
+]}]},
+{"title":"Performance Data","blocks":[
+{"type":"stats","items":[
+{"value":"3.09 crore","label":"cases disposed in a single National Lok Adalat (early 2025) across 37 States/UTs — ₹18,212 crore settlement value, ~79% disposal rate"},
+{"value":"7.7 crore","label":"cases resolved cumulatively across 2023's National Lok Adalats"},
+{"value":"1.13 crore","label":"cases settled in the first National Lok Adalat of 2024 (96.5 lakh pre-litigation + 17.1 lakh pending); ~₹8,065 crore"},
+{"value":"Every State/UT","label":"one SLSA, DLSAs in nearly every district, Taluk committees at sub-district level"}
+]}]},
+{"title":"Issues & Challenges","blocks":[
+{"type":"bullets","items":[
+"==Poor quality of representation== — legal aid lawyers overburdened, underpaid (fees far below market), sometimes inexperienced → legal aid seen as a ==symbolic rather than substantive right==.",
+"==Low public awareness== — many eligible beneficiaries in rural and tribal areas don't know legal aid exists.",
+"==Inadequate funding== — budget constraints limit empanelled lawyers, PLVs and outreach camps.",
+"==Understaffing== — chronic DLSA secretary vacancies; shortage of panel lawyers in remote and LWE-affected districts.",
+"==Coordination gaps== between DLSAs, police, prisons and judiciary delay identification of eligible undertrials.",
+"==Quality vs quantity in Lok Adalats== — disposal pressure can produce settlements through ==pressure to compromise rather than genuine consent==.",
+"==Digital divide== limits Tele-Law's reach; ==gender and social barriers== (stigma, mobility, patriarchal control) deter women and marginalised groups.",
+"==Weak monitoring== — little outcome-based evaluation of whether legal aid improves case outcomes.",
+"==Undertrial backlog== — many entitled to free legal aid and bail assistance don't access it in time."
+]}]},
+{"title":"Best Practices","blocks":[
+{"type":"cards","wide":true,"items":[
+{"title":"Domestic","bullets":["==Nyaya Bandhu and Tele-Law== — legal aid integrated with digital platforms and Common Service Centres","==Legal Literacy Clubs in schools== — NALSA's scheme building a rights-conscious citizenry","==Village Legal Care and Support Centres== — run jointly with Panchayati Raj Institutions","==Prison Legal Aid Clinics== — assisting undertrials with bail applications and case status"]},
+{"title":"Global","bullets":["==United States== — constitutionally mandated right to counsel ([[Gideon v. Wainwright, 1963]]) delivered through ==dedicated public defender offices==","==Netherlands== — a mixed model: public ==Legal Aid Board== plus subsidised private practitioners and ==‘law shops’== for early advice","==Finland== — ==universal public legal aid offices== with salaried lawyers and ==income-linked co-payment== rather than a strict eligibility cut-off"]}
+]}]},
+{"title":"Way Forward","blocks":[
+{"type":"steps","items":[
+"==Quality assurance== — move toward a cadre of ==salaried, full-time legal aid defence counsel== (public defender model), at least in criminal matters",
+"==Ring-fenced funding== — a fixed percentage of the judiciary/law ministry budget, plus better honoraria",
+"==Expand PLV networks== — especially women and persons from marginalised communities as trusted intermediaries",
+"==Deepen digital outreach while bridging the divide== — Tele-Law plus physical CSCs and offline camps",
+"==Outcome-based monitoring== — an independent ==Justice Access Index== measuring outcomes, not case counts",
+"==Proactive identification== — police and prisons must inform every eligible arrestee at the ==point of arrest==, with documented compliance",
+"==Sensitisation and legal literacy== targeting women, SC/ST communities and persons with disabilities",
+"==Safeguard voluntariness in Lok Adalats== — procedural safeguards against disposal-driven pressure",
+"==Integrate with restorative justice== — link to victim compensation (==s.396 BNSS==) and rehabilitation support"
+]}]}
+]}

@@ -1,0 +1,90 @@
+{
+"num":"09","title":"Equality, Affirmative Action, Caste, NCSC","theme":"Preamble & Fundamental Rights",
+"lead":"With the world's most comprehensive ==affirmative action policy== and one of the largest welfare expenditures, India understands the nuances of Equality like none other.",
+"sections":[
+{"title":"The Equality Policy Matrix","blocks":[
+{"type":"cards","items":[
+{"title":"Fundamental Rights","bullets":["==Art 14==: equality before law & equal protection; anti-arbitrariness","==Art 15(1)–(2)==: no discrimination on religion, race, caste, sex, place of birth","==Art 15(3)–(6)==: special provisions for women & children; SEBC/SC/ST in education; ==EWS via 103rd CA==","==Art 16(1)–(2)==: equal opportunity in public employment","==Art 16(4)/(4A)/(4B)==: reservation for backward classes; ==promotions for SC/ST==; carry-forward of vacancies","==Art 17==: abolition of untouchability · ==Art 18==: abolition of titles","==Arts 23–24==: ban trafficking/forced labour; bar hazardous child labour"]},
+{"title":"DPSP & Fundamental Duties","bullets":["==Arts 38, 39(a)–(d), 39A, 41–43, 45, 46==: socio-economic equality, equal pay, legal aid, protection of weaker sections","==Art 51A(e)==: renounce practices derogatory to the dignity of women"]},
+{"title":"Other Constitutional Provisions","bullets":["==Art 335==: SC/ST claims consistent with efficiency","==Arts 330–342==: SC/ST/women representation; identification lists","==Art 342A & 338/338A/338B==: OBC lists; ==NCBC, NCSC, NCST==","==Arts 243D & 243T==: reservation in Panchayats/Municipalities (incl. women)"]},
+{"title":"Core Statutes & Schemes","bullets":["==SC/ST (Prevention of Atrocities) Act, 1989==; Protection of Civil Rights Act, 1955","RPwD Act 2016; Transgender Persons Act 2019; HIV/AIDS Act 2017","Maternity Benefit (Amendment) 2017; ==POSH Act 2013==; ==RTE 2009== (25% seats)","Forest Rights Act 2006; PESA 1996; Equal Remuneration Act 1976 → ==Code on Wages 2019==","MGNREGA, NFSA, Ayushman Bharat, PM-JANMAN, scholarships"]}
+]}]},
+{"title":"Landmark Judgments","blocks":[
+{"type":"table","head":["Theme","Cases"],"rows":[
+["Classification & arbitrariness","[[E.P. Royappa (1974)]] · [[Maneka Gandhi (1978)]]"],
+["Reservations / OBC","[[Indra Sawhney (1992)]] (27% OBC valid; ==creamy layer==; ==50% cap==; no promotions) · [[M. Nagaraj (2006)]] & [[Jarnail Singh (2018)]] (promotions framework) · [[Janhit Abhiyan (2022)]] (==EWS upheld==) · [[State of Punjab v. Davinder Singh (2024)]] (==sub-categorisation permitted==)"],
+["Gender, sexuality, dignity","[[Vishaka (1997)]] · [[NALSA (2014)]] · [[Shayara Bano (2017)]] · [[Puttaswamy (2017)]] · [[Navtej Johar (2018)]] · [[Joseph Shine (2018)]]"],
+["Religious exclusion vs equality","[[Indian Young Lawyers Assn (Sabarimala) (2018)]] — pending larger-bench review"],
+["Recent","[[UoI v. Rohith Nathan (2025)]] — parental salary alone can't determine creamy layer · [[Chinthada Anand v. State of AP (2026)]] — converts can't claim SC status"]
+]}]},
+{"title":"SC on Education & Employment Reservation","blocks":[
+{"type":"cards","wide":true,"items":[
+{"title":"Education","bullets":["[[Champakam Dorairajan (1951)]]: caste reservations unconstitutional → ==1st CA inserted Art 15(4)==","[[T.M.A. Pai (2002)]] & [[P.A. Inamdar (2005)]]: no reservations in private unaided institutions → ==93rd CA inserted Art 15(5)==","[[Janhit Abhiyan (2022)]]: ==103rd CA / 10% EWS upheld=="]},
+{"title":"Employment","bullets":["[[Indra Sawhney (1992)]]: OBC reservation under Art 16(4); ==50% cap==; creamy layer; no promotions","[[M. Nagaraj (2006)]]: promotions allowed with ==quantifiable data== (backwardness, representation, efficiency)","[[Rajeev Kumar Gupta (2016)]]: promotion reservation for ==persons with disabilities==","[[Jarnail Singh (2018)]]: dropped backwardness proof for SC/ST","[[Davinder Singh (2024)]]: ==sub-classification within SC/ST valid=="]}
+]}]},
+{"title":"Caste: Factors Reinforcing It","blocks":[
+{"type":"cards","items":[
+{"title":"Political","bullets":["==Caste-based vote mobilisation== — tickets and portfolios by caste arithmetic (Yadav–Muslim in UP, Dalit-Bahujan BSP, Patidar mobilisation)","Caste-based parties: RJD, DMK, JD(U), AIADMK, PMK, LJP, Apna Dal","Electoral reservation reinforces caste as a ==political resource=="]},
+{"title":"Economic & Occupational","bullets":["==Safai Karamchari Andolan (2023): ~85% manual scavengers are Dalits==","Caste in entrepreneurship: Agarwals in trade, Nadars in business, Chettiars in finance","==Oxfam India 2022==: upper castes dominate high-paying private jobs"]},
+{"title":"Social & Cultural","bullets":["==IHDS-II: ~90% marriages intra-caste==; matrimonial caste filters, ‘Caste No Bar’ <10%","Temple priesthood and purity rules still caste-based","Housing segregation; dining taboos persist"]},
+{"title":"Institutional & Educational","bullets":["==Darshan Solanki case (IIT Bombay, 2023)== → UGC anti-discrimination guidelines","==Rohini Commission (2023)==: 97% OBC benefits captured by 25% sub-castes"]},
+{"title":"Law, Data & Governance","bullets":["==NCRB 2022: 57,582 crimes against SCs==, 13,535 against STs — 150+ caste crimes daily","==Bihar Caste Survey 2023== reignited proportional-representation debates","EWS and OBC sub-categorisation keep caste salient in policy"]},
+{"title":"Digital & Media","bullets":["Caste-pride social media (#JaatPride, #DalitVoice, #MarathaUnity)","Films — Article 15, Jai Bhim, Maharaj — raise visibility ==and== identity assertion"]}
+]}]},
+{"title":"Signs of Transformation","blocks":[
+{"type":"cards","items":[
+{"title":"Constitutional & Legal","bullets":["Arts 14–17; ==PoA Act 1989 (strengthened 2015)==","[[Shakti Vahini (2018)]] — outlawed khap diktats, liberty in marriage","[[Hadiya case (2018)]] — right to choose faith and partner under Art 21","[[Indra Sawhney (1992)]] — creamy layer balances merit and equity"]},
+{"title":"Educational & Economic Mobility","bullets":["==DoPT (2023): ~50% UPSC entrants from reserved categories==","SC literacy ==54% (2011) → 73% (NFHS-5, 2022)==","Ambedkarite student organisations; startups & gig economy reduce occupational rigidity"]},
+{"title":"Urbanisation & Marriage","bullets":["Metro anonymity reduces overt discrimination (Kerala, TN, Maharashtra least segregated)","==Inter-caste marriages 10–12%== (IHDS-II), rising in metros (Mumbai 18%, Bengaluru 16%)","==Dr Ambedkar Scheme==: ₹2.5 lakh incentive for social integration"]},
+{"title":"Cultural & Global","bullets":["Sanskritisation giving way to ==Dalit assertion== — literature festivals, Ambedkarite art","==California (2023): first jurisdiction in the world to ban caste discrimination=="]}
+]}]},
+{"title":"Caste Consciousness: Upper vs Lower","blocks":[
+{"type":"cards","wide":true,"items":[
+{"title":"Lower-Caste Assertion","bullets":["Caste identity as ==solidarity and self-respect== against historic disadvantage","Political empowerment: Kanshi Ram, Mayawati, Lalu Prasad, Udit Raj","Movements: ==Bhim Army==, Dalit Panthers 2.0; #DalitHistoryMonth digital activism","Caste census demand — ==Bihar 2023 survey=="]},
+{"title":"Upper-Caste Anxieties","bullets":["==‘Status anxiety’== from expanding reservation and sub-categorisation","Patel, Maratha, Jat agitations ==demand backward classification==","==EWS quota (2019)== seen as strategy to regain state patronage","‘Merit vs quota’ discourse (AIIMS 2006, IIT Delhi 2023 protests)"]}
+]},
+{"type":"quote","text":"Assertion among the oppressed is self-respect; assertion among the privileged is insecurity.","by":"Gopal Guru"},
+{"type":"callout","text":"==André Béteille== distinguishes ==status hierarchy (caste)== from ==achievement hierarchy (class)== — modern India is transitioning between both."}
+]},
+{"title":"Caste & Class Interactions","blocks":[
+{"type":"bullets","items":[
+"==Rural India==: caste and class coincide — landownership mirrors caste hierarchy (Bihar's Rajputs/Yadavs, TN's Thevars/Vellalars). ==Urban India==: class mobility blurs caste markers.",
+"==Post-1991 reforms== expanded ‘achieved status’ — IT, gig and service sectors merit-based; yet ==Oxfam 2022: SC/STs earn 33% less; only 5% Dalits in corporate leadership==.",
+"Rise of a ==‘Dalit middle class’== via education and public jobs — vertical mobility, but prejudice persists.",
+"Class unity across castes: gig-worker strikes (Swiggy, Zomato 2022); but caste networks still mediate recruitment in informal sectors.",
+"==M. N. Srinivas==: ‘Vertical mobility possible, but horizontal barriers remain.’ ==ILO 2023==: caste-linked occupational segregation persists after controlling for education."
+]}]},
+{"title":"Inter-Caste & Inter-Faith Marriages","blocks":[
+{"type":"cards","items":[
+{"title":"Trends","bullets":["Inter-caste: ==10–12% nationally== (IHDS-II), gradual rise in metros","Inter-faith: ==~1%==; urban growth via ==Special Marriage Act, 1954==","Average urban marriage age 28 — longer social exposure increases cross-cultural unions"]},
+{"title":"Challenges","bullets":["==Khap panchayats== and honour crimes (Haryana, western UP, Rajasthan)","==SMA's 30-day notice== invites harassment — Allahabad HC (2021) urged simplification","==‘Love jihad’ narrative== — anti-conversion laws used against consenting adults","Rental denial, workplace stigma, children's documentation issues"]},
+{"title":"Responses & Reform","bullets":["[[Hadiya (2018)]]: adult autonomy in marriage and religion under ==Art 21==","[[Shakti Vahini (2018)]]: police protection for couples","Kerala's One Stop Centres; Delhi's Love Commandos","Reforms: remove SMA notice clause, fast-track protection, digital registration for privacy"]}
+]},
+{"type":"quote","text":"The future of equality in India depends on democratising dignity.","by":"Gopal Guru"}
+]},
+{"title":"NCSC — the Constitutional Watchdog","blocks":[
+{"type":"cards","items":[
+{"title":"Mandate & Composition","kicker":"Art 338","bullets":["Investigates/monitors ==SC safeguards==, inquires into complaints, advises on policy, ==reports to the President== (ATRs laid before Parliament)","==Civil-court powers== while inquiring (summons, documents, affidavits)","Governments must ==consult it== on major policy affecting SCs","Chairperson + Vice-Chairperson + 3 Members, appointed by the President"]},
+{"title":"Functions & Field Work","bullets":["Receives complaints, calls for reports, spot enquiries, recommendations to Union/States","==~47,000 complaints over four years== (2020-21 to 2024)","Field interventions: ==Tirunelveli (Aug 2025)== caste-murder inquiry; ==Karur (Oct 2025)== stampede visit"]},
+{"title":"Powers — Recommendatory Only","bullets":["[[All India Indian Overseas Bank SC/ST Welfare Assn (1996)]]: Art 338(8) gives ==no injunction power==","Delhi HC (2024): NCSC cannot issue directions ==‘in the nature of a civil/criminal court’==","P&H HC (2025): a State SC Commission ==cannot order FIR registration=="]},
+{"title":"Limitations","bullets":["==Strong constitutional design, weak enforceability==","Heavy caseload, thin capacity; delayed reporting weakens parliamentary control","Dependence on State machinery; needs to widen from atrocity to ==socio-economic justice=="]}
+]},
+{"type":"stats","items":[
+{"value":"57,789","label":"crimes against SCs, NCRB 2023 (↑0.4% over 2022); rate 28.7/lakh — UP tops count, MP/Rajasthan in rate"},
+{"value":"47,000+","label":"complaints filed with NCSC since 2020 (RTI) — atrocities and land disputes lead"}
+]},
+{"type":"bullets","items":[
+"==Reforms==: time-bound ATRs (e.g. 90 days); shared ‘backbone’ across equality bodies (NCSC/NCST/NCBC/NCW/NHRC) — unified case-tracking, forensic panel, victim-services fund",
+"Limited ==binding interim relief powers== (safety directions, ex-gratia) subject to appellate review",
+"==Data pipes with NCRB==: public dashboards linking complaint → FIR → charge-sheet → trial → relief",
+"Fill vacancies; more state benches/mobile sittings; MoUs with Legal Services Authorities; ==independent investigation wing=="
+]}]},
+{"title":"Global Comparison — Equality Regimes","blocks":[
+{"type":"table","head":["Dimension","India","United States","United Kingdom","France"],"rows":[
+["Legal provisions","Arts 14–18 (+23–24); DPSPs; ==explicit affirmative-action clauses==","14th Amendment Equal Protection; 5th Amendment due process; statutes","==Equality Act 2010==; HRA 1998 (ECHR Art 14)","1789 Declaration; 1958 Constitution; ==laïcité=="],
+["Model","==Substantive / anti-subordination== — permits reservations","Anti-classification with ==tiers of scrutiny==","Statutory protection over ==9 protected characteristics==","Formal equality; quotas disfavoured; parity measures"],
+["Affirmative action","Constitutionally authorised — Arts 15(4)/(5)/(6), 16(4)/(4A)/(4B), incl. promotions","Race-conscious admissions struck down — [[SFFA v. Harvard/UNC (2023)]]; quotas barred since [[Bakke (1978)]]","==Positive action, not quotas== (time-limited)","Quotas largely impermissible; ==parité== gender-balance laws"],
+["Scrutiny / test","Reasonable classification + anti-arbitrariness; creamy layer; ==50% cap (EWS exception)==","Strict (race), intermediate (sex), rational basis","Proportionality via HRA; statutory justification tests","Proportionality; Conseil constitutionnel polices equality & laïcité"],
+["Enforcement","SC/HC writs; NCSC/NCST/NCBC; special courts (PoA Act)","Federal courts + EEOC/DoJ; class actions","Civil courts + EHRC; tribunals","Conseil constitutionnel/Conseil d'État; Défenseur des droits"]
+]}]}
+]}

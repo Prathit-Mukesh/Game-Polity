@@ -1,0 +1,50 @@
+{
+"num":"11","title":"Labour Rights — Art 19(1)(c)","theme":"Preamble & Fundamental Rights",
+"lead":"In 1921, a Madras court fined ==B. P. Wadia== and his fellow organisers £2,000 for the ‘conspiracy’ of forming a trade union. The Constitution guarantees that very act as a fundamental right — yet in 2026, an estimated ==7–8 million gig and platform workers== have no recognised forum in which to exercise it.",
+"sections":[
+{"title":"The Core Gap","blocks":[
+{"type":"callout","text":"Indian workers have an unimpeachable ==right to unionise==, but no co-extensive constitutional right to be ==bargained with, to strike, or to picket== effectively. Those entitlements exist only as ==statutory creations== — and statutes can be narrowed by ordinary legislative majority in a way the Constitution cannot."},
+{"type":"steps","items":[
+"Early labour movement: ==Madras Labour Union (1918)== by B. P. Wadia — unions initially treated as ==criminal conspiracies== under colonial law",
+"==Trade Unions Act, 1926==: legal recognition and immunity from certain civil/criminal liabilities",
+"Nov 2025: four ==Labour Codes== brought into force — Wages (2019), Industrial Relations (2020), Social Security (2020), OSH (2020) — consolidating ==29 central statutes== including the 1926 Act"
+]}]},
+{"title":"Landmark & Recent Case Law","blocks":[
+{"type":"table","head":["Case","Ruling"],"rows":[
+["[[State of Madras v. V.G. Row (1952)]]","Struck down a law banning an association without judicial review — ==‘reasonableness’ under 19(4) must be tested objectively by courts==, not left to executive satisfaction."],
+["[[All India Bank Employees' Assn (1962)]]","Right to form unions ==does not guarantee every union objective== (e.g. compulsory recognition); collective bargaining may be regulated by ordinary law."],
+["[[Damyanti Naranga v. UoI (1971)]]","Compulsorily altering a voluntary association's composition violates 19(1)(c) — the right includes associating ==only with those voluntarily admitted==."],
+["[[O.K. Achudan Nair v. UoI (1976)]]","Upheld restrictions for armed-forces-attached civilian staff under ==Art 33== — special carve-outs narrow 19(1)(c)."],
+["[[B.R. Singh v. UoI (1989)]]","Strike recognised as an ==‘important weapon’== of trade unions — but not elevated to fundamental-right status; a tension never fully resolved."],
+["[[T.K. Rangarajan v. TN (2003)]]","Government employees have ==no fundamental or even statutory right to strike==."]
+]}]},
+{"title":"The Labour Codes: Gains & Losses","blocks":[
+{"type":"cards","wide":true,"items":[
+{"title":"Changes That Strengthen Workers","kicker":"Pro-worker","bullets":["==Sole Negotiating Union recalibrated==: IR Code's 51% threshold lowered to ==30% membership by secret ballot== (IR (Central) Rules, 2026), recognition valid three years","==Gig and platform workers named in statute for the first time== — Social Security Code mandates aggregator contributions (==1–2% of turnover==) to a Social Security Fund; Aadhaar-linked worker registration","Universal ==Grievance Redressal Committees== and a ==Re-skilling Fund== (15 days' wages per retrenched worker) mandatory regardless of union presence"]},
+{"title":"Changes That Weaken Protection","kicker":"Concerns","bullets":["==Decriminalisation of compliance failures== — fines ₹50,000–₹10 lakh replace imprisonment; weaker deterrent against unfair labour practices","==Retrenchment/closure threshold raised from 100 to 300 workers== — most mid-sized factories can now lay off without prior government permission","Strike conditions stringent: ==60-day notice==, bans during conciliation/tribunal proceedings","==No uniform minimum wages== under the notified rules — state-wise fluctuations"]}
+]}]},
+{"title":"Issues","blocks":[
+{"type":"bullets","items":[
+"==Gap between law and practice==: legal recognition, weak effective protection.",
+"==Post-1991 flexibility shift==: labour policy prioritises growth; IR Code subsumes the Trade Unions Act with minimal substantive change.",
+"==Colonial continuities==: restrictive provisions echo the Public Safety Bill (1928) and Trade Disputes Act (1929) — continuing state control over labour mobilisation.",
+"==Exclusion of informal & platform workers==: ‘gig’ and ‘platform’ absent from the IR Code — workers classed as ==independent contractors==, denied collective bargaining and union protections.",
+"==Federal unevenness (mid-2026)==: Gujarat and Arunachal have notified rules under all four codes; West Bengal under none — a worker's protection ==depends on their state== (labour is on the Concurrent List)."
+]}]},
+{"title":"Case Studies","blocks":[
+{"type":"cards","items":[
+{"title":"Zomato Fleets (2024)","bullets":["March 2024 plan for separate ==veg/non-veg fleets with distinct uniforms== risked exposing riders' religious and caste identity to discrimination."]},
+{"title":"TGPWU & State Laws","bullets":["Telangana Gig and Platform Workers Union helped draft the ==Telangana Gig Workers Bill, 2025== — following ==Rajasthan (2023)== and ==Karnataka (2025)==."]},
+{"title":"IFAT Petition (2021)","bullets":["Indian Federation of App-based Transport Workers (~==35,000 members==) petitioned that treating gig workers as ==‘partners’ rather than employees== violates Arts 14, 21 and 23."]}
+]}]},
+{"title":"Way Forward","blocks":[
+{"type":"steps","items":[
+"==Lower the bargaining threshold further== — and extend it to platforms",
+"Convert social-security coverage into ==collective voice==",
+"==Standardise state rule-making== on a fixed timeline",
+"Ratify ==ILO Conventions 87 and 98==",
+"Build a transparent ==grievance-to-tribunal pipeline== for platform disputes"
+]},
+{"type":"quote","text":"The deepest lesson of this history is that Article 19(1)(c) was never meant to be self-executing. It is a constitutional promise that requires continuous, deliberate statutory maintenance to remain real."}
+]}
+]}

@@ -1,0 +1,20 @@
+{
+"num":"33","title":"Comparative: Ministers","theme":"Comparative Constitutions",
+"lead":"India: ministers as ==constitutional functionaries in a written parliamentary republic==. UK: ==political-executive office holders in a convention-based constitutional monarchy==.",
+"sections":[
+{"title":"India v United Kingdom","blocks":[
+{"type":"table","head":["Basis","India","United Kingdom"],"rows":[
+["Legal basis","==Arts 74–75== (Union), ==163–164== (States).","Royal prerogative, statutes, conventions, ==Cabinet Manual, Ministerial Code==."],
+["Appointment & removal","PM by President; others on PM's advice; ==pleasure of the President== = PM's confidence in practice.","By the Monarch on PM's advice; hold office on ==PM's confidence==."],
+["Types","Cabinet Ministers, MoS (independent charge), MoS, Deputy Ministers.","Cabinet, Ministers of State, ==Under-Secretaries, Lords Ministers, Whips, Law Officers==."],
+["Collective responsibility","==Express rule — Art 75(3)==; no-confidence defeat = whole Council resigns.","==Convention== — support publicly or resign, unless explicitly suspended."],
+["Individual responsibility","Answerable for the department; conventions ==applied unevenly==.","==Ministerial Code== — duty to Parliament to account for departments."],
+["Membership","Must join either House ==within six months==.","Convention: member of Commons or Lords (often via Lords)."],
+["==Size limit==","Constitutional cap — ==15% of LS strength== (91st CA).","Statutory limits on paid ministers; ==no percentage cap==."],
+["Anti-defection","Tenth-Schedule disqualification ==bars ministership== for the period.","No equivalent — rebellion managed politically."],
+["Conduct code","Oaths, RPA norms, conflict rules — ==no single prominent code==.","Formal ==Ministerial Code== (updated June 2026)."],
+["Head-of-state relation","==Art 78==: PM must furnish information; President may require matters placed before the Council.","PM's audience with the Monarch — ==informed, consulted, warns==."],
+["Judicial interpretation","[[Shamsher Singh]]: President/Governor act on ==aid and advice==; [[Ram Jawaya]]: executive power coextensive with legislative power.","Conventions largely political; ministerial action's ==legality== reviewable."],
+["Character","==Constitutionalised== — text, courts, Parliament, federal structure.","==Conventionalised== — Commons confidence, Code, political norms."]
+]}]}
+]}

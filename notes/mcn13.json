@@ -1,0 +1,129 @@
+{
+"num":"13","title":"Secularism, Religion, Minority Institutions, Communalism","theme":"Preamble & Fundamental Rights",
+"lead":"From Ashoka's Dhamma to Bhakti–Sufi syncretism, the Indian ethos internalised ==Sarva Dharma Sambhava==. Contemporary debates — Sabarimala, UCC, the triple talaq ban — show secularism's continued ==constitutional dynamism==.",
+"sections":[
+{"title":"Constitutional Provisions","blocks":[
+{"type":"table","head":["Aspect","Provision / Interpretation"],"rows":[
+["Preamble","==42nd CA (1976)== inserted ‘Secular’; secularism is a ==basic feature== — [[S.R. Bommai (1994)]]."],
+["==Arts 25–28==","Art 25: freedom of conscience; profess, practice, ==propagate== · Art 26: denominations manage their affairs · Art 27: no taxation for promoting a religion · Art 28: no religious instruction in state-funded institutions."],
+["Arts 14, 15, 16, 19, 21","Equality, non-discrimination and liberty — the pillars supporting secularism."],
+["Art 30","Minorities can be defined by ==religion as well as language==."],
+["Art 51A(e) & (f)","Duties: promote harmony transcending religious diversities; preserve ==composite culture==."],
+["Judicially evolved","State can intervene in ==non-essential/secular aspects== of religion for social reform (Sati, Devadasi abolition)."]
+]}]},
+{"title":"Laws on Religion & Secularism","blocks":[
+{"type":"table","head":["Aspect","Statute","Purpose / Effect"],"rows":[
+["Anti-conversion","Odisha 1967, MP 1968, ==UP 2021== etc.","Regulate conversion by ==force, fraud or inducement== — upheld in [[Rev. Stainislaus v. MP (1977)]]."],
+["Places of worship","==Places of Worship (Special Provisions) Act, 1991==","Maintains religious character ==as of 15 Aug 1947==; bars conversion of places."],
+["Endowments","Hindu Religious & Charitable Endowments Acts (state)","State control over ==secular administration== of temples and trusts."],
+["Cow slaughter","State laws under ==Art 48==","Upheld in [[Mohd. Hanif Quareshi v. Bihar (1958)]] — balancing 19(1)(g) with Art 48."],
+["Processions / peace","BNS ss.298–302, 175–178","Prevent hate speech, disorder, religious violence."],
+["Minority education","==NCMEI Act, 2004==","Recognition and grievance redressal for minority institutions."]
+]}]},
+{"title":"Essential Religious Practices (ERP) Doctrine","blocks":[
+{"type":"callout","text":"Originated in [[Shirur Mutt (1954)]]. ==The Court, not the clergy==, decides what is ‘essential and integral’ — test: ==‘Would the absence of the practice fundamentally alter the religion?’== ([[Acharya Jagadishwarananda (2004)]])."},
+{"type":"table","head":["Year","Case","Holding"],"rows":[
+["1954","[[Shirur Mutt]]","Religion = beliefs conducive to spiritual well-being; ERP judged from ==the religion's own tenets==."],
+["1959","[[Sardar Sarup Singh v. Punjab]]","Elections not essential to Sikh religion; State regulation upheld."],
+["1961","[[Durgah Committee, Ajmer]]","Only essential, integral practices protected; ==superstitious accretions excluded==."],
+["1962","[[Syedna Taher Saifuddin]]","==Excommunication upheld== as essential to the Dawoodi Bohra faith."],
+["1972","[[Seshammal v. TN]]","Priest ==appointment is secular==, can be regulated; rituals protected."],
+["2004","[[Acharya Jagadishwarananda (Ananda Marga)]]","==Tandava dance rejected== as non-essential; essentials cannot change over time."],
+["1997","[[Sri Adi Visheshwara (Kashi Vishwanath)]]","Distinguished secular administration from religious ritual."],
+["2017","[[Shayara Bano]]","==Triple talaq unconstitutional== — not essential to Islam."],
+["2018","[[Sabarimala]]","Exclusion of women ==not an ERP==; violates equality."],
+["2023","[[Animal Welfare Board (Jallikattu)]]","Bull-taming upheld as ==cultural right under Art 29==, not ERP."]
+]},
+{"type":"cards","wide":true,"items":[
+{"title":"Critique of ERP","bullets":["==Judicial overreach==: theological authority shifted from communities to courts — antithetical to state neutrality","==Inconsistency==: excommunication essential (1962) but women's exclusion not (2018); Jallikattu routed through culture, not religion","==Tension with constitutional morality==: Sabarimala and Shayara Bano prioritise ==individual rights over group rights==","==Essential/peripheral ambiguity== disregards lived religion's sociological reality","==Tool for state control==: endowment laws breed ==‘administrative secularism’==","==Constitutional irony==: selective protection undermines the very pluralism Arts 25–26 promised"]},
+{"title":"Reform Proposals","bullets":["==‘Sincerity of belief’ test== (US: [[Sherbert v. Verner (1963)]]) — protect sincerely held practice unless it violates public order, health or morality","==Proportionality approach== — balance religious freedom against competing rights ([[Bijoe Emmanuel (1986)]])","==Constitutional morality framework== — align religious freedom with equality, liberty, fraternity rather than theological validation"]}
+]}]},
+{"title":"Uniform Civil Code","blocks":[
+{"type":"callout","text":"==Art 44 (DPSP)==: ‘The State shall endeavour to secure for the citizens a uniform civil code…’ — non-justiciable but fundamental to governance. Personal laws are on the ==Concurrent List==. ==Assam tabled a UCC Bill in 2026== (with a polygamy ban); Uttarakhand's UCC saw its first nikah halala case."},
+{"type":"cards","items":[
+{"title":"Arguments For","bullets":["==Equality (Art 14)== — personal laws perpetuate gender inequality (Shayara Bano)","==National integration== and simplification of law","Gender justice & ==constitutional morality==","==Goa Civil Code== as working model"]},
+{"title":"Arguments Against","bullets":["==Cultural/religious autonomy== (Arts 25–26, 29–30) — homogenisation risk","Fears of ==majoritarian imposition==","==200+ tribes== with customary laws under Schedule VI","Federal consensus needed (Concurrent List)","Internal reform possible (Shariat Amendment 2019)"]},
+{"title":"Judicial Observations","bullets":["[[Shah Bano (1985)]] — maintenance granted; ==hinted at need for UCC==","[[Sarla Mudgal (1995)]] — urged the State to frame a UCC","[[John Vallamattom (2003)]] — personal laws valid, UCC desirable","[[Shayara Bano (2017)]] — struck discriminatory practice, strengthening reform calls"]}
+]},
+{"type":"table","head":["Dimension","Proposed approach"],"rows":[
+["Gradual & consultative reform","==Law Commission-led codification== harmonising core civil principles"],
+["Gender-neutral reforms","Equality in ==marriage, inheritance, guardianship== before a full UCC"],
+["Pluralistic model","Retain customs that ==don't violate fundamental rights=="],
+["Awareness & dialogue","Build minority trust; ==avoid top-down imposition=="],
+["Legislative–judicial coordination","Act on Law Commission consultative reports (2018, 2023)"]
+]}]},
+{"title":"Minority Educational Institutions","blocks":[
+{"type":"table","head":["Provision","Content"],"rows":[
+["==Art 29(1)==","Any section with distinct ==language, script or culture== may conserve it."],
+["==Art 30(1)==","Minorities (religious or linguistic) may ==establish and administer== educational institutions of choice."],
+["Art 30(2)","No discrimination in ==state aid== on ground of minority management."],
+["Art 15(1) & (5)","Minority institutions ==exempt from Art 15(5)== special provisions."],
+["Arts 350A, 350B","Mother-tongue instruction; ==Special Officer for linguistic minorities==."],
+["Statutes","NCM Act 1992; ==NCMEI Act 2004==."]
+]},
+{"type":"table","head":["Case","Key principle"],"rows":[
+["[[State of Kerala v. Mother Provincial (1970)]]","‘Administration’ includes teacher selection — subject to regulation for excellence."],
+["[[St. Xavier's College (1974)]]","Autonomy + ==reasonable academic-standard regulation==."],
+["[[T.M.A. Pai Foundation (2002)]]","Clarified ‘minority’; admission/staff/management rights; ==regulation must be minimal==."],
+["[[Islamic Academy (2003)]]","Fee/admission regulation through committees permitted."],
+["[[P.A. Inamdar (2005)]]","Autonomy in admission & fees; ==no compulsory seat-sharing== with the State."],
+["[[Pramati Trust (2014)]]","==Exempted minority institutions from the RTE Act==."],
+["[[Ashwini Kumar Upadhyay (2024, pending)]]","Parity of regulation between majority and minority institutions."],
+["[[AMU v. Naresh Agarwal (2025)]]","Laid parameters to ==identify a minority institution==; AMU's status referred to a regular bench."]
+]},
+{"type":"cards","wide":true,"items":[
+{"title":"The RTE–Art 30 Clash","bullets":["SC is ==reconsidering Pramati (2014)==: must minority-school teachers clear ==TET==? Should the 25% weaker-section quota apply?","TET case: a 2-judge bench held ==TET mandatory== even for minority schools — exclusion undermines ==Art 21A==","Critics of Pramati: exemption was ==excessively broad==; many minority institutions serve mostly ==non-minority students==","If overturned → RTE quality/quota norms apply; if upheld → autonomy prevails","[[Anjuman Ishaat E Taleem Trust v. MH (2025)]]: TET applies unless fully covered by Art 30 immunity"]},
+{"title":"Strengths vs Risks","bullets":["✓ Protects ==cultural & religious identity==; counter-majoritarian safeguard; pedagogic diversity; bridge for marginalised minorities","✗ High-fee institutions may serve ==affluent elites==, not the disadvantaged; exemption from norms → quality gaps","✗ ==Fragmentation== of public schooling; regulatory capture, opaque admissions, scholarship scams","✗ Definitional ambiguity; unequal state aid; capacity deficits in rural MEIs","==Uttarakhand USAME Bill, 2025==: replaces the Madrasa Board; all minority institutions under one authority"]},
+{"title":"Reforms","bullets":["==Light-touch regulation== (audits, minimum standards) over heavy control","Core quality norms (teacher qualification, infrastructure) with flexibility in non-core areas","==Transparent statutory criteria== for minority status (historical ownership, community-beneficiary share)","Non-discrimination conditions on state aid; reassess RTE exemption's extent","Targeted grants and capacity-building for MEIs in backward areas"]}
+]},
+{"type":"quote","text":"Minority institutions stand at the crossroads of freedom and fairness — envisioned as sanctuaries of diversity, they risk becoming fortresses of privilege if autonomy eclipses accountability. The real test of Article 30 lies not in how it protects identity from the State, but in how it empowers education to transcend identity itself."}
+]},
+{"title":"State Intervention in Religion","blocks":[
+{"type":"table","head":["Type","Nature & objective","Illustrations"],"rows":[
+["==Reformative–legal==","Eliminate oppressive practices","Sati abolition 1829, Hindu Code Bills 1955-56, ==Triple Talaq ban 2019==, Sabarimala 2018"],
+["==Protective==","Safeguard minority culture & education","AMU case 1967, Arts 29–30, ==Sachar & Misra Reports=="],
+["==Regulatory==","Supervise secular administration","Shirur Mutt 1954, Tirupati Board, Vaishno Devi Act 1988"],
+["==Facilitative==","Support pilgrimages & festivals","Haj subsidy (==abolished 2018==), Kumbh Mela, Urs Ajmer, Onam tourism"]
+]},
+{"type":"cards","wide":true,"items":[
+{"title":"Challenges to Indian Secularism","bullets":["==Political==: vote-bank politics (Shah Bano reversal 1986), religious mobilisation (Ayodhya, ==Hijab debate 2022==)","==Legal==: uneven temple vs minority-institution regulation; ERP subjectivity; UCC tensions; CAA–NRC concerns","==Social==: communal riots (Gujarat 2002, Delhi 2020), hate crimes, intra-religious caste/gender inequality","==Institutional==: weak Minority Commission; ==2023-24 minority budget cut 38%==; policing bias","==External==: cross-border radicalisation, diaspora-funded extremism"]},
+{"title":"Anti-Religion or Faith-Preserving?","bullets":["Indian secularism is ==anti-discrimination, not anti-religion==","Protects faith as conscience, ==reforms religion as social institution==","Intervention targets ==inequality, not belief== — untouchability, temple gender equality, instant divorce","==Rajeev Bhargava==: ‘principled distance, not mutual exclusion’"]}
+]},
+{"type":"callout","text":"==Impact on cultural diversity== — positive: protection for festivals, pilgrimages, UNESCO recognition (Yoga, Durga Puja, Kumbh). Restrictive: ERP-based curtailments (Santhara 2015), under-representation of regional festivals (Sarhul, Wangala), dress-code conflicts. ==‘Secularism is not the absence of faith, but the presence of fairness.’=="}
+]},
+{"title":"Models Compared: India · US · France · UK","blocks":[
+{"type":"table","head":["Aspect","India","United States","France","United Kingdom"],"rows":[
+["Model","==Positive / principled distance==","Separationist","==Laïcité== — strict exclusion","Non-secular but tolerant (==established church==)"],
+["Basis","Sarva Dharma Sambhava; Preamble (42nd CA); Arts 25–30","==First Amendment (1791)== — ‘wall of separation’ (Jefferson)","==1905 Law== separating Church and State","Monarch heads Church of England; ==Lords Spiritual== in Parliament"],
+["State–religion","Contextual engagement; ==reforms religion for equality== (Sati, temple entry, triple talaq)","Strict abstention; no funding","No religion in public institutions; ==2004 hijab ban, 2011 burqa ban==","State-linked church; funds faith schools"],
+["Equality focus","==Inter- and intra-religious== (caste, gender)","Inter-religious only","Formal equality in public sphere","Statutory (HRA 1998, Equality Act 2010)"],
+["Key cases","[[S.R. Bommai (1994)]] · [[Sabarimala (2018)]] · [[Shayara Bano (2017)]]","[[Everson (1947)]] · [[Engel v. Vitale (1962)]] · [[Lemon v. Kurtzman (1971)]]","Conseil d'État (2004); ECtHR burqa ruling (2011)","[[R (Begum) (2006)]] · [[Eweida v. UK (2013)]]"],
+["Critique","Selective intervention; ‘appeasement’; ERP intrusion","Polarisation (school prayer, abortion)","Muslim alienation; Islamophobia debate","Declining attendance; tradition vs multiculturalism"]
+]}]},
+{"title":"Communalism","blocks":[
+{"type":"cards","wide":true,"items":[
+{"title":"Religion as Ethical Force","bullets":["Private faith, devotion, moral guidance — ==inward-looking==","Compassion: ==Langar, Zakat, Seva==","Compatible with secularism (Arts 25–28); aligns with ==constitutional fraternity=="]},
+{"title":"Communalism as Political Instrument","bullets":["==Political mobilisation on religious identity==","==Rajni Kothari==: ‘instrumental use of religion for political mobilisation’; ==Bipan Chandra==: a modern, colonial-era phenomenon","Zero-sum outlook; legitimises power politics; ==erodes national integration=="]}
+]},
+{"type":"cards","items":[
+{"title":"Historical–Colonial Roots","bullets":["British ==divide and rule==; ==Morley–Minto (1909)== separate electorates","==Communal Award (1932)==; census classifications","==Partition legacy (1947)== — trauma and mistrust"]},
+{"title":"Political & Institutional","bullets":["Vote-bank politics (Ram Janmabhoomi, triple talaq debates)","Weak hate-speech enforcement — [[Tehseen Poonawalla (2018)]]","Media sensationalism; appeasement vs majoritarian narratives"]},
+{"title":"Socio-Economic","bullets":["Poverty and inequality → vulnerability to propaganda","==Sachar Committee (2006)==: Muslims lag behind SCs/STs in education, credit, employment","==Relative deprivation== (Pasmanda movement); lynching and livelihood conflicts"]},
+{"title":"Social–Cultural","bullets":["Orthodox leadership; manipulated histories (==Gyanvapi–Kashi Vishwanath==)","Textbook communalisation; stereotyping and ==ghettoisation=="]},
+{"title":"Governance Gaps","bullets":["Delayed justice (==1984, 2002 riots==)","Perceived bias: CAA–NRC, Shaheen Bagh; Waqf Act debates","==‘Love jihad’ laws== in UP, MP, Karnataka"]},
+{"title":"Global Factors","bullets":["Global Islamophobia; cross-border terrorism (==26/11==)","Foreign-funded religious NGOs influencing politics"]}
+]},
+{"type":"callout","text":"Communalism in India is ==not a clash of religions but a politicisation of faith== — where religion, once a moral compass, becomes a weapon of power."},
+{"type":"cards","wide":true,"items":[
+{"title":"Consequences","bullets":["==Human==: fear, trauma, displacement (Delhi 2020, Muzaffarnagar 2013); PTSD, intergenerational fear (1984)","==Economic==: destroyed property, halted local economies, deterred investment (Gujarat post-2002)","==Democratic==: minorities as vote banks; identity politics displaces issues","==Security & image==: radicalisation ground (ISIS); USCIRF/EU reports; ==policy paralysis== (UCC, minority rights)"]},
+{"title":"Globalisation's Dual Effect","bullets":["==Diluting==: urban cosmopolitanism; shared culture (IPL, Bollywood, OTT); diaspora inclusivity; youth individualism","==Reinforcing==: identity insecurity → revivalism; transnational networks (Ummah, global Hindutva); ==digital polarisation==; foreign conflicts echoed domestically","Net: cosmopolitan tolerance in metros vs ==conservative revivalism== in rural areas"]}
+]},
+{"type":"bullets","items":[
+"==Combating communalism — legal==: enforce Arts 14–28; RPA 1951 bar on religious electoral appeals; reinforce ==Places of Worship Act 1991==; fast-track riot justice (Tehseen Poonawalla guidelines); ==lynching criminalised in BNS 2023==.",
+"==Socio-economic==: implement ==Sachar recommendations==; minority entrepreneurship, education, skills; Bhakti–Sufi syncretism in curricula.",
+"==Media & tech==: fact-checking, intermediary accountability, AI hate-speech detection.",
+"==Civic==: ==principled-distance secularism== (Bhargava); interfaith initiatives, civic nationalism, youth harmony campaigns."
+]},
+{"type":"quote","text":"A future-ready India must strengthen civic nationalism over religious identities, ensuring that religion inspires morality, not militancy. Secularism, fraternity and constitutional morality remain the ultimate antidotes to the poison of communalism."}
+]}
+]}

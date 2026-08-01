@@ -1,0 +1,34 @@
+{
+"num":"24","title":"NITI Aayog","theme":"Federalism & Local Government",
+"lead":"Established in ==2015== to replace the Planning Commission — a paradigm shift from ==top-down planning to cooperative and competitive federalism==.",
+"sections":[
+{"title":"Rationale","blocks":[
+{"type":"steps","items":[
+"==Decentralised planning== — bottom-up approach for India's diverse needs",
+"==Cooperative federalism== — states as active partners in national strategy",
+"==Think tank== — innovation, entrepreneurship, evidence-based policy",
+"==Inclusive & sustainable development== — focus on vulnerable sections"
+]}]},
+{"title":"Key Initiatives & Impact","blocks":[
+{"type":"bullets","items":[
+"==Aspirational Districts Programme== — convergence, collaboration, competition; measurable gains in health, education, agriculture, infrastructure.",
+"==Atal Innovation Mission== — Atal Tinkering Labs in schools, Atal Incubation Centres for startups.",
+"==Strategy for New India @75== — roadmap across 41 sectors via stakeholder consultation."
+]},
+{"type":"table","head":["Sector","Case study","Impact"],"rows":[
+["Agriculture","==Mazhapolima (Kerala)==","Rainwater harvesting for well recharge via community participation."],
+["Financial inclusion","==Panchayat Banks (Jharkhand)==","Village-level banking; reduced leakages, better scheme access."],
+["Health","==Arogyakeralam (Kerala)==","Community-based palliative care with home visits."],
+["Governance","Entitlement-based district planning (Bihar)","Decentralised planning institutionalised at district level."],
+["Nutrition","Decentralised ICDS nutrition (Odisha)","==Women SHGs== running supplementary nutrition delivery."],
+["Technology","==SMART Anganwadi (Gujarat)==","Real-time app monitoring of child health and nutrition."]
+]}]},
+{"title":"Challenges & Solutions","blocks":[
+{"type":"cards","wide":true,"items":[
+{"title":"Challenges","bullets":["==No financial powers== — unlike the Planning Commission, it allocates no funds","Coordination friction in the federal structure; ==variable state participation== (boycotts)","==Data limitations== hobble evidence-based policy","Perceived ==partisanship==; methodological critiques of its indices","Advisory role + weak accountability = ==limited ability to drive change=="]},
+{"title":"Solutions","bullets":["Grant ==financial and statutory authority==","==Robust real-time data systems==","Institutionalised consultation with states, civil society, private sector","Safeguard ==non-partisan functioning==","Capacity building at state/local levels; ==open data== and transparent monitoring; scale innovative, inclusion-focused models"]}
+]}]},
+{"title":"Conclusion","blocks":[
+{"type":"quote","text":"NITI Aayog was born to give shape to India's aspirations, not just its allocations. Without financial autonomy or legislative teeth, it risks becoming a vision without velocity. To truly steer India's development story, it must evolve from a think tank to a do tank — grounded in innovation, empowered by federal trust, and driven by measurable impact."}
+]}
+]}

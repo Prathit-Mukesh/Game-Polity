@@ -1,0 +1,33 @@
+{
+"num":"04","title":"Basic Structure","theme":"Amendments & Basic Structure",
+"lead":"Based on the theory of ==implied limitation== — a constitutional law doctrine that places restrictions on amending certain essential or basic principles embedded in the Constitution.",
+"sections":[
+{"title":"Origins of the Doctrine","blocks":[
+{"type":"steps","items":[
+"Influenced by radical constitutional amendments in ==Weimar Germany== — German law professor ==Conrad== is credited with the genesis of the doctrine",
+"Mentioned briefly in [[Golak Nath (1967)]]",
+"Cemented in the landmark ==13-judge== bench of [[Kesavananda Bharati (1973)]] — ==Nani Palkhivala== credited with persuading the SC to formulate it",
+"Context: land reforms, nationalisation and harmonising FRs with DPSPs — given effect through amendments affecting FRs, limiting Parliament's power to amend"
+]},
+{"type":"quote","text":"A north star which guides and gives a certain direction to the interpreters and implementers of the Constitution when the path ahead is convoluted.","by":"CJI Dr D. Y. Chandrachud, on the Basic Structure Doctrine"}
+]},
+{"title":"Impact of the Doctrine","blocks":[
+{"type":"cards","items":[
+{"title":"Checks & Balances","bullets":["If Parliament had an unfettered right to amend, the SC has a ==coextensive power== to review and invalidate any amendment violating the basic structure."]},
+{"title":"Constitutionalism","bullets":["Parliament holds constituent power ==in trust for the people== — it can never change the fundamental bases of India."]},
+{"title":"Domino Effect","bullets":["Credited with protecting India from collapsing like its ==South Asian counterparts== — totalitarian rule, military coup, extra-constitutional means."]},
+{"title":"Judicial Review & Constitutional Supremacy","bullets":["Reinforces judicial review; ensures ==supremacy of the Constitution== and prevents arbitrary legislative power."]},
+{"title":"Fundamental Rights","bullets":["No amendment can ==dilute or abrogate== rights such as equality, free speech, protection against discrimination."]},
+{"title":"Maintaining Federalism","bullets":["Prevents altering the ==Union–State distribution of powers==; keeps the federal balance."]},
+{"title":"Limiting Amendments","bullets":["Sets a boundary: amendments cannot ==fundamentally transform== the Constitution's character."]},
+{"title":"Evolution of the Constitution","bullets":["Allows ==progressive interpretation== — expanding rights and inclusivity — while the core stays protected."]}
+]}]},
+{"title":"Critique & Future","blocks":[
+{"type":"cards","wide":true,"items":[
+{"title":"Critique","kicker":"Against","bullets":["==No constitutional mention== of the doctrine","Lengthy litigation","==Ambiguous== — undefined scope","Alleged danger to democracy (unelected judges veto elected majorities)"]},
+{"title":"Future of BSD","kicker":"Possibilities","bullets":["==Higher bench review== (larger than 13 judges)","Reconstituting the Constituent Assembly","Targeted constitutional amendments","==Revolution== (D. D. Basu)"]}
+]}]},
+{"title":"Conclusion","blocks":[
+{"type":"quote","text":"The Basic Structure is not a barrier to progress; it is a bridge between the past and the future — between what India aspired to be in 1950, and what it must never stop striving to become. Laws may change, but principles must endure — the soul of the Constitution remains inviolable, even as its body adapts to the needs of an evolving nation."}
+]}
+]}

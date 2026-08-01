@@ -1,0 +1,50 @@
+{
+"num":"21","title":"16th FC Review: Centre, State, Local","theme":"Federalism & Local Government",
+"lead":"Constituted under ==Art 280==, chaired by ==Dr Arvind Panagariya== — operating amid an upcoming ==delimitation==, post-COVID fiscal stress, ==GST rationalisation (Sept 2025)==, rising ‘freebie’ spending, and Centre–State friction over ==cesses eating the shareable pool==.",
+"sections":[
+{"title":"Key Recommendations","blocks":[
+{"type":"table","head":["Area","Recommendation","Significance"],"rows":[
+["Vertical devolution","States' share retained at ==41%==","Continuity — but cesses/surcharges still shrink the effective pool."],
+["Transparency","Union to disclose ==CAG-certified net proceeds (Art 279)==","Improves trust in divisible-pool computation."],
+["Horizontal devolution","New formula incl. ==contribution to GDP (10%)==","Balances equity and efficiency."],
+["Grants-in-aid","==No revenue deficit, sector- or state-specific grants==","Major departure — pushes states towards own reforms."],
+["Local bodies","==₹7,91,493 crore== for RLBs + ULBs","Strongest-ever focus on the third tier."],
+["Urban","==₹3,56,257 crore== incl. infrastructure & urbanisation premium","Recognises India's urban transition."],
+["Rural","==₹4,35,236 crore== with performance conditions","Continued Panchayat support."],
+["Disaster","==₹2,04,401 crore== for SDRF + SDMF (80:20)","Response and mitigation strengthened."],
+["Fiscal discipline","States' FD capped at ==3% of GSDP==; off-budget borrowing discouraged","Debt sustainability and transparency."],
+["Subsidies","Review, ==sunset clauses==, better targeting","Answers ‘fiscal populism’ concerns."]
+]}]},
+{"title":"Analysis — Devolution & Grants","blocks":[
+{"type":"bullets","items":[
+"==41% of a shrinking pool== ≠ 41% of total Union tax effort — hence the CAG-disclosure recommendation.",
+"==GDP-contribution criterion== (moderated by ==square root of GSDP==) rewards larger economies without overwhelming equity; ==southern states' combined share improved== vs the 15th FC.",
+"But GSDP reflects ==history, geography, ports, agglomeration== — not just current policy; dropping tax-effort may weaken revenue-mobilisation incentives.",
+"==Gap-filling grants abolished==: discourages permanent dependence — but may hurt states with ==genuine structural disadvantages== (hilly terrain, disaster-prone, low tax base). ==Art 275 grants== could serve as an equalisation tool; a distinction between avoidable deficits and structural gaps was needed."
+]}]},
+{"title":"Local Government Grants","blocks":[
+{"type":"callout","text":"==Entry-level conditions==: local bodies duly constituted (Parts IX/IX-A); ==accounts online==; SFCs constituted regularly with ATRs laid before legislatures within 6 months — a strong institutional reform linking ==money to elections, accounts and transparency==. Basic:performance split ==80:20==; RLB:ULB split ==60:40==."},
+{"type":"cards","wide":true,"items":[
+{"title":"Urban — Big Recognition, With Conditions","bullets":["Urban share raised to ==45%== (vs ~36% under 15th FC) — ==highest in FC history==; more untied grants","==Special Infrastructure Component==: ₹56,100 crore for wastewater management in growth centres (10–40 lakh population)","==Urbanisation Premium==: ₹10,000 crore one-time incentive for planned ==rural-to-urban transition==","Distribution: 90% projected urban population + ==10% OSR-linked==; performance grants tied to OSR growth; ==Service Level Benchmarks== with third-party audit"]},
+{"title":"Rural — Continuity With Discipline","bullets":["Inter-state: ==90% projected 2026 rural population + 10% area==","Within states: per ==SFC recommendations==; else ==80:10:10== (Gram:Block:District)","==OSR targets for Gram Panchayats==: 1.025× previous year or 2.5% CAGR (whichever lower), benchmark ==₹1,200/household/year==","Gram Sabha resolutions required — ==strengthens local democracy==; but OSR benchmarks may penalise poor, tribal, hilly Panchayats"]}
+]},
+{"type":"bullets","items":[
+"==Tied/untied design==: 50% of basic grants tied to ==sanitation, solid waste and water==; rest untied — max 20% of untied on roads, ==none on salaries==. Balanced, but over-conditionality and delayed releases could erode autonomy in practice.",
+"==Concerns==: conditionality burden on weak ULBs; OSR benchmarks hard for poorer municipalities; premature village mergers for the premium; ==limited climate focus== (heat, flooding missing); state control over municipal powers remains high."
+]}]},
+{"title":"Way Forward","blocks":[
+{"type":"steps","items":[
+"==Reform cesses via a federal compact== — sunset clauses, utilisation disclosure, conversion into shareable taxes",
+"==Targeted equalisation grants== (Art 275) for structural disabilities in health, education, climate",
+"Improve the formula — a composite ==‘fiscal capacity and service need’ index==",
+"==Strengthen SFCs== — permanent secretariats, timelines, public databases",
+"==Municipal finance capacity== — GIS property tax, municipal cadres, audited accounts",
+"Make the urbanisation premium ==planning-led==",
+"==Support weaker Panchayats== — training, digital accounting, social audit",
+"Subsidies: ==transparent, targeted, time-bound== with fiscal-impact statements",
+"Link disaster finance to ==climate resilience== — flood control, heat action plans",
+"A standing ==Fiscal Federalism Council== reviewing cesses, CSS, devolution annually"
+]},
+{"type":"quote","text":"The way forward is not merely more money, but a more transparent, predictable and genuinely federal fiscal architecture."}
+]}
+]}

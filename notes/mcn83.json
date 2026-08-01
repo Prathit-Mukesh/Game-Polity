@@ -1,0 +1,56 @@
+{
+"num":"83","title":"National & Regional Parties","theme":"Elections & Representation",
+"lead":"India's party system is unique in scale: ==one-party dominance== (1952–67) → ==regional assertion== (1967–89) → ==coalition politics== (1989–2014) → what some scholars call the ==‘second dominant party system’==, contested by a resurgent federal front of regional players.",
+"sections":[
+{"title":"National v Regional Parties","blocks":[
+{"type":"table","head":["Aspect","National parties","Regional/state parties"],"rows":[
+["Recognition criteria","Vote share/seats across ==4+ states==, or state-party recognition in 4+ states","Vote share/seat thresholds ==within a single state=="],
+["Ideological base","==Pan-Indian ideology== — nationalism, socialism, Hindutva, communism","==Sub-national identity== — language, caste, region, ethnicity"],
+["Organisational reach","All-India cadre/federal structure","==Concentrated leadership==, often around a single dominant leader or family"],
+["Electoral symbol","==Reserved uniformly across India==","Reserved only within the recognised state(s)"],
+["Funding base","Larger ==corporate/national donor== base","More localised ==patronage networks==, often opaque"]
+]},
+{"type":"stats","items":[
+{"value":"6","label":"national parties — BJP, INC, CPI(M), BSP, AAP, NPP"},
+{"value":"~55–60","label":"recognised state/regional parties across states and UTs"},
+{"value":"2,500+","label":"registered but unrecognised parties"},
+{"value":"~89%","label":"of national party funding from corporate/trust donations (2023–24)"}
+]}]},
+{"title":"Dynamics Between National and Regional Parties","blocks":[
+{"type":"bullets","items":[
+"==Coalition bargaining== — since 1989 regional parties have repeatedly held the balance of power, extracting concessions (special category status, central funds, portfolios) — visible again in 2024 with ==TDP and JD(U)== as key NDA partners.",
+"==Centre–State friction== — clashes over ==fiscal federalism== (GST compensation, devolution), ==Governor's conduct==, and use of ==central agencies (ED, CBI)== in Tamil Nadu, West Bengal, Kerala, Punjab.",
+"==Absorption and realignment== — national parties co-opt regional leaders (==Shiv Sena and NCP splinters joining NDA, 2022–23==), reshaping the national/regional distinction itself.",
+"==Vote-bank consolidation== — sub-national coalitions around caste blocs (==Yadav-Muslim in RJD/SP, Maratha in Shiv Sena/NCP==) can override programmatic politics.",
+"==Symbol and identity politics== — post-split symbol disputes (Shiv Sena, NCP) have made the ==ECI's adjudicative role under the 1968 Order== a site of intense contestation.",
+"==National front formations== — regional parties federate periodically (==National Front 1989, United Front 1996, INDIA bloc 2023==), reflecting the ==federalisation== of Indian party politics without full nationalisation of any alternative."
+]}]},
+{"title":"Key Issues","blocks":[
+{"type":"bullets","items":[
+"==Criminalisation of politics== — rising share of MPs/MLAs facing charges across both categories; weak enforcement despite [[Lily Thomas (2013)]] and [[Public Interest Foundation (2018)]].",
+"==Dynastic and personality-centred structures== — many regional parties are effectively ==family enterprises== (DMK, SP, RJD, NCP, Shiv Sena, TDP, JD(S)).",
+"==Opaque political funding== — Electoral Bonds struck down in [[ADR v. UoI (Feb 2024)]] for violating ==Art 19(1)(a)==, yet opacity persists via ==electoral trusts and unreported cash==.",
+"==Weak anti-defection enforcement== — Speaker's discretion, no time limits and politically motivated delays ([[Keisham Meghachandra Singh, 2020]]) enabled engineered defections toppling governments in ==Karnataka (2019), MP (2020), Maharashtra (2022)== — disproportionately hitting regional-party-led coalitions.",
+"==Fragmentation and coalition instability== — ==2,800+ registered-unrecognised parties== dilute the meaning of ‘national party’ status; frequent splits fragment regional mandates.",
+"==Regionalism vs national cohesion== — excessive sub-nationalism produces inter-state disputes (==Cauvery, Mullaperiyar==, language imposition) and complicates coordination (GST Council consensus, NEP rollout).",
+"==ECI's limited regulatory teeth== — ==no statutory power to deregister== a party for constitutional violations; the MCC lacks legal backing; ==s.29A registration is largely a formality==.",
+"==Erosion of ideology in favour of patronage== — competition on welfare populism (‘freebies’) and identity mobilisation rather than programmatic differentiation — flagged in [[S. Subramaniam Balaji v. Govt of TN (2013)]]."
+]}]},
+{"title":"Global Comparison","blocks":[
+{"type":"table","head":["Country","Party system feature"],"rows":[
+["==Spain==","Strong regional parties (==Catalan, Basque==) formally integrated into national coalition bargaining; ==asymmetric federalism== accommodates regional autonomy statutes."],
+["==United Kingdom==","==SNP and Plaid Cymru== function as devolved-national regional parties; ==PPERA 2000== mandates donor transparency."],
+["United States","==Strict two-party dominance== (FPTP + no legal recognition tier for regional parties) suppresses regional party formation despite sub-national diversity."]
+]}]},
+{"title":"Way Forward","blocks":[
+{"type":"steps","items":[
+"==Statutory backing for the MCC== — a legally enforceable code with graded penalties, reducing selective enforcement",
+"==Mandatory inner-party democracy== — amend s.29A norms to require ==periodic, ECI-audited internal elections== and transparent succession",
+"==State funding / reformed donation regime== — building on ==Indrajit Gupta Committee (1998)== and the 2024 verdict, a transparent, capped, traceable ==National Election Fund== applying uniformly",
+"==Independent tribunal for anti-defection== — implementing the Keisham Meghachandra Singh suggestion of a ==retired judge-headed, time-bound== mechanism replacing Speaker discretion",
+"==Rationalised recognition criteria== — periodic review of thresholds to prevent both fragmentation and unfair loss of recognition",
+"==Strengthen cooperative federalism platforms== — institutionalise the Inter-State Council and the GST Council consensus model to channel regional demands constructively",
+"==Regulate political advertising and populism== — per S. Subramaniam Balaji, ECI-issued ==fiscal responsibility disclosures== for welfare promises",
+"==Decriminalisation== — fast-track courts for MP/MLA cases to ensure disposal ==before the next election cycle=="
+]}]}
+]}

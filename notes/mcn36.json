@@ -1,0 +1,22 @@
+{
+"num":"36","title":"Comparative: Presidential v Parliamentary","theme":"Comparative Constitutions",
+"lead":"India's parliamentary system buys ==executive accountability== at the cost of stability; the US presidential system buys ==stability and independence== at the risk of gridlock.",
+"sections":[
+{"title":"India v USA — System by System","blocks":[
+{"type":"table","head":["Aspect","India — Parliamentary","USA — Presidential"],"rows":[
+["Basis","Westminster model; ==Arts 74–75== (Parts V–VI).","US Constitution (1789), Articles I–III; ==strict separation of powers==."],
+["Executive","==Dual==: President (nominal) + PM (real).","==Single==: President is head of state AND government."],
+["Executive–legislature","==Fused== — PM & CoM are MPs.","==Separate== — President and Cabinet cannot sit in Congress."],
+["Tenure","PM survives on ==LS majority== — no fixed term.","President: ==fixed 4 years==, max 2 terms."],
+["Removal","==No-confidence motion== anytime.","Impeachment only — long, rigorous."],
+["Accountability","Cabinet ==collectively responsible to Parliament== (Art 75(3)).","Cabinet accountable ==only to the President==."],
+["Law-making","Executive initiates most legislation.","Executive ==cannot introduce bills== — only Congress."],
+["Party discipline","Strict — ==anti-defection law==.","Loose — lawmakers cross party lines."],
+["Judiciary","Integrated, independent; judicial review.","Strong, independent; [[Marbury v. Madison]]."],
+["Ordinances / orders","==Art 123 ordinances== on Cabinet advice.","Executive orders — judicially and congressionally checked."],
+["Emergency","==Arts 352, 356, 360== with parliamentary approval.","Statutory (National Emergencies Act 1976)."],
+["Stability","Lower — coalitions, no-confidence votes.","Higher — fixed tenure; but ==gridlock risk==."],
+["Flexibility & speed","More flexible; fast with a majority.","Rigid; slower under divided government."],
+["Similar systems","UK, Canada, Australia, Japan.","Brazil, Mexico, Philippines, Nigeria."]
+]}]}
+]}

@@ -1,0 +1,33 @@
+{
+"num":"87","title":"Constitutional Morality","theme":"Constitutional Ideas & Bodies",
+"lead":"Adherence to the ==core principles, ethos and spirit== embedded in a nation's constitution, beyond mere legal compliance. Originating with British jurist ==George Grote==, it was brought into the Indian context by ==Dr B.R. Ambedkar== during the Constituent Assembly Debates — ==constitutional ethics over societal prejudice==.",
+"sections":[
+{"title":"Key Dimensions","blocks":[
+{"type":"steps","items":[
+"==Rule of law== — supremacy of law and equality before it",
+"==Democratic governance== — participatory democracy and institutional accountability",
+"==Fundamental rights protection== — safeguarding individuals against arbitrary state action",
+"==Social justice and equality== — addressing historical discrimination, promoting ==substantive equality==",
+"==Judicial integrity and independence== — impartial courts free of political influence"
+]}]},
+{"title":"Landmark Judgments","blocks":[
+{"type":"table","head":["Case","Holding"],"rows":[
+["[[Naz Foundation v. Govt of NCT of Delhi (2009)]]","Invoked constitutional morality to strike down ==s.377 IPC== — protecting minority rights ==irrespective of societal morality==."],
+["[[Navtej Singh Johar v. UoI (2018)]]","Reaffirmed constitutional morality, overturning ==Koushal (2013)== — ==dignity, liberty and equality== of the LGBTQ+ community."],
+["[[Indian Young Lawyers Association v. State of Kerala (2018)]] — Sabarimala","==Constitutional morality over popular sentiment== — allowed entry of women, upholding gender equality."],
+["[[Joseph Shine v. UoI (2018)]]","Decriminalised adultery, stressing ==gender equality and individual autonomy==."],
+["[[K.S. Puttaswamy v. UoI (2017)]]","Upheld ==privacy as a fundamental right==, invoking constitutional morality to protect autonomy and dignity."]
+]}]},
+{"title":"Criticisms & Significance","blocks":[
+{"type":"cards","wide":true,"items":[
+{"title":"Criticisms & Challenges","bullets":["==Ambiguity and judicial subjectivity== — an open-ended concept risking ==judicial overreach==","==Conflict with popular morality== — implementation falters where constitutional morality opposes societal belief, as in ==Sabarimala==, causing societal and political resistance"]},
+{"title":"Significance & Impact","bullets":["Reinforces India's commitment to ==transformative constitutionalism==, promoting social reform and justice","Fosters ==inclusive democracy== by prioritising constitutional ethics over ==majoritarian impulses==","Encourages progressive attitudes, ==protecting minorities and marginalised communities=="]}
+]},
+{"type":"steps","items":[
+"==Clear judicial articulation and consistent application== to mitigate ambiguity",
+"==Broader societal education and dialogue== to align societal values with constitutional ideals",
+"==Strengthen institutional frameworks== to operationalise constitutional morality effectively"
+]},
+{"type":"quote","text":"Constitutional morality acts as a compass guiding democratic governance towards justice, liberty and equality. Its significance lies in transcending transient societal prejudices to uphold enduring constitutional values."}
+]}
+]}

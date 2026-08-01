@@ -1,0 +1,41 @@
+{
+"num":"80","title":"Special Intensive Revision (SIR)","theme":"Elections & Representation",
+"lead":"A large-scale, ==house-to-house verification== exercise to overhaul electoral rolls — distinct from the routine annual ==Summary Revision==. The SC ==upheld SIR's constitutionality== in [[ADR v. ECI (2026)]]. Conducted in ==more than 15 states== so far, with ==approximately 5 crore names removed==.",
+"sections":[
+{"title":"Issues & Criticisms","blocks":[
+{"type":"bullets","items":[
+"==Reversal of burden of proof== — a person on the voter list is ==presumed a citizen== ([[Lal Babu Hussein v. Electoral Registration Officer, 1995]]) unless the State proves otherwise; SIR instead required voters not on the ==2002/03 legacy rolls== to prove citizenship through specified documents.",
+"==Discriminatory documentation burden== — pre-1987 documents and parental birth certificates disproportionately burden ==SCs, STs, minorities, migrant workers, the poor, the illiterate, and women who migrated after marriage==. Historically low birth registration compounds this: ==only ~25% of births were registered in 2007==, the birth year of those turning 18 by 2025.",
+"==Compressed timelines close to elections== — and ==Aadhaar was initially excluded== from admissible documents.",
+"==ECI overreach into citizenship== — critics called it a ==‘backdoor NRC’==, encroaching on the Home Ministry's constitutional domain, shifting the burden of proof onto individuals with ==no clear legal framework== and risking ==permanent suspicion==.",
+"==Assam precedent as cautionary tale== — a past SIR led to ==‘doubtful voters’ facing Foreigners' Tribunals== of arbitrary functioning; in December 2025 a Nagaon resident was pushed into Bangladesh despite due-process concerns. Tribunal member qualifications ==weakened over time== — from mandatory retired judges in 1964 to ==any lawyer with seven years' experience== today.",
+"==Data disputes and administrative errors== — contradictory deletion claims; ==persons declared dead found alive and vice versa==; the ECI maintained ==7.24 of 7.9 crore voters== had responded, disputing claims of mass disenfranchisement.",
+"==Administrative strain== — increasingly exclusionary, opaque and burdensome; ==BLO deaths== reported from unrealistic deadlines; ==2002–04 legacy rolls poorly digitised==.",
+"==Institutional design gap== — unchecked institutional power: the ECI's own appointment process (post the ==2023 Act replacing the CJI with a Union Cabinet Minister==, itself challenged in [[Jaya Thakur v. UoI]]) raises independence questions.",
+"==Post-facto judicial review== — the verdict came ==six months after the Bihar polls==, so judicial correction could not undo wrongful exclusions."
+]}]},
+{"title":"Global Best Practices in Roll Maintenance","blocks":[
+{"type":"bullets","items":[
+"==Continuous/automatic voter registration== (much of Europe, parts of the US) — rolls updated in real time via linkage with ==civil registration and residency databases==, avoiding disruptive periodic exercises.",
+"==UK==: rolling annual canvass with ==Individual Electoral Registration==, supplemented by ==data-matching against government records== rather than blanket re-verification.",
+"==Canada==: a ==National Register of Electors== updated continuously via tax, immigration and vital statistics linkages — voters ==never re-prove eligibility==.",
+"==Germany==: registration near-automatic via mandatory municipal residence registration (==Meldewesen==).",
+"==International principle== — ==UN HRC General Comment 25==: any restriction on the right to vote must rest on ==objective, reasonable criteria== with adequate safeguards, ==including a fair hearing before removal==."
+]},
+{"type":"callout","text":"==Common thread==: mature democracies ==minimise burden-shifting onto citizens== by relying on ==inter-agency data integration== rather than repeated door-to-door documentary re-verification."}
+]},
+{"title":"Way Forward","blocks":[
+{"type":"steps","items":[
+"==Institutionalise continuous roll updation== via privacy-safeguarded linkage to birth/death registers",
+"==Restore and codify the Lal Babu Hussein presumption== — exclusion requires ==individualised inquiry and a reasoned, appealable order==, not a blanket document mandate",
+"==Decouple SIR timing from elections== — statutory ==cooling-off periods== before scheduled polls",
+"==Widen and simplify the documentary regime== — accept Aadhaar and widely-held IDs from the outset; ==community verification and sworn affidavits== (with penalties for false claims) for those without legacy documents",
+"==Strengthen appellate infrastructure== — judicially trained tribunals, distinct from the criticised ==Foreigners' Tribunal model==",
+"==Clarify institutional boundaries== — SIR confined to roll eligibility, ==never a proxy citizenship determination==; citizenship doubts routed through the Citizenship Act",
+"==Independent, multi-partisan ECI appointments== — resolving Jaya Thakur and restoring a broad-based selection process",
+"==Transparency by design== — real-time, searchable, ==reasoned deletion databases== as standard, not a court-ordered afterthought",
+"==Time-bound judicial review== — expedited mechanisms so constitutional questions are resolved ==before, not after, the election=="
+]},
+{"type":"quote","text":"Electoral integrity demands clean rolls; constitutional democracy demands inclusive rolls. The real test of SIR lies in reconciling both — because a democracy is weakened as much by a fraudulent vote as by the silencing of a genuine one."}
+]}
+]}

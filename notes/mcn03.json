@@ -1,0 +1,25 @@
+{
+"num":"03","title":"Amendments","theme":"Amendments & Basic Structure",
+"lead":"In a parliamentary democracy limited by the Constitution, the extent to which it can be amended determines a delicate balance between ==parliamentary sovereignty== and ==constitutional supremacy==.",
+"sections":[
+{"title":"Constituent Power under Art 368","blocks":[
+{"type":"bullets","items":[
+"The power to amend is ==constituent power== — exercised specially by Parliament under ==Art 368==, not under the legislative division of powers in the VII Schedule.",
+"The Constitution places ==no explicit restrictions== on Parliament's amending power — it was ==judicial intervention== that created the Doctrine of Basic Structure to impose principle-based limits.",
+"Art 368 is a ==confluence of world constitutions== — US, Ireland, Australia."
+]},
+{"type":"cards","items":[
+{"title":"Procedure","bullets":["Introduced in ==either House== (LS = RS, no joint sitting)","Introduced by ==any member==","President ==has to give assent=="]},
+{"title":"Without State Ratification","bullets":["Requires ==special majority== only","For provisions that are ==unitary== in character"]},
+{"title":"With State Ratification","bullets":["Special majority + ratification by ==half the States== (simple majority)","For ==federally sensitive== article-specific exceptions"]}
+]}]},
+{"title":"Why Art 368 Matters — Should Power Be Restricted — How","blocks":[
+{"type":"cards","items":[
+{"title":"Why is Art 368 important?","kicker":"Debate","bullets":["Parliamentary sovereignty vs ==constitutional supremacy==","Protection of ==Fundamental Rights==","Federalism","Continuity vs change","Preventing abuse of power","Maintaining democratic legitimacy","Avoiding ==extra-constitutional change==","Judicial safeguards and checks"]},
+{"title":"Should Parliament's power be restricted?","kicker":"Debate","bullets":["Safeguard against ==authoritarianism==","==Judicial review== as a constitutional safeguard","Balance between ==flexibility and stability==","Historical precedent"]},
+{"title":"How is it restricted?","kicker":"Debate","bullets":["==Basic Structure Doctrine==","Procedural rigour of Article 368","Judicial review of constitutional amendments","==No enlargement of amending power=="]}
+]}]},
+{"title":"Conclusion","blocks":[
+{"type":"quote","text":"The power to amend the Constitution is a solemn responsibility, not a tool of convenience. In a nation as plural and aspirational as India, this power must be exercised not merely through the arithmetic of majority, but through the conscience of constitutional morality."}
+]}
+]}
