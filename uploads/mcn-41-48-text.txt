@@ -1,0 +1,1551 @@
+MCN 2.0
+ 	Magna Carta Mains 2026
+Mains Concise Note (MCN) 41 : Role of a Parliamentarian
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+"Parliament is not a rubber stamp for the executive; it is a mirror of the people's will, and the Member of Parliament is its most vital
+reflecting surface."
+Constitutional and Functional Role of the Parliamentarian
+1. Legislative Function
+Introducing, debating, and voting on Bills (Government and Private
+Member's Bills).
+Scrutinising delegated legislation and subordinate rules.
+Participating in Select/Joint Committees for clause-by-clause
+examination of Bills.
+2. Representative Function
+Articulating constituency interests, regional aspirations, and social
+group concerns (linguistic, religious, caste-based) in the national
+forum.
+Acting as a link between citizens and the state apparatus —
+forwarding grievances, facilitating access to schemes.
+3. Deliberative Function
+Debating national policy, budgets, and matters of public importance
+(via Zero Hour, Short Duration Discussions, Calling Attention
+Motions).
+Providing a "safety valve" for public opinion and dissent through
+constitutionally sanctioned procedures.
+4. Oversight/Accountability Function
+Holding the executive accountable via Question Hour, No-
+Confidence Motions, Adjournment Motions, and Committee scrutiny
+(DRSCs, PAC, Estimates Committee, PUC).
+Scrutinising CAG reports through the Public Accounts Committee.
+5. Financial Control (Power of the Purse)
+Approving the Union Budget, Demands for Grants, and Money Bills.
+Historically the House of Commons' power over taxation ("no
+taxation without representation") is the ancestor of this function.
+6. Constituency Development Function
+Utilising the MP Local Area Development Scheme (MPLADS) — ₹5
+crore per annum per MP — for local infrastructure.
+Grievance redressal through correspondence with ministries, use of
+privilege to raise local issues.
+7. Quasi-Judicial/Disciplinary Role (Collective)
+Participating in impeachment of judges/President, disqualification
+proceedings under the Tenth Schedule (via voting/party position),
+and privilege matters.
+Data Snapshot
+52% of newly-elected MPs are first-timers in Lok Sabha
+The average age of MPs elected to the 18th Lok Sabha is 56 years
+74 MPs (14%) elected to the 18th Lok Sabha are women.
+78% of MPs of the 18th Lok Sabha have completed at least undergraduate education.
+Agriculture and social work are the most common professions among MPs elected to the 18th Lok Sabha
+31% of MPs and 29% of MLAs have declared serious criminal charges against them
+Bills referred to DRSCs, 17th Lok Sabha : ~16% (down from 60-70% in 14th-15th LS)
+Average DRSC meeting attendance (2009-2014) : ~49%
+PAC recommendations accepted by government~80%
+
+-- 1 of 23 --
+
+Issues in Fulfilling the Role
+A. Declining Legislative Productivity and Scrutiny
+Falling sitting days: Lok Sabha sat for an average of ~127 days/year in the 1950s; this has fallen to under 60-70
+days in recent Lok Sabhas.
+Low referral to Committees: Only around 16% of Bills were referred to Departmentally Related Standing
+Committees (DRSCs) in the 17th Lok Sabha, compared to over 60% in the 14th and 15th Lok Sabhas — meaning
+most laws now bypass structured expert scrutiny.
+Rushed passage: Several major legislations (e.g., the three erstwhile farm laws of 2020, later repealed) were passed
+with minimal debate and without committee reference, triggering questions on deliberative quality.
+B. Disruptions and Loss of Productive Time
+Disruptions have become a routine tool of opposition protest rather than an exception. In several recent sessions,
+Lok Sabha and Rajya Sabha have functioned at less than 50% of scheduled time due to logjams over issues ranging
+from price rise to allegations of financial impropriety.
+In 2016, the Rajya Sabha was unable to take up Finance and Appropriation Bills for extended periods due to
+protests, delaying critical financial legislation.
+Adjournments sine die and repeated washouts of Question Hour erode the very oversight mechanisms MPs are
+meant to use.
+C. Anti-Defection Law and the "Whip" System
+The Tenth Schedule (52nd Amendment, 1985) compels MPs to vote per party direction on pain of disqualification,
+converting individual legislators into instruments of party command rather than independent deliberators.
+This undermines:
+Executive accountability: Ruling party MPs cannot meaningfully cross-vote even to hold their own government
+accountable.
+Parliament as deliberative body: Effective decision-making shifts from the full House to a handful of party
+leaders.
+Representative accountability to voters: MPs can deflect responsibility for unpopular votes onto the "party
+whip."
+Political engineering using defection remains rampant: the 2019 Karnataka crisis, and the 2022 Maharashtra
+crisis , Tamil Nadu Assembly AIADMK Defections (2026), The Telangana BRS to Congress Defections (2024–
+2025)
+D. Weak Committee System
+Average attendance in DRSC meetings has hovered around 49-50%, well below desirable levels.
+DRSCs have only a one-year tenure, denying MPs the chance to build deep sectoral expertise.
+Recommendations of committees like the PAC are not binding — even though ~80% are historically accepted by
+government, non-binding status weakens teeth.
+Inadequate research and technical staff support compared to legislatures like the US Congress.
+E. Criminalisation of Politics and Declining Deliberative Quality
+The Association for Democratic Reforms (ADR) has reported that a significant and rising share of sitting MPs face
+criminal cases (including serious/heinous charges) — in the 2019 Lok Sabha, ADR found roughly 43% of MPs had
+declared criminal cases, and around 29% had serious criminal cases pending.
+This raises concerns about the quality of legislative deliberation and public trust in the institution.
+F. Office of Profit and Conflict of Interest
+Ambiguity in the definition of "office of profit" (Articles 102(1)(a), 191(1)(a)) has led to repeated controversies, e.g.,
+disqualification of 20 Delhi MLAs in 2018 for holding Parliamentary Secretary posts, showing how conflicts
+between legislative independence and executive proximity persist.
+G. Constituency Work Overload vs. National Deliberation
+MPs often prioritise MPLADS-driven constituency visibility and local grievance redressal over national policy
+engagement, given electoral incentives reward visible local delivery over legislative scrutiny — a structural tension
+between the representative and deliberative functions.
+H. Parliamentary Privileges: Ambiguity and Misuse
+Absence of codification of privileges creates uncertainty; the Supreme Court's ruling in Sita Soren v. Union of India
+(2024) — overturning the 1998 P.V. Narasimha Rao judgment — held that legislators do not enjoy immunity from
+prosecution for bribery in relation to a vote/speech, underscoring how privilege had previously been misused to
+shield corrupt conduct.
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+MCN 2.0
+ 	Magna Carta Mains 2026
+Mains Concise Note (MCN) 41 : Role of a Parliamentarian
+
+-- 2 of 23 --
+
+Country 	Practice 	Relevance for India
+United Kingdom
+MPs can break a three-line whip on
+conscience issues without automatic
+disqualification; select committees are
+cross-party and often chaired by
+opposition members
+Scope for a calibrated whip system
+distinguishing confidence votes from
+ordinary legislation
+United States
+Congressional committees (permanent,
+with large expert staff) drive most
+substantive legislative work; strong
+committee specialisation due to long
+tenures
+Argues for longer DRSC tenures and
+dedicated research staff
+Australia
+“Conscience votes” are officially recognised
+on moral/ethical issues (e.g., euthanasia,
+marriage equality)
+A template for institutionalising limited free
+votes in India
+Germany (Bundestag)
+Strong committee system with specialised
+“rapporteurs” tracking bills throughout
+their passage
+Model for MP specialisation and continuity
+New Zealand
+Codified rules for select committees
+mandating public bill referrals; strong
+transparency norms
+Could inform mandatory committee
+referral norms in India
+Canada
+Deputy Speaker roles rotate across parties,
+encouraging shared institutional
+responsibility
+Relevant analogy for making committee
+chairpersonship more consensual
+Structural Reforms
+Mandatory committee referral of all non-urgent Bills (as practiced in the UK), reversing the recent decline in referral rates.
+Extend DRSC tenure beyond one year to build sectoral expertise and continuity (akin to US Congressional committees).
+Codify and clarify parliamentary privileges to prevent misuse while protecting genuine legislative independence, recommended
+by the Privileges Committee, Lok Sabha (2008).
+Behavioural/Political Reforms
+Differentiate the scope of whips — confine mandatory whips to confidence/money matters, allowing free votes on
+conscience/moral issues (170th Law Commission Report, 1999; NCRWC, 2002).
+Promote intra-party democracy so dissent within parties reduces the need for defection-driven crises (II ARC, 2007).
+6Time-bound adjudication of anti-defection cases, per the Supreme Court's guidance in Keisham Meghachandra Singh v. Speaker
+(2020), to prevent prolonged political limbo.
+Institutional Capacity Building
+Professionalise committee staff with domain experts, on the model of the US Congressional Research Service.
+Introduce MP performance metrics — attendance, questions asked, private members' bills moved, committee participation —
+with public dashboards for transparency (in the spirit of PRS Legislative Research's existing MP Track initiative).
+Strengthen research support for individual MPs (akin to the UK's House of Commons Library) to improve the quality of floor
+interventions.
+Electoral and Accountability-linked Reforms
+Rebalance incentive structures so that legislative/deliberative performance (not just visible local spending via MPLADS) is
+factored into public and party evaluation of MPs.
+Fast-track adjudication of criminal cases against sitting legislators, as directed by the Supreme Court in various PILs, to address
+the criminalisation of politics.
+The parliamentarian is simultaneously a legislator, a representative, a watchdog, and a constituency servant — a role demanding both national vision and local responsiveness.
+MCN 2.0
+ 	Magna Carta Mains 2026
+Mains Concise Note (MCN) 41 : Role of a Parliamentarian
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+
+-- 3 of 23 --
+
+Intro 	SC, as guardian of CoI, is not powerless if a Speaker decides to sit on anti-defection pleas: CJI B.R. Gavai
+Inserted as the Xth Schedule via the 52nd CA, 1985 & Instrumental changes were made via 91st CA
+2003
+Rationale
+Global Comparisons
+Only six countries have a law that mandates legislators to
+vote according to party diktat (India, Pakistan, Bangladesh,
+Guyana, Sierra Leone and Zimbabwe)
+US - Internal US party structure that provides for
+sanctions to be imposed on legislators who do not vote
+according to party lines.
+US SC : Bond v. Floyd (1966) : that legislators had an
+obligation to take a stand on controversial issues
+UK - Like the US, however, the British Parliament does not
+provide for a separate anti-defection law. Here too, all
+matters of defection are governed by internal party rules
+Analysis
+Grounds
+Voluntarily gives up his membership
+Wide meaning, not defined
+Ravi Naik vs Union of India, 1994 : Conduct is
+enough, formal resignation is not necessary
+Halim Committee (1994) : Political party and
+voluntarily giving up should be properly
+defined
+Votes contrary to party direction
+Includes abstentions
+Forced obedience, compromising free speech.
+Kihoto Hollohan v. Zachillhu & Ors., 1992 :
+Qualified freedom of speech, not in conflict
+with Art 19 or Art 105/194
+170th Law Commission Report
+Limited use of Whips : vote of
+confidence/no-confidence, money bill, or
+motion of vote of thanks to the
+President’s address
+91st CA, 2003 : 2/3rds merger allowed, leftover
+can function as a distinct unit
+Based on the number of members rather than
+the reason behind the defection.
+Election Commission : Pre Poll Alliances should
+also be considered as a political unit
+Exemptions
+Authority
+Difficult to expect that the Speaker will act impartially in cases
+pertaining to his/ her political party
+No time limit for him to arrive at any decision
+Kihoto Hollohan v. Zachillhu & Ors., 1992 :
+Subject to judicial review, post decision, courts cannot get into
+procedure
+Rajendra Singh Rana v. Swami Prasad Maurya (2007) SC held that
+Judicial Review can invoked when :
+when the Speaker fails to act on a complaint of defection,
+When the Speaker accepts the claim of splits or mergers
+without any finding and reason,
+when the Speaker fails to act as per the Tenth Schedule.
+It also held that ignorance of a petition for disqualification is
+not a mere irregularity on the part of the Speaker but amounts
+to violation of a Constitutional duty.
+Speaker has no independent power to recognise either a split
+or a merger.
+Keisham Meghachandra Singh v The Hon’ble Speaker, Manipur
+Legislative Assembly (2020)
+Constitutional Amendment and independent tribunal headed
+by retired SC judged should decide, Suggested a 3 month
+timeframe
+Dinesh Goswami Committee on Electoral Reforms (1990) & ECI :
+Pres/Gov should decide on binding ECI advice
+Subhash Desai v. Principal Secretary, Governor of Maharashtra (2023)
+A mere "split" within a political party is no longer a valid defense
+The Political Party (the organisational wing) dictating leadership is
+superior to the Legislative Party (the elected MLAs/MPs in the
+house).
+Padi Kaushik Reddy v. The State of Telangana (2025) : Speaker cannot
+indefinitely sit on anti-defection petitions
+Outcome
+Disqualification without any further penalty
+Not deterrent enough
+Halim Committee (1994) : Expelled members should be
+barred from holding any consequential offices and joining
+other parties
+MCN 2.0
+ 	Magna Carta Mains 2026
+Mains Concise Note (MCN) 42 : Anti Defection Law
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+
+-- 4 of 23 --
+
+Impact
+1.Legislators
+a.In a parliamentary system, legislators are expected to exercise their independent judgement while
+determining their position on an issue.
+b.The choice of the member may be based on a combination of public interest, constituency interests, and
+party affiliations.
+c.This fundamental freedom of choice could be undermined if the member is mandated to vote along the party
+line on every Bill or motion.
+d.One of the key features of a parliamentary democracy is that the government is accountable for its decisions
+to Parliament. This accountability is tested through questions posed to Ministers, discussions on various
+government policies, and by debating national issues.
+e.However, the anti-defection law deters a legislator from his duty to hold the government accountable, by
+requiring him to follow the instruction of the party leadership on almost every decision.
+f.May debate and dissent from his party position on an issue in Parliament, but will still be compelled to vote
+as per the instruction of the party whip
+g.By prohibiting dissent, the anti-defection undermines the system of executive accountability to the
+legislature, and gives the executive control over Parliament on all votes.
+2.Parliament/Legislatures
+a.Leads to major decisions in the legislature being taken by a few party leaders and not by the larger body of
+legislators.
+b.In India, political parties frequently issue whips on matters which are subject to a vote in Parliament. This
+implies that anyone who controls the party leadership can issue directions to all legislators.
+c.This reduces Parliament from a deliberative body to one where party leaders are able to unilaterally decide
+the vote on an issue, without consulting with members of their political party.
+d.As a result, to win a motion in Parliament, the government is only required to consult with leaders of the
+major political parties in the House
+e.House. This number for consensus may further be reduced if a single party has majority in the House.
+3.Voter
+a.Breaks the chain of accountability between elected representatives and the voter
+b.Every member is required to vote as per the direction issued by their party.
+c.He can easily justify his voting decisions and absolve herself of this representational responsibility to her
+voters by merely saying that the party whip compelled her to vote in a particular way.
+2018: Arunachal Pradesh Government Collapse
+43 Congress MLAs led by Chief Minister Pema Khandu defected to the People’s Party of Arunachal (PPA),
+eventually joining the BJP.
+2019: Karnataka Legislative Assembly Crisis
+Several MLAs resigned, leading to a political crisis and government collapse.
+2019: Meghalaya Speaker’s Decision
+Disqualification of MLAs under the anti-defection law was challenged.
+2020: Manipur Legislative Assembly Case
+SC upheld the disqualification of nine MLAs under the anti-defection law.
+2021: Sachin Pilot and Rajasthan Congress MLAs
+Sachin Pilot and his supporters challenged the anti-defection law in the Rajasthan High Court.
+2022: Maharashtra Political Crisis (breakaway factions claimed they constituted the "real" political party_
+A faction of over 30 MLAs led by Eknath Shinde defected from the ruling Maha Vikas Aghadi (MVA), leading to a
+split and change in government.
+2023-25 : The Telangana BRS to Congress Defections (2024–2025) (Delay of defection proceedings by Speakers)
+Following the assembly elections, 10 MLAs from the Bharat Rashtra Samithi (BRS) crossed over to join the ruling Congress
+party.
+2026 : Aam Aadmi Party (AAP) in the Rajya Sabha : (Organisational Party v Legislative Party)
+7 out of AAP’s 10 Rajya Sabha MPs defected en masse and announced a formal merger with the BJP.
+2026 : The Tamil Nadu Assembly AIADMK Defections (2026)
+During a vote of confidence for the state government, 25 rebel MLAs belonging to the AIADMK voted contrary to the
+official direction issued by their party whip
+Examples
+The anti-defection law was meant to protect the mandate, not imprison the conscience of representatives. Its reform lies in striking
+a balance between party stability and democratic deliberation.
+MCN 2.0
+ 	Magna Carta Mains 2026
+Mains Concise Note (MCN) 42 : Anti Defection Law
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+
+-- 5 of 23 --
+
+Should the Anti-Defection Law Apply to the Rajya Sabha (Upper House)
+MCN 2.0
+ 	Magna Carta Mains 2026
+Mains Concise Note (MCN) 42 : Anti Defection Law
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+Recent political developments (AAP) involving defections by Rajya Sabha MPs have revived debate on whether an Upper House—
+designed to be a House of reflection rather than government formation—should be subject to the same anti-defection discipline as
+the directly elected Lok Sabha
+Arguments for continuing ADL in Rajya Sabha
+1.Party mandate extends to both Houses
+a.Voters elect political parties—not merely
+individuals.
+b.Rajya Sabha MPs are elected by elected MLAs on
+party lines.
+c.Therefore, changing party after election amounts to
+betrayal of the mandate.
+2.Legislative stability
+a.Many crucial Bills require Rajya Sabha approval.
+b.Without party discipline, governments may face
+legislative paralysis.
+3.Prevents horse-trading
+a.Even if governments do not fall, important
+constitutional amendments, ordinary Bills,
+impeachment motions, and parliamentary
+committees, could become vulnerable to
+inducements.
+4.Preserves responsible party government
+a.Cabinet Government
+b.Collective Responsibility
+c.Party Manifesto Governance
+i.This requires legislative cohesion across both
+Houses.
+5.Prevents misuse of nominated seats
+a.The Constitution specifically provides that
+nominated members who join a party after six
+months incur disqualification, indicating that
+Parliament intended the anti-defection regime to
+extend to Rajya Sabha as well.
+Arguments against applying ADL to Rajya Sabha
+1. Rajya Sabha is a deliberative chamber
+a.Unlike Lok Sabha, its primary function is scrutiny
+revisionexpert debate, federal representation
+b.A whip converts independent deliberation into
+mechanical voting.
+2.Government survival is not at stake
+a.The original evil sought to be prevented - government
+collapse— cannot occur in Rajya Sabha.
+b.Therefore, strict anti-defection provisions may be
+disproportionate.
+3.Weakens federalism -
+a.Rajya Sabha members represent States, not merely
+political parties.
+b.Rigid whips often compel MPs to vote with national
+party positions even where State interests differ.
+4.Defeats bicameralism
+a.A second chamber exists to provide second thought,
+reconsideration, correction of legislative errors.
+b.If members merely follow party instructions,
+bicameralism loses much of its value.
+5.Curtails freedom of speech
+a.Articles 105 and parliamentary conventions envision
+MPs as deliberative legislators.
+b.Constant whip-driven voting reduces legislative
+autonomy.
+6.Weakens expertise
+a.Rajya Sabha includes: economists, scientists, jurists,
+artists, nominated members
+b.Their value lies precisely in offering independent
+judgment.
+Anti-defection does NOT apply during Rajya Sabha elections conducted by MLAs because those elections are not proceedings of the
+Legislative Assembly; parties may take disciplinary action, but voting contrary to party preference in such elections does not attract
+disqualification under the Tenth Schedule. However, once elected, Rajya Sabha MPs are fully governed by the Tenth Schedule.
+Balanced Way Forward : Rather than abolishing the Anti-Defection Law in the Rajya Sabha, a calibrated approach would
+better preserve both stability and deliberation :
+Retain disqualification for voluntarily giving up party membership, as this directly addresses political defections.
+Restrict binding whips to confidence-related matters (where applicable), Money Bills, Constitutional Amendments
+involving core party commitments, or other clearly specified categories.
+Permit free voting on ordinary legislation, allowing the Rajya Sabha to function as a genuine chamber of review.
+Impose a statutory time limit for the Chairman/Speaker to decide disqualification petitions, improving certainty and
+preventing strategic delays.
+Strengthen inner-party democracy, so dissent is accommodated within parties rather than suppressed through rigid
+legislative control.
+A Parliament that only counts numbers cannot become a House of wisdom. Constitutional morality demands that
+while political stability is protected, legislative conscience must not be extinguished.
+
+-- 6 of 23 --
+
+Intro
+Parliamentary privileges are those which are enjoyed by the house collectively, its committees and its
+members individually without which they cannot discharge their functions efficiently and effectively
+In Sita Soren v. UoI (2024), 7-judge SC Bench while overruling P. V. Narasimha Rao v State (1998)
+unanimously held that legislators are not protected with immunity under Article 105(2) and Article 194(2)
+does not include immunity from bribery.
+Rationale
+To protect lawmakers from interference by others in the discharge of their
+essential functions.
+Differential treatment accorded to incumbent legislators is justified in light
+of their duties as a particular class of public officials
+The ability to speak and vote inside the legislature without the fear of
+intimidation or punishment is considered to be intrinsic to the role of an
+elected representative.
+A breach of privilege is also an act of contempt of the House. Reverse not
+true.
+Judgements
+1.M.S.M. Sharma vs. Shri Krishna Sinha (1959) (searchlight case)
+a.Article 194(3) > Article 19(1)(a), since the former was a
+special protection accorded to legislatures in contrast to the
+general applicability of Art 19.
+2.Dr Jatin Chandra Ghosh v Hari Sadhan (1961)
+a.Acting in a private capacity does not invoke Article 194
+3.Keshav Singh Case (1964) :
+a.Legislative privileges are not absolute and are subject to
+judicial review. The legislature cannot use its privileges to
+violate fundamental rights.
+4.Raja Ram Pal v Speaker, Lok Sabha (2007)
+a.Punishment does not include future disqualifications.
+5.Sita Soren Case (2024) : - two-fold test - Bribery not protected
+a.The act for which immunity is claimed must be related to
+the collective functions of the House.
+b.Secondly, the immunity sought should have a “functional
+relationship” to the discharge of the duty of an individual
+legislator.
+Issues
+1.Codification
+2.Conflict with Freedom of Speech & other FRs
+3.Limits Judicial Review
+4.Parliamentary Overreach
+5.Politicisation
+6.Excessive Usage
+7.Separation of Powers
+Solutions
+1.Parliamentary Privileges Commission
+2.Codification of Privileges
+3.Training and Sensitisation of Legislators
+4.Involvement of the Judiciary
+5.Strengthening Parliamentary Committees
+6.Promoting Cross-Party Dialogue and Consensus
+7.Respect for Rights and Parliamentary Procedures
+8.Rule 380 permits the Speaker to expunge words if
+they are unparliamentary, defamatory, indecent, or
+undignified. But it permits the Speaker to expunge
+only the offending word not the sentences or the
+paragraphs.
+Parliamentary privileges are not ornamental relics of a bygone constitutional era, they are not individual entitlements but
+institutional guarantees, designed to uphold the dignity and independence of the legislative body as a whole. In a
+constitutional democracy governed by the rule of law, parliamentary privileges must serve democracy, not dominate it.
+MCN 2.0
+ 	Magna Carta Mains 2026
+Mains Concise Note (MCN) 43 : Immunities & Privileges
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+
+-- 7 of 23 --
+
+Conduct 	Appropriate consequence
+Open, publicly explained dissent 	Political or party disciplinary consequence
+Deliberate invalidation or abstention without inducement 	Party accountability; ordinarily not automatic loss of seat
+Vote exchanged for money, office, contract or benefit Criminal prosecution, electoral disqualification and possible
+annulment of election
+Coordinated defection demonstrating abandonment of
+party membership
+Proceedings under the “voluntarily giving up membership”
+provision, with due process
+Principled dissent v. Bribery
+MCN 2.0
+ 	Magna Carta Mains 2026
+Mains Concise Note (MCN) 43 : Immunities & Privileges
+Cross-voting should not automatically be equated with corruption.
+Way Foward
+Implement the Sita Soren principle effectively
+Parliament should enact an election-integrity framework providing for:
+Time-bound investigation of alleged bribery in elections;
+special prosecutorial teams where prima facie evidence exists;
+protection for whistle-blower MLAs;
+mandatory reporting of attempted inducements;
+fast-track courts;
+interim preservation of electronic, financial and hotel or travel records;
+disqualification following conviction for bribery;
+explicit power for the ECI to postpone or countermand a poll where large-scale bribery has materially compromised
+the election, subject to prompt judicial review.
+The judgment removes immunity; legislation must ensure that the absence of immunity produces actual accountability.
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+
+-- 8 of 23 --
+
+Intro The concept of Office of Profit lies at the confluence of constitutional morality, political ethics, and the
+doctrine of separation of powers
+Rationale
+1.separation of power between the legislature and the
+executive
+2.prevention of possibility of a conflict between duty and
+interest of an individual who is required to perform the
+role of both a legislator and a member of the executive.
+Developments
+1.In 2018, on ECI recommendation, President disqualified
+20 MLAs of the Delhi Legislative Assembly last month
+for holding an ‘office of profit’ in form of Parliamentary
+Secretaries to to various ministries in the Delhi
+government.
+2.Reports of parliamentary secretaries being appointed in
+20 states in the past with court judgments striking down
+these appointments in several cases
+The law does not clearly define what constitutes an office of profit
+The definition has evolved over the years with interpretations made in various
+court judgments.
+Three Essential Elements : S. Umrao Singh v. Darbara Singh (1968)
+the individual holds an office
+it is an office of profit
+it is under the Government of India or a State
+Nature of Control : Ashok Kumar Bhattacharya v. Ajoy Biswas (1985) ; Dobrey v.
+Dobrey (1984)
+The extent of government control over the office plays a pivotal role
+Pecuniary Advantage : Hedge v. State of Karnataka (1993)
+While an element of profit is necessary, mere prestige or advantages are
+insufficient.
+Regularity of Income : Hotilal v. Bahadur (1958)
+An office need not have a regular income
+Sui Juris: Ghulam Chand v. Thakur Singh (1953)
+The holder of the office must be sui juris, meaning legally capable of holding the
+office
+Tests : Swapan Roy v. Pradyut Bordoloi (2001)
+Government Appointment: Guru Govinda Basu v. Shankari; Prasad Ghosal &
+Ors (1964)
+The government must have the power to appoint and remove the holder of
+the office
+Government Payment:
+The government should be responsible for paying remuneration attached to
+the office
+Government Control:
+The government should exercise control over the performance of the
+functions associated with the office.
+Conflict of Interest:
+The presence of a conflict of interest is a crucial factor in determining
+whether an office falls within the ambit of an "Office of Profit."
+Essentials
+Second ARC Recommendations :
+Offices in purely advisory bodies should
+not be treated as offices of profit,
+irrespective of any remuneration attached
+with the office
+Offices whose holder has executive
+decision-making power and control over
+public funds should be treated as offices
+of profit. The executive decision-making
+power may include deciding policy,
+managing or approving expenditure etc.
+If the office-holder is the Head or
+Member of such organisation where close
+coordination between the Council of
+Ministers and the organisation is essential
+for functioning of the Government, the
+office should not be treated as an office
+of profit.
+Way forward
+“A practical view, not pedantic basket of
+tests, should guide in arriving at a
+sensible conclusion “ Prof. Achary,
+Practice and Procedure of Parliament
+MCN 2.0
+ 	Magna Carta Mains 2026
+Mains Concise Note (MCN) 44 : Office of Profit
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+
+-- 9 of 23 --
+
+Intro
+‘The Speaker’s position should be free, honoured, and represented by men of outstanding ability and
+impartiality as it is the symbol of nation’s freedom and liberty’ - Nehru, March 1948
+No Deputy Speaker for entire 17 LS and none elected ‘thus far’ in 18 LS.
+Role/Functions
+All Presiding Officers
+Position
+Equality of Votes Art 100
+Salary & Allowances charged on CFI
+House Processes
+House can commence only when PO is sitting
+Hours of commencement/termination of sitting
+Adjourns sine die or otherwise
+Suspend sitting when no quorum
+Admissibility of motions, resolutions incl. No Confidence, Cuts.
+Prior consent for petitions
+Selection of amendments
+Nominates Panel of Chairs Members
+House discipline
+Identifies member to speak and time duration
+Recognised point of order
+Expunge disorderly statements from record
+Ask member to withdraw from house
+Executive Accountability
+Determines order of Govt Business in consultations with
+Leader of House
+Regulates Questions, follow ups
+Conducts/regulates house debates and proceedings
+Quasi Judicial
+Anti Defection law
+Prima Facie - contempt/privilege
+Constituting committees for removal of Judges (Judges Inquiry
+Act, 1968)
+Interpretation
+Rulings are precedents
+Correct patent errors in legislations on the floor
+House Statements
+Reference to imp national and international events
+Misc
+Head of House Secretariat
+Confirming rules made under MP Salaries Act, 1954
+Communications to and from Pres/Gov
+Role of Speaker is to enable the House and not Shut it - N.S. Reddy, 1968
+Certifies money bill (Art 110)
+Presides over Joint Sittings
+Supreme Control of Parliamentary
+Committees
+Ex-Officio President of Indian Parliamentary
+Group, Institute of Constitutional and
+Parliamentary Studies
+LS Speaker
+Dy Speaker
+RS Chair
+Continuity of legislative work - pragmatic
+Presides over
+House Budget Committee
+Private Member Bills Committee
+Imp debates require neutrality
+No time per se but Art 93 mentions ‘as soon
+as’
+Chair
+Business Advisory Committee,
+Rules Committee
+General Purposes Committee
+Committee Member which nominates the
+Chairman of the Press Council (Press Council
+Act, 1978)
+Nominates RS members to boards of BHU,
+JNU, JMI, NE Hill Uni, NCTE, Haj
+Committee, Press Council of India, Samsad
+(Court) of Visva Bharati
+Nominates RS Members to General
+Assembly/body of the ICCR, Central Social
+Welfare Board, School of Planning and
+Architecture, Hindi Shiksha Samiti. Samiti,
+Institute of Constitutional and Parliamentary
+Studies.
+Rationale Behind Presiding Officers
+Constitutional Necessity
+Institutional Neutrality
+Democratic Accountability
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+MCN 2.0
+ 	Magna Carta Mains 2026
+Mains Concise Note (MCN) 45 : Presiding Officers
+
+-- 10 of 23 --
+
+Case
+Studies
+1.N.S Reddy resigned from native political party in 1969 as he was contesting for Pres Office
+2.WB and PB Speakers adjourned Houses in 1968-69 for prolonged periods causing vacuum
+3.Somnath Chatterjee ignored party direction on Nuclear Deal during 14 LS , and conducted proceedings
+impartially
+th
+4.Sumitra Mahajan’s (LS) classification of Aadhaar Bill as Money Bill is contentious
+5.Hamid Ansari’s (RS) 2013 ruling on Zero Hour constraints lead to better decorum
+6.K.R. Narayanan’s (RS) digitisation initiative won international laurels.
+7.No Confidence moved against Speaker Om Birla in Feb 2026,
+8.ex - VP of India - Mr. Dhankar resigned late 2025.
+Best
+Practices
+1.English convention, the Speaker, after being elected, cuts off his association with his party and seeks re-
+election as an independent candidate,
+2.Australia - Speaker’s rulings are open to discussion; wider participation in procedural reform..
+3.Canada - Deputy Speakers often rotate between parties; ensures shared responsibility.
+4.New Zealand - Speakers follow written codes of conduct; decisions reviewed by parliamentary services.
+Issues
+1.Partisan Behaviour
+a.Perceived bias toward ruling party; compromises neutrality.
+2.Anti-Defection Delays
+a.No timeline to decide disqualification; weakens the law.
+3.Money Bill Misuse
+a.Speaker’s certification power used to bypass Rajya Sabha.
+4.Lack of Accountability
+a.Final decisions with limited judicial review.
+5.Disruptions and Decorum
+a.Frequent House disruptions; ineffective control.
+Solutions
+1.Independent Selection Process
+a.Election of Speaker/Chairman involving Opposition consensus. (Halim Committee (1994), Law
+Commission (170th Report)
+2.Mandatory Resignation from Party
+a.Speaker to resign party post upon election for neutrality. (UK model.)
+3.Time-bound Anti-Defection Rulings
+a.3-month deadline for decisions. [Keisham Meghachandra Singh v. Speaker (2020).]
+4.Judicial Oversight or Tribunal
+a.Anti-defection cases to be decided by independent body (Keisham Singh, 2020)
+5.Rotation System for Sessions
+a.Sharing chairing duties to reduce concentration of power. [Parliamentary Standing Committee (2022)]
+6.Greater Role for Deputy Speaker
+a.Often left vacant; strengthening would improve checks. - Timeline of 60 days to appoint
+7.Codification of Powers & Procedures
+a.Clarifies scope of actions; enhances transparency [Privileges Committee, Lok Sabha (2008)]
+As the impartial custodian of legislative integrity, the Speaker or Chairman embodies the very spirit of the rule of
+law, fair deliberation, and institutional balance. In a democracy where the majority governs but the minority must
+be heard, the Presiding Officer ensures that both power and restraint co-exist within the House.
+MCN 2.0
+ 	Magna Carta Mains 2026
+Mains Concise Note (MCN) 45 : Presiding Officers
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+
+-- 11 of 23 --
+
+Provision 	Meaning
+Article 93 Lok Sabha chooses two members as Speaker and
+Deputy Speaker.
+Article 94(c)
+Speaker or Deputy Speaker may be removed by a
+resolution of Lok Sabha passed by a majority of all
+the then members of the House.
+Proviso to Article
+94
+At least 14 days’ notice must be given before
+moving such resolution.
+Article 96(1) Speaker cannot preside when a resolution for his
+removal is under consideration.
+Article 96(2)
+Speaker has a right to speak and participate, and
+may vote in the first instance, but cannot exercise
+a casting vote.
+MCN 2.0
+ 	Magna Carta Mains 2026
+Mains Concise Note (MCN) 45 : Presiding Officers
+Opposition’s 2026 move against Speaker Om Birla; the resolution was negatived by voice vote. A “no-confidence motion” against the
+Lok Sabha Speaker is not like a no-confidence motion against the Council of Ministers. Constitutionally, it is a resolution for removal
+of the Speaker under Article 94(c), passed by a majority of all the then members of the House
+Issues
+A. High threshold protects stability but makes accountability difficult
+The requirement of a majority of all the then members prevents frivolous removal. But in a majoritarian House, it also means that a Speaker
+backed by the ruling majority is almost impossible to remove, even if the Opposition’s allegations relate to procedural fairness or denial of
+speaking opportunities. Thus, the process is formally available but politically very difficult.
+B. The Speaker is judged by the same political House whose proceedings he controls
+The Speaker is expected to be impartial, but the removal mechanism is political: MPs vote broadly on party lines. This makes the process
+less like institutional accountability and more like a test of ruling-party numbers.
+C. Admissibility rules can become gatekeeping tools
+Rule 200A: the resolution must be specific, clearly expressed, not contain arguments, inferences, imputations, ironic expressions or
+defamatory statements. This is sensible because allegations against the Speaker must not be vague or reckless. But it can also become a
+procedural filter to reject motions on drafting defects.
+D. The “50 members rising” requirement screens frivolity but weakens small Opposition groups
+The requirement that at least 50 members rise ensures that the motion has minimum seriousness. But it also means that smaller
+Opposition parties, even if raising a genuine institutional grievance, cannot trigger debate unless they secure broader coalition support.
+E. No independent fact-finding mechanism
+There is no preliminary independent committee to examine whether the Speaker violated rules, acted with bias, or denied fair participation.
+The matter goes directly into a political debate and vote. In cases involving complex procedural allegations, the House may vote before
+facts are objectively clarified.
+F. Conflict with Speaker’s anti-defection role
+The Speaker is also the adjudicating authority under the Tenth Schedule. This creates a major institutional tension: if a Speaker faces a
+removal notice, should he continue deciding disqualification petitions that may affect the majority supporting or opposing him?
+In Nabam Rebia v. Deputy Speaker, the Supreme Court held that a Speaker facing a notice for removal should not decide disqualification
+petitions. The judgment arose from the Arunachal Pradesh political crisis and is central to the debate on Speaker neutrality.
+However, later cases and political crises show the difficulty of this rule: a mere notice for removal can itself be used tactically to paralyse
+anti-defection proceedings.
+G. Judicial review is limited
+Article 122 protects parliamentary proceedings from being questioned in court merely on procedural irregularity. However, the Supreme
+Court in Raja Ram Pal v. Speaker, Lok Sabha held that legislative proceedings may still be reviewed if there is substantive illegality,
+unconstitutionality, mala fides, or violation of natural justice. Kaul and Shakdher also note this principle while discussing judicial review of
+legislative privilege proceedings.
+Thus, courts can intervene in extreme cases, but they generally avoid entering into the House’s internal procedure.
+H. Absence of Deputy Speaker weakens neutral chairing
+The Deputy Speaker is constitutionally envisaged as an independent office, not subordinate to the Speaker. . However, the Seventeenth
+Lok Sabha had no Deputy Speaker, which exposes a practical gap: if a removal motion is moved, the House may depend on a member of
+the Panel of Chairpersons rather than a constitutionally elected Deputy Speaker.
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+
+-- 12 of 23 --
+
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+MCN 2.0
+ 	Magna Carta Mains 2026
+Mains Concise Note (MCN) 45 : Presiding Officers
+Solutions
+A. Make the Deputy Speaker’s election time-bound
+A constitutional convention or rule should require election of the Deputy Speaker within a fixed time, say 30 or 60
+days from the first sitting. Since the Deputy Speaker may preside in sensitive situations involving the Speaker, leaving
+the post vacant weakens institutional balance.
+B. Create a preliminary scrutiny committee
+Before debate, a small all-party committee or rules committee could examine whether the notice is specific, non-
+defamatory, and based on identifiable procedural acts. This would prevent frivolous motions while reducing the
+perception that admissibility is controlled by the very institutional structure being challenged.
+C. Clarify Rule 200A through objective drafting standards
+The rules should prescribe a standard format
+D. Provide guaranteed debate time after threshold support
+Once 50 members support the motion and the notice period is complete, the matter should be mandatorily listed
+within a defined period. This would prevent the motion from being delayed or buried in the business agenda.
+E. Require recorded voting
+Given the constitutional significance of removing a Speaker, voting should normally be by division or recorded vote,
+not merely voice vote. This would increase transparency and allow citizens to know how their representatives voted.
+F. Separate Speaker’s adjudicatory role from political majority
+The deeper reform is to reconsider the Speaker’s role under the Tenth Schedule. In Keisham Meghachandra Singh v.
+Speaker, Manipur Legislative Assembly, the Supreme Court stated that the Speaker acting under the Tenth Schedule
+must decide disqualification petitions within a reasonable period, normally around three months, and even suggested
+that Parliament may consider an independent tribunal mechanism.
+This reform would reduce the political stakes attached to the Speaker’s office and thereby reduce the incentive to use
+removal motions tactically.
+G. Adopt a stronger convention of Speaker neutrality
+India may evolve a convention that once elected, the Speaker distances himself from active party politics. The
+Speaker’s authority depends less on removal rules and more on the perceived impartiality of rulings, allocation of
+speaking time, recognition of Opposition, certification of Money Bills, anti-defection decisions, and disciplinary
+powers.
+The removal process of the Speaker reflects a careful constitutional balance: the Speaker must be protected from casual political
+attacks, but not insulated from accountability
+
+-- 13 of 23 --
+
+MCN 2.0
+ 	Magna Carta Mains 2026
+Mains Concise Note (MCN) 45 : Presiding Officers
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+The Vice-President occupies India’s second-highest
+constitutional office, but the office is unusual: its normal
+function is legislative—as the ex officio Chairman of the Rajya
+Sabha—while its contingent function is executive—as the
+constitutional substitute for the President. It is therefore best
+understood as a constitutional hinge connecting parliamentary
+functioning with executive continuity.
+Strengths
+1. Constitutional continuity
+The Vice-President ensures that the Presidency never remains
+functionally vacant.
+2. Stable leadership of Rajya Sabha
+Since the Vice-President is elected for five years and is not a Rajya
+Sabha member retiring every six years, the office provides continuity
+to a periodically changing House.
+3. Institutional distance from constituency politics
+The Vice-President does not represent a constituency and does not
+depend on re-election to Parliament, which can facilitate impartial
+decision-making.
+4. Bicameral legitimacy
+Election by both Houses gives the Chairman wider parliamentary
+legitimacy than election by the Rajya Sabha alone.
+Weaknesses and tensions
+1. Partisan election versus impartial office
+Candidates are usually nominated by political alliances. Once elected,
+however, the Vice-President is expected to function above party. The
+Constitution provides no formal “de-partisanisation” mechanism
+comparable to conventions surrounding some presiding officers in
+other parliamentary systems.
+2. Lok Sabha predominance
+Although the Vice-President chairs the Rajya Sabha, Lok Sabha
+members form the larger part of his electoral college and can
+decisively influence the result.
+3. Limited federal character
+State Legislatures do not participate even though the Vice-President
+presides over the Council of States.
+4. Vague removal standard
+The absence of specified grounds provides flexibility but produces
+uncertainty and scope for partisan conflict.
+5. Broad procedural discretion
+Decisions over admissibility, suspension, expunction, privilege and
+anti-defection have significant political consequences. Exercise of
+such powers without adequately reasoned orders can create
+perceptions of arbitrariness.
+6. No fixed deadline for casual vacancy
+Article 68 requires an election “as soon as possible” but sets no outer
+limit, unlike the six-month requirement applicable to a Presidential
+vacancy.
+Way forward
+A. Strengthen conventions of impartiality
+Upon election, the Vice-President should visibly distance himself
+from active party organisation and ensure balanced opportunities
+for the Government, Opposition and smaller parties.
+B. Reasoned procedural rulings
+Important rulings involving suspension, admissibility, privilege,
+anti-defection or removal notices should ordinarily contain brief,
+publicly accessible reasons. Transparency strengthens rather than
+weakens the authority of the Chair.
+C. Codify removal-notice procedure
+Rajya Sabha rules or directions could clarify:
+the authority before whom notice is filed;
+essential contents of the proposed resolution;
+preliminary scrutiny standards;
+timelines and opportunity to correct defects;
+the role of the Deputy Chairman where the notice concerns
+the Chairman.
+Such rules must facilitate accountability without allowing frivolous
+motions.
+D. Time-bound quasi-judicial decisions
+Resignation and defection cases should be decided within a
+reasonable, defined period, subject to exceptional circumstances.
+E. Encourage consensus candidatures
+Greater consultation between the Government and Opposition
+can enhance the moral authority of the Vice-President, especially
+because the office requires cooperation across party lines.
+F. Clarify the vacancy timeline
+Parliament may consider prescribing an indicative statutory
+timeframe for conducting an election after a casual vacancy, while
+retaining sufficient flexibility for extraordinary circumstances.
+The office combines three constitutional values:
+continuity of the State, neutrality of the Chair and dignity of
+parliamentary deliberation.
+Its authority rests less on extensive independent executive power and
+more on credibility, restraint and procedural fairness
+
+-- 14 of 23 --
+
+Intro
+‘Council of States signifies federal bicameralism through Art 79 and Art 80
+Envisaged under GoI Act 1919 (Montague Chelmsford Reforms) as a house with a fixed tenure, 1935
+Act vision of a second continuous house never materialised, Constituent Assembly had little prior
+guidance while conceptualising the Rajya Sabha.
+Justifications
+1.Check on hasty and ill-conceived legislations
+2.Sharing the burden of the Lower Chambers.
+3.Creates an enabling atmosphere for securing greater executive accountability
+4.Hold debates on matters of wide ranging public issues which otherwise may not be held
+5.Legitimately hold itself as the guardians of the state-interests in a federal polity.
+Role
+1.Revision : Though revisions have been few , yet potentially there is always the possibility of revision
+a.Income Tax (Amendment) Bill, 1961, Prevention of Terrorism Bill, 2002, the Delimitation Bill 2002
+2.Federal : Representatives of each state are elected by the elected members of the Legislative Assemblies
+i.All India Services, Legislating over State List, Approving National Emergency when LS is dissolved
+3.Deliberative : Nomination 12 Members for their contribution to literature, science, art and social service.
+a.The party-wise composition in the Rajya Sabha changes at a much slower pace.
+4.Continuity : not subject to dissolution and one-third of its Members retire every second year
+a.Bill which is pending in the Rajya Sabha and has not been passed by the Lok Sabha, will not lapse on the
+dissolution of the Lok Sabha.
+5.Not Concerned with Government Formation : no role in the making or unmaking of the Government.
+6.Effectively Small : Maximum strength is 250 vis-a-vis 550 in the Lok Sabha
+7.Securing Executive Accountability : 24 DRSC, out of which 8 are under Rajya Sabha
+a.Fair number of the members of Rajya Sabha are also part of the Council of Ministers.
+8.Ventilating Public Grievances : All parliamentary devices restrictive motions available
+Issues
+1.Rising Disruptions and Declining Productivity
+a.In 2016, the Rajya Sabha failed to take up Finance
+and Appropriation bills due to protests and chaos,
+delaying crucial financial legislation
+2.Partisan Politics and Lack of Accountability
+a.2025 uproar triggered by Opposition leader’s
+remarks reflects the highly charged partisan
+atmosphere that hampers constructive debate
+3.Undemocratic and Unrepresentative Composition
+a.Unequal representation of states, with populous
+states like Uttar Pradesh having more members
+than smaller states
+4.Limited Powers and Circumvention
+a.No-confidence motions cannot be introduced in
+Rajya Sabha, restricting its ability to hold the
+government accountable
+5.Structural and Procedural Issues
+a.Insufficient resources such as research staff and
+limited time
+Solutions
+1.Structural Reforms in Membership and Representation
+a.Reinstate the domicile requirement
+b.Provide equal representation to all states to
+address federal imbalance
+c.Representation from local bodies like panchayats
+and municipalities (Punchhi Commission)
+2.Reforming Anti-Defection Law for Rajya Sabha
+a.Amend the anti-defection law to allow Rajya Sabha
+members to vote independently
+3.Increasing Powers and Role in Legislation
+a.Amend Article 110 to allow Rajya Sabha to review
+Money Bills, preventing circumvention
+4.Limited Powers and Circumvention
+a.No-confidence motions cannot be introduced in
+Rajya Sabha, restricting its ability to hold the
+government accountable.
+In an age where majoritarian tides often sweep swiftly through lower houses, the Rajya Sabha offers a vital pause—a chamber
+of “second thought” where law is refined, not rushed; and diversity is represented, not diluted. For democracy is not merely
+about decisions taken, but the way in which those decisions are debated, scrutinised, and refined. In that journey, the Rajya
+Sabha is not a speed breaker—it is a constitutional conscience
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+MCN 2.0
+ 	Magna Carta Mains 2026
+Mains Concise Note (MCN) 46 : Bicameralism & Rajya Sabha
+
+-- 15 of 23 --
+
+Category 	Method Maximum/Present
+allocation
+Representatives of
+States and Union
+Territories
+Indirectly elected
+Maximum 238;
+presently 233
+seats allocated
+Nominated
+members
+Nominated by the
+President 12
+Total present
+sanctioned
+strength
+— 	245
+Judgment 	Principle
+Kuldip Nayar v. Union of India, 2006 	Upheld removal of the State-domicile requirement and upheld the open-
+ballot system.
+Shailesh Manubhai Parmar v. ECI, 2018
+Struck down the use of NOTA in Rajya Sabha elections; the Court held
+that NOTA would distort transferable vote values and could facilitate
+defection and corruption.
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+MCN 2.0
+ 	Magna Carta Mains 2026
+Mains Concise Note (MCN) 46 : Bicameralism & Rajya Sabha
+With RS elections held in over 10 states, recent episodes of cross-voting,
+resort politics, strategic invalidation of ballots and allegations of
+inducements show a continuing tension between three competing
+objectives:
+Proportional representation of parties — autonomy of legislators —
+purity of elections.
+Qualifications of a candidate
+A candidate must:
+be a citizen of India;
+make the prescribed oath or affirmation;
+be at least 30 years old;
+be registered as an elector in a parliamentary constituency in India;
+not incur a disqualification under Article 102 or the Representation
+of the People Act, 1951.
+The SC in Kuldeep Nayar’s case (2006) upheld the amendment to
+RoPA wherein one can be a registered elector anywhere in India
+not just in the state from which one is contesting.
+Issues
+1. Cross-voting and horse-trading persist : The open ballot was intended to reduce covert inducements, but it has not eliminated
+cross-voting. An MLA may deliberately vote for another party, abstain, remain absent or cause the ballot to become invalid.
+Recent developments demonstrate the problem:
+In the 2024 Himachal Pradesh election, six MLAs cross-voted, producing a 34–34 tie; the candidate won through a draw of lots.
+The March 2026 elections for 37 seats witnessed reports of cross-voting, abstentions and ballot-related objections in States
+including Bihar, Odisha and Haryana. In the June 2026 Jharkhand election, the result for the second seat departed from the
+apparent alliance arithmetic amid allegations of cross-voting.
+These episodes convert an institution intended for federal representation into an arena of government survival, party defections
+and political bargaining.
+
+-- 16 of 23 --
+
+2. Open ballot creates a transparency–autonomy dilemma
+Open ballot has two competing consequences:
+Advantages
+makes covert cross-voting more difficult;
+enables parties to detect betrayal;
+reduces anonymity behind which inducements may operate;
+reflects the party-based character of proportional representation.
+Does not prevent bribery where the party itself, its agent or a rival political formation participates in the transaction.
+Thus, transparency towards the party does not necessarily produce transparency towards the public.
+3. Uncertain relationship with the anti-defection law
+Paragraph 2(1)(b) of the Tenth Schedule deals with voting or abstention contrary to a party direction in the House. A Rajya
+Sabha election is administered by the Election Commission and is not an ordinary legislative vote on the floor of the
+Assembly.
+Consequently, a contrary vote in a Rajya Sabha election does not automatically result in disqualification under the voting-
+against-direction limb of the Tenth Schedule. A party may take disciplinary action, expel the MLA or rely on broader conduct
+to argue that the member has “voluntarily given up” party membership, but the result is uncertain and depends on facts and
+adjudication.
+This creates a gap: The vote is open enough for the party to identify dissent, but not necessarily covered by an automatic
+constitutional penalty. Making every cross-vote a ground for automatic disqualification, however, would transform MLAs
+entirely into delegates of party leadership and remove the possibility of legitimate dissent.
+4. Money power and bribery
+Rajya Sabha elections involve a small and identifiable electoral college. Where only a few additional votes are required,
+individual MLAs acquire disproportionate bargaining power.
+The problem is aggravated by: weak transparency concerning negotiations between candidates and legislators;
+movement of MLAs to hotels or resorts; strategic abstentions and invalid ballots; delayed criminal investigation;
+election petitions that may remain pending for a substantial part of the member’s term. The 2024 Sita Soren ruling closes an
+important legal loophole by holding that legislative privilege cannot shield bribery, but successful reform depends on prompt
+investigation, evidence gathering and trial.
+5. Party high-command control over nominations
+Although MLAs formally elect members, candidates are normally selected by national or State party leadership.
+This can result in:
+limited consultation with party legislators;
+nomination of financiers, celebrities or politically convenient leaders;
+denial of opportunity to grassroots workers;
+trading of Rajya Sabha nominations as instruments of coalition management;
+legislators being presented with a predetermined party slate rather than a genuine choice.
+Therefore, the proportionality of the election does not necessarily ensure internal democracy in candidate selection.
+6. Weakening of the “Council of States” character
+After removal of the domicile requirement, a candidate need not possess any meaningful connection with the State
+represented.
+Case for the present system
+Parliament is a national institution.
+Distinguished persons should not be excluded merely because of residence.
+Residence requirements can be manipulated by acquiring nominal addresses.
+Political parties may need to accommodate national leaders.
+Criticism
+“Parachute candidates” may possess little knowledge of the State.
+The member may primarily represent party leadership rather than the State’s interests.
+It dilutes the distinction between the Rajya Sabha and the Lok Sabha.
+States may become convenient electoral platforms for national politicians.
+The legal validity of the arrangement was upheld in Kuldip Nayar, but its desirability remains a legitimate political
+question.
+7. Unequal representation of States
+Rajya Sabha seats are allocated substantially according to population. Uttar Pradesh has many more representatives
+than small northeastern or hill States.
+This leads to a dilemma
+Concerns
+permits party surveillance over an individual
+legislator;
+weakens freedom of conscience;
+strengthens party high commands;
+may expose dissenting legislators to retaliation;
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+MCN 2.0
+ 	Magna Carta Mains 2026
+Mains Concise Note (MCN) 46 : Bicameralism & Rajya Sabha
+
+-- 17 of 23 --
+
+Population-based allocation 	Equal State representation
+Reflects democratic weight of population 	Protects the federal equality of States
+Prevents very small States from exercising
+disproportionate power Gives smaller States an effective federal voice
+Makes Rajya Sabha partly resemble Lok Sabha 	Better differentiates the two Houses
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+MCN 2.0
+ 	Magna Carta Mains 2026
+Mains Concise Note (MCN) 46 : Bicameralism & Rajya Sabha
+8. Frequent unopposed elections
+Where parties nominate only as many candidates as their Assembly arithmetic permits, candidates are returned
+unopposed.
+Unopposed returns are legally efficient and avoid a meaningless poll, but they may:
+turn the election into an allocation made by party leadership;
+reduce legislative scrutiny of candidates;
+deprive smaller parties and independents of an opportunity to contest;
+reinforce the perception that Rajya Sabha seats are negotiated rather than electorally earned.
+9. Complexity and invalid ballots
+STV counting is more complex than ordinary first-past-the-post voting. Outcomes may turn on:
+incorrect preference marking;
+duplicate preference numbers;
+use of an unauthorised mark or instrument;
+refusal to display the ballot;
+transfer values and elimination rounds;
+disputed rejection of a small number of ballots.
+Because margins are often narrow, one invalid ballot may alter the result. The Haryana-related objections during the 2026
+election cycle illustrate the continuing significance of ballot validity disputes.
+10. Opacity in presidential nominations
+The Constitution identifies broad fields for the 12 nominated members but does not prescribe:
+a transparent search process;
+public invitations for nominations;
+objective selection criteria;
+consultation with an independent body;
+a requirement to publish detailed reasons
+Improvements
+A. Preserve the core system
+The PR-STV system should be retained because it:
+gives representation to more than the largest party;
+reflects the relative strength of parties in the Assembly;
+prevents a bare majority from automatically capturing all seats;
+accommodates second and subsequent preferences;
+supports political plurality.
+Replacing it with first-past-the-post would allow the ruling party in a State to monopolise Rajya Sabha representation.
+B. Retain a restricted open ballot, not a fully public vote
+A return to complete secrecy may revive anonymous cross-voting and inducements. Conversely, publication of every MLA’s ballot
+would permit intimidation and excessive party control.
+The preferable balance is:
+disclosure only to the authorised party agent;
+prohibition on photography, copying or wider circulation of ballots;
+independent ECI observers at every polling station;
+written recording of disputes involving refusal to show or rejection of ballots;
+immediate videographic preservation of the relevant procedural event without recording the actual ballot choice;
+expedited judicial review of ballot-rejection disputes.
+
+-- 18 of 23 --
+
+C. Democratise party nominations
+Political parties should be required to disclose:
+the process through which the candidate was selected;
+whether the State unit and party legislators were consulted;
+the candidate’s qualifications and contribution to public life;
+the candidate’s relationship with the State;
+reasons for preferring the candidate over local aspirants.
+Possible models include:
+internal election by party MLAs;
+an elected party collegium;
+a shortlist prepared by the State unit;
+recorded consultation between national and State leadership.
+This would address the root problem rather than merely punishing MLAs after cross-voting.
+D. Introduce a “State representation statement”
+Restoring a rigid domicile requirement may lead to artificial residence certificates and exclude nationally distinguished
+candidates.
+A better middle path would require every candidate to publish a State Representation Statement explaining:
+previous residence or work in the State;
+public service connected with the State;
+knowledge of its economic, cultural and federal concerns;
+issues the candidate intends to raise in Parliament;
+consultations undertaken with State stakeholders.
+The requirement would create political accountability without imposing a narrow legal domicile barrier.
+E. Make presidential nominations more transparent
+For the 12 nominated seats, an advisory mechanism could include:
+a non-partisan search committee;
+nominations from national academies, universities and recognised institutions;
+objective criteria of eminence and public contribution;
+attention to regional, gender and disciplinary diversity;
+publication of a brief statement explaining the nominee’s qualifications.
+The President’s formal constitutional power may be retained while improving the credibility of the underlying selection
+process.
+F. Long-term federal reform
+A future constitutional review may examine degressive proportionality:
+every State receives a guaranteed minimum;
+additional seats are allocated according to population;
+the rate of increase slows for the largest States.
+This could strengthen smaller States without importing the complete equality of the US Senate, under which vastly unequal
+populations possess identical representation.
+G. Reform unopposed elections
+Unopposed candidates need not face a symbolic poll, but democratic scrutiny should continue through:
+timely publication of nominations and affidavits;
+a statutory period for public objections relating to eligibility and false declarations;
+an interaction with all parties represented in the Assembly;
+a public statement of legislative priorities;
+publication of the party’s reasons for nomination.
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+MCN 2.0
+ 	Magna Carta Mains 2026
+Mains Concise Note (MCN) 46 : Bicameralism & Rajya Sabha
+Rajya Sabha elections will serve federal democracy only when party nominations become democratic, State representation
+becomes meaningful and bribery becomes swift, certain and politically costly.
+
+-- 19 of 23 --
+
+Feature 	India – Rajya Sabha 	United Kingdom – House of Lords 	United States – Senate
+Nature 	Federal Upper House 	Revising & Deliberative Chamber 	Federal Upper House
+Purpose 	Represents States; legislative review Legislative scrutiny and revision Represents States equally; co-equal
+legislature
+Maximum Strength 	250 (Present: 245) 	~800+ members (variable) 	100 (2 per State)
+Method of Selection Indirect election by State MLAs
+(STV); 12 nominated by President
+Mostly appointed Life Peers; 92
+hereditary peers; 26 bishops
+Direct election by people (17th
+Amendment, 1913)
+Representation of States 	Proportional to population 	No state representation 	Equal representation (2 per State)
+Tenure 	6 years; 1/3 retire every 2 years 	Life tenure (most members) 	6 years; 1/3 elected every 2 years
+Dissolution 	Permanent House 	Permanent House 	Permanent House
+Minimum Age 	30 years No fixed constitutional minimum
+(18+ in practice for appointment) 30 years
+Presiding Officer 	Vice-President of India (Chairman) 	Lord Speaker Vice President of the U.S. (President
+of the Senate)
+Money Bills Can only recommend amendments;
+must return within 14 days
+Can delay Money Bills for only 1
+month
+Equal powers with House on
+taxation and appropriations
+Ordinary Bills 	Nearly equal powers with Lok Sabha Can delay and revise; Commons can
+override
+Equal legislative powers with House
+of Representatives
+Constitutional Amendments Equal powers with Lok Sabha
+No written constitution;
+constitutional bills follow ordinary
+procedure
+Equal role; requires approval of both
+Houses
+Executive Accountability Council of Ministers collectively
+responsible only to Lok Sabha
+Government accountable primarily to
+Commons
+Senate exercises strong checks but
+executive not responsible to
+Congress
+Removal of Executive Cannot remove Government through
+no-confidence Cannot remove Government No confidence absent; impeachment
+trial of President
+Special Powers
+Art. 249 (State List), Art. 312 (All
+India Services), removal of Vice-
+President
+Revision, scrutiny, expert debate Ratifies treaties (2/3), confirms
+appointments, impeachment trials
+Role in Appointments 	None 	Limited 	Confirms judges, ambassadors,
+Cabinet secretaries, senior officials
+Judicial Role Participates in impeachment of
+President, removal of judges
+Historically highest court (abolished
+in 2009) Sole court for impeachment trials
+Character 	Federal + Revising Chamber 	Revising + Expert Chamber 	Powerful Federal Chamber
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+MCN 2.0
+Mains Concise Note (MCN) 46 : Bicameralism & Rajya Sabha
+
+-- 20 of 23 --
+
+Intro
+The term "whip" originates from England's hunting fields, where a "whipper-in" kept stray hounds
+within the pack. Politically, it was first used by Edmund Burke to describe rallying party supporters
+‘Important for parliamentary democracy as parties see voting on some matters as how their politics is
+perceived’ - Former Sec Gen ADT Achary
+Anti-Defection Law (1985) legally enforces compliance with
+whips to maintain party coherence and avoid opportunistic
+switching of sides
+Minister of Parliamentary Affairs and MoS Parliamentary
+Affairs are Govt Chief Whips in LS and RS
+Opposition Parties have their own whips
+Status in India
+Role
+1.Ensuring Party Discipline: Whips direct party members to vote in line with the party’s stance, maintaining unity and
+coherence in parliamentary decisions
+2.Ensuring Attendance: Whips ensure members are present during important votes to maintain quorum and
+demonstrate party strength.
+3.Counting Votes: Before votes, whips survey members to predict outcomes and strategise accordingly.
+4.Communication Link: Whips act as liaisons between party leadership and members, conveying party policies and
+gathering feedback.
+5.Managing Parliamentary Business: Whips coordinate which members speak on bills and manage internal party
+organisation within the legislature.
+6.Monitoring Discontent: Whips identify signs of dissent or dissatisfaction among members and report to party leaders
+to preempt rebellion.
+7.Enforcing Consequences: Violation of whip directives, especially a strict "three-line whip," can lead to disciplinary
+action including disqualification under anti-defection laws or withdrawal of party membership
+8.Crisis Management: During internal dissent, floor-crossing threats, or coalition instability, whips act as political
+stabilisers.
+Issues
+1.Restriction on MPs' Freedom
+2.Undemocratic Nature
+3.Abuse of Power
+4.Factionalism and Internal Party
+Divides
+5.Lack of Transparency.
+6.Over-centralisation:
+Best Practices
+1.UK - breaking 3 line whip
+makes MP independent
+2.US - less formal, mostly for
+legislative strategy
+3.Australia - "Conscience votes"
+are officially recognised
+Solutions
+1.Codify the Scope of Whips
+a.170th Law Comm (1999)
+2.Differentiate Legislative Issues
+a.NCRWC (2002)
+3.Internal Democracy in Parties
+a.II ARC (2007)
+4.Whip Transparency
+a.PRS (2022)
+5.Revise Anti-Defection Law
+a.Former VP - H. Ansari
+As India completes over 75 years of parliamentary democracy, perhaps it is time to reimagine the role of the Whip—
+not as a symbol of control, but as a tool of coordination; not as an enforcer of silence, but as an enabler of responsible
+freedom. For when discipline aligns with dialogue, and loyalty walks hand in hand with liberty, democracy does not
+fracture—it flourishes.
+MCN 2.0
+ 	Magna Carta Mains 2026
+Mains Concise Note (MCN) 47 : Whips
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+
+-- 21 of 23 --
+
+Intro
+Standing
+Committees
+Bills
+Resolutions
+Questions
+Discussions	II. Law Making
+I. House Participation
+III. Financial Oversight
+IV. Participation in
+Parl. Comm.
+Legislator’s Role 	Methods/Tools	Parliamentary Committees
+Congress in session is Congress on public exhibition, whilst Congress in Committee rooms is Congress at
+work.’ - former President of the U.S. Woodrow Wilson
+Adhoc
+Committees
+DRSCs 	Financial
+Others
+Bill
+Based
+Issue Based
+Importance
+1.Enhance Efficiency: Provide detailed scrutiny of
+legislative proposals and executive action beyond
+what is possible on the House floor.
+2.Enable Specialisation: MPs can focus on areas like
+defence, health, and finance, leading to better-
+informed decisions.
+3.Depoliticised Environment: Encourage non-
+partisan, consensus-driven discussions away from
+public glare.
+4.Public Accountability: Facilitate in-depth oversight
+of government spending, implementation, and
+policy frameworks.
+5.Expert Engagement: Allow calling of witnesses,
+experts, and stakeholders—making parliamentary
+review inclusive and evidence-driven.
+Parliamentary Triggers
+1.Growing Legislative Burden:
+a.Post-1991 liberalisation, complex economic and legal
+reforms demand specialised oversight.
+b.Volume of laws passed has multiplied—often technical and
+rushed, needing deliberative examination.
+2.Erosion of Floor Debates:
+a.Increasing disruptions, reduced quality debates, and Zero
+Hour pandemonium reduce effective scrutiny on the floor.
+3.Rise in Government Schemes:
+a.Numerous centrally sponsored schemes (PMAY, Ayushman
+Bharat, Jal Jeevan Mission) require budgetary and
+performance review.
+4.Weak Opposition:
+a.Committees provide alternate channels for executive
+scrutiny.
+General Issues
+1.Low Referral Rate of Bills: A declining proportion of Bills are referred to committees—only 14 Bills in the 17th Lok
+Sabha so far.
+2.Absenteeism: Average attendance in committee meetings is about 50%, undermining their effectiveness.
+3.Short Tenure: DRSCs are constituted for only one year, limiting continuity and specialisation.
+4.Lack of Expertise: MPs may lack the technical knowledge required for complex issues.
+5.Partisan Behavior: Members often toe party lines rather than acting as independent legislators.
+6.Non-Binding Recommendations: Committees can only advise; their recommendations are not binding on the
+government.
+7.Inadequate Resources: Committees lack full-time technical staff and research support, hindering thorough analysis.
+General Data Sets
+1.Committee Meeting Attendance:
+a.Average attendance (DRSCs, 2009–2014): ~49%
+2.Bills Referred to Committees:
+a.17th Lok Sabha: 16% of Bills referred to committees (down from previous Lok Sabhas)
+3. Committee Work Output:
+a.PAC recommendations (recent years): ~180 per year, with ~80% accepted by government
+b.PAC reports tabled: Wide variation—for example, 156 to 268 reports tabled in recent Lok Sabhas
+4.Time Taken for Reports:
+a.50% of reports on Bills presented within 115 days in 17th Lok Sabha
+b.Joint Committee on Personal Data Protection Bill: 78 meetings over more than two years
+Constitutional Amendment Bill on Simultaneous Elections referred to Joint Parliamentary Committee (2025)
+MCN 2.0
+ 	Magna Carta Mains 2026
+Mains Concise Note (MCN) 48 : Parliamentary Committees
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+
+-- 22 of 23 --
+
+DRSC
+1.Provide in-depth scrutiny of government
+policies, budgets, and Bills related to specific
+ministries.
+2.By focusing on particular sectors, DRSCs
+enable MPs to develop expertise and make
+informed recommendations.
+3.DRSCs reduce the burden on the full
+Parliament by allowing detailed, sector-
+specific discussions.
+4.They require ministers and officials to justify
+their decisions and performance
+1.Close pre-budget scrutiny of the estimates and complex expenditure plans
+(Demands for Grants) before they are voted on the floor of the House;
+2.monitoring and evaluation of performance, relating to financial input to the
+policy objectives and actual results to measure effectiveness, and detailed
+examination of supplementary estimates;
+3.Bills introduced in the House may automatically stand referred to the
+appropriate Committee for detailed consideration and discussion;
+4.review of the implementation of laws passed by Parliament
+5.leadership recruitment and training ground for higher responsibilities in
+Government, participation by backbenchers and building a second line of
+leadership;
+Importance 	Specific Way Forward
+Public Accounts Committee and
+Estimates Committee
+Importance
+1.PAC is a cornerstone of parliamentary
+financial oversight. Its primary role is to
+examine the audit reports of the Comptroller
+and Auditor General (CAG) after they are laid
+before Parliament
+2.PAC scrutinises government revenue and
+expenditure, checks for irregularities, and
+ensures compliance with rules and
+regulations
+3.Estimates Committee plays a vital role in
+scrutinising the government’s budget
+estimates before they are approved by
+Parliament
+4.EC assesses whether proposed expenditures
+are justified, necessary, and aligned with
+national priorities
+Specific Case Studies of Parliamentary Committees
+1.Standing Committee on Transport’s scrutiny of the Motor Vehicles
+(Amendment) Bill, 2016 led to key reforms like removing the cap on
+third-party insurance liability
+2.Committee on External Affairs flagged the lack of preparedness at
+Doklam and recommended border infrastructure strengthening
+3.On average, the PAC has made 180 recommendations every year in the
+past eight years, out of which 80% were accepted by the government.
+4.PAC exposed irregularities in CWG 2010 and Defence land misuse,
+recovering ₹838 crore in lease losses
+5.EC flagged over-dependence on imported uranium, recommending
+increased domestic mining and financial allocation
+6.Standing Committee on Transport, Tourism, and Culture examined the
+Motor Vehicles (Amendment) Bill, 2016, leading to significant
+improvements in the legislation.
+7.The Standing Committee on Railways recommended waiving dividend
+payments by Indian Railways in 2015 to improve its financial health,
+which was implemented in 2016.
+General Solutions
+1.Institutional Reforms:
+a.Make Referral of Bills Mandatory (as in the UK).
+b.Codify Time Allotment for report reading before budget vote.
+c.Create a Constitution Committee for reviewing CA compulsorily
+2.Merge overlapping committees to reduce cost and redundancy (e.g., merge PAC, COPU with DRSCs)
+3.Functional Reforms:
+a.Train MPs in committee functioning, policy evaluation, and budget literacy
+b.Professionalise Committee Staff with domain expertise.
+c.Introduce Performance Metrics (e.g., Reports per sitting ratio, quality of recommendations, etc.).
+4.Procedural Reforms:
+a.Ensure floor discussion of all major committee reports.
+b.Create a Committee Calendar to align sittings with Parliament schedule (3-day Parliament, 2-day Committee model)
+5.Technological Reforms:
+a.Develop a real-time information system, integrated with government dashboards and CAG reports.
+b.Allow for live citizen feedback on pending Bills via digital platforms.
+OECD reports that countries with strong committee systems have better governance indicators, lower budgetary leakages, and
+more informed legislation. If India seeks
+'Maximum Governance', it must also commit to Maximum Accountability', starting with an empowered and effective Parliament.
+Reforming the committee system is not an option; it is a democratic imperative. For in the invisible rooms of committee
+deliberation lies the real defence of our visible democracy.
+MCN 2.0
+ 	Magna Carta Mains 2026
+Mains Concise Note (MCN) 48 : Parliamentary Committees
+courses.atishmathur.com 	tracker.atishmathur.com 	upscpath.com
+
+-- 23 of 23 --
+
